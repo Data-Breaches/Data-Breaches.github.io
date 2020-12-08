@@ -1,303 +1,175 @@
 ---
 layout: default
-title: Risk Management Framework for Information Systems and Organizations 
+title: List of Data Breaches 
 nav_order: 1
-description: "Security and Privacy Controls for Information Systems and Organizations"
+description: "List of Data Breaches Around the World"
 permalink: /
 ---
 
-## NIST Special Publication 800-37
-
-## Revision 2
-
-# Risk Management Framework for Information Systems and Organizations
-## A System Life Cycle Approach for Security and Privacy
-
-**JOINT TASK FORCE**
-
-This publication is available free of charge from:
-[https://doi.org/10.6028/NIST.SP.800-37r2](https://doi.org/10.6028/NIST.SP.800-37r2)
-
-**December 2018**
-
-<div style="background-color:lightblue; padding:20px" markdown="1">
-This publication contains comprehensive updates to the
-Risk Management Framework. The updates include an
-alignment with the constructs in the NIST Cybersecurity
-Framework; the integration of privacy risk management
-processes; an alignment with system life cycle security
-engineering processes; and the incorporation of supply
-chain risk management processes. Organizations can
-use the frameworks and processes in a complementary
-manner within the RMF to effectively manage security
-and privacy risks to organizational operations and
-assets, individuals, other organizations, and the Nation.
-Revision 2 includes a set of organization-wide RMF tasks
-that are designed to prepare information system owners
-to conduct system-level risk management activities. The
-intent is to increase the effectiveness, efficiency, and
-cost-effectiveness of the RMF by establishing a closer
-connection to the organization’s missions and business
-functions and improving the communications among
-senior leaders, managers, and operational personnel.
-</div>
-
-U.S. Department of Commerce
-Wilbur L. Ross, Jr., Secretary
-
-National Institute of Standards and Technology
-
-_Walter Copan, NIST Director and Under Secretary of Commerce for Standards and Technology_
-
-***
-
-## Authority
-
-This publication has been developed by NIST to further its statutory responsibilities under the
-Federal Information Security Modernization Act (FISMA), 44 U.S.C. § 3551 et seq. , Public Law (P.L.) 113-283. NIST is responsible for developing information security standards and guidelines,
-including minimum requirements for federal information systems, but such standards and
-guidelines shall not apply to national security systems without the express approval of the
-appropriate federal officials exercising policy authority over such systems. This guideline is
-consistent with requirements of the Office of Management and Budget (OMB) Circular A-130.  
-
-Nothing in this publication should be taken to contradict the standards and guidelines made
-mandatory and binding on federal agencies by the Secretary of Commerce under statutory
-authority. Nor should these guidelines be interpreted as altering or superseding the existing
-authorities of the Secretary of Commerce, OMB Director, or any other federal official. This
-publication may be used by nongovernmental organizations on a voluntary basis and is not
-subject to copyright in the United States. Attribution would, however, be appreciated by NIST.  
-
-National Institute of Standards and Technology Special Publication 800-53, Revision 5
-Natl. Inst. Stand. Technol. Spec. Publ. 800-53, Rev. 5, 483 pages (September 2020 )
-
-CODE N: NSPUE2
-
-This publication is available free of charge from:
-[https://doi.org/10.6028/NIST.SP.800-37r2](https://doi.org/10.6028/NIST.SP.800-37r2)
-
-<div style="background-color:lightblue; padding:20px" markdown="1">
-Certain commercial entities, equipment, or materials may be identified in this document to describe
-an experimental procedure or concept adequately. Such identification is not intended to imply
-recommendation or endorsement by NIST, nor is it intended to imply that the entities, materials, or
-equipment are necessarily the best available for the purpose.<br><br>
-
-There may be references in this publication to other publications currently under development by
-NIST in accordance with its assigned statutory responsibilities. The information in this publication,
-including concepts, practices, and methodologies, may be used by federal agencies even before the
-completion of such companion publications. Thus, until each publication is completed, current
-requirements, guidelines, and procedures, where they exist, remain operative. For planning and
-transition purposes, federal agencies may wish to closely follow the development of these new
-publications by NIST.  
-
-Organizations are encouraged to review draft publications during the designated public comment
-periods and provide feedback to NIST. Many NIST publications, other than the ones noted above,
-are available at https://csrc.nist.gov/publications.
-</div>
-
-### Comments on this publication may be submitted to:
-National Institute of Standards and Technology
-Attn: Computer Security Division, Information Technology Laboratory
-100 Bureau Drive (Mail Stop 8930) Gaithersburg, MD 20899-
-Email: sec-cert@nist.gov
-
-All comments are subject to release under the Freedom of Information Act (FOIA) [FOIA96].
-
-***
-
-## Reports on Computer Systems Technology
-
-The National Institute of Standards and Technology (NIST) Information Technology Laboratory
-(ITL) promotes the U.S. economy and public welfare by providing technical leadership for the
-Nation’s measurement and standards infrastructure. ITL develops tests, test methods, reference
-data, proof of concept implementations, and technical analyses to advance the development
-and productive use of information technology (IT). ITL’s responsibilities include the development
-of management, administrative, technical, and physical standards and guidelines for the cost-
-effective security of other than national security-related information in federal information
-systems. The Special Publication 800-series reports on ITL’s research, guidelines, and outreach
-efforts in information systems security and privacy and its collaborative activities with industry,
-government, and academic organizations.
-
-## Abstract
-
-This publication describes the Risk Management Framework (RMF) and provides guidelines for
-applying the RMF to information systems and organizations. The RMF provides a disciplined,
-structured, and flexible process for managing security and privacy risk that includes information
-security categorization; control selection, implementation, and assessment; system and
-common control authorizations; and continuous monitoring. The RMF includes activities to
-prepare organizations to execute the framework at appropriate risk management levels. The
-RMF also promotes near real-time risk management and ongoing information system and
-common control authorization through the implementation of continuous monitoring
-processes; provides senior leaders and executives with the necessary information to make
-efficient, cost-effective, risk management decisions about the systems supporting their missions
-and business functions; and incorporates security and privacy into the system development life
-cycle. Executing the RMF tasks links essential risk management processes at the system level to
-risk management processes at the organization level. In addition, it establishes responsibility
-and accountability for the controls implemented within an organization’s information systems
-and inherited by those systems.
-
-## Keywords
-
-assess; authorization to operate; authorization to use; authorizing official; categorize; common
-control; common control authorization; common control provider; continuous monitoring;
-control assessor; control baseline; cybersecurity framework profile; hybrid control; information
-owner or steward; information security; monitor; ongoing authorization; plan of action and
-milestones; privacy; privacy assessment report; privacy control; privacy plan; privacy risk; risk
-assessment; risk executive function; risk management; risk management framework; security;
-security assessment report; security control; security engineering; security plan; security risk;
-senior agency information security officer; senior agency official for privacy; supply chain risk
-management; system development life cycle; system owner; system privacy officer; system
-security officer; system-specific control.
-
-***
+# List of Data Breaches 
+
+# A
+## [Atlas Mechanical, Inc.](https://oag.ca.gov/system/files/Notice%20of%20Data%20Event%20-%20Atlas%20Mechanical.pdf)
+October 11, 2020 | Malware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Atlas recently became aware of suspicious activity on its computer network and discovered it could not access certain files on its systems. Atlas immediately launched an investigation, with the assistance of thirdparty computer forensic specialists, and determined that its network had been infected with malware which prevented access to certain files on the system. The investigation determined that the malware was introduced into the system by an unauthorized actor who also accessed and acquired certain files in Atlas’ system. Atlas then began a lengthy and labor-intensive process to identify sensitive information that may have been contained within impacted files, and to identify the individuals whose information may have been impacted. While our investigation is ongoing, we are notifying you because that investigation determined certain information related to you may have been impacted. 
+</details>
+
+# B
+## [Backroads](https://oag.ca.gov/system/files/Backroads%20-%20Notice%20of%20Data%20Event.pdf)
+October 2, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On October 2, 2020, Backroads became aware of suspicious activity within its computer network.  Backroads immediately began an investigation, working with external forensic specialists, to determine the nature and scope of the activity. Our investigation determined that certain files within our environment were encrypted and inaccessible. On October 16, 2020, we discovered that certain files had been accessible to unknown actors and that certain personal information was contained in these files. We recognize that it may feel like there was a delay between the initial incident and receiving this notification. From the moment we knew that files were accessible to the unknown actors, we have been working both internally to determine who could have been affected, as well as externally with appropriate authorities in each jurisdiction where we operate globally. Thank you for your understanding and patience while we worked through all the necessary details.
+</details>
+
+# C
+## [Canon](https://oag.ca.gov/system/files/Canon%20-%20California%20Notification%20Material.pdf)
+August 4, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We identified a security incident involving ransomware on August 4, 2020. We immediately began to investigate, a cybersecurity firm was engaged, and measures were taken to address the incident and restore operations. We also notified law enforcement and worked to support the investigation.  We determined that there was unauthorized activity on our network between July 20, 2020 and August 6, 2020. During that time, there was unauthorized access to files on our file servers. 
+</details>
+
+# F
+## [Florida State College](https://oag.ca.gov/system/files/FSC%20-%20California%20Notification.pdf)
+February 7, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Blackbaud is a cloud-based software company that provides services to thousands of schools, hospitals, and other nonprofits. On July 16, 2020, Blackbaud notified us that it had discovered a ransomware attack on Blackbaud’s network in May 2020. Blackbaud reported that it conducted an investigation, determined that backup files containing information from its clients had been taken from its network, and an attempt was made to encrypt files to convince Blackbaud to pay a ransom. Blackbaud paid a ransom and obtained confirmation that the files that had been removed had been destroyed.  The time period of unauthorized access was between February 7, 2020 to May 20, 2020. Blackbaud reported that it has been working with law enforcement.
+</details>
+
+## [Fairchild Medical Center](https://oag.ca.gov/system/files/Fairchild%20Medical%20Center.pdf)
+December 16, 2015 | Misconfiguration<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+In late July 2020, FMC was made aware of an issue involving a misconfiguration on one of its servers through a communication from a third-party security company unaffiliated with FMC. FMC immediately commenced an investigation and began working with third party computer specialists to determine the nature and scope of the issue. FMC also immediately addressed the misconfiguration and took steps to secure the server. A third party security company verified that the server security change resolved the issue. Through the investigation, FMC determined that a misconfiguration existed from approximately December 16, 2015 to July 31, 2020 that allowed external individual(s) access to the server.  On November 5, 2020, following an extensive review of forensic evidence associated with the server, FMC’s investigation determined that it could not conclusively rule out unauthorized access to records present on the server during the window of time when the misconfiguration was in place. 
+</details>
+
+# G
+## [Golden Gate Regional Center](https://oag.ca.gov/system/files/Golden%20Gate%20Regional%20Center.pdf)
+September 23, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 23, 2020, GGRC detected unusual activity in its network environment consistent with a ransomware incident. Ransomware incidents typically involve an unauthorized actor gaining access to an entity’s network and deploying malware that encrypts the entity’s files, making them inaccessible. The unauthorized actor then commonly demands a ransom payment in exchange for the key to decrypt the entity’s files. Once GGRC discovered this incident, GGRC disabled its network, secured its systems, immediately began an investigation, and worked to restore operations and data access from backups. GGRC also engaged a leading, independent computer forensics firm to determine what happened and whether sensitive information may have been accessed or acquired by an unknown actor during the incident. Based on preliminary findings of the computer forensics firm, it was determined on October 5, 2020, that certain information belonging to the individuals we serve was acquired by an unknown actor. 
+</details>
+
+# I
+## [Indian Health Council](https://oag.ca.gov/system/files/Indian%20Health%20Council%20Inc.pdf)
+September 22, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 22, 2020, we experienced a data security incident that impacted a number of servers and endpoints and disrupted access to certain files on our system. We immediately began an internal investigation and hired independent computer forensic investigators to help us determine what occurred, and whether any information was at risk. The forensic investigator found that an unauthorized actor may have gained access to certain files stored on our system that may have contained some of your PHI. 
+</details>
+
+
+# L
+## [Lazarus Naturals](https://oag.ca.gov/system/files/Lazarus%20Naturals-%20Notice%20of%20Data%20Event.pdf)
+September 14, 2020 | Code Injection<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 14, 2020, we identified suspicious activity on our website and immediately began an investigation with the assistance of third-party forensic specialists to assess the nature and scope of the incident.  Through the investigation, it was determined that malicious code was inserted by an unauthorized party on the checkout page of our website from September 5, 2020 to September 14, 2020 which may have had the ability to capture customer information while making a purchase. 
+</details>
+
+ 
+## [Long & Foster Real Estate](https://oag.ca.gov/system/files/Long%20%26%20Foster%20Supplemental%20Notice%20Proof.pdf)
+August 22, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On August 22, 2020, we determined that Long & Foster was the victim of a ransomware attack.
+Ransomware is used by cybercriminal(s) to block access to an entity’s environment, including its systems and data.
+Immediately upon detection of the incident, we launched an investigation, with the assistance of leading cybersecurity
+experts and the FBI, to determine what happened and what information, if any, may have been impacted. As part of the
+investigation, we determined the cybercriminal(s) gained access to Long & Foster’s systems on August 22, 2020, and that
+your personal information may have been accessible to the cybercriminal(s) as a result. 
+</details>
+
+# M
+## [Minerals Technologies Inc.](https://oag.ca.gov/system/files/Final%20Individual%20Notice%20Letter.pdf)
+October 20, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On or about October 20, 2020, Minerals Technologies Inc. (“MTI”) experienced a security breach, which resulted in the compromise of certain servers maintained by MTI. In response, among other things, MTI immediately retained an IT firm to conduct a thorough forensic investigation into the circumstances surrounding the incident. On October 22, 2020, based upon its preliminary investigation, MTI learned that this incident may have resulted in unauthorized access to the PII of certain MTI employees and their dependents. While we have no indication that any personal information has been misused, we are providing this notification to you out of an abundance of caution, so that you may diligently monitor your accounts and those of your dependents. 
+</details>
+
+## [Merchant One, Inc.](https://oag.ca.gov/system/files/Merchant%20One%20Inc%20Breach%20Letter.pdf)
+February 24, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On or about February 24, 2020, Merchant One became aware of suspicious activity related to a thirdparty IT provider. Upon discovery, we immediately launched an investigation, which included working with third-party forensic specialists to determine the full nature and scope of this incident. The investigation determined that an unknown individual may have accessed specific files in Merchant One’s system. Therefore, we began a comprehensive review of the files identified as potentially impacted to determine what information was contained therein and to whom it relates.  Upon confirmation that personal information was present in the potentially accessed files, we began reviewing our files to determine address information for those individuals. We worked with a vendor to assist with determining address information for impacted individuals and on October 26, 2020, we received updated information to provide notice to those impacted individuals. Although we are unaware of any actual or attempted misuse of your personal information, we are providing you this notification out of an abundance of caution because your information was present in the potentially impacted files.
+</details>
+
+## [MetaBrainz](https://oag.ca.gov/system/files/Data%20breach%20report%20-%20for%20submission.pdf)
+April 26, 2019 | Programming Error<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The email address and date of birth (when present) of the user who wrote the latest annotation for any given MusicBrainz entity were available between 2019-04-26 and 2020-11-22 on a JSON block in the source of the entity page (e.g. [1]) We have investigated our database to determine which users were affected. You were one of those, and your email address and date of birth, if you entered it, were temporarily available on our web page. The data was never displayed on the page in a human visible way -- it was embedded in the web page source as JSON. The page source can be viewed with “view source” on your web browser.
+</details>
+
+# R
+## [River City Bank](https://oag.ca.gov/system/files/River%20City%20-%20California%20Notice.pdf)
+September 29, 2020 | Insider Threat<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 29, 2020, we discovered some unauthorized activity performed by a Bank employee. This individual downloaded customer data, including yours, to a personal storage drive and later sent the information to a third party. In doing so, the employee exceeded their authorized access, which was limited to accessing the Bank’s data for legitimate bank purposes. When we first learned of this incident, we took immediate steps to restrict the employee’s system access.  We also reported the incident to law enforcement. A thorough investigation was conducted by a forensic investigation firm to determine what happened, who was impacted, and what information may have been affected.
+</details>
+
+# S
+## [Steel Partners](https://oag.ca.gov/system/files/2020-11-18%20FINAL%20Steel%20Partners%20Resident%20Notification%20Letter%20III.pdf)
+April 18, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Steel Partners discovered unauthorized activity in the email account of one of its employees and immediately initiated an investigation, which identified unauthorized access to that email account.  Steel Partners locked the account and promptly engaged a forensic security firm to assist. The investigation identified that the method by which the email account was accessed allowed for a local download of the entire mailbox. On May 29, 2020, it was determined that there were documents within the employee’s email account that contained personal information. A broader review of our systems indicated that only one email account was impacted. We are notifying you because some of your personal information was contained in documents within the Steel Partners employee’s email account.
+</details>
+
+# T
+## [The Center for Early Education](https://oag.ca.gov/ecrime/databreach/reports/sb24-196491)
+February 7, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Blackbaud is a cloud-based software company that provides services to thousands of schools, hospitals, and other non-profits. On July 16, 2020, Blackbaud notified us that it had discovered a ransomware attack on Blackbaud’s network in May 2020. Blackbaud reported that it conducted an investigation, determined that backup files containing information from its clients had been taken from its network, and an attempt was made to encrypt files to convince Blackbaud to pay a ransom. Blackbaud paid a ransom and obtained confirmation that the files that had been removed had been destroyed. Blackbaud reported that it has been working with law enforcement. Upon learning of the incident from Blackbaud, we conducted our own investigation of the Blackbaud services we use and the information provided by Blackbaud to determine what information was involved in the incident. On September 2, 2020, we determined that the backup files contained certain information pertaining to you.
+</details>
+
+# U
+## [U.S. Bank](https://oag.ca.gov/system/files/Customer%20Notification%20-%20Credit%20Monitoring.pdf)
+July 30, 2020 | Server Stolen<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 30, 2020, a computer server containing your information was physically stolen from one of our corporate offices. Since the event, we have been focused on identifying who may have been impacted and working with authorities to recover the stolen server. 
+</details>
+
+
+## [University of Minnesota Physicians](https://oag.ca.gov/system/files/UMPhysicians.pdf)
+January 31, 2020 | Phising<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+UMPhysicians identified that cyber attackers used phishing emails to fraudulently access two employee email accounts. The two phishing email attacks were identified on January 31, 2020 and February 4, 2020, shortly after they occurred. UMPhysicians took immediate steps to secure the email accounts and began working with third-party computer forensic investigators to determine the nature and scope of the incidents. The investigation indicated that an unknown actor had access to one employee email account on January 30 and January 31, 2020, and another employee email account on February 4, 2020, for a brief period of time
+</details>
+
+# Z
+## [ZEG – Berlin Center for Epidemiology and Health Research GMBH](https://oag.ca.gov/system/files/ZEG%20California%20-%20Notice.pdf)
+August 4, 2020 | Malicious Code<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On August 4, 2020, malicious code was found on certain servers. The threat was contained and expelled, and a thorough investigation promptly commenced. Through investigation, it became apparent that the intrusion had been active since early July 2020.  On October 28, 2020, we determined that one of the impacted servers contained data from the Study mentioned above. While we have no indication that any data related to the Study were actually stolen, viewed, or misused, we are taking the precautionary step of notifying you.
+</details>
 
-## Acknowledgements
-
-This publication was developed by the Joint Task Force Interagency Working Group. The group
-includes representatives from the Civil, Defense, and Intelligence Communities. The National
-Institute of Standards and Technology wishes to acknowledge and thank the senior leaders from
-the Departments of Commerce and Defense, the Office of the Director of National Intelligence,
-the Committee on National Security Systems, and the members of the interagency working
-group whose dedicated efforts contributed significantly to the publication.
-
-### Department of Defense
-Dana Deasy  
-_Chief Information Officer_  
-
-Essye B. Miller  
-_Principal Deputy CIO and DoD Senior Information Security Officer_
-
-Thomas P. Michelli  
-_Acting Deputy Chief Information Officer for Cybersecurity_
-
-Vicki Michetti  
-_Director, Cybersecurity Policy, Strategy, International, and Defense Industrial Base Directorate_
-
-### Office of the Director of National Intelligence
-John Sherman  
-_Chief Information Officer_
-
-Vacant  
-_Deputy Chief Information Officer_
-
-Susan Dorr  
-_Director, Cybersecurity Division and Chief Information Security Officer_
-
-Wallace Coggins  
-_Director, Security Coordination Center_
-
-### National Institute of Standards and Technology
-Charles H. Romine  
-_Director, Information Technology Laboratory_
-
-Donna Dodson  
-_Cybersecurity Advisor, Information Technology Laboratory_
-
-Matt Scholl  
-_Chief, Computer Security Division_
-
-Kevin Stine  
-_Chief, Applied Cybersecurity Division_
-
-Ron Ross  
-_FISMA Implementation Project Leader_
-
-### Committee on National Security Systems
-Thomas Michelli  
-_Chair—Defense Community_
-
-Susan Dorr—Intelligence Community  
-_Co-Chair_
-
-Vicki Michetti  
-_Tri-Chair—Defense Community_
-
-Chris Johnson  
-_Tri-Chair—Intelligence Community_
-
-Paul Cunningham  
-_Tri-Chair—Civil Agencies_
-
-### Joint Task Force Working Group
-Ron Ross  
-_NIST, JTF Leader_
-
-Taylor Roberts  
-_OMB_
-
-Jordan Burris  
-_OMB_
-
-Jeff Marron  
-_NIST_
-
-Dorian Pappas  
-_CNSS_
-
-Daniel Faigin  
-_The Aerospace Corporation_
-
-Kevin Dulany  
-_DoD_
-
-Ellen Nadeau  
-_NIST_
-
-Charles Cutshall  
-_OMB_
-
-Kaitlin Boeckl  
-_NIST_
-
-Dominic Cussatt  
-_Veterans Affairs_
-
-Christina Sames  
-_The MITRE Corporation_
-
-Peter Duspiva  
-_Intelligence Community_
-
-Victoria Pillitteri  
-_NIST_
-
-Kevin Herms  
-_OMB_
-
-Kirsten Moncada  
-_OMB_
-
-Esten Porter  
-_The MITRE Corporation_
-
-Julie Snyder  
-_The MITRE Corporation_
-
-Kelley Dempsey  
-_NIST_
-
-Naomi Lefkovitz  
-_NIST_
-
-Carol Bales  
-_OMB_
-
-Jon Boyens  
-_NIST_
-
-Celia Paulsen  
-_NIST_
-
-Martin Stanley  
-_Homeland Security_
-
-The authors also wish to recognize Matt Barrett, Kathleen Coupe, Jeff Eisensmith, Chris Enloe, Ned Goren, Matthew Halstead, Jody Jacobs, Ralph Jones, Martin Kihiko, Raquel Leone, and the scientists, engineers, and research staff from the Computer Security Division and the Applied Cybersecurity Division for their exceptional contributions in helping to improve the content of the publication. A special note of thanks to Jim Foti and the NIST web team for their outstanding administrative support.  
-
-In addition, the authors wish to acknowledge the United States Air Force and the “RMF Next” initiative, facilitated by Air Force CyberWorx, that provided the inspiration for some of the new ideas in this update to the RMF. The working group, led by Lauren Knausenberger, Bill Bryant, and Venice Goodwine, included government and industry representatives Jake Ames, Chris Bailey, James Barnett, Steve Bogue, Wes Chiu, Kurt Danis, Shane Deichman; Joe Erskine, Terence Goodman, Jason Howe, Brandon Howell, Todd Jacobs, Peter Klabe, William Kramer, Bryon Kroger, Kevin LaSalle, Dinh Le, Noam Liran, Sam Miles, Michael Morrison, Raymond Tom Nagley, Wendy Nather, Jasmine Neal, Ryan Perry, Eugene Peterson, Lawrence Rampaul, Jessica Rheinschmidt, Greg Roman, Susanna Scarveles, Justin Schoenthal, Christian Sorenson, Stacy Studstill, Charles Wade, Shawn Whitney, David Wilcox, and Thomas Woodring.  
-
-Finally, the authors also gratefully acknowledge the significant contributions from individuals and organizations in both the public and private sectors, nationally and internationally, whose thoughtful and constructive comments improved the overall quality, thoroughness, and usefulness of this publication.  
-
-<div style="background-color:lightblue; padding:20px" markdown="1">
-The authors acknowledge the many individuals who contributed to previous versions of Special Publication 800-37 since its inception in 2005. They include Marshall Abrams, William Barker, Beckie Koonge, Roger Caslow, John Gilligan, Peter Gouldmann, Richard Graubart, John Grimes, Gus Guissanie, Priscilla Guthrie, Jennifer Fabius, Cita Furlani, Richard Hale, Peggy Himes, William Hunteman, Arnold Johnson, Donald Jones, Stuart Katzke, Eustace King, Mark Morrison, Sherrill Nicely, Karen Quigg, George Rogers, Cheryl Roby, Gary Stoneburner, Marianne Swanson, Glenda Turner, and Peter Williams.
-</div>
-
-***
