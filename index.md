@@ -84,6 +84,22 @@ On August 13, 2020, Camrosa Water District discovered a criminal cyber-attack th
 </details>
 
 # F
+## [FireEye](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
+December 08, 2020 | Advanced Persistent Threat<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+FireEye is on the front lines defending companies and critical infrastructure globally from cyber threats. We witness the growing threat firsthand, and we know that cyber threats are always evolving. Recently, we were attacked by a highly sophisticated threat actor, one whose discipline, operational security, and techniques lead us to believe it was a state-sponsored attack. Our number one priority is working to strengthen the security of our customers and the broader community. We hope that by sharing the details of our investigation, the entire community will be better equipped to fight and defeat cyber attacks.
+</details>
+
+## [Foxconn North America](https://www.bleepingcomputer.com/news/security/foxconn-electronics-giant-hit-by-ransomware-34-million-ransom/)
+November 29, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Foxconn electronics giant suffered a ransomware attack at a Mexican facility over the Thanksgiving weekend, where attackers stole unencrypted files before encrypting devices.
+</details>
+
 ## [Florida State College](https://oag.ca.gov/system/files/FSC%20-%20California%20Notification.pdf)
 February 7, 2020 | Ransomware<br>
 {: .fs-4 .fw-700 .lh-0  }
@@ -101,6 +117,14 @@ In late July 2020, FMC was made aware of an issue involving a misconfiguration o
 </details>
 
 # G
+## [Greater Baltimore Medical Center](https://www.gbmc.org/computer-network-incident-update-12-06-2020)
+December 6, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On the morning of Sunday, December 6, 2020, GBMC HealthCare detected a ransomware incident that impacted information technology systems. Although many of our systems are down, GBMC HealthCare has robust processes in place to maintain safe and effective patient care. We are collectively responding in accordance with our well-planned process and policies for this type of event.
+</details>
+
 ## [Golden Gate Regional Center](https://oag.ca.gov/system/files/Golden%20Gate%20Regional%20Center.pdf)
 September 23, 2020 | Ransomware<br>
 {: .fs-4 .fw-700 .lh-0  }
