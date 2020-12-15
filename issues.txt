@@ -1,10 +1,15 @@
 Email Compromise
+User Error
 Insider Threat
 IT Provider
+Laptop Stolen
 Malware
 Misconfiguration
 Network Compromise
+Programming Error
 Ransomware
+Server Stolen
 Unauthorized Access
 Vulnerability
+Website Compromise
 
