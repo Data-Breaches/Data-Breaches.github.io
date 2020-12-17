@@ -5,7 +5,9 @@ IT Provider
 Laptop Stolen
 Malware
 Misconfiguration
+Device Lost 
 Network Compromise
+Phishing
 Programming Error
 Ransomware
 Server Stolen
