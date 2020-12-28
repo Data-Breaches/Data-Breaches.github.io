@@ -1,0 +1,1777 @@
+---
+layout: default
+title: List of Data Breaches 
+nav_order: 1
+description: "List of Data Breaches Around the World"
+permalink: /
+---
+
+# List of Data Breaches 
+# 1
+## [1919 Investment Counsel LLC](https://oag.ca.gov/system/files/Notices.pdf)
+September 21, 2020 | IT Provider<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 21, 2020, a 1919ic employee discovered some unusual activity on their 1919ic work computer. We immediately began investigating and retained a third party forensic expert to assist. During our investigation, we learned that an unauthorized user gained access to 1919ic’s computer systems, which are operated by a third-party Managed IT services firm with oversight by 1919ic’s internal technology team. During the forensic analysis, 1919ic was able to quickly take steps to prevent further unauthorized access and secure our systems. At this time, we do not have any indication that your information was accessed or misused. However, because we deeply value you and are committed to transparency, we wanted to make you aware of this incident. 
+</details>
+
+# A
+## [Atlas Mechanical, Inc.](https://oag.ca.gov/system/files/Notice%20of%20Data%20Event%20-%20Atlas%20Mechanical.pdf)
+October 11, 2020 | Malware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Atlas recently became aware of suspicious activity on its computer network and discovered it could not access certain files on its systems. Atlas immediately launched an investigation, with the assistance of thirdparty computer forensic specialists, and determined that its network had been infected with malware which prevented access to certain files on the system. The investigation determined that the malware was introduced into the system by an unauthorized actor who also accessed and acquired certain files in Atlas’ system. Atlas then began a lengthy and labor-intensive process to identify sensitive information that may have been contained within impacted files, and to identify the individuals whose information may have been impacted. While our investigation is ongoing, we are notifying you because that investigation determined certain information related to you may have been impacted. 
+</details>
+
+## [ArbiterSports](https://oag.ca.gov/system/files/Arbiter%20-%20California%20Notification.pdf)
+June 3, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently detected unauthorized access to certain devices in our network and an attempt to encrypt our systems.  We immediately took measures to stop the access, launched an investigation, and a security firm was engaged.  On July 15, 2020, findings from the investigation identified a backup copy of a database made for business continuity reasons that was obtained by the unauthorized party at some point in the prior few weeks. Although we were able to prevent devices from being encrypted, the unauthorized party demanded payment in exchange for deleting the files that were obtained. We reached an agreement and obtained confirmation that the unauthorized party deleted the files.
+</details>
+
+## [Assured Imaging](https://oag.ca.gov/system/files/Assured%20Imaging%20Breach%20Letter.pdf)
+May 19, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On May 19, 2020, Assured learned that its electronic medical records system had become encrypted due to “ransomware” deployed by an unknown actor. Because the impacted systems contained patient and employee information, Assured worked quickly to (1) restore access to the patient information so it could continue to care for patients without disruption and (2) investigate what happened and whether this incident resulted in any unauthorized access to, or theft of, personal information by the unknown actor.
+</details>
+
+## [American Payroll Institute, Inc. (APA)](https://oag.ca.gov/system/files/APA%20Security%20Incident%20Sample%20Notice%20Template.pdf); Global Payroll Management Institute, Inc.
+May 13, 2020 | Malware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The APA experienced a skimming cyberattack in which personal information was accessed by unauthorized individuals. The source of the cyberattack is thought to have been a vulnerability in APA’s content management system, which allowed a “skimmer” to be installed on both the login webpage of the APA website, as well as the checkout section of the APA’s online store. APA’s IT team uncovered unusual activity on the site dating back to May 13, 2020 at approximately 7:30 pm CT.
+</details>
+
+## [Los Angeles County Bar Association](https://oag.ca.gov/system/files/LACBA%20-%20Consumer%20Notice%20Form%20CCs_2650788_2.pdf)
+May 10, 2020 | Malware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On June 11, 2020, a financial institution alerted LACBA that there was malicious code present on specific portions of its website, LACBA.org. Further investigation of the incident established that the malicious code was present at least as early as May 10, 2020.
+</details>
+
+## [Amphastar Pharmaceuticals, Inc.](https://oag.ca.gov/system/files/Amphastar%20Sample%20Individual%20Notification%20Letter%20%28CA%29%20%28082720%29.pdf)
+May 2, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 24, 2020, the Company learned for the first time that some Company data had been posted on the internet without authorization on July 21. Most of the information was legacy data (approximately 15 years old) and included some of your personal information along with other company records.<br><br>
+
+The Company immediately investigated this posting to learn what happened with the assistance of a leading specialist routinely retained to assess and mitigate cybersecurity incidents. The posting was determined to be related to an earlier ransomware attack on May 2, 2020 that had been fully contained without any indication that data had been removed based on available records. No payment was or will be made to the criminals responsible for this malicious/criminal act. The Company was able to use backups and restore business continuity promptly. As law enforcement and others have reported, ransomware attacks have increased and have targeted the healthcare industry in the United States and around the world including during the global pandemic. 
+</details>
+
+## [American Symphony Orchestra League](https://oag.ca.gov/system/files/Security%20Incident%20Letter%20on%20letterhead%20FINAL.pdf)
+May 1, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Blackbaud, which works with many nonprofits and educational institutions to support their development and donor engagement activities, recently notified us of a security incident. You may have received a similar e-mail about this incident from other nonprofits or universities whose data Blackbaud stewards. At this time, we understand that Blackbaud discovered and stopped a ransomware attack. After discovering the attack, Blackbaud’s Cyber Security team—together with independent forensics experts and law enforcement—expelled the cybercriminal from their system. Blackbaud indicated, however, that the cybercriminal did remove a copy of a backup file containing some of your information before being locked out of the system. A full description of the incident is available on Blackbaud’s website at https://www.blackbaud.com/securityincident.
+</details>
+
+## [Ascend Clinical LLC](https://oag.ca.gov/system/files/Additional%20Sample%20Notification%20Letter.pdf)
+April 21, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On or about May 31, 2020, Ascend detected irregularities in its data systems, including some Ascend data that had become encrypted through an unknown source. Upon a thorough investigation, Ascend determined that an unauthorized user had accessed and downloaded Ascend business records, including some personally identifiable information (“PII”) of Ascend’s patients. Under a federal law known as the Health Insurance Portability and Accountability Act (“HIPAA”), this PII is considered protected health information (“PHI”). 
+</details>
+
+## [Alcorn Fence Company](https://oag.ca.gov/system/files/Alcorn%20-%20Consumer%20Notification%20Letter%20V2%20Print%20Proof_1.pdf)
+April 19, 2020 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently detected unauthorized access to an Alcorn employee email account that may have contained your personal information. We immediately launched an investigation and engaged a digital forensics firm to assist. Through this investigation, we determined that your personal information may have been accessed without authorization.
+</details>
+
+## [Alameda Health System](https://oag.ca.gov/system/files/Sample%20Notice.PDF)
+April 19, 2020 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On June 17, 2020, we learned that, for a brief period of time on April 8, 2020, an unauthorized person from outside AHS was able to remotely access the email account of an AHS employee. Upon learning of the incident, we immediately took action to secure the employee’s email account to prevent any further access. We also launched an investigation and engaged a leading forensic security firm to assist in our investigation. As part of that investigation, we searched for any personal information in the email account that could have been viewed. We recently completed our investigation and have determined that the account contained some personal information, including your name and limited medical information. The type of information differs for each individual, but was mostly information such as dates of birth, medical record numbers, appointment dates, driver’s license number, Social Security number and health insurance information.
+</details>
+
+## [Accident Insurance Company](https://oag.ca.gov/system/files/AIC%20-%20Consumer%20Notification%20%28CA%20Version%29_PROOF%20V2.pdf)
+April 13, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On August 18, 2020, we determined that your personal information may have been accessed during a cyber incident in which unauthorized persons attempted to interfere with the operation of our computer system. While their attempt did not succeed, during the incident they may have had access to sensitive information. When we learned of their attempt in April of 2020 AIC immediately launched an investigation with the assistance of cybersecurity experts to determine what happened and what information may have been exposed. We are unaware of any information being misused but wanted to provide this information to you.
+</details>
+
+## [Angeion Group](https://oag.ca.gov/system/files/Angeion%20Notice.pdf)
+March 30, 2020 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+In July 2020, we learned that between March 30, 2020 and May 4, 2020, an unknown third party accessed, remotely and without authorization, the corporate email box of one of our employees. In light of the employee’s job functions, that email box included certain personal information, present in claims administration files and related communications. 
+</details>
+
+## [Athenian School](https://oag.ca.gov/system/files/Sample%20Notice%20to%20be%20sent%20to%20AG%20with%20Credit%20Monitoring.pdf)
+February 7, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+According to Blackbaud, cybercriminals gained access to their system as part of a ransomware attack sometime between February 7, 2020 and May 20, 2020. Blackbaud informed us that upon discovering the attack, Blackbaud’s cybersecurity team – along with independent forensics experts and law enforcement – stopped the attack and expelled the cybercriminals.  However, Blackbaud discovered that prior to locking the cybercriminals out, they removed a copy of a backup file containing your personal information. Blackbaud has assured us, based on representations by the Federal Bureau of Investigations, that upon receiving the ransomware payment the cybercriminals destroyed the information that they accessed.
+</details>
+
+## [Advantage Capital Funding, LLC](https://oag.ca.gov/system/files/AdCap%20-%20California%20Notification.pdf)
+February 6, 2020 | IT Provider<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On March 17, 2020, Advantage Capital confirmed a report that it initially received on February 6, 2020 concerning potentially unauthorized access to a third-party hosted database that Advantage Capital used to store merchant loan application data. Advantage Capital subsequently took the database offline and a cyber security firm was engaged to assist with the investigation. Through the investigation, Advantage Capital determined that the unauthorized access occurred between February 6, 2020 and March 6, 2020. Advantage Capital has addressed the security issues resulting in this incident. 
+</details>
+
+## [Artech, L.L.C.](https://oag.ca.gov/system/files/Artech%20-%20Notice%20of%20Data%20Event.pdf)
+January 5, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On January 8, 2020, Artech received a report of unusual activity relating to an employee’s Artech user account. We immediately began investigating this report and through that investigation identified ransomware on certain Artech systems. That same day we engaged a leading third-party forensic investigation firm to assess the security of our systems and to confirm the nature and scope of the incident. On January 15, 2020, the investigation determined that an unauthorized actor had access to certain Artech systems between January 5, 2020, and January 8, 2020. Artech undertook a comprehensive review of these systems and determined that some personal information was present in them at the time of the incident. We reviewed this information and our internal records to identify the individuals associated with this information and their contact information for purposes of providing notice. On or around June 25, 2020, we completed this review and determined that some of your personal information was contained in one or more of the involved files. 
+</details>
+
+## [Audio Visual Services Group](https://oag.ca.gov/system/files/SAMPLE%20NOTICE_PSAV.pdf), LLC d/b/a PSAV
+October 22, 2019 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On or about January 15, 2020, PSAV learned that an unauthorized party had gained remote access to certain employees’ business email mailboxes. The unauthorized activity was part of an apparent attempt to use email accounts to re-route wire transfer payments from vendors to bank accounts under the control of the unauthorized party.
+</details>
+
+## [AliMed, Inc.](https://oag.ca.gov/system/files/9060310.PDF)
+June 1, 2019 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently discovered that a malicious party had gained access to one of our servers and may have acquired payment card data used in connection with certain transactions made with AliMed. We engaged external forensic investigators and data privacy professionals and commenced a prompt and through investigation into the incident. As a result of this investigation, we determined that the payment card information potentially accessed and/or acquired related to certain transactions made with AliMed between June 1, 2019 and June 17, 2020.
+</details>
+
+# B
+## [Belden](https://oag.ca.gov/system/files/Breach%20Notification%20Template%20-%20%28Belden%29%20%28US%29.pdf)
+November 12, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On the evening of November 12, 2020, Belden IT professionals detected unusual activity involving certain company servers. We immediately triggered our cybersecurity incident response plan, deployed teams of internal IT specialists, and engaged leading third-party cybersecurity forensic experts and other advisors to identify the scope of the incident and move quickly to mitigate the impact. Forensics experts determined that we were the target of a sophisticated attack by a party outside the company. On or about November 15, 2020, we learned that the outside party accessed servers that contained personal information of some current and former employees.
+</details>
+
+## [Backroads](https://oag.ca.gov/system/files/Backroads%20-%20Notice%20of%20Data%20Event.pdf)
+October 2, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On October 2, 2020, Backroads became aware of suspicious activity within its computer network.  Backroads immediately began an investigation, working with external forensic specialists, to determine the nature and scope of the activity. Our investigation determined that certain files within our environment were encrypted and inaccessible. On October 16, 2020, we discovered that certain files had been accessible to unknown actors and that certain personal information was contained in these files. We recognize that it may feel like there was a delay between the initial incident and receiving this notification. From the moment we knew that files were accessible to the unknown actors, we have been working both internally to determine who could have been affected, as well as externally with appropriate authorities in each jurisdiction where we operate globally. Thank you for your understanding and patience while we worked through all the necessary details.
+</details>
+
+## [Barrister Books](https://oag.ca.gov/system/files/Barrister%20-%20Consumer%20Notification%20Letter%20%28CA%29%204851-2741-7808%20v.2%20%20%281%29.pdf)
+July 7, 2020 | Website Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently discovered a data security incident involving our website. We immediately launched an investigation and engaged a digital forensics firm to assist. The recently completed investigation determined that payment card information may have been exposed for customers who made purchases through barristerbooks.com, lawbooks.com or lawbooksforless.com between July 7, 2020 and September 11, 2020.
+</details>
+
+## [Beverly Hills Unified School District](https://oag.ca.gov/system/files/Beverly%20Hills%20Unified%20School%20District%20Notice_1.pdf)
+November 4, 2019 | Vulnerability<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The District uses the Aeries Student Information System to provide students and their parents with online access to information regarding school events and schedules. In late November 2019, Aeries learned that an unauthorized individual attempted to exploit a vulnerability in the Aeries software that would allow access to student and parent information. Aeries later determined that the exploit was successful. Upon discovery, Aeries began an investigation and law enforcement launched an investigation to identify the person responsible, who Aeries believes is now in police custody. On April 27, 2020, we were notified by Aeries that this individual may have accessed the District’s Aeries System. We then contacted Aeries and, on May 5, 2020, we were informed that the individual did access parent and student data within the District’s Aeries System.
+</details>
+
+## [Baylor Genetics](https://oag.ca.gov/system/files/9102338.PDF)
+September 24, 2019 | Phishing<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Baylor Genetics was the target of an email phishing campaign that resulted in a limited number of employees receiving a suspicious email containing a malicious link. These employees unfortunately fell victim to the phishing campaign, resulting in an unauthorized individual gaining access to those employees’ email accounts. Upon learning of the incident, Baylor Genetics disabled the impacted email accounts and required mandatory password resets to prevent further misuse.  There is no evidence that the purpose of the phishing campaign was to obtain patient information and we have no evidence that any of your information was actually acquired or used by the unauthorized individual. However, out of an abundance of caution, we are providing notice and offering you credit monitoring services at no charge.
+</details>
+
+## [Baylor Genetics](https://oag.ca.gov/system/files/9102338.PDF)
+May 4, 2020 | Breach<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+While preparing 2019 tax returns, we discovered a potential data security incident that may have affected some of our client’s personal information. We immediately launched an investigation and worked with the IRS and our software provider to ascertain what had occurred. We also retained an independent digital cybersecurity firm to conduct a forensic investigation of B+Co’s network and computer systems. 
+</details>
+
+## [Brown-Forman Corporation](https://oag.ca.gov/ecrime/databreach/reports/sb24-193435)
+April 14, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 28, 2020, we discovered suspicious activity in our internal network and promptly began to investigate and contain it. On August 4, 2020 we learned the cyber criminals stole certain records containing information about some of our current and former employees. In some cases, these records contained limited information about employee dependents or beneficiaries. Out of an abundance of caution, we are providing this letter to all current employees of Brown-Forman as well as former employees who worked at Brown-Forman as of 2013 to alert them of this incident. We will notify you separately if your beneficiaries or dependents were impacted. 
+</details>
+
+## [BMB Associates](https://oag.ca.gov/system/files/BMB%20Associates%20-%20Breach%20Notification%20Letter%20-%20PROOF.pdf)
+March 16, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On or about March 16, 2020, the Company discovered some clients had IRS E-file rejections. Based on our investigation, the e-filing rejections was due to fraudulent tax filings by an unauthorized third party who was able to compromise the Company’s Intuit ProSeries® service and create a guest account. The Company’s IT team was able to discover the hidden guest account and was able to remove it on April 2, 2020. 
+</details>
+
+## [Bruce L. Boros](https://oag.ca.gov/system/files/Notice%20Letter%20Redacted%20%289205840x7AB84%29.pdf), M.D., P.A. DBA Advanced Urgent Care
+March 1, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On March 1, 2020, a ransomware infection encrypted files stored on a backup drive.
+</details>
+
+# C
+## [Center for Autism and Related Disorders](https://oag.ca.gov/system/files/Notice%20of%20Breach%20-%20CARD%20%28patients%29_PROOF.pdf)
+October 16, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The Center for Autism and Related Disorders (“CARD”) recently discovered a data security incident that may have affected files containing limited sensitive information. There is no evidence that your personal information was accessed or misused in any way. However, because we are unable to determine with certainty what files may have been compromised, we are sending this advisory so you can take steps to minimize the possibility of misuse of your information.
+</details>
+
+## [California Physicians' Services](https://oag.ca.gov/ecrime/databreach/reports/sb24-195911) d/b/a Blue Shield of California
+October 16, 2020 | Update Error<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On October 20, 2020, Blue Shield discovered that an error occurred when it updated its Medicare Advantage HMO provider directories. This error caused your Social Security Number to display as your provider identification number in the provider directories. Directories were displayed in PDF format on Blue Shield’s website, and that of its printing vendor, Arvato, between October 16-20, 2020. The directories were viewed, and in some cases, downloaded by brokers, members and prospects. A number of printed directories were also mailed to Blue Shield brokers and members during this time.
+</details>
+
+## [CCPOA Benefit Trust Fund](https://oag.ca.gov/system/files/Experian%20Letter%202020.pdf) d/b/a Blue Shield of California
+September 2, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 2, 2020 the CCPOA Benefit Trust Fund’s IT Department discovered unusual activity within their IT environment. Upon discovery, all systems were shut down to investigate the event. The CCPOA Benefit Trust Fund engaged Stroz Friedberg, LLC, an Aon company, to conduct a thorough Cyber Forensic investigation. During the course of the investigation, the results uncovered that, despite precautionary measures, the CCPOA Benefit Trust Fund’s systems were compromised by a successful Ransomware attack.  Additionally, on or about October 1, 2020 it was determined that data containing personally identifiable information had been successfully obtained during the attack. 
+</details>
+
+## [Cantella & Co](https://oag.ca.gov/system/files/Client%20Breach%20Notification%20Letter.pdf)
+August 25, 2020 | Malware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We are contacting you regarding a data security incident that has occurred on August 25, 2020 at Cantella & Co., Inc. This incident involved email threads which were used to entice recipients to open an attachment containing malware. Malware is a term used to describe any kind of computer software with malicious intent. Recipients of these malicious emails opened the attachments, believing them to be from a credible source, which in turn installed the malware. Unfortunately, this malware is very difficult to detect, and almost none of the virus scanners available out there today are able to do so. In total, we identified 23 infected computers across our organization. Regrettably, some of your personal information may have been contained within these infected computers as many of the emails were internal and therefore deemed to be secure. If you are an entity client, this may include your authorized persons’ personal information. It is important to note that we have no evidence to support any attempts to misuse private client information thus far, but there is a possibility that your name, address, social security number, and other identifying information may have been potentially exposed to others. We value your business and respect the privacy of your information. As such, we are providing you with complimentary credit monitoring for the next two years and we ask that you enroll by following the steps outline below. 
+</details>
+
+## [Construction Bidboard, Inc.](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach_5.pdf)
+August 12, 2020 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On August 12, 2020, the confidentiality of one of our employee's mailboxes was compromised. In this mailbox, there were possibly usernames and passwords of active members of the Construction BidBoard platform.
+</details>
+
+## [Carnival Corporation and plc](https://oag.ca.gov/ecrime/databreach/reports/sb24-195063)
+August 4, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+While the investigation is ongoing, early indications are that in early August an unauthorized third-party gained access to certain personal information relating to some of our guests, employees, and crew. For individuals who sailed with us, the information impacted may include the data routinely collected during the guest travel booking process, during the casino experience, or at the time of employment. That information may include names, addresses, phone numbers, passport numbers, and dates of birth. The investigation into the specific data impacted is ongoing, but in some limited instances, we anticipate additional information impacted may include data such as Social Security numbers, health information, or other personal information. 
+</details>
+
+## [Canon](https://oag.ca.gov/system/files/Canon%20-%20California%20Notification%20Material.pdf)
+August 4, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We identified a security incident involving ransomware on August 4, 2020. We immediately began to investigate, a cybersecurity firm was engaged, and measures were taken to address the incident and restore operations. We also notified law enforcement and worked to support the investigation.  We determined that there was unauthorized activity on our network between July 20, 2020 and August 6, 2020. During that time, there was unauthorized access to files on our file servers. 
+</details>
+
+## [California Dialysis Management Services, Inc.](https://oag.ca.gov/system/files/CDMS%20-%20Template%20Notification%20Letter.pdf)
+August 3, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On August 3, 2020, the FBI notified us that it had arrested an individual who was in possession of some CDMS documents. We subsequently received a copy of the information and determined that the documents contained the personal information of some of our employees are currently cooperating with the law enforcement investigation and have hired a forensic firm to assist with our investigation into the matter. Although those investigations are ongoing, we wanted to notify you of the incident as soon as possible.
+</details>
+
+## [California Western School of Law](https://oag.ca.gov/system/files/Sample%20Notice%20of%20Data%20Breach%20-%20Blackbaud%20July%202020%20CWSL.pdf)
+July 16, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+A third party vendor, Blackbaud, Inc. (the company that stores our fundraising data and services thousands of non-profits globally) notified us of a ransomware attack on its hosting system.  Blackbaud informed us of the incident on July 16, 2020. Our internal data storage systems were not affected by the security incident.
+</details>
+
+## [City Dental](https://oag.ca.gov/system/files/City%20Dental%20Data.pdf)
+June 1, 2020 | Network Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On the morning of Monday, June 1, 2020, we discovered our computer network had been hacked and our computer terminals could not be used.
+</details>
+
+## [Collabera, Inc.](https://oag.ca.gov/system/files/FINAL%20___EXPERIAN_F6415_L01_Collabera%20All%20States.doc_amy.dunn_faegredrinker.com_SAS_PROOF.pdf)
+May 24, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On June 8, 2020, Collabera identified malware in its network system consistent with a ransomware attack. We promptly restored access to our data from backup files, and immediately launched an investigation to determine the nature and scope of this event. On June 10, we became aware that the unauthorized party obtained some data from our system. We are working with outside experts and law enforcement to conduct a more detailed review of the incident.
+</details>
+
+## [Crystal Stairs, Inc.](https://oag.ca.gov/system/files/Crystal%20Stairs%2C%20Inc%20-%20Notice%20of%20Data%20Event.pdf)
+May 20, 2020 | IT Provider<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Blackbaud reported that upon discovering this breach Blackbaud worked with security consultants to respond to the threat. Following its investigation, Blackbaud notified Crystal Stairs that the cybercriminal may have accessed or acquired Blackbaud customer data, before Blackbaud locked them out on May 20, 2020. Blackbaud informed us that the perpetrators told Blackbaud that the stolen data was destroyed. Based on the nature of the incident, the research Blackbaud performed, and analysis by third-party investigators, Blackbaud informed us that it has no reason to believe that the cybercriminals transmitted or disseminated any of the data publicly. Blackbaud has also hired a team of experts to continue monitoring for any such activity. Once Blackbaud notified Crystal Stairs, we immediately began an investigation to determine what, if any, sensitive stakeholder data was potentially involved.
+</details>
+
+## [Central California Alliance for Health](https://oag.ca.gov/system/files/BNL_Final_English.pdf)
+May 7, 2020 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On May 7, 2020, the Alliance found that many Alliance employees’ email accounts were accessed illegally by an unknown person. These accounts were accessed for about one hour. The Alliance found the issue and immediately shut down the Alliance employees' email accounts that were accessed. 
+</details>
+
+## [California Department of Corrections and Rehabilitation](https://oag.ca.gov/system/files/OPOS%20Privacy%20Breach%20SharePoint%20Response%20Letter.pdf)
+May 6, 2020 | Breach<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We are writing to you because of a recent security incident that was discovered May 7, 2020 in an Office of Peace Officer Selection SharePoint site. A domain group for all CDCR staff with intranet access was inadvertently given “read only” access to the SharePoint site that contained personal identifying information. 
+</details>
+
+## [Coast Financial Services](https://oag.ca.gov/system/files/Coast%20Financial%20Services%20-%20California%20Attorney%20General%20Notification%20Letter.pdf)
+May 6, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On May 6, 2020, Coast discovered that two servers had been encrypted and rendered inaccessible.  Coast’s immediate concern was to contain the incident and secure our network systems. To that end, Coast engaged a digital forensics firm to investigate the cause and scope of the incident, and determine if any information stored within their systems had been affected. On July 7, Coasts’ investigation determined that an unauthorized individual accessed files containing certain personal information. The information that may have been accessed includes tax-related documents containing information that is included in tax returns, including names, mailing addresses, and Social Security numbers. Notably, Coast is not aware of any misuse of this information as a result of this incident.
+</details>
+
+## [Combe Incorporated](https://oag.ca.gov/system/files/A%20-%20California%20Notification%20Letter%20-%20Redacted.pdf)
+May 6, 2020 | Malware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Combe Incorporated (“Combe”) values and respects your privacy and is committed to keeping your information confidential. Our commitment to these values includes notifying individuals if we believe the confidentiality of their personal information might have been compromised.  Accordingly, we are writing to advise you of a recent incident that may have involved some of your personal information.<br><br>
+
+We recently learned that an unauthorized third party placed computer code that was capable of collecting information on the checkout page of our website from March 2, 2020 until April 10, 2020. Upon learning of the incident, we promptly removed the malicious code and conducted an internal investigation with the help of a leading computer forensic firm. 
+</details>
+
+## [Coalinga Valley Health Clinics, Inc.](https://oag.ca.gov/system/files/REDACTED.%20Adult%20SSN%20%288965550x7AB84%29.pdf)
+April 17, 2020 | Insider Threat<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On April 17, 2020, we were notified by Coalinga Police Department that an employee allegedly had removed certain documents from our office. 
+</details>
+
+## [Claire's Stores, Inc.](https://oag.ca.gov/system/files/California%20Notification%20-%20Claires.pdf)
+April 7, 2020 | Malware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently began an investigation of our e-commerce websites, and on June 12, 2020 we identified and removed computer code that had been added to our site by an unauthorized person. The added code was capable of obtaining information entered by customers during the checkout process and sending that information out of our system. A security firm was engaged and we identified the specific transactions involved. We also reinforced the security of our site.  Purchases made in our retail store locations were not involved.
+</details>
+
+## [Cetera Financial Group, Inc.](https://oag.ca.gov/system/files/Cetera%20-%20California%20Notification.pdf)
+April 6, 2020 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On April 6, 2020, an unauthorized person accessed an employee’s email account. We detected the unauthorized access immediately and within five minutes secured the account, reset passwords, and initiated an investigation. Our investigation was unable to confirm that no emails or attachments were viewed by the unauthorized person.
+</details>
+
+## [CK-12 Foundation](https://oag.ca.gov/system/files/Braingenie%20-%20Notice%20of%20Data%20Security%20Incident.pdf)
+February 26, 2020 | Website Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+In early June, we became aware of a report that mentioned Braingenie as one of a number of websites impacted by a potential security incident. We promptly commenced an investigation, with the assistance of outside forensic experts and law enforcement, to assess whether the incident affected any of Braingenie's user information.<br><br>
+
+The investigation determined that beginning sometime in late February, our systems were accessed without authorization. On July 15, we were able to determine that unauthorized actors obtained a small amount of personal information from a Braingenie test (QA) database. Since discovering this, we have continued to assess what personal information was impacted and to identify affected individuals.
+</details>
+
+## [CorePower Yoga, LLC](https://oag.ca.gov/system/files/CorePower%20Yoga%20-%20Notice%20of%20Data%20Event%20-%20CA_1.pdf)
+November 7, 2019 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+CorePower previously became aware of suspicious activity occurring within an employee’s email account, changed the employee’s email account password. and commenced an investigation to identify the source of the activity. As part of the investigation into the incident, which was conducted with the assistance of a third-party forensic specialist, it was determined that multiple employee email accounts were subject to unauthorized access between November 7, 2019, and February 3, 2020. The investigation was unable to determine which, if any, emails and attachments within the email accounts were accessed or viewed. Therefore, the forensic specialist then undertook a time-consuming review of all the emails and attachments in the email accounts to determine whether they contained any sensitive information.<br><br>
+
+The forensic specialist completed its analysis of the email accounts on August 13, 2020, and prepared a list of individuals whose information was determined to be present in the emails or attachments located in the email accounts and possibly viewed by the unauthorized person(s). 
+</details>
+
+## [Corning Union Elementary School District](https://oag.ca.gov/ecrime/databreach/reports/sb24-192266)
+November 4, 2019 | n/a <br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+n/a
+</details>
+
+## [Camrosa Water District](https://oag.ca.gov/system/files/Camrosa%20-%20California%20Notification.pdf)
+August 20, 2019 | Server Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On August 13, 2020, Camrosa Water District discovered a criminal cyber-attack that resulted in data on certain devices becoming encrypted. We immediately began to investigate, a cybersecurity firm was engaged to assist, and measures were taken to address the incident and restore operations. The investigation that was recently concluded found evidence that there was unauthorized access to files on Camrosa Water District’s file servers between August 20, 2019 and August 13, 2020. 
+</details>
+
+## [March 30, 2020](https://oag.ca.gov/system/files/CA%20Notice%20%28B%26W%29.pdf)
+March 30, 2020 | Website Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Like many online retailers, we recently determined the eCommerce platform underlying our online retail sales webpage, cbdmd.com, was modified to include malicious code. The malicious code created a risk that customer-input elements on the webpage may have been skimmed by an unauthorized third party. We notified federal law enforcement and have been cooperating with their investigation.
+</details>
+
+## [City of Torrance, California](https://oag.ca.gov/system/files/EXPERIAN_F8736_City%20of%20Torrance%20%232_L01_SAS_PROOF.pdf)
+March 1, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On March 1, 2020, the City announced that it had experienced a cybersecurity incident that affected some of its computer systems. During the course of its investigation, the City learned that some data that was taken during the incident was accessible on the internet. 
+</details>
+
+# D
+## [Diocese of Charlotte](https://oag.ca.gov/system/files/CSE%20CCHS%20Blackbaud%20Exposure%20Letter%20SSN%20V2%20Print%20Proof.pdf)
+August 20, 2019 | IT Provider<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Blackbaud Inc. is an international provider of fundraising and financial software for charitable and nonprofit organizations, which hosts a variety of databases for CCHS. On Sept. 29, 2020, Blackbaud notified us that a security incident the company detected in May included several school files containing sensitive personal information. CCHS requested information detailing which of our constituents’ information may have been compromised. We received that information and after additional analyses are sharing it with you today.
+</details>
+
+## [Dyson, Inc](https://oag.ca.gov/system/files/California%20PINC2020.78%20Notification%202.pdf)
+July 31, 2020 | Website Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Dyson constantly monitors activity on our websites to ensure the safety and security of your data. As part of this monitoring, we have been made aware of an incident that occurred outside of Dyson that has impacted the Dyson US website (www.dyson.com). This incident has provided a third-party access to your Dyson account. 
+</details>
+
+## [Dave, Inc.](https://oag.ca.gov/system/files/Template%20notice%20to%20customers.pdf)
+June 23, 2020 | IT Provider<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+As a result of a breach at a former third-party service provider, an unauthorized party illegally accessed and stole certain customer data at Dave between June 23 and July 1, 2020. As soon as we became aware of this incident on July 1, 2020, our security team quickly took steps to secure our systems including our customers’ accounts. We immediately began an investigation, retained a leading cybersecurity firm, and notified law enforcement, including the Federal Bureau of Investigation (“FBI”).<br><br>
+
+After the compromise at Dave’s service provider, the unauthorized party was able to gain temporary access to Dave’s systems and obtained certain Dave customer data. It appears this data is now posted online as available for sale on, or download from, illicit online marketplaces, which the FBI is aware of and is investigating. You are receiving this notice because we determined that your records are among those that may have been impacted. 
+</details>
+
+## [Dr. Ann Hale, D.D.S.](https://oag.ca.gov/system/files/Letter%20A%20-%20Ann%20Hale%20Breach%20Notification%20Letter%20-%20SSN%20Compromised.pdf)
+May 24, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Dr. Ann Hale (Hutton & Hale, D.D.S., Inc.) has discovered a data security breach that occurred that may affect the privacy of your personal information. The purpose of this letter is to offer our apologies and to describe the breach, its potential impact on you, and the steps that you can take to minimize the harm to your privacy.<br><br>
+
+The breach occurred on May 25, 2020, when an individual gained unauthorized access to our databases and systems containing personal health information and medical records on you and other patients of our office. 
+</details>
+
+## [Dynasplint Systems, Inc.](https://oag.ca.gov/system/files/Dynasplint%20Systems%20Inc.%20-%20California%20Consumer%20Notification%20Template%204848-3746-4775%20v.1.pdf)
+April 29, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On May 16, 2020, DSI experienced a data security incident. Upon discovering this incident, DSI immediately launched an investigation and engaged a digital forensics firm to determine whether personal information may have been accessed. On June 4, 2020, the investigation determined that certain customer information was accessed without authorization during the incident.
+</details>
+
+## [Douglas M. Smith & Co. CPA](https://oag.ca.gov/system/files/D.%20Smith%20Initial%20Notification%20Letter%20-%20Taxpayer%20Clients.pdf)
+March 25, 2020 | n/a<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Between March 31, 2020 and April 1, 2020, four (4) electronically filed tax returns were rejected by the Intuit Lacerte tax preparation software, which Lacerte reported was due to the fact that returns were previously filed for those taxpayers.  We immediately reported this incident to the IRS, Secret Service, Fresno Police and FBI, and, working with Lacerte, identified a total of 30 fraudulent returns. You are not among the individuals identified on the 30 fraudulent returns.  We also immediately retained forensic investigators to conduct an investigation, and, to date, we have found no evidence that any unauthorized individual has accessed our computer systems, where your personal information is stored. 
+</details>
+
+## [Dynavax Technologies Corporation](https://oag.ca.gov/system/files/EXPERIAN_F6629_REVISED_L02%20Dynavax_Adult%20CM%20CA_SAS_PROOF.pdf)
+February 28, 2020 | Phishing<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Our ongoing investigation into a phishing email incident recently determined that an unauthorized individual gained access to a Dynavax employee’s email account for a brief period of time on February 28, 2020. Upon identifying the incident, we immediately secured the account and a leading computer forensic firm was engaged to assist with our investigation. A review of available data shows no further unauthorized access to the account occurred. While we have identified employee information in the email account, our investigation has not shown that the unauthorized person stole or misused or attempted to misuse any personal information from the account. 
+</details>
+
+## [Dent Wizard International](https://oag.ca.gov/system/files/K%20-%20SSN%20Variable%20-%20Redacted%20%289016338-2x7AB84%29.pdf)
+January 22, 2020 | Phishing<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+As a result of a phishing incident, we have learned that an unauthorized party may have obtained access to a small portion of Dent Wizard employee email accounts between January 22, 2020 and February 4, 2020. 
+</details>
+
+# E
+## [Eaze Technologies, Inc.](https://oag.ca.gov/system/files/legal%20email%20%281%29.pdf)
+September 24, 2020 | Account Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Based on our investigation, it looks like an unauthorized user illegally acquired your credentials from a third party, and then tried to login to your Eaze account using them. This means you're probably using the same username/password on multiple sites - and one of these other sites may have been compromised.
+</details>
+
+## [EyeMed Vision Care LLC](https://oag.ca.gov/system/files/EyeMed%20Sample%20Notification%20Letter.pdf)
+June 24, 2020 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 1, 2020, EyeMed discovered that an unauthorized individual gained access to an EyeMed email mailbox and sent phishing emails to email addresses contained in the mailbox’s address book. On the same day, EyeMed took immediate action to block the unauthorized individual’s access to the mailbox and secured the mailbox. EyeMed immediately launched an investigation into the incident and engaged a cybersecurity firm to assist in its efforts. It was determined that the unauthorized individual first gained access to the mailbox on June 24, 2020, and that access terminated on July 1, 2020. EyeMed initially notified Covered Entity of possible impact on July 30, 2020 and confirmed impact to Covered Entity’s members on August 14, 2020.
+</details>
+
+## [Energy One Federal Credit Union](https://oag.ca.gov/system/files/EOFCU%20Ad%20CA%20CM%20r2prf.pdf)
+June 4, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On June 4, 2020, EOFCU experienced an incident that involved the unauthorized encryption of certain files on some devices on EOFCU’s computer network. On the same day we discovered the incident, we immediately took steps to secure the network and a forensic investigation was started. The investigation determined that in addition to encrypting certain files on EOFCU’s network, the actor may have accessed some information stored in EOFCU’s computer systems, including files with EOFCU member information.
+</details>
+
+## [Enloe Medical Center](https://oag.ca.gov/system/files/Enloe-%20Notice%20of%20Data%20Event_1.pdf)
+May 14, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Blackbaud reported that, in May 2020, it experienced a ransomware incident that resulted in encryption of certain Blackbaud systems. Blackbaud reported the incident to law enforcement and worked with forensic investigators to determine the nature and scope of the incident. Following its investigation, Blackbaud notified its customers that an unknown actor may have accessed or acquired certain Blackbaud customer data. Blackbaud reported that the data was exfiltrated by the threat actor at some point before Blackbaud locked the threat actor out of the environment on May 20, 2020. Upon learning of the Blackbaud incident, Enloe immediately commenced an investigation to determine what, if any, sensitive Enloe data was potentially involved. This investigation included working diligently to gather further information from Blackbaud to understand the scope of the incident. The Blackbaud event affected thousands of organizations across many different states and countries. Although not the target of the ransomware incident, Enloe was one of the countless organizations that were impacted. 
+</details>
+
+## [Enloe Medical Center](https://oag.ca.gov/system/files/Enloe-%20Notice%20of%20Data%20Event_1.pdf)
+May 14, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Blackbaud reported that, in May 2020, it experienced a ransomware incident that resulted in encryption of certain Blackbaud systems. Blackbaud reported the incident to law enforcement and worked with forensic investigators to determine the nature and scope of the incident. Following its investigation, Blackbaud notified its customers that an unknown actor may have accessed or acquired certain Blackbaud customer data. Blackbaud reported that the data was exfiltrated by the threat actor at some point before Blackbaud locked the threat actor out of the environment on May 20, 2020. Upon learning of the Blackbaud incident, Enloe immediately commenced an investigation to determine what, if any, sensitive Enloe data was potentially involved. This investigation included working diligently to gather further information from Blackbaud to understand the scope of the incident. The Blackbaud event affected thousands of organizations across many different states and countries. Although not the target of the ransomware incident, Enloe was one of the countless organizations that were impacted.
+</details>
+
+## [Emanate Health](https://oag.ca.gov/system/files/EH%20Standard%20Notice%20AA977_v03.pdf)
+February 19, 2020 | IT Provider<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We received notice from PaperlessPay on March 20, 2020 informing us that an unauthorized person gained access to its computer server. PaperlessPay learned of the incident on February 19, 2020 when the Department of Homeland Security (“DHS”) contacted PaperlessPay to inform them that an unknown person was purporting to sell “access” to the PaperlessPay database on the dark Web. 
+</details>
+
+## [Emanate Health Foundation](https://oag.ca.gov/system/files/EHF%20Privacy%20Breach%20Notice_9.2020.pdf)
+February 7, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 16, 2020, the Foundation was notified by its third-party provider, Blackbaud, of a security incident which involved your personal information. Blackbaud notified us that it discovered a ransomware attack on its systems around May 20, 2020. Blackbaud retained independent forensics experts and notified law enforcement. Shortly after the discovery, Blackbaud expelled the cybercriminal from its system.  However, Blackbaud determined that before being locked out the cybercriminal had removed a copy of the Foundation’s backup file maintained on Blackbaud’s servers, which contained your personal information. Blackbaud believes the cybercriminal accessed this file initially on February 7, 2020 and retained access until May 20, 2020. We understand that Blackbaud confirmed that the backup file copy had been destroyed. Based on the nature of the incident, Blackbaud’s research, and third-party (including law enforcement) investigations, Blackbaud does not believe that any data went beyond the cybercriminal, was misused, or will be further disseminated.
+</details>
+
+## [Episcopal Community Services](https://oag.ca.gov/system/files/Breach%20Notification%20Letter%20pdf.pdf)
+February 7, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 16, 2020, ECS was notified by Blackbaud, Inc., one of our third-party service providers, of a security incident. At this time, we understand Blackbaud discovered and stopped a ransomware attack.  After discovering the attack, the service provider’s cyber security team—together with independent forensics experts and law enforcement—successfully prevented the cybercriminal from blocking their system access and fully encrypting files; and ultimately expelled them from their system.
+
+But before locking the cybercriminal out, the cybercriminal removed a copy of a backup file containing some constituent information. This occurred at some point beginning on February 7, 2020 and could have been in there intermittently until May 20, 2020.
+</details>
+
+## [Evergreen Union School District](https://oag.ca.gov/system/files/Corresp%20to%20Parents%20reg%20security%206-12-20.pdf)
+November 15, 2019 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The District uses the Aeries Student Information System to provide students and their parents with online access to information regarding school events and schedules. In late November 2019, Aeries learned that an unauthorized individual attempted to exploit a vulnerability in the Aeries software that would allow access to student and parent information. Aeries later determined that the exploit was successful. Upon discovery, Aeries began an investigation and law enforcement launched an investigation to identify the person responsible, who Aeries believes is now in police custody. On April, 2020, we learned that this individual may have accessed the District's Aeries System. We then conducted our own investigation, and on May 6, 2020, determined that the individual did access parent and student data in the District's Aeries System.
+</details>
+
+## [Eshel, Aminov & Partners LLP](https://oag.ca.gov/system/files/Eshel%20Aminov%20%26%20Partners%20LLC.PDF)
+March 10, 2019 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Eshel, Aminov & Partners LLP was the victim of a business email compromise incident during which a cyber attacker gained access, without our permission, to the confidential business email accounts of our employees as a result of an email phishing scheme. 
+</details>
+
+# F
+## [FireEye](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
+December 08, 2020 | Advanced Persistent Threat<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+FireEye is on the front lines defending companies and critical infrastructure globally from cyber threats. We witness the growing threat firsthand, and we know that cyber threats are always evolving. Recently, we were attacked by a highly sophisticated threat actor, one whose discipline, operational security, and techniques lead us to believe it was a state-sponsored attack. Our number one priority is working to strengthen the security of our customers and the broader community. We hope that by sharing the details of our investigation, the entire community will be better equipped to fight and defeat cyber attacks.
+</details>
+
+## [Foxconn North America](https://www.bleepingcomputer.com/news/security/foxconn-electronics-giant-hit-by-ransomware-34-million-ransom/)
+November 29, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Foxconn electronics giant suffered a ransomware attack at a Mexican facility over the Thanksgiving weekend, where attackers stole unencrypted files before encrypting devices.
+</details>
+
+## [FRIEDMAN & COMPANY CPA](https://oag.ca.gov/system/files/20201001_NOTICE%20OF%20DATA%20BREACH.pdf)
+September 1, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 29, 2020, we discovered a data security incident involving our firm and some of our clients whose 2019 tax returns were on Extension. After thorough investigation, we have discovered that the perpetrator(s) hacked into our system, and between September 24 and September 28, 2020, fraudulently filed approximately 30 client tax returns. We know whose returns were filed fraudulently and will contact you personally do discuss. If you do not hear from us your return was not affected. But the information contained in your tax return could be compromised.
+</details>
+
+## [Federal Home Loan Mortgage Corporation](https://oag.ca.gov/system/files/EXPERIAN_F6293_Borrower%20notification%20L01%20%28FINAL%2007%2001%202020%29%20%28ALL%20OTHER%20STATES%29%20Final_SAS_PROOF.pdf)
+July 7, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently learned that, earlier this year, a vendor we hired to perform due diligence services on
+some of our loans, experienced a ransomware attack on its systems. Because the incident left the
+vendor’s system inaccessible to the vendor, the vendor does not know all details of the incident or
+the information affected.
+</details>
+
+## [Fragomen, Del Rey, Bernsen & Loewy, LLP](https://oag.ca.gov/system/files/FDBL%20-%20California%20Notice.pdf)
+July 1, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently became aware of suspicious activity within our computer network. While our investigation is ongoing, we discovered that an unauthorized third party gained access to a single file containing personal information relating to I-9 employment verification services. This file contained personal information for a discrete number of Googlers (and former Googlers), including you. 
+</details>
+
+## [FormFactor, Inc.](https://oag.ca.gov/system/files/Update%20of%20Data%20Breach%20%28Providing%20Credit%20Monitoring%20Services%20Instructions%29__1.pdf)
+June 21, 2020 | Malware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On Sunday, June 28, 2020 Central European Time, we discovered a data breach incident involving malware and related behaviors that involved unauthorized access to our IT systems by an unknown third party. Under our current assessment, the unauthorized access to the files relevant to this notice began on June 21, 2020.<br><br>
+
+Given the nature of the attack, we do not yet have a complete understanding of the scope of the unauthorized access to our data. We do, however, have reason to believe that such unauthorized access encompassed access to or loss of certain personal data stored on our IT systems. 
+</details>
+
+## [Ferris Marketing, Inc.](https://oag.ca.gov/system/files/WPDOCS01-%238368168-v1-Notification-Letter-%28CA-AG%29.pdf)
+June 5, 2020 | Website Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On May 29, 2020, Ferris was alerted by Visa Inc. (“VISA”) that Night Owl’s retail website - https://nightowlsp.com/ - was the last Common Point of Purchase (“CPP”) for credit cards legitimately used to purchase products from Night Owl which were later used to make fraudulent purchases using VISA payment cards.
+</details>
+
+## [FabFitFun. Inc.](https://oag.ca.gov/system/files/Sample%20Notice_33.pdf)
+April 26, 2020 | Website Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Our technical team recently discovered that an unauthorized third party inserted malicious code on portions of our website that may have enabled them to capture certain information in connection with customer sign ups.  Based on our forensic investigation, this incident concerns the new member sign up pages of our website during the period between April 26, 2020 and May 14, 2020, and between May 22, 2020 and August 3, 2020. According to our records, you signed up for FabFitFun during this timeframe, and your information therefore could have been affected. Although we believe that only a subset of members who signed up during this period were affected, we are notifying everyone that signed up during this timeframe as a precaution.
+</details>
+
+## [Frederick W. Howarth III](https://oag.ca.gov/system/files/1%20-%20TBG%20West%20Ad%20CA%20Letter.pdf) d/b/a TBG West Insurance Services (“TBG West”) 
+March 27, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We value and respect the privacy of your information, which is why we are writing to advise you of a recent incident that may have involved some of your personal information. On March 27, 2020, our system was impacted by a ransomware event that encrypted certain files. Upon learning of the situation, we promptly investigated the incident with the help of a leading cybersecurity firm and have taken steps to prevent any recurrence. We also notified law enforcement and are cooperating with its investigation.
+</details>
+
+## [Florida State College](https://oag.ca.gov/system/files/FSC%20-%20California%20Notification.pdf)
+February 7, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Blackbaud is a cloud-based software company that provides services to thousands of schools, hospitals, and other nonprofits. On July 16, 2020, Blackbaud notified us that it had discovered a ransomware attack on Blackbaud’s network in May 2020. Blackbaud reported that it conducted an investigation, determined that backup files containing information from its clients had been taken from its network, and an attempt was made to encrypt files to convince Blackbaud to pay a ransom. Blackbaud paid a ransom and obtained confirmation that the files that had been removed had been destroyed.  The time period of unauthorized access was between February 7, 2020 to May 20, 2020. Blackbaud reported that it has been working with law enforcement.
+</details>
+
+## [Filters Fast LLC](https://oag.ca.gov/system/files/FiltersFast_%20CA%20AG%20Notification%28602315182.2%29.pdf)
+July 19, 2019 | Website Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+In late February 2020, Filtersfast was made aware of a possible data security incident affecting its ecommerce website. Filtersfast immediately began investigating the potential issue. The investigation included hiring an outside expert forensics firm to analyze the Filtersfast systems and determine if there was a breach of security. On July 20, 2020, that investigation revealed that attackers had succeeded in adding malicious code to the Filtersfast website on July 15, 2019, which allowed unauthorized individuals to capture certain information during the checkout process. The malicious code was removed on July 10, 2020, during an unrelated update of the website, ending the unauthorized access. The information potentially affected includes customer name, shipping and billing address, and payment card information used to make a purchase on the e-commerce site. 
+</details>
+
+## [Front Rush, LLC](https://oag.ca.gov/system/files/Front%20Rush%20-%20Notice%20of%20Data%20Event.pdf)
+January 18, 2016 | Misconfiguration<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On or around January 5, 2020, Front Rush was informed by a security researcher that one of its Amazon Web Services S3 buckets (“the S3 bucket”) was publicly accessible from the internet. The S3 bucket contained: (a) certain attachments (like transcripts, injury reports, or athletic reports) that were placed in the platform by the institutions; and (b) certain attachments that were uploaded by student-athletes, prospective student-athletes or their parents/guardians, in response to prompts in a recruitment questionnaire formulated and disseminated by the institutions. 
+</details>
+
+## [Fairchild Medical Center](https://oag.ca.gov/system/files/Fairchild%20Medical%20Center.pdf)
+December 16, 2015 | Misconfiguration<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+In late July 2020, FMC was made aware of an issue involving a misconfiguration on one of its servers through a communication from a third-party security company unaffiliated with FMC. FMC immediately commenced an investigation and began working with third party computer specialists to determine the nature and scope of the issue. FMC also immediately addressed the misconfiguration and took steps to secure the server. A third party security company verified that the server security change resolved the issue. Through the investigation, FMC determined that a misconfiguration existed from approximately December 16, 2015 to July 31, 2020 that allowed external individual(s) access to the server.  On November 5, 2020, following an extensive review of forensic evidence associated with the server, FMC’s investigation determined that it could not conclusively rule out unauthorized access to records present on the server during the window of time when the misconfiguration was in place. 
+</details>
+
+# G
+## [Greater Baltimore Medical Center](https://www.gbmc.org/computer-network-incident-update-12-06-2020)
+December 6, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On the morning of Sunday, December 6, 2020, GBMC HealthCare detected a ransomware incident that impacted information technology systems. Although many of our systems are down, GBMC HealthCare has robust processes in place to maintain safe and effective patient care. We are collectively responding in accordance with our well-planned process and policies for this type of event.
+</details>
+
+## [Grass Valley USA, LLC](https://oag.ca.gov/system/files/Breach%20Notification%20Template%20-%20%28Grass%20Valley%29%20%28US%29.pdf)
+November 18, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On November 18, 2020, Grass Valley USA, LLC and its worldwide affiliates (“Grass Valley”) were made aware of a data security incident affecting its former owners, the Belden group. Grass Valley was owned by Belden until July 2020. Belden continues to provide IT, HR and other services for Grass Valley pursuant to the terms of Grass Valley’s divestiture. On the evening of November 12, 2020, Belden IT professionals detected unusual activity involving certain company servers. Belden has reported to Grass Valley that upon detection of this activity, Belden immediately triggered its cybersecurity incident response plan, deployed teams of internal IT specialists, and engaged leading third-party cybersecurity forensic experts and other advisors to identify the scope of the incident and move quickly to mitigate the impact. According to Belden, forensics experts determined that Belden was the target of a sophisticated attack by a party outside the company. We understand that Belden learned on or about November 15, 2020 that the outside party accessed servers that contained, among other things, personal information of various individuals.  Belden informed Grass Valley upon becoming aware that Grass Valley’s current and some former employees were affected by the incident. 
+</details>
+
+## [Glofox Inc.](https://oag.ca.gov/system/files/Final%20Version%20-%20Customer%20Comms.pdf)
+September 26, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On Saturday 14th November, we became aware that an unknown third party had gained unauthorised access to some user data, including names, email addresses, phone numbers, hashed/scrambled passwords, and other optional information like date of birth. No plain text passwords have been exposed.
+</details>
+
+## [Golden Gate Regional Center](https://oag.ca.gov/system/files/Golden%20Gate%20Regional%20Center.pdf)
+September 23, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 23, 2020, GGRC detected unusual activity in its network environment consistent with a ransomware incident. Ransomware incidents typically involve an unauthorized actor gaining access to an entity’s network and deploying malware that encrypts the entity’s files, making them inaccessible. The unauthorized actor then commonly demands a ransom payment in exchange for the key to decrypt the entity’s files. Once GGRC discovered this incident, GGRC disabled its network, secured its systems, immediately began an investigation, and worked to restore operations and data access from backups. GGRC also engaged a leading, independent computer forensics firm to determine what happened and whether sensitive information may have been accessed or acquired by an unknown actor during the incident. Based on preliminary findings of the computer forensics firm, it was determined on October 5, 2020, that certain information belonging to the individuals we serve was acquired by an unknown actor. 
+</details>
+
+## [Genworth](https://oag.ca.gov/system/files/Affected%20Writing%20Producer%20Letter.pdf)
+April 1, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On April 20, 2020, we identified unauthorized access to a select few online producer accounts, due to compromised login credentials. The unauthorized access provided access to documents containing your information.
+</details>
+
+
+## [Georgia Southern University](https://oag.ca.gov/system/files/GSU%20-%20California%20Notification.pdf)
+February 7, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Blackbaud is a cloud-based software company that provides services to thousands of schools, hospitals, and other nonprofits. On July 16, 2020, Blackbaud notified us that it had discovered an attempted ransomware attack on Blackbaud’s network in May 2020. Blackbaud reported that it conducted an investigation, determined that backup files containing information from its clients had been taken from its network, and an attempt was made to encrypt files to convince Blackbaud to pay a ransom. Blackbaud paid a ransom and obtained confirmation that the files removed from its systems had been destroyed. The time period of unauthorized access was between February 7 to May 20, 2020. Blackbaud reported that it has been working with law enforcement.
+</details>
+
+## [Good Samaritan Hospital, Inc](https://oag.ca.gov/system/files/Good%20Samaritan%20%231A%20PHI%20Ad%20SSN%20r3prf.pdf)
+October 22, 2019 | Phishing<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On November 4, 2019, Good Sam became aware of a potential compromise to several of its email accounts as a result of a targeted email phishing campaign that occurred over several days. During the course of this phishing campaign, Good Sam employees began receiving fraudulent emails that appeared to be from a known contact. These fraudulent emails contained a link to a malicious website that was designed to steal email account credentials. Upon discovery, Good Sam swiftly blocked access to the malicious website. Additionally, Good Sam immediately took steps to secure the affected accounts, which included resetting the passwords required to access the affected employee email accounts and implementing additional email and network security measures. Further, Good Sam promptly began investigating the incident with the support of a third-party expert forensics firm. Following progress by experts in their thorough investigation, it was ultimately determined that several employee email accounts experienced unauthorized access between October 28, 2019 and November 8, 2019 as a result of the above-referenced phishing campaign. 
+</details>
+
+## [Greenworks Tools](https://oag.ca.gov/system/files/Greenworks.pdf)
+July 14, 2019 | Website Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On or about June 3, 2020, Greenworks discovered suspicious activity related to its online e-commerce website, www.greenworkstools.com. Greenworks immediately began working with third-party forensic investigators to determine what happened and what information may have been affected. Greenworks also took steps to implement additional procedures to further protect the security of customer debit and credit card information on our website. You can safely and securely use your payment card on our website.<br><br>
+
+On August 14, 2020, the third-party forensic investigators confirmed that Greenworks was the victim of a sophisticated cyber-attack that may have resulted in a compromise to some of our customers’ credit and debit cards used to make purchases on our e-commerce website between July 14, 2019 and June 30, 2020. Greenworks took steps to confirm the identity of the customers whose personally identifiable information may have been impacted. If you entered your payment card information onto our ecommerce website between July 14, 2019 and June 30, 2020 your payment card information may have been impacted. On August 20, 2020 our investigation identified the customers that may have been affected by this incident.
+</details>
+
+# H
+## [H.N.R. Clark, Inc.](https://oag.ca.gov/ecrime/databreach/reports/sb24-197018)
+September 1, 2020 | IT Provider<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On October 13, 2020, we were notified by our tax software provider, Lacerte Intuit, that H.N.R. Clark was the victim of a cyber-security incident, resulting in some tax returns pertaining to our clients being fraudulently filed. To date, we are aware of approximately 52 tax returns fraudulently filed. If your tax return was among these 52 tax returns, we already notified you. 
+</details>
+
+## [Havenly, Inc.](https://oag.ca.gov/system/files/Sample%20Notice_32.pdf)
+June 25, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Havenly, Inc. recently learned that an outside individual gained unauthorized access to a database containing the usernames and hashed passwords of Havenly users. Based upon the findings from an independent forensic investigation, we believe this potential incident may have occurred on or around June 25, 2020. 
+</details>
+
+## [Hoag Clinic](https://oag.ca.gov/system/files/Hoag%20Clinic%20Patient%20Notification%201%20-%20For%20CA%20AG.pdf)
+June 5, 2020 | Laptop Stolen<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On June 5, 2020, we discovered that on that same day, a Hoag Clinic-issued laptop was stolen from a staff member’s vehicle at a worksite parking lot in Newport Beach. The laptop contained certain protected health information (“PHI”) relating to you. While we do not have any evidence that your information was accessed and/or misused, we are reporting this matter to you with details about the incident and the steps we are taking to protect your information.
+</details>
+
+## [Hutchison School](https://oag.ca.gov/system/files/Hutchison%20Breach%20Letter.pdf)
+May 20, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 29, 2020, Hutchison School received notification from Blackbaud that cybercriminals rem
+oved data from Blackbaud's computer system for the purpose of extorting funds from Blackbaud, one of
+ the world's largest cloud providers of education administration, fundraising, and financial managem
+ent software, in May 2020. We have been informed by Blackbaud that its independent forensics experts
+ and law enforcement prevented the cybercriminal from fully encrypting files; and ultimately expelled them from Blackbaud's system. Prior to locking the cybercriminal out, the cybercriminal removed a
+copy of a subset of data from Blackbaud's system. For additional information about this incident and
+ Blackbaud's response, please visit Blackbaud's website, www.blackbaud.com/securityincident.
+</details>
+
+## [Health Formula Inc.](https://oag.ca.gov/system/files/Health%20Formula%20%20-%20Consumer%20Notification%20%28CA%20Version%29%20Proof.pdf)
+April 24, 2020 | Website Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On June 5, 2020, we learned that payment card information may have been acquired without authorization from our website. We immediately initiated an investigation and engaged a digital forensics firm to assist with the investigation. We also took measures to enhance the security of the site. The investigation confirmed that payment card information was acquired without authorization from our website. On August 20, 2020, we learned that your payment card information was involved.
+</details>
+
+## [Hydrocephalus Association](https://oag.ca.gov/system/files/Sample%20Notification%20Letter_6.pdf)
+February 7, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We are contacting you regarding this incident with Blackbaud because some of your personal information may have been disclosed. On July 16, 2020, Blackbaud sent an email to HA stating that it had discovered a security incident in May of 2020. Blackbaud determined that an unauthorized third party had removed a copy of certain non-financial data, including data from HA and other Blackbaud clients, at some point between February 7, 2020 and May 20, 2020. Although Blackbaud told us that it believes the data was destroyed after Blackbaud made a payment in response to a demand from the unauthorized third party, we cannot independently confirm the destruction of the data. Blackbaud has provided additional details about this incident on its website.
+</details>
+
+# I
+## [II-VI Incorporated](https://oag.ca.gov/system/files/II-VI%20Mail%20Proof%20US-Other.pdf)
+November 19, 2020 | Phishing<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On November 19, 2020, II-VI discovered a security incident involving unauthorized access to a II-VI employee email account from which a phishing email was sent that included a link to a page where recipients were requested to enter their II-VI account credentials. While II-VI promptly detected and blocked access to the link from its network, a limited number of recipients responded to the phishing email before II-VI blocked the fraudulent link, which may have exposed their credentials to the bad actor. This incident may have resulted in unauthorized access to certain data and file.
+</details>
+
+## [Indian Health Council](https://oag.ca.gov/system/files/Indian%20Health%20Council%20Inc.pdf)
+September 22, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 22, 2020, we experienced a data security incident that impacted a number of servers and endpoints and disrupted access to certain files on our system. We immediately began an internal investigation and hired independent computer forensic investigators to help us determine what occurred, and whether any information was at risk. The forensic investigator found that an unauthorized actor may have gained access to certain files stored on our system that may have contained some of your PHI. 
+</details>
+
+## [Imperial Community College District](https://oag.ca.gov/system/files/CA%20Notice_10.pdf)
+August 5, 2020 | Account Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On August 6, 2020, ICCD became aware of a potential compromise on our computer network. Upon discovery, ICCD swiftly engaged a third-party forensic company to investigate and we dedicated all of our IT and engineering resources to resolve the problem. Following progress by experts in their thorough investigation, it was ultimately determined that, on August 5, 2020, the administrative account of one employee was hacked and compromised by an unknown source, which allowed unauthorized access onto ICCD’s computer network. Upon confirmation of this unauthorized access, ICCD’s third-party forensic experts immediately investigated whether the affected databases contained individuals’ sensitive information. On October 16, 2020, after a thorough investigation, ICCD learned that the unauthorized access may have enabled access to individuals’ personal information. We diligently began reviewing the list to identify any records that contained information that was considered personally identifiable information (“PII”) under state and federal laws and to obtain sufficient contact information to provide you with this notification
+</details>
+
+## [International Cosmetics & Perfumes](https://oag.ca.gov/system/files/ICP%20_Notice%20of%20Data%20Security%20Incident%20Template.pdf)
+April 29, 2020 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Between April and May 2020, certain email accounts of International Cosmetics & Perfumes’ employees were affected by a business email compromise attack. We learned about the attack following an attempt to divert funds to an authorized account. Upon learning of the incident, we terminated access to the accounts and took steps to mitigate the risks, including engaging local law enforcement and various cyber security experts. We continue to work closely with these experts as we investigate the matter in a safe and timely manner. As a result of our investigation, we have become aware that an unknown actor may have been able to access the personal information on our systems. To date, we have no indication that any personal information beyond the compromised account information was acquired or used. 
+</details>
+
+## [Institute for Integrative Nutrition](https://oag.ca.gov/system/files/IIN%20--%20Sample%20Notice%20of%20Data%20Breach%20%289005729x7AB84%29.pdf)
+March 3, 2020 | Phishing<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+As a result of a phishing incident, an unauthorized party may have obtained access to one IIN employee email account. A phishing incident is a form of online fraud which involves sending official looking emails from a company to make unauthorized purchases or mislead account holders into providing personal information. 
+</details>
+
+## [Inova Health System](https://oag.ca.gov/system/files/Inova%20-%20Patient%20AB292%20%5Bredacted%5D%20%289089426x7AB84%29.PDF)
+February 7, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 16, 2020, Blackbaud notified Inova of a wide-reaching security incident that impacted Blackbaud’s clients across the world. Blackbaud reported to us that they identified an attempted ransomware attack in progress on May 20, 2020. Blackbaud informed us that they stopped the ransomware attack and engaged forensic experts to assist in their internal investigation. That investigation concluded that the threat actor intermittently removed data from Blackbaud’s systems between February 7, 2020 and May 20, 2020. According to Blackbaud, they paid the threat actor to ensure that the data was permanently destroyed.
+</details>
+
+## [INTEGRIS Baptist Medical Center, Inc.](https://oag.ca.gov/system/files/INTEGRIS%20Notification.pdf)
+October 17, 2019 | Device Lost<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On October 17, 2019, we learned that a portable hard drive containing patient information went missing during an on-campus office move that occurred shortly before that date. We immediately conducted a thorough search for the hard drive, but were unable to locate it. We were able to locate a backup copy of the hard drive, and as part of our investigation, we thoroughly analyzed the entire contents of the backup hard drive to determine the patient information contained on the missing hard drive.
+</details>
+
+# J
+## [Joslin Diabetes Center, Inc.](https://oag.ca.gov/system/files/Joslin%20Diabetes%20Center%20Inc.pdf)
+May 14, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Blackbaud reported that, in May 2020, two months before notifying Joslin, it discovered a ransomware incident that resulted in encryption of certain Blackbaud systems. Blackbaud reported the incident to law enforcement and worked with forensic investigators to determine the nature and scope of the incident. Blackbaud notified its customers, including Joslin, that a cybercriminal may have accessed or acquired certain Blackbaud customer data. Blackbaud reported that the data was potentially exported by the threat actor before Blackbaud locked the cybercriminal out of its environment on May 20, 2020. According to Blackbaud the data was destroyed and they do not believe that any data was or will be misused, disseminated or otherwise be made publicly available. Blackbaud further stated that this belief has been corroborated by outside experts and law enforcement.
+</details>
+
+## [JM Bullion, Inc.](https://oag.ca.gov/system/files/JMB-%20Notice%20of%20Data%20Event.pdf)
+January 1, 2020 | Malicious Code<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+ On July 6, 2020, JM Bullion was alerted to suspicious activity on its website. JM Bullion immediately began an investigation, with the assistance of a third-party forensic specialist, to assess the nature and scope of the incident. Through an investigation, it was determined that malicious code was present on the website from February 18, 2020 to July 17, 2020, which had the ability to capture customer information entered into the website in limited scenarios while making a purchase. These scenarios represented a small portion of the transactions processed on JM Bullion’s website during the impacted time frame. You are receiving a notice because you made a purchase on the website during this time frame and your payment card information could be at risk. The malicious code found was permanently removed from the website on July 17, 2020.
+</details>
+
+# K
+## [KeyPoint Credit Union](https://oag.ca.gov/system/files/Notice%20-%20Adult%20SSN%20AC093_v02.pdf)
+August 13, 2020 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently learned that some of your information could have been viewed by an unauthorized third party who gained access to an employee email account in August of 2020. Upon initially learning of the incident, we promptly reset the credentials of the compromised email account to prevent further access. We also retained a leading forensic security firm to investigate and conduct a comprehensive search for any personal information in the impacted email account and to confirm the security of our email and computer systems. This incident was limited to a single email account did not involve any other systems. 
+</details>
+
+## [Keith Fabry](https://oag.ca.gov/system/files/AB515_v02.pdf)
+August 9, 2020 | Website Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On August 31, 2020, we learned that an unknown party gained access to our website, PDFPlotting.com, between February 27, 2020 to August 9, 2020. Upon discovery of this unauthorized activity, Keith Fabry promptly contacted the third-party website host provider that hosts PDFPlotting.com regarding the data security incident. Keith Fabry also engaged a specialized cybersecurity firm to conduct a forensic investigation to determine the scope and extent of the potential unauthorized access to Keith Fabry’s systems and any sensitive information.
+</details>
+
+# L
+## [Law Office of Robert T. Bledsoe](https://oag.ca.gov/system/files/Bledshoe.pdf)
+September 22, 2020 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 22, 2020, we became aware that a firm Network server was used to send unauthorized emails, and we swiftly engaged computer experts to help determine what occurred. The investigation found that the account had been accessed by unauthorized individuals. In response, we reset the passwords to affected email accounts Turned off the known effected Server and implemented additional security controls to prevent further unauthorized access. We are not aware of any unauthorized access to the firm's Data or underlying systems, and we are providing this notice to you as a precautionary measure.
+</details>
+
+## [Lazarus Naturals](https://oag.ca.gov/system/files/Lazarus%20Naturals-%20Notice%20of%20Data%20Event.pdf)
+September 14, 2020 | Code Injection<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 14, 2020, we identified suspicious activity on our website and immediately began an investigation with the assistance of third-party forensic specialists to assess the nature and scope of the incident.  Through the investigation, it was determined that malicious code was inserted by an unauthorized party on the checkout page of our website from September 5, 2020 to September 14, 2020 which may have had the ability to capture customer information while making a purchase. 
+</details>
+
+ 
+## [Long & Foster Real Estate](https://oag.ca.gov/system/files/Long%20%26%20Foster%20Supplemental%20Notice%20Proof.pdf)
+August 22, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On August 22, 2020, we determined that Long & Foster was the victim of a ransomware attack.
+Ransomware is used by cybercriminal(s) to block access to an entity’s environment, including its systems and data.
+Immediately upon detection of the incident, we launched an investigation, with the assistance of leading cybersecurity
+experts and the FBI, to determine what happened and what information, if any, may have been impacted. As part of the
+investigation, we determined the cybercriminal(s) gained access to Long & Foster’s systems on August 22, 2020, and that
+your personal information may have been accessible to the cybercriminal(s) as a result. 
+</details>
+
+## [LiveAuctioneers, LLC](https://oag.ca.gov/system/files/dataincident.pdf)
+June 19, 2020 | IT Provider<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Our cybersecurity team has indeed confirmed that following a cyber attack against one of our IT suppliers on June 19, 2020, an unauthorised third party managed to access certain personal information from our bidder database. We were notified of the incident on July 11, 2020 and began notifying bidders that day through email and our website, based on how recently the bidder had used their LiveAuctioneers account.
+
+LiveAuctioneers was one of a number of their partners who experienced a breach since this IT supplier’s security was compromised. Our cybersecurity team has ensured the unauthorized access has ceased.
+</details>
+
+## [L.A. Tax Service, LLP](https://oag.ca.gov/system/files/Sample%20Notice%20%28LATS%29_0.pdf)
+June 10, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 15, 2020, we were notified by Lacerte Intuit, our tax software, that some tax returns pertaining to our clients were fraudulently filed. To date, we are aware of approximately 50 tax returns fraudulently filed. If your tax return was among these 50 tax returns, we already notified you.<br><br>
+
+Upon receipt of Lacerte Intuit’s notification, we promptly engaged a specialized cybersecurity firm to conduct a forensic investigation to determine the nature and scope of the incident. The forensic investigation was completed on October 7, 2020, revealing that tax returns of our clients were potentially exposed to an unauthorized third party in June 2020 and September 2020. After an internal investigation concluded on October 16, 2020, we determined that you were among the individuals potentially impacted by the incidents. 
+</details>
+
+## [Living Beyond Breast Cancer](https://oag.ca.gov/system/files/LBBC%20-%20California%20Notification.pdf)
+February 7, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Blackbaud is a cloud-based software company that provides services to thousands of schools, hospitals, and other nonprofits. On July 16, 2020, Blackbaud notified us that it had discovered a ransomware attack on Blackbaud’s network in May 2020. Blackbaud reported that it conducted an investigation, determined that backup files containing information from its clients had been taken from its network, and an attempt was made to encrypt files to convince Blackbaud to pay a ransom. Blackbaud paid a ransom and obtained confirmation that the files removed from its network had been destroyed. Blackbaud reported that it has been working with law enforcement. Upon learning of the incident from Blackbaud, we conducted our own investigation of the Blackbaud services we use and the information provided by Blackbaud to determine what information was involved in the incident. On August 18, 2020, we determined that the backup files contained certain information pertaining to you. 
+</details>
+
+## [Lemoore Union High School](https://oag.ca.gov/system/files/Lemoore.Email_.Notification.final_.pdf)
+November 4, 2019 | Vulnerability<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+LUHSD uses the Aeries Student Information System to provide students and their parents with online access to information regarding school events and schedules. In late November 2019, Aeries learned that an unauthorized individual attempted to exploit a vulnerability in the Aeries software that would allow access to student and parent information. Aeries later determined that the exploit was successful.  Upon discovery, Aeries began an investigation and law enforcement launched an investigation to identify the person responsible, who Aeries believes is now in police custody. On April 27, 2020, Aeries confirmed to us that this individual may have accessed LUHSD’s Aeries System. 
+</details>
+
+# M
+## [Monterey Bay Air Resources District](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach_8.pdf)
+November 23, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The District's systems were compromised by ransomeware on November 23, 2020. Unauthorized individuals encrypted a significant portion of the District's files and rendered them unusable. This incident also affected the District's email servers.
+</details>
+
+## [Minerals Technologies Inc.](https://oag.ca.gov/system/files/Final%20Individual%20Notice%20Letter.pdf)
+October 20, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On or about October 20, 2020, Minerals Technologies Inc. (“MTI”) experienced a security breach, which resulted in the compromise of certain servers maintained by MTI. In response, among other things, MTI immediately retained an IT firm to conduct a thorough forensic investigation into the circumstances surrounding the incident. On October 22, 2020, based upon its preliminary investigation, MTI learned that this incident may have resulted in unauthorized access to the PII of certain MTI employees and their dependents. While we have no indication that any personal information has been misused, we are providing this notification to you out of an abundance of caution, so that you may diligently monitor your accounts and those of your dependents. 
+</details>
+
+## [Mount Diablo Unified School District](https://oag.ca.gov/ecrime/databreach/reports/sb24-195323)
+September 14, 2020 | IT Provider<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On Monday, September 14, 2020, the District was informed that when certain parents were using the SchoolMessenger mobile application, they were able to view a list of roughly thirty (30) unique names, emails, and phone numbers not associated with their family. After initial verification of the incident, our district immediately contacted Intrado, which is the parent company for SchoolMessenger, to shut down all parent access to the SchoolMessenger application. In addition, together with Intrado, the District is working to investigate the specifics about what took place and how it can be prevented in the future. 
+</details>
+
+## [Metropolitan Life Insurance Company](https://oag.ca.gov/system/files/PRI-15674%20CA%20Individual%20Notification.pdf)
+July 24, 2020 | User Error<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We are writing to you about an incident concerning your personal information. On July 24, 2020, MetLife inadvertently sent an email with a report to a benefits department at a company you do not and have not worked for. This report contained some of your information. The recipient forwarded the report to one of their benefits consultants who then immediately notified MetLife of the issue on July 27, 2020. 
+</details>
+
+## [Morgan Stanley](https://oag.ca.gov/system/files/MS%20-%20Template%20CA%20Consumer%20Notice.pdf)
+n/a , 2020 | Vulnerability<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+In 2016, Morgan Stanley closed two data centers and decommissioned the computer equipment in both locations. As is customary, we contracted with a vendor to remove the data from the devices. We subsequently learned that certain devices believed to have been wiped of all information still contained some unencrypted data. Separately, in 2019, Morgan Stanley disconnected and replaced a computer server in a local branch office. That server had stored information on encrypted disks that may have included personal information. During a recent inventory, we were unable to locate that device. The manufacturer subsequently informed us of a software flaw that could have resulted in small amounts of previously deleted data remaining on the disks in unencrypted form. We have worked with outside technical experts to understand the facts and any potential risks.
+</details>
+
+## [MEDNAX Services, Inc.](https://oag.ca.gov/system/files/Attachment%20-%20CA%20Individual%20Notice%20Letters.pdf)
+June 17, 2020 | Phishing<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On June 19, 2020, MEDNAX discovered that an unauthorized third party gained access to certain Microsoft Office 365-hosted MEDNAX business email accounts through phishing. “Phishing” occurs when an email is sent that looks like it is from a trustworthy source, but it is not. The phishing email prompts the recipient to share or give access to certain information. Upon discovery of this event, MEDNAX immediately took action to prevent any further unauthorized activity, began an investigation, and engaged a national forensic firm.
+</details>
+
+## [Museum of Contemporary Art Santa Barbara]()
+May 31, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The Cybercrime industry represents an over trillion-dollar industry that is ever-changing and growing all the time—a threat to all companies around the world. At Blackbaud, our Cyber Security team successfully defends against millions of attacks each month and is constantly studying the landscape to ensure we are able to stay ahead of this sophisticated criminal industry. In May of 2020, we discovered and stopped a ransomware attack. In a ransomware attack, cybercriminals attempt to disrupt the business by locking companies out of their own data and servers. After discovering the attempted attack, our Cyber Security team—together with independent forensics experts and law enforcement—successfully prevented the cybercriminal from blocking our system access and fully encrypting files; and ultimately expelled them from our system.
+</details>
+
+## [Medical Depot, Inc.](https://oag.ca.gov/system/files/Final%20Individual%20Notice%20Letter.pdf), d/b/a Drive DeVilbiss Healthcare
+May 25, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On or about June 4, 2020, we learned that an unauthorized third party had gained remote access to Drive Medical•s network in an effort to disrupt our operations. We quickly began to investigate, with the support of outside cybersecurity experts. We do not yet know when the unauthorized third party first gained remote access to our network. Although the investigation is ongoing, we learned recently that the unauthorized third party gained access to, acquired, and briefly possessed an electronic file system containing some of our internal company information, including information pertaining to our current and former employees, as well as their designated beneficiaries for company provided benefits such as life insurance.
+</details>
+
+## [Mono County](https://oag.ca.gov/system/files/Final%20Data%20Breach%20Notification%20Letter%20-%20Full%20Name.pdf)
+April 9, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The incident leading to the potential breach of your protected health information involved unauthorized access into our database by at least one member of the public. The County became aware of this breach on July 28, 2020 and as required by law, is notifying potentially affected individuals in as timely a manner as possible, while protecting the integrity of the ongoing forensic investigation. While it remains unclear whether your personal health information was, in fact, accessed, it is the County’s duty to notify you of the possibility. 
+</details>
+
+## [Mono County](https://oag.ca.gov/system/files/Final%20Data%20Breach%20Notification%20Letter%20-%20Full%20Name.pdf)
+April 9, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The incident leading to the potential breach of your protected health information involved unauthorized access into our database by at least one member of the public. The County became aware of this breach on July 28, 2020 and as required by law, is notifying potentially affected individuals in as timely a manner as possible, while protecting the integrity of the ongoing forensic investigation. While it remains unclear whether your personal health information was, in fact, accessed, it is the County’s duty to notify you of the possibility.
+</details>
+
+## [Metropolitan Community College of Kansas City](https://oag.ca.gov/system/files/MCCKC%20-%20CA%20Notice%20of%20Data%20Event.pdf)
+March 10, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On June 19, 2020, MCCKC determined that your information may have been available to an unauthorized party due to a ransomware attack that resulted in certain data being encrypted. Following the incident, MCCKC immediately engaged a third party to conduct a forensic investigation with the objective of identifying the potential scope of access the threat actor may have had to the environment during the period of unauthorized access, which included arriving at a determination as to whether sensitive personal data was accessed by an unauthorized third party. The forensic investigation was recently completed and determined that an unauthorized individual may have had access to the MCCKC environment. The forensic investigation did not conclude or preclude that data was extracted from MCCKC’s systems however, it is possible that certain personal data, including names, Social Security numbers, drivers’ license information and medical information of former, prospective, and current students could have been accessed by an unauthorized party.  The investigation further acknowledged that the names, Social Security numbers and bank account information of employees could have been accessible as well, however, there is no evidence that any personal information was extracted from MCC’s systems or subject to actual or attempted misuse. Although the investigation did not find any specific access to any individual’s information and MCCKC has no indication that data has been extracted from MCCKC’s systems or misused, we have chosen to notify all potentially impacted parties of this incident out of an abundance of caution and in full transparency. 
+</details>
+
+## [Mechanics Bank, dba CRB Auto](https://oag.ca.gov/system/files/20200827%20-%2027848%20MLM%20Print%20LTRs%20proof%20%28final%29.pdf)
+February 14, 2020 | Misconfiguration<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+In February 2020, Mechanics Bank donated aging computers to a non-profit organization. As is standard, prior to donation, Mechanics Bank personnel removed the hard drives from the machines being donated. On the same day that the computers were donated, an information security official from the entity that received the donated computers contacted Mechanics Bank and notified it that a single hard drive had been missed and not removed. The hard drive was immediately secured and returned to Mechanics Bank.
+</details>
+
+## [Made In Oregon](https://oag.ca.gov/system/files/Made%20In%20Oregon%20Letter.pdf)
+February 3, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Between the first week of February 2020 and the last week of August 2020, an unauthorized party may have gained access to your personal information submitted with your order entered through our website.
+</details>
+
+## [Methodist Hospital of Southern California](https://oag.ca.gov/system/files/Patient%20Letter%20%28DWT%20final%2010.20.2020%29.pdf)
+February 1, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 9, 2020, we were notified by the Foundation that Blackbaud discovered and
+stopped a ransomware attack that included the Foundation’s donor database, as well as those
+of many other nonprofit organizations. The ransomware attack occurred between February and
+May 2020, but Blackbaud and the Foundation took time to determine which organizations were
+impacted before we were notified of the attack. 
+</details>
+
+## [MetaBrainz](https://oag.ca.gov/system/files/Data%20breach%20report%20-%20for%20submission.pdf)
+April 26, 2019 | Programming Error<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The email address and date of birth (when present) of the user who wrote the latest annotation for any given MusicBrainz entity were available between 2019-04-26 and 2020-11-22 on a JSON block in the source of the entity page (e.g. [1]) We have investigated our database to determine which users were affected. You were one of those, and your email address and date of birth, if you entered it, were temporarily available on our web page. The data was never displayed on the page in a human visible way -- it was embedded in the web page source as JSON. The page source can be viewed with “view source” on your web browser.
+</details>
+
+## [Merani Hospitality, Inc.](https://oag.ca.gov/system/files/Notice%20of%20a%20Data%20Incident%20%E2%80%93%20Merani%20Hotel%20Group.pdf)
+February 16, 2017 | Malware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Merani Hospitality, Inc. ("Merani") is committed to protecting the privacy of the information entrusted to us and takes this responsibility seriously. This commitment extends to notifying individuals when their information may be compromised. On May 14, 2020, Merani discovered that certain of our customers' information could have been detained by a third-party that placed unauthorized computer code on payment processing system used at Parkway Prime Restaurant located at 401 Buffalo Avenue, Niagara Falls, NY 14303. The code may have targeted certain personal information of customers who made credit card purchases at the restaurant between February 16, 2017 and May 20, 2020. This information included customer names, credit or debit card numbers, CVV codes and expiration dates.
+</details>
+
+# N
+## [National Railroad Corporation](https://oag.ca.gov/system/files/Amtrak%20AGR%20Member%20Notification%20Letter_11.4.DF_.pdf)
+July 24, 2020 | Account Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 24, 2020, Amtrak detected that an unknown third party may have gained unauthorized access to certain Amtrak Guest Rewards accounts. Your account was not among these accounts. However, in responding, our security team identified some suspicious activity relating to other rewards accounts including your account. We reset the passwords for potentially affected accounts and implemented additional safeguards.
+</details>
+
+## [Northwest Foundation, Inc.](https://oag.ca.gov/system/files/Blackbaud%20Notification%20Letter.pdf)
+July 16, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 16, 2020, we were contacted by Blackbaud, one of the world’s largest providers of customer relationship management systems for not-for-profit organizations and the higher education sector.  Company representatives informed us that a Blackbaud service provider had been the victim of a ransomware attack that culminated in May 2020. The cybercriminal was unsuccessful in blocking access to the database involved in the attack, however, the cybercriminal was able to remove a copy of a subset of data from several of Blackbaud’s clients including data of Northwest Foundation. 
+</details>
+
+## [Nutranext, LLC](https://oag.ca.gov/system/files/EXPERIAN_F7566_L01_L01_Clorox_CA.pdf)
+May 27, 2020 | Malware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We are writing to inform you that Nutranext recently became aware that it was the victim of a malware attack, which may have resulted in a breach of your personal information. On May 27, 2020 someone outside our company maliciously installed software without authorization that potentially allowed them to capture personal information from people using our websites for Rainbow Light®, Natural Vitality® and Neocell®. As soon as we became aware of this intrusion, we shut down our websites to prevent unauthorized access to consumer data and partnered with cybersecurity experts to investigate the issue. 
+</details>
+
+## [Northern Light Health](https://oag.ca.gov/system/files/Northern%20Light%20Health.pdf)
+May 14, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Blackbaud reported that in May 2020, it experienced a ransomware attack during which certain information it maintained for its customers was taken “hostage” by a cybercriminal. Blackbaud reported the incident to law enforcement and worked with forensic consultants to investigate. Following its investigation, Blackbaud notified its customers that a cybercriminal may have accessed or acquired certain Blackbaud customer data before Blackbaud locked the unknown actor out of the environment on May 20, 2020. Upon learning of the Blackbaud incident, Northern Light Health immediately began to determine what, if any, sensitive Northern Light Health data was potentially involved. This investigation included working diligently to gather further information from Blackbaud to understand the scope of the incident. On July 30, 2020, Northern Light Health received further information from Blackbaud that allowed us to determine that the information affected included some limited protected health information. 
+</details>
+
+## [NCP Healthcare Management Company](https://oag.ca.gov/system/files/Letter%20Version%201.pdf)
+April 27, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On April 27, 2020, an unauthorized individual obtained access to the email account of an NCP employee. NCP became aware of the unauthorized access on May 19, 2020 and took immediate steps to contain the incident. We terminated the unauthorized access to the email account the same day it was discovered and worked with a leading cybersecurity forensics firm to investigate this matter. As part of our investigation, NCP conducted an extensive review of the employee’s email account to determine if any emails contained personal information. Unfortunately, on or around June 18, 2020, we identified information about you within the employee’s mailbox. All available evidence suggests that the unauthorized individual’s purpose was to attempt to commit financial fraud against NCP—not to seek and obtain any personal information about the Clinic’s patients. Importantly, there is no evidence that the unauthorized person actually viewed any emails containing your information.
+</details>
+
+## [NRI USA, LLC](https://oag.ca.gov/system/files/NRI%20Distribution%20Ad%20CA%20r2prf.pdf)
+September 3, 2019 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On October 15, 2019, we learned that an unauthorized individual attempted to use one of our corporate email addresses to misdirect a payment intended for NRI. We immediately began an investigation and, based on the available evidence, determined that there had been unauthorized access to two (2) corporate email accounts between September 3, 2019 and October 23, 2019. Our investigation showed that the email accounts were used by employees from NRI and our related companies. On October 24, 2019, we determined that your personal information may have been accessed.
+</details>
+
+## [Northgate Gonzalez, LLC](https://oag.ca.gov/system/files/Northgate%20Gonzalez%20Ad%20CA%20r3prf.pdf)
+January 7, 2019 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Northgate Gonzalez discovered suspicious activity related to a certain Northgate Gonzalez employee’s email account. Upon discovery, Northgate Gonzalez immediately launched an investigation, with the aid of forensic investigators, to determine the nature and scope of the activity. Northgate Gonzalez’s investigation determined that there was unauthorized access to certain emails and attachments between January 7, 2019 and January 7, 2020. Northgate Gonzalez began reviewing the affected email account to determine what, if any, sensitive information it contained. On April 7, 2020 Northgate Gonzalez’s review determined that the email account contained certain information related to you, and as such, is providing notice.
+</details>
+
+## [Next Glass, Inc.](https://oag.ca.gov/system/files/2020%200717%20Next%20Glass.pdf) 
+n/a , 2012 | Breach<br> 
+{: .fs-4 .fw-700 .lh-0  } 
+<details> 
+  <summary>Abstract</summary>
+We recently became aware of a breach of BeerAdvocate user data that occurred between 2012 and 2013.  After a thorough investigation from an independent third party cyber security firm, it was confirmed that BeerAdvocate user login credentials (email address, BeerAdvocate forum password) were lost and aggregated along with breaches of other websites into a breach dataset that became known as CouponMom 2014. We are notifying you as your BeerAdvocate forum login credentials may have been affected at that time. Importantly, BeerAdvocate did not possess or lose any financial information or information that is likely to lead to identity theft.
+</details>
+
+# O
+## [One Workplace Ferrari, LLC](https://oag.ca.gov/system/files/One%20Workplace%20employee%20notification%20letter%28FINAL%29.pdf) dba One Workplace
+August 14, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On August 14, 2020, One Workplace was alerted to suspicious activity on our computer network. We hired cybersecurity experts and a computer forensic investigator to help us investigate the incident, ensure the safety of our environment, and confirm whether anyone’s personal information was impacted. The investigation confirmed that we were the victim of a ransomware attack, and an unauthorized individual had gained access to our network. Based on the investigation, the attacker viewed and removed some data stored in the system. On September 17, 2020, we confirmed that the data viewed or taken by the attacker included employees’ personal information
+</details>
+
+## [Osmose Utilities Services, Inc.](https://oag.ca.gov/system/files/Osmose%20-%20California%20Notification.pdf) 
+July 6, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 13, 2020, Osmose suffered a cyber attack against our computer systems, whereby some of our systems were encrypted. We immediately secured the affected systems, launched an investigation to determine the nature and scope of the incident, and a specialized cybersecurity firm was engaged to assist. We restored our computer systems to fully operational. 
+</details>
+
+## [OTR Leasing, LLC](https://oag.ca.gov/system/files/OTR%20-%20California%20Notification.pdf)
+January 14, 2020 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently learned that an unauthorized person gained access to a limited number of employee email accounts with personal information between January 14, 2020 and January 20, 2020. We immediately secured the accounts and a leading cyber security firm was hired to assist with the investigation. 
+</details>
+
+# P
+## [Promo.com Ltd.](https://oag.ca.gov/system/files/Notices%20of%20Data%20Breach%285576039.1%29.pdf)
+June 22, 2020 | IT Provider<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 21, 2020, our team became aware that a data security vulnerability on a thirdparty service which affected many companies had caused a breach affecting certain non-finance related Slidely and Promo user data. We immediately launched an internal investigation to identify what had occurred and to take all necessary steps to protect our customers.
+</details>
+
+## [PULAU Corporation](https://oag.ca.gov/system/files/PULAU%20-%20Individual%20Notification%20Letter%20-%20General%20Population.pdf)
+June 11, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We are writing to notify you of a data security issue involving certain of your personal information. We recently learned that an unauthorized party accessed some systems on our network between approximately June 11 and June 29, 2020. Promptly after learning of the matter, we began to investigate its nature and scope and secure our systems. We engaged leading security experts to assist with our investigation and we coordinated with law enforcement authorities on the matter. Based on our investigation, we believe the unauthorized party acquired certain employment-related records stored on the affected systems. The affected records contained certain personal information, such as name, contact information, date of birth, government-issued ID (such as Social Security, passport, military ID, tax ID and/or driver’s license numbers), financial account information (such as bank account and/or payment card information), online account usernames and passwords, and/or health-related information (including health insurance information).  Importantly, not all of this information was affected for each impacted individual. 
+</details>
+
+## [Pivot Technology Solutions, Inc.](https://oag.ca.gov/system/files/Notification%20Letter.PDF)
+June 9, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On June 12, 2020, the Companies were the victim of a cybersecurity attack by an unauthorized third party, where the unauthorized party attempted to encrypt parts of the Companies’ technology infrastructure (the “Incident”). On July 1, 2020, the Companies discovered that the unauthorized third party had gained access to and exfiltrated limited personal information of US employees and consultants, and immediately undertook an investigation to determine the scope of the information affected.
+</details>
+
+## [Polycystic Kidney Disease Foundation](https://oag.ca.gov/system/files/PKD%20Foundation%20Data%20Security%20Breach%20Notice%20Letter.pdf)
+May 1, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 16, 2020, we were contacted by Blackbaud, one of the world’s largest providers of customer relationship management systems for not-for-profit organizations and the higher education sector. Company representatives informed us that a Blackbaud service provider had been the victim of a ransomware attack that culminated in May 2020. The cybercriminal was unsuccessful in blocking access to the database involved in the attack, however, the cybercriminal was able to remove a copy of a subset of data from several of Blackbaud’s clients including data of Polycystic Kidney Disease Foundation. 
+</details>
+
+## [Pacific Huntington Hotel Corporation](https://oag.ca.gov/system/files/EXPERIAN_F6968_Revised_TLLAX%20-%20Cyber%20-%20Template%20notification%20letter%20%28DRAFT%2020200804%29_SAS_PROOF.pdf)
+April 10, 2020 | Phishing<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On 28 April 2020, The Langham, Huntington, Pasadena confirmed that through a phishing attack, a third party gained unauthorised access to the mailbox of an employee of the hotel on April 10, 2020 and had access to the mailbox for approximately two weeks. 
+</details>
+
+## [Patriot Growth Insurance Services, LLC](https://oag.ca.gov/system/files/Patriot%20CBM%20Breach%20Letter.pdf)
+March 10, 2020 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On March 11, 2020, CBM discovered suspicious activity related to a CBM employee’s email account. We immediately took steps to secure the employee’s email account and launched an investigation which included working with a third-party forensic investigator to determine the nature and scope of the activity. On March 21, 2020, the investigation determined that a CBM employee email account had their account credentials being used by an unknown actor(s) to gain unauthorized access to the account on separate occasions on March 10, 2020 and March 11, 2020. During this limited timeframe, the unauthorized actor may have had access to certain emails and attachments within the account.
+</details>
+
+## [PupBox](https://oag.ca.gov/system/files/Experian_F8590_L02_PupBox_CA%20Template.docx_SAS_PROOF_Rev1.pdf), c/o Petco Animal Supplies Stores, Inc.
+February 11, 2020 | Website Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We are writing to inform you that on September 2, 2020, PupBox (a business unit of Petco Animal Supplies Stores, Inc.) became aware of a security incident which affected the PupBox website and may have resulted in a breach of your personal information. On August 7, 2020, we received a notification that fraudulent activities may have occurred on credit cards that were used on the PupBox website between February 26, 2020 and July 21, 2020. We promptly launched an investigation with the assistance of a leading cybersecurity firm, which revealed an unauthorized plugin on the PupBox website. The plugin allowed personal information to be captured and shared with a third-party server between February 11, 2020 and August 9, 2020. 
+</details>
+
+## [Prostate Cancer Foundation](https://oag.ca.gov/system/files/Letter%20re%20Data%20Breach-Package%20A.pdf)
+February 7, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We were recently notified by one of our third-party service providers of a security incident. At this time, we understand they discovered and stopped a ransomware attack. After discovering the attack, the service provider’s Cyber Security team—together with independent forensics experts and law enforcement— successfully prevented the cybercriminal from blocking their system access and fully encrypting files; and ultimately expelled them from their system. Prior to locking the cybercriminal out, the cybercriminal removed a copy of our backup file containing your personal information. This occurred at some point beginning on February 7, 2020 and could have been in there intermittently until May 20, 2020. 
+</details>
+
+## [Patriot Growth Insurance Services, LLC](https://oag.ca.gov/system/files/PGIS%20Breach%20Letter.pdf)
+December 23, 2019 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On January 7, 2020 VBS discovered suspicious activity in a VBS employee’s email account. We immediately took steps to secure the employee’s email account and launched an investigation which included working with a third-party forensic investigator to determine the nature and scope of the activity. On January 17, 2020, the investigation determined that two (2) VBS employee email accounts had their account credentials being used by an unknown actor(s) to gain unauthorized access to each account. The investigation confirmed the unauthorized actor(s) gained access on separate occasions to one account between December 23, 2019 and January 13, 2020 and the second account between January 6, 2020 and January 7, 2020. During this limited timeframe, the unauthorized actor may have had access to certain emails and attachments within the accounts.
+</details>
+
+## [Ply Gem Residential Solutions](https://oag.ca.gov/system/files/Ply%20Gem%20-%20California%20Notification.pdf)
+July 26, 2019 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently concluded an investigation and analysis of a data security incident involving unauthorized access to some employees’ email accounts. Upon learning of the incident, we immediately secured the accounts, launched an investigation, and engaged a cyber security firm to assist. Our investigation determined that an unauthorized person obtained access to the email accounts at various times between July 26, 2019 and November 18, 2019. 
+</details>
+
+## [Paysafe Group Holdings Limited](https://oag.ca.gov/system/files/Template%20Individual%20Notification.pdf)
+May 13, 2018 | Website Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On November 6, 2020, through Merchant Services’* internal cybersecurity program, we discovered a potential compromise of a website used by part of our U.S. business. We promptly initiated an investigation to determine the nature and potential impact of the vulnerability. In the course of doing so, we identified suspicious activity indicating that an unauthorized actor submitted automated queries to the website. We created a secure environment to test the queries, using available logs and other information to assess potential impact. By November 19, 2020, we determined that a subset of the queries identified might have involved data held on the website. We analyzed logs and other information available to assess whether those queries could have returned information to unauthorized actors, and we engaged external forensics experts to assist. By December 3, 2020, we determined that some queries may have compromised certain information held on the website, although the evidence is not conclusive. At this time, we have identified evidence of suspicious activity on the website between May 13, 2018, and November 24, 2020. We have notified law enforcement.  Although we are not aware of any evidence confirming that the activity resulted in unauthorized actors acquiring or misusing your personal information, we are providing this notice out of an abundance of caution so that you can take steps to protect yourself.
+</details>
+
+# R
+## [River City Bank](https://oag.ca.gov/system/files/River%20City%20-%20California%20Notice.pdf)
+September 29, 2020 | Insider Threat<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 29, 2020, we discovered some unauthorized activity performed by a Bank employee. This individual downloaded customer data, including yours, to a personal storage drive and later sent the information to a third party. In doing so, the employee exceeded their authorized access, which was limited to accessing the Bank’s data for legitimate bank purposes. When we first learned of this incident, we took immediate steps to restrict the employee’s system access.  We also reported the incident to law enforcement. A thorough investigation was conducted by a forensic investigation firm to determine what happened, who was impacted, and what information may have been affected.
+</details>
+
+## [Rocklin Unified School District](https://oag.ca.gov/system/files/RUSD%20-%20NutriKids%20-%20NutriLink%20Breach%20Parent%20Notification.pdf)
+September 18, 2020 | Vulnerability<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 17, 2020 we were informed by Rocklin Unified Parent that there was a bug in the NutriLink software that may allow unauthorized access to the NutriKids-NutriLink system. The initial report was focused on NutriKids-NutriLink Databases where families can look up information on their student(s), which we do use and Link® to through our district website.
+</details>
+
+## [RadNet, Inc.](https://oag.ca.gov/system/files/Radnet%20Consumer%20Notice%20%282%29.pdf)
+July 18, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+I am writing to let you know of an incident that may have affected your personal information. On July 18, an unknown third party gained access to a RadNet server that was used to store certain employee data, and copied certain files to an external server. RadNet quickly discovered this activity and blocked further access to the files and its systems and retrieved the copied files. 
+</details>
+
+## [Robie & Matthai APC](https://oag.ca.gov/system/files/Robie%20%26%20Matthai%2C%20P.C.%20V5%20Print%20Proof.pdf)
+May 7, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On May 7, 2020, Robie & Matthai, APC (the “Firm”) was the victim of a ransomware attack. We were able to recover our information from offline backups with no significant interruption in service. After a third-party forensic analysis, however, we determined that the individual(s) who carried out this attack (the “Attacker”) may have accessed some of the personal information on our system. You are receiving this notice because we believe your personal information may have been included among that data set.
+</details>
+
+## [Romanazzi & Associates](https://oag.ca.gov/system/files/Letter%201.%20Final%20Draft%207-10-20.pdf)
+April 16, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On April 22, 2020, we learned that fraudulent tax returns were filed for a few of our clients.  Based on this information, we contacted our tax software vendor and the Internal Revenue Service as well as the local police and FBI offices to investigate the issue. We also engaged IT professionals to perform a scan and analysis of our system. We immediately took steps to secure the access to our systems and tax software and the client information contained therein. 
+</details>
+
+## [Rady Children’s Hospital](https://oag.ca.gov/system/files/RCHSD-Blackbaud%20-%20Notification%20Letter%20%28Adult%20Identity%20Monitoring%20with%20Spanish%20Translation%29.pdf) - San Diego and Rady Children’s Hospital Foundation – San Diego
+February 7, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Blackbaud recently informed us that it experienced a data security incident that may have involved information pertaining to members of our community who provided information to Rady Children’s Hospital – San Diego or the Rady Children’s Hospital Foundation – San Diego. Upon learning of the incident, we immediately launched an investigation to determine what happened and whether any personal information was impacted. According to Blackbaud, between February 7, 2020 and June 4, 2020, an unauthorized party had access to backup files related to the Blackbaud fundraising and donor management software we use. Upon learning this information, we retained outside cybersecurity experts, including a vendor to review the backup data at issue. On October 7, 2020, we determined that some of your personal information was contained in the backup files.  Blackbaud has informed us that it has no reason to believe that any information in the files has been or will be misused, or will otherwise be made available publicly. We nonetheless wanted to make you aware of this incident and offer you complimentary identity monitoring services to help alleviate any concern you may have. 
+</details>
+
+# S
+## [Sam's Club](https://oag.ca.gov/system/files/Sams%20Club%20-%20Individual%20Notification%20Letter%20Template.pdf)
+September 24, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently learned that, in mid-September, an unauthorized party used your login credentials (email address and password) to access your Sam's Club account. Based on our investigation, the credential
+s used did not come from Sam's Club. Instead, it is likely that your credentials were taken from another source, for example another company's website, where you may have used the same or similar login information. The unauthorized party may have used this login information to conduct fraudulent transactions involving your Sam's Club Cash Rewards.
+</details>
+
+## [Sonoma Valley Healthcare District](https://oag.ca.gov/system/files/Sonoma%20Valley%20Health%20Ad%20No%20CM%20r1prf.pdf)
+September 10, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+SVH experienced a ransomware cyberattack on October 11, 2020 by what is believed to be a Russian “threat actor.” This event was part of a broader attack on dozens of hospitals across the country. We discovered the attack on that same day and immediately responded by shutting down all systems to contain the damage. We promptly notified law enforcement of the incident and engaged a leading external cybersecurity firm to assess the potential disclosure of protected health information.<br><br>
+
+In a ransomware attack, cybercriminals attempt to disrupt the business by locking companies out of their own data and servers. After discovering the attack, our cyber security team – in partnership with outside information technology and forensics experts – successfully prevented the cybercriminal from blocking our system access and ultimately expelled them from our system. As recommended, SVH did not pay ransom.
+</details>
+
+## [Southern Mono Healthcare District](https://oag.ca.gov/system/files/Notice%20of%20Unauthorized%20Access%20to%20Medical%20Information%20%28Template%20for%20SSN%20disclosure%29.pdf) d/b/a Mammoth Hospital
+September 5, 2020 | Laptop Stolen<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The incident occurred on 09/05/2020. Mammoth Hospital was notified on that date. A laptop of a Mammoth Hospital staff member was stolen from a vehicle. 
+</details>
+
+## [SiteOne Landscape Supply, Inc.](https://oag.ca.gov/system/files/SiteOne%20-%20California%20Notice.pdf)
+July 2, 2020 | Network Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Upon identifying the incident on July 14, 2020, we immediately took steps to protect and secure our systems and launched an investigation. Through our investigation, we determined that an unauthorized party gained access to our IT network between July 2, 2020 and July 14, 2020, and removed certain files.
+</details>
+
+## [Sonoma Recovery Services](https://oag.ca.gov/system/files/Sonoma%20Recovery%20Services%2C%20LLC%20-%20Notice.pdf), LLC d/b/a Olympia House
+July 1, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On August 7, 2020, Olympia House was alerted to suspicious behavior within its network. Olympia House immediately began an investigation to determine the nature and scope of the event. This investigation included working with third-party forensic experts. Once Olympia House systems were secure, our efforts focused on determining what information was impacted, to whom the information related, and valid address information for those individuals to provide notice of the event.  The investigation determined that certain files within the Olympia House system were accessed without authorization between July 1, 2020 through August 7, 2020.
+</details>
+
+## [Salinas Valley Memorial Healthcare System](https://oag.ca.gov/system/files/SVMHS%20Form%20of%20Patient%20Notification%20%28L01%29.pdf)
+April 24, 2020 | Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On April 30, 2020, SVMHS determined that the email account of one of its employees had been compromised.  On May 7, 2020 and June 5, 2020 respectively, SVMHS subsequently determined that email accounts of a contractor and three other employees were also compromised. These five email accounts were compromised through Outlook Web Access, SVMHS’s browser-based email access solution.
+</details>
+
+## [Steel Partners](https://oag.ca.gov/system/files/2020-11-18%20FINAL%20Steel%20Partners%20Resident%20Notification%20Letter%20III.pdf)
+April 18, 2020 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Steel Partners discovered unauthorized activity in the email account of one of its employees and immediately initiated an investigation, which identified unauthorized access to that email account.  Steel Partners locked the account and promptly engaged a forensic security firm to assist. The investigation identified that the method by which the email account was accessed allowed for a local download of the entire mailbox. On May 29, 2020, it was determined that there were documents within the employee’s email account that contained personal information. A broader review of our systems indicated that only one email account was impacted. We are notifying you because some of your personal information was contained in documents within the Steel Partners employee’s email account.
+</details>
+
+## [Stockpile, Inc.](https://oag.ca.gov/system/files/EXPERIAN_F6848_Stockpile%20-%20Breach%20Notification%20Letter.pdf)
+April 17, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On or about July 9, 2020, Stockpile discovered that an unauthorized person gained access to a folder in its cloud environment containing personal information collected as part of Stockpile’s registration process. As a result, the unauthorized third party may have viewed certain elements of your personal information. The incident occurred potentially as early as April 17, 2020, and Stockpile recently identified you as a potentially affected individual.
+</details>
+
+## [Spotify USA Inc.](https://oag.ca.gov/system/files/Copy%20of%20Spotify%20Breach%20Notice%20Letter%20%28CALIFORNIA%29.DOCX_.pdf)
+April 9, 2020 | Vulnerability<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On Thursday November 12th, Spotify discovered a vulnerability in our system that inadvertently exposed your Spotify account registration information, which may have included email address, your preferred display name, password, gender, and date of birth only to certain business partners of Spotify. Spotify did not make this information publicly accessible. We estimate that this vulnerability existed as of April 9, 2020 until we discovered it on November 12, 2020, when we took immediate steps to correct it.
+</details>
+
+## [San Dieguito Union High School District](https://oag.ca.gov/system/files/AB279_v01.pdf)
+April 1, 2020 | Database Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On January 28th, 2020, San Dieguito alerted Aeries that their database may have been potentially subject to unauthorized access. We immediately launched an investigation into the nature and scope of the incident and took measures to secure the database. We also assisted San Dieguito and its forensic experts with their investigation into the incident. On February 25, 2020, the forensic investigations revealed that San Dieguito’s Aeries database was subject to unauthorized access from April 2019 to January 2020. San Dieguito undertook a labor-intensive review of the affected database to determine the scope of personal information contained within. San Dieguito has asked Aeries to notify you out of an abundance of caution because your information was present in the affected database. 
+</details>
+
+## [St. Paul Center for Biblical Theology](https://oag.ca.gov/system/files/SPC%20INDIVIDUAL%20NOTICE%20LETTER%20%20BLANK%20%28Y0188181xBD6FB%29.pdf)
+March 3, 2020 |  Website Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On August 20, 2020, St. Paul Center received notice from a payment processing vendor that our website (http://www.stpaulcenter.com) was a common point of purchase for some unauthorized payment card transactions and that there may have been a possible compromise of our website. We investigated to find out what happened, to prevent something like this from happening again, and to provide notice to potentially affected individuals.<br><br>
+
+We determined that a cyber-criminal installed malware in software that we use to enhance our online purchasing. The malware permitted the unauthorized collection or “scraping” of certain payment card data provided through the website. We believe the incident only involved customers who made purchases or donations on the website between March 3, 2020 and August 9, 2020. On August 26, 2020, we determined that the incident may have involved your personal information because you made a payment card purchase or donation using our website during that time period.
+</details>
+
+## [STRATA Trust Company](https://oag.ca.gov/system/files/Frontier%20Bancshares%20-%20Consumer%20Notification%20Letter%20%28California%29_1.pdf)
+February 10, 2020 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+STRATA recently detected unusual activity involving an employee email account. Upon detecting a potential incident, we took immediate steps to contain the incident and launched an investigation to determine whether it involved any unauthorized access to personal information. Our investigation included retaining a digital forensics firm to assist. On May 21, 2020, we determined that your personal information could have been accessed in the incident. This access, if any, may have occurred in early February 2020. We therefore are notifying you of the incident, providing you with steps you can take to help protect your personal information, and offering you complimentary identity monitoring services for 12 months.
+</details>
+
+## [Saint Luke's Foundation](https://oag.ca.gov/system/files/Notification%20to%20Individuals%20%28Sample%20Copy%29.pdf)
+February 7, 2020 |  Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 16, 2020, we were notified by one of our third-party vendors, Blackbaud, that it had experienced a security incident potentially involving certain limited information it obtained from SLF. Blackbaud is a widely used constituent relationship management software provider for engagement and fundraising offices in higher education and nonprofits. Blackbaud informed us that it discovered and stopped a ransomware attack, but not before some information may have been compromised. According to information provided to us by Blackbaud, the cybercriminal removed a copy of our backup file for the purpose of extorting funds from Blackbaud. Blackbaud stated that the ransomware attack and data compromise occurred at some point between February 7, 2020 and May 20, 2020. 
+</details>
+
+## [Stetson University, Inc.](https://oag.ca.gov/system/files/REDACTED.%20Stetson%20-%20BLACKBAUD-%20Notification%20Letter%20-%20SSN%20%289138807x7AB84%29.pdf)
+February 7, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 16, 2020 Blackbaud notified Stetson University of a ransomware attack on their internal systems.  Upon learning of the issue, we commenced an immediate and thorough investigation. As part of our investigation, we engaged external cybersecurity professionals experienced in handling these types of incidents. 
+</details>
+
+## [Santa Rosa Junior College Foundation](https://oag.ca.gov/system/files/SRJC%20Notification%20of%20Data%20Incident.pdf)
+February 3, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Blackbaud is one of the world's largest software providers to universities, schools, charities, and other nonprofit organizations and offers data management services for the SRJC Foundation. On August 6, 2020 Blackbaud confirmed that in May 2020 they had discovered - and stopped - a ransomware attack on their computer systems and that SRJC Foundation data was compromised.
+</details>
+
+## [Sekure Merchant Solutions](https://oag.ca.gov/system/files/Sekure%20-%20California%20Notification.pdf)
+January 24, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Sekure recently concluded an investigation of a data security incident involving unauthorized access to Sekure’s environment. Upon becoming aware of suspicious activity, we immediately secured our network and a computer forensics firm was hired to assist with the investigation. 
+</details>
+
+## [Senior Resource Group LLC](https://oag.ca.gov/system/files/Notice%20of%20Data%20Event%20-%20SRG.pdf)
+December 17, 2019 | Phishing<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+SRG was the subject of an isolated cyber event called a phishing incident in which unauthorized individual(s) gained access to certain email accounts by masquerading as a reputable and recognized person and gaining user credentials. On December 18, 2019, we discovered the suspicious activity within our email system and immediately blocked the unauthorized individual(s). 
+</details>
+
+## [Stericycle, Inc.](https://oag.ca.gov/system/files/260886_01_2CA_Stericycle%20-%20US%20CALIFORNIA%20Individual%20Notification%20Template%20-%20FINAL%20V2%20%281%29.pdf)
+October 1, 2019 | Phishing<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We have conducted an investigation, with the assistance of a leading cybersecurity firm, into email phishing attempts targeting Stericycle employees. These phishing attempts sought to compromise Stericycle employee email accounts.  On July 27, 2020, we determined that your personal information was contained in at least one of the email accounts that appears to have been accessed by an unauthorized individual. The dates of potential unauthorized access varied by email account, but the overall period of unauthorized access to the email accounts was between October 2019 and April 2020. Although the employee email accounts themselves appear to have been accessed by an unauthorized individual, our investigation revealed no evidence that any email message containing your personal information was actually accessed by an unauthorized individual. 
+</details>
+
+## [STG Logistics](https://oag.ca.gov/system/files/STG%20-%20CA%20-%20Notice%20of%20Data%20Event_2.pdf)
+July 27, 2019 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 10, 2019, STG became aware of unusual activity involving certain employee email accounts and immediately began an investigation with the assistance of third-party computer forensics specialists. The investigation determined that a limited number of employee email accounts were accessed without authorization between June 27, 2019 and September 17, 2019. Although the investigation was unable to determine whether personal information stored in impacted email accounts had actually been viewed or removed by an unauthorized actor, STG could not rule out the possibility of such activity. Therefore, in an abundance of caution, STG performed a thorough review of the information stored within the impacted email accounts and determined that your personal information was potentially affected. 
+</details>
+
+# T
+## [Terminix Global Holdings](https://oag.ca.gov/system/files/Notice%20of%20Breach_redacted%20enrollment%20code.pdf)
+September 10, 2020 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Our review of compromised emails revealed that one email included a file which contained the name, social security number, date of birth, employment dates, 401K balance and the name of our 401K provider for 14,708 current and former teammates across the United States. Due to the sensitive nature of this information, it is possible that thieves can use it for identity theft. We do not know if the information has been used at this time. We are sending this notice to both Terminix and ServiceMaster teammates because these events took place before the completion of the sale of ServiceMaster brands, when everyone receiving this notice was employed under the ServiceMaster Global Holdings brand.
+</details>
+
+## [Trinity Health](https://oag.ca.gov/system/files/Trinity%20Breach.pdf)
+August 18, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 16, 2020, Blackbaud notified Trinity Health and other customers of a cyber-attack involving Blackbaud’s network, including ransomware, that impacted certain donor database backup files maintained by Blackbaud, including Trinity Health’s donor database. Blackbaud reported the cyberattack occurred between April 18, 2020 - May 16, 2020. Blackbaud reported that based on its investigation, the cybercriminals responsible for the attack could have obtained access to various types of information in the client backup files. 
+</details>
+
+## [The Jane Goodall Institute](https://oag.ca.gov/system/files/JGI%20Donor%20Notice.pdf)
+July 31, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Blackbaud works with many large and small nonprofits, including the Jane Goodall Institute, to support fundraising and engagement efforts. Last week, Blackbaud notified us that it was the target of a ransomware attack that involved the information of a number of its clients. As a result, the hackers obtained some personally identifying information about Blackbaud's nonprofit clients' donors and prospective donors, including those of the Jane Goodall Institute.
+</details>
+
+## [The GEO Group Inc.](https://oag.ca.gov/system/files/EXPERIAN_F9031_The%20GEO%20Group%20Inc_L01_SAS_2.pdf)
+July 17, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On August 19, 2020 GEO discovered it was targeted by a ransomware attack in which an unauthorized actor gained access to GEO’s network. Upon discovery, GEO immediately severed all connections between the affected corporate servers, our facilities, data centers and corporate office in an effort to contain the attack.  GEO is also working with forensic experts to conduct a detailed technical investigation into the incident. The investigation has revealed that the incident may have affected your personal information.
+</details>
+
+## [The Credit Pros international](https://oag.ca.gov/system/files/Credit%20Pros%20-%20California%20Notification.pdf)
+July 9, 2016 | IT Provider<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We use an online storage service for documents we receive from our clients. We recently learned that when the service was built by our vendor, the service allowed unauthenticated access requests. Upon discovering this, we immediately took steps to change the access settings for the service, a security firm was engaged, and a thorough investigation was conducted. Findings from the investigation showed unauthenticated access to files stored in the service, in relatively small amounts, from July 9, 2016 through December 2019, and then a period of concentrated unauthenticated request activity from December 12, 2019 and December 15, 2019. Because we could not identify who made these requests, we reviewed the files associated with the requests to identify the information they contained. On June 30, 2020, we identified that one or more of these files contained some of your information.
+</details>
+
+## [The Chronicle of Higher Education, Inc.](https://oag.ca.gov/system/files/The%20Chronicle%20Individual%20Notice%207.9.2020.pdf)
+June 15, 2020 | Website Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On June 19, 2020, The Chronicle completed our investigation of reports we received that some of our data may have become accessible online. Through the investigation, we confirmed that unauthorized parties made data for some online accounts to chronicle.com, philanthropy.com, and chroniclevitae.com accessible online. Upon learning of this, The Chronicle launched an investigation with the assistance of a leading cybersecurity firm, and law enforcement was notified. Through the investigation, The Chronicle determined that unauthorized parties had exploited a vulnerability in one of The Chronicle’s servers, through which they were able to obtain limited account information. 
+</details>
+
+## [TrueFire LLC](https://oag.ca.gov/ecrime/databreach/reports/sb24-195584)
+February 21, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 28, 2020, TrueFire discovered certain information in its network may have been subject to unauthorized access. We immediately began an investigation, with the assistance of third-party forensic specialists, to assess the nature and scope of the incident. Our investigation determined that an unauthorized actor accessed our network and further accessed certain information stored on the network on or about February 21, 2020. We conducted a comprehensive review of information potentially impacted by this incident to determine the type of information at issue and to whom the information related. Although we are unaware of any actual or attempted misuse of information as a result of this incident, we are notifying you because your information was potentially impacted. 
+</details>
+
+## [The Center for Early Education](https://oag.ca.gov/ecrime/databreach/reports/sb24-196491)
+February 7, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Blackbaud is a cloud-based software company that provides services to thousands of schools, hospitals, and other non-profits. On July 16, 2020, Blackbaud notified us that it had discovered a ransomware attack on Blackbaud’s network in May 2020. Blackbaud reported that it conducted an investigation, determined that backup files containing information from its clients had been taken from its network, and an attempt was made to encrypt files to convince Blackbaud to pay a ransom. Blackbaud paid a ransom and obtained confirmation that the files that had been removed had been destroyed. Blackbaud reported that it has been working with law enforcement. Upon learning of the incident from Blackbaud, we conducted our own investigation of the Blackbaud services we use and the information provided by Blackbaud to determine what information was involved in the incident. On September 2, 2020, we determined that the backup files contained certain information pertaining to you.
+</details>
+
+## [Thomas Cuisine](https://oag.ca.gov/system/files/Thomas%20Cuisine.pdf)
+January 24, 2020 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Earlier this year, Thomas Cuisine became aware of suspicious activity in certain employees’ email accounts. Thomas Cuisine immediately began an investigation into the incident with the assistance of third-party forensic specialists. The investigation determined the employees’ email accounts were accessed without authorization between January 24, 2020 and February 18, 2020.<br><br>
+
+Although the investigation was unable to determine whether personal information stored in the impacted email account had actually been viewed or removed by an unauthorized actor, Thomas Cuisine could not rule out the possibility of such activity. Therefore, in an abundance of caution, Thomas Cuisine performed a thorough and exhaustive review of the information stored within the impacted email accounts. On May 20, 2020, we determined that your personal information was present in one of the accounts.
+</details>
+
+## [Tailored Brands, Inc.](https://oag.ca.gov/system/files/Tailored%20Brands%20Ad%20CM%20Variable%20CA%20r1prf.pdf)
+October 10, 2019 | Phishing<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently concluded our investigation into an email phishing incident that targeted some of our employees. Upon discovering this activity, we promptly secured our environment and commenced an investigation with the assistance of a computer forensics firm. Our investigation determined that an unauthorized individual accessed some Tailored Brands employee email accounts between October 10, 2019 and January 28, 2020. However, the investigation was unable to determine which emails or attachments the unauthorized actor may have viewed or accessed. 
+</details>
+
+# U
+## [UAMG, LLC](https://oag.ca.gov/system/files/Standard%20for%20Cal.pdf)
+September 17, 2020 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+This cyber-attack involved the unauthorized access of an email account of an individual associated with <<company 1>>. We became aware of this incident on September 23, 2020 when we were notified that an unauthorized entity successfully sent several spam emails from the affected email account to various email addresses unfamiliar to the account holder. Since this unauthorized entity had access to the account holder’s mailbox, it is possible that data contained within the mailbox may have been acquired and disclosed to others. Upon becoming aware of this incident, we took immediate action to secure the account and investigate the incident. As a result of the investigation, we determined that there was unauthorized access to the email account from September 17, 2020 to September 23, 2020, when the account was locked. The affected email account contained information about some of the individuals with whom we have a business relationship, including you.
+</details>
+
+## [U.S. Bank](https://oag.ca.gov/system/files/Customer%20Notification%20-%20Credit%20Monitoring.pdf)
+July 30, 2020 | Server Stolen<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 30, 2020, a computer server containing your information was physically stolen from one of our corporate offices. Since the event, we have been focused on identifying who may have been impacted and working with authorities to recover the stolen server. 
+</details>
+
+## [University Muslim Medical Association](https://oag.ca.gov/system/files/HIPAA%20Breach%20Notice%20%289-10-20%29%20-%20FINAL.pdf)
+June 29, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 1st 2020, it was discovered that a former employee sent a secured file to their personal email address. However, we have not received any indication that the information has been accessed or used by any unauthorized individual and have a signed statement from the former employee that they destroyed the electronic file. We have also taken measures and made additions to our policies and procedures to protect against similar events in the future.
+</details>
+
+## [University of California San Francisco](https://oag.ca.gov/system/files/Cyberincident_notification%20letter_SAMPLE_1.pdf)
+June 1, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On June 1, 2020, the University of California San Francisco (“UCSF”) detected a cybersecurity attack that occurred in a limited part of the UCSF School of Medicine’s IT environment. Upon detection of the intrusion, we immediately isolated the impacted environment and successfully contained the incident from the core UCSF network. While we stopped the attack as it was occurring, the attacker obtained certain files and encrypted others with ransomware. UCSF made the difficult decision to pay the attacker, and received the information we needed to decrypt the affected servers and data the attackers stole. Although we have no evidence that the personal information taken has been misused, we are notifying you because we determined that some of your personal information was impacted.
+</details>
+
+## [US HealthCenter, Inc.](https://oag.ca.gov/system/files/US%20HealthCenter%20Notice%20Letter.pdf)
+April 13, 2020 | Phishing<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On April 13, 2020, we were made aware of unauthorized access to USHC’s dedicated Cost Plus email account. This account was used to distribute phishing emails to Cost Plus wellness plan participants in an attempt to gain access to participant personal information. USHC’s internal information security (IT) team conducted an investigation of the compromised account. USHC discovered that there was unauthorized access to the Cost Plus email account, and the individual(s) responsible were able to view and forward emails associated with this inbox. The compromised account contained forms submitted by Cost Plus plan participants, including an Annual Preventive Screening affidavit which may have contained a participant’s name, employee number, date of birth, physician signature, and date of exam. Apart from additional limited health information, the inbox in question did not contain participants’ social security numbers, drivers’ license numbers, credit card data, financial account information, insurance information, or other sensitive personal information.
+</details>
+
+## [University of Detroit Mercy](https://oag.ca.gov/system/files/9028629.PDF)
+February 7, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 16, 2020, Blackbaud notified Detroit Mercy of a ransomware attack on their internal systems. Upon learning of the issue, we commenced an immediate and thorough investigation. As part of our investigation, we engaged external cybersecurity professionals experienced in handling these types of incidents.<br><br>
+
+
+Blackbaud reported to us that they identified an attempted ransomware attack in progress on May 20, 2020. Blackbaud engaged forensic experts and law enforcement to assist in their internal investigation. The investigation concluded that the cybercriminal removed data from Blackbaud’s systems intermittently between February 7, 2020 and May 20, 2020. A backup file containing certain information was removed by the cybercriminal. According to Blackbaud, they paid the cybercriminal to ensure that the backup file was permanently destroyed. 
+</details>
+
+## [University of Minnesota Physicians](https://oag.ca.gov/system/files/UMPhysicians.pdf)
+January 31, 2020 | Phising<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+UMPhysicians identified that cyber attackers used phishing emails to fraudulently access two employee email accounts. The two phishing email attacks were identified on January 31, 2020 and February 4, 2020, shortly after they occurred. UMPhysicians took immediate steps to secure the email accounts and began working with third-party computer forensic investigators to determine the nature and scope of the incidents. The investigation indicated that an unknown actor had access to one employee email account on January 30 and January 31, 2020, and another employee email account on February 4, 2020, for a brief period of time
+</details>
+
+## [Urban Compass, Inc.](https://oag.ca.gov/system/files/California%20Notice_4.pdf)
+May 24, 2019 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We learned that certain of our agents’ Gmail accounts were subject to unauthorized access due to a phishing attack. A phishing attack is a commonly employed cyber-attack that seeks to trick an email recipient into believing the message is from a trustworthy entity and to click a malicious link or download a malicious attachment. We began an internal investigation, and a leading computer forensic firm was hired to assist. The investigation determined that an unauthorized person gained access to the Gmail accounts between May 24, 2019 and November 6, 2019, and again between November 11, 2019 and January 8, 2020. The investigation was unable to determine whether the unauthorized person actually viewed any emails or attachments in the accounts. 
+</details>
+
+# V
+## [VF Outdoor](https://oag.ca.gov/system/files/Windstream%20Sample%20Notices_2.pdf), LLC doing business as The North Face
+October 8, 2020 | Credential Stuffing<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We care about the security of your personal information, and we are writing to tell you that we have discovered evidence of unauthorized access to some of your personal information. On October 9, 2020, we were alerted to unusual activity involving our website, thenorthface.com, that prompted us to investigate immediately. Following a careful investigation, we concluded that a credential stuffing attack had been launched against our website on October 8 and 9, 2020. A “credential stuffing attack” is a specific type of cybersecurity attack in which the attacker uses account authentication credentials (e.g., email addresses/usernames and passwords) stolen from another source, such as a breach of another company or website, to gain unauthorized access to user accounts. Credential stuffing attacks can occur when individuals use the same authentication credentials on multiple websites, which is why we encourage you to use a unique password on thenorthface.com.<br><br>  
+
+Based on our investigation, we believe that the attacker previously gained access to your email address and password from another source (not from The North Face) and subsequently used those same credentials to access your account on thenorthface.com.<br><br>  
+
+We do not believe that the attacker obtained information from us that would require us to notify you of a data security breach under applicable law, but we are notifying you of the incident voluntarily, out of an abundance of caution.<br><br> 
+</details>
+
+# W
+## [Wyndham Capital Mortgage, Inc.](https://oag.ca.gov/system/files/WCM-Sample%20Notification%20Letter.pdf)
+September 18, 2020 | User Error<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 18, 2020, an email was sent in error to an email account not belonging to Wyndham Capital Mortgage that contained some of your personal information. We have no evidence that this email was opened or that the information has been used.
+</details>
+
+## [Windstream](https://oag.ca.gov/system/files/Windstream%20Sample%20Notices_2.pdf)
+July 11, 2020 | Unauthorized Access<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Our investigation determined that an unauthorized party gained access to certain Windstream internal systems at various times between July 11, 2020 and August 23, 2020. Findings from the investigation indicate that the party may have obtained some internal information from these systems during this period.
+</details>
+
+## [Walgreen Co.](https://oag.ca.gov/system/files/E_DL_L03.pdf)
+May 26, 2020 | Device Lost<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Sometime between May 26 and June 5, 2020, various groups of individuals broke into multiple Walgreens stores and forced entry into the secured pharmacy at select locations, including your preferred Walgreens. Among the many items stolen were certain items containing health-related information —such as filled prescriptions waiting for customer pick up and paper records. This included a very limited number of hard drives that were attached to stolen cash registers. These hard drives contained information about certain recent pharmacy purchases completed at that cash register. One pharmacy automation device that stored prescription labeling information for a short time period was also involved.  Between May 26 and June 5, Walgreens discovered customer information was impacted. We later determined that one or more of the items described above may have contained your information. We wanted to alert you to this fact. 
+</details>
+
+## [Williams Hart Boundas Easterby LLP](https://oag.ca.gov/system/files/EXPERIAN_F7344_Williams%20Hart%20Boundas%20Easterby_L06_SAS_PROOF.pdf)
+May 12, 2020 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On May 13, 2020, we became aware that a firm email account was used to send unauthorized emails, and we swiftly engaged security experts to help determine what occurred. The investigation found that the account had been accessed by an unauthorized individual. In response, we reset the password to affected email accounts and implemented additional security controls to prevent further unauthorized access. We are not aware of any unauthorized access to the firm’s network or underlying systems, and we are providing this notice to you as a precautionary measure.
+</details>
+
+## [Warner Music Group](https://oag.ca.gov/system/files/California_Consumer%20Letter.pdf)
+April 25, 2020 | Website Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On August 5, 2020, we learned that an unauthorized third party had compromised a number of US-based e-commerce websites WMG operates but that are hosted and supported by an external service provider. This allowed the unauthorized third party to potentially acquire a copy of the personal information you entered into one or more of the affected website(s) between April 25, 2020 and August 5, 2020.
+</details>
+
+## [Windes, Inc.](https://oag.ca.gov/system/files/Adult%20Notice.pdf)
+March 16, 2020 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On or around March 19, 2020, Windes learned of a potential compromise to one (1) of its employee email accounts.  Windes swiftly secured the suspected account and engaged a third-party forensics company to investigate.  Following progress by experts in their thorough investigation, it was ultimately determined on May 4, 2020 that two (2) employee email accounts experienced unauthorized access between March 16-19, 2020 and on March 25, 2020.  Upon confirmation of the unauthorized access to the Windes employee email accounts, Windes’ third-party forensic experts immediately investigated whether the affected email accounts contained individuals’ sensitive information. On June 15, 2020, Windes learned that the unauthorized access may have enabled access to your personal information.
+</details>
+
+## [Woodruff Sawyer & Co.](https://oag.ca.gov/system/files/Woodruff%20Sawyer%20%26%20Co.%20Notice.pdf)
+March 2, 2020 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Woodruff Sawyer recently discovered suspicious activity related to certain Woodruff Sawyer employee email accounts. We immediately took steps to secure the email accounts and launched an investigation which included working with a third-party forensic investigator to determine the nature and scope of the activity. The investigation determined that an email accounts belonging to Woodruff Sawyer employees were subject to unauthorized access on separate occasions between March 2, 2020 and April 30, 2020. As a result, the unauthorized actor may have had access to certain emails and attachments within the accounts. 
+</details>
+
+## [Ventura College Foundation](https://oag.ca.gov/system/files/Notice-of-Data-Breach-Mailhouse-FINAL.pdf)
+February 7, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 16, 2020, the Ventura College Foundation was informed by Blackbaud (one of the world’s largest providers of financial and fundraising technology to nonprofits), that it was hacked and data from its clients throughout the world, including the VC Foundation, was held for ransom by cybercriminals. This was a very sophisticated ransomware attack that included database and donor management system back-up files for our Blackbaud Raisers Edge/NXT, beginning on February 7, 2020, and could have been in there intermittently until May 20, 2020.
+</details>
+
+## [Vermont Student Assistance Corporation](https://oag.ca.gov/system/files/VT%20Student%20Assistance%20Corporation.pdf)
+February 7, 2020 | Ransomware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+ In May 2020, Blackbaud experienced a ransomware incident that impacted certain systems within the Blackbaud environment. As a result of this incident, certain Blackbaud systems were encrypted and a Blackbaud database backup file including VSAC data was removed from the Blackbaud environment by an unauthorized actor. While Blackbaud’s investigation was able to determine that the backup file was removed between February 7, 2020 and May 20, 2020, their investigation was unable to confirm exactly when this occurred. As a result, the unauthorized actor may have had access to certain information contained within the backup database. Upon learning of this incident, VSAC immediately began an investigation to determine the full nature and scope of the event and what, if any, VSAC data may have been impacted. On or about August 7, 2020, VSAC’s investigation determined that the backup database may have contained personal information.
+</details>
+
+## [Westcor Land Title Insurance Company](https://oag.ca.gov/system/files/Westcor%20-%20Notice%20of%20Data%20Event.pdf)
+January 10, 2020 | Malware<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On January 12, 2020, Westcor became aware of unusual activity on its network.  Westcor conducted an immediate investigation and determined that the network was partially impacted by malware. Third-party forensic investigators were engaged to assist in the investigation to determine the nature and scope of the event, and identify what personal information may have been impacted by this event. 
+</details>
+
+## [Verigent, LLC](https://oag.ca.gov/system/files/Verigent%20LLC%20-%20Consumer%20Notification%20Letter%20%28Adult%20SSN%29%20Final.pdf)
+October 21, 2019 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On January 3, 2020, Verigent learned of a suspicious email sent from a Verigent employee’s email account. Upon learning of this suspicious message, Verigent immediately took steps to secure its email environment which included resetting the passwords required to access all Verigent employee email accounts and implementing multi-factor authentication. Verigent also began a preliminary investigation and engaged an independent forensics firm to assist. On January 28, 2020, the forensics firm informed Verigent that an unauthorized individual had gained access to certain Verigent employee email accounts. On June 4, 2020, Verigent learned that the email accounts accessed without authorization contained some of your personal information which may have been viewed by an unauthorized individual. Verigent then worked diligently to identify up-to-date address information in order to provide notification to potentially impacted individuals.
+</details>
+
+## [Wurkforce, Inc.](https://oag.ca.gov/system/files/Wurkforce%20-%20Consumer%20Notification%20Letter%20%28General%20SSN%29.pdf)
+November 22, 2019 | Email Compromise<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On February 11, 2020, Würk learned of unusual activity within its email environment. Upon discovering this activity, Würk immediately took steps to secure all Würk email accounts and launched an investigation.  As part of that investigation, Würk engaged an independent digital forensics firm to determine what happened and whether any information was accessed or acquired without authorization as a result. As a result of this engagement, the digital forensics firm reported to Würk that the email accounts of certain Würk employees had been accessed without authorization between November 22, 2019 and February 12, 2020. Following a review of the contents of the relevant email accounts, Würk learned on July 2, 2020 that some of your personal information was contained therein which may have been accessed without authorization as a result of this incident. Würk then worked diligently to identify up-to-date address information in order to provide notification to potentially impacted individuals. 
+</details>
+
+## [Woodland Unified School District](https://oag.ca.gov/system/files/Woodland%20Joint%20USD%20-%20Notice%20of%20Data%20Event.pdf)
+November 4, 2019 | IT Provider<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On April 27, 2020 Woodland was notified by Aeries Software, Inc. (“Aeries”), a third-party student data management vendor, of a potential data incident affecting Aeries’ school district clients. While Aeries indicated it found no evidence to suggest that any data was specifically accessed, that type of activity cannot be ruled out with certainty. Aeries also stated that local and federal law enforcement officials were notified of this incident.  The notification prompted Woodland to immediately launch an investigation into the nature and scope of the event.  The investigation determined that personal information residing in our Aeries Student Information System (“SIS”) was potentially subject to unauthorized access on or around November 4, 2019. While we are unaware of any actual or attempted misuse of this information, we undertook a comprehensive review of our Aeries SIS to confirm the type of information it contained and to whom it related. This review was completed on September 15, 2020 and we determined certain information relating to you resided in our Aeries SIS in November 2019 and thus was potentially subject to unauthorized access.
+</details>
+
+# Z
+## [ZEG](https://oag.ca.gov/system/files/ZEG%20California%20-%20Notice.pdf) – Berlin Center for Epidemiology and Health Research GMBH
+August 4, 2020 | Malicious Code<br>
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On August 4, 2020, malicious code was found on certain servers. The threat was contained and expelled, and a thorough investigation promptly commenced. Through investigation, it became apparent that the intrusion had been active since early July 2020.  On October 28, 2020, we determined that one of the impacted servers contained data from the Study mentioned above. While we have no indication that any data related to the Study were actually stolen, viewed, or misused, we are taking the precautionary step of notifying you.
+</details>
+
