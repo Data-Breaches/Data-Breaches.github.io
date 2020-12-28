@@ -12,6 +12,7 @@ Programming Error
 Ransomware
 Server Stolen
 Unauthorized Access
+Unknown
 User Error
 Vulnerability
 Website Compromise
