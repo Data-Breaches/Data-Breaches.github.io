@@ -31,7 +31,7 @@ var allOrganizations = {
 var allRecords = {
 /*
   '1': {
-		recordsByDate : {},  // 'Date': [{name: <>, url: <>, abstract:<>, casue:<>}]
+		recordsByName : {},  
 		allDates : []
   },
 */
@@ -45,6 +45,107 @@ function initializeAllRecords() {
 		allRecords[allSections.charAt(i)].recordsByDate = {};
 		allRecords[allSections.charAt(i)].allDates = [];
 	}		
+}
+
+function sortARecord(record) {
+	console.log(record);
+	var initial = record.name.charAt(0).toUpperCase();
+	var section = allRecords[initial];
+	if(section === undefined) {
+		return;
+	}
+	var dateValue;
+	if(record.date.startsWith('n/a')) {
+		dateValue = 0;
+	} else {
+		var date = new Date(record.date);
+		dateValue = date.getTime();
+	}
+	if(Number.isNaN(dateValue)) {
+		dateValue = 0;
+	}
+	console.log(dateValue);
+			
+	function registerOrgAndDate() {
+/* return former top date if any, otherwise null */
+		if(allOrganizations[record.name] === undefined) {
+			allOrganizations[record.name] = {};
+			allOrganizations[record.name][dateValue] = true;
+			return null;	
+		} else {
+			var orgRecord = allOrganizations[record.name];
+			/* Find the former top date */
+			var dates = Object.keys(orgRecord);
+			var top = dates[0];
+			for(var i=1; i< dates.length; i++) {
+				if(dates[i] > top) {
+					top = dates[i];
+				}
+			}
+			if(orgRecord[dateValue] === undefined) {
+				orgRecord[dateValue] = true;
+			} 
+			return top;
+		}
+	}
+			
+	var formerTopDate = registerOrgAndDate();
+	if(formerTopDate) {
+		var thisDate = section.recordsByDate[formerTopDate];
+		var thisOrg = thisDate[record.name];
+		if(formerTopDate !== dateValue) {
+			thisOrg[dateValue] = record;
+			if(dateValue > formerTopDate) {
+   			if(section.recordsByDate[dateValue] === undefined) {
+     			section.recordsByDate[dateValue] = {};
+     			var thisDateSection = section.recordsByDate[dateValue];
+     			thisDateSection[record.name] = thisOrg;
+     			/* Insert new date in allDates */ 
+     			if(section.allDates.length === 0) {
+       			section.allDates = [dateValue];
+     			} else {
+       			var i;
+       			for(i=0; i< section.allDates.length; i ++) {
+         			if(dateValue > section.allDates[i]) {
+           			break;
+         			}
+       			}
+       			section.allDates.splice(i, 0, dateValue);
+     			}
+   			} else {
+					var thisDateSection = section.recordsByDate[dateValue];
+					thisDateSection[record.name] = thisOrg;
+      	}						
+				var thisDateSection = section.recordsByDate[formerTopDate];
+				delete thisDateSection[record.name]
+			}
+		} 
+	} else {
+		if(section.recordsByDate[dateValue] === undefined) {
+      section.recordsByDate[dateValue] = {};
+      var thisDateSection = section.recordsByDate[dateValue];
+      thisDateSection[record.name] = {};
+			var thisOrg = thisDateSection[record.name];
+			thisOrg[dateValue] = record;
+      /* Insert new date in allDates */
+      if(section.allDates.length === 0) {
+        section.allDates = [dateValue];
+      } else {
+        var i;
+      	for(i=0; i< section.allDates.length; i ++) {
+        	if(dateValue > section.allDates[i]) {
+          	break;
+        	}
+      	}
+      	section.allDates.splice(i, 0, dateValue);
+    	}
+		} else {
+   		var thisDateSection = section.recordsByDate[dateValue];
+    	thisDateSection[record.name] = {};
+			var thisOrg = thisDateSection[record.name];
+    	thisOrg[dateValue] = record;
+		}
+	}
 }
 
 /* Build initial records from index.md */
@@ -133,47 +234,6 @@ function buildInitialRecords() {
 			return record;
 		}
 
-		function sortARecord(record) {
-			var initial = record.name.charAt(0);
-			var section = allRecords[initial];
-
-			var date = new Date(record.date);
-			var dateValue = date.getTime();
-			console.log(dateValue);
-			
-			function registerOrgAndDate() {
-				if(allOrganizations[record.name] === undefined) {
-					allOrganizations[record.name] = {};
-					allOrganizations[record.name][dateValue] = true;	
-				} else {
-					var orgRecord = allOrganizations[record.name];
-					if(orgRecord[dateValue] === undefined) {
-						orgRecord[dateValue] = true;
-					} else {
-					}
-				}
-			}
-			
-			registerOrgAndDate();
-
-			if(section.recordsByDate[dateValue] === undefined) {
-				section.recordsByDate[dateValue] = [record];
-				/* Insert new date in allDates */
-				if(section.allDates.length === 0) {
-					section.allDates = [dateValue];
-				} else {
-					var i;
-					for(i=0; i< section.allDates.length; i ++) {
-						if(dateValue > section.allDates[i]) {
-							break;
-						}
-					}
-					section.allDates.splice(i, 0, dateValue);	
-				}
-			} else {
-				section.recordsByDate[dateValue].push(record);
-			}
-		}
 
 		for(var i=1; i<blocks.length; i++) {
 			var record = parseABlock(blocks[i]);
@@ -182,7 +242,8 @@ function buildInitialRecords() {
 			sortARecord(record);
 		}
 		//console.log(allRecords);
-		setTimeout(fetchRecords, 100);	
+		//setTimeout(fetchRecords, 100);	
+		setTimeout(publish, 100);
 	}
 }
 
@@ -208,9 +269,58 @@ function getContent(url, fn) {
   });
 }
 
+
+function publish() {
+	var content = fs.readFileSync('index_header.md', 'utf8');
+	fs.writeFileSync('new_index.md', content);
+
+	for(var i=0; i<allSections.length; i++) {
+		var sectionId = allSections.charAt(i);
+		fs.appendFileSync('new_index.md', '# ' +  sectionId + '\n');
+
+		var thisSection = allRecords[sectionId];
+
+		publishSection(thisSection);
+	}
+
+	function publishSection(thisSection) {
+		var allDates = thisSection.allDates;
+		for(var i=0; i<allDates.length; i++){
+			var thisDate = thisSection.recordsByDate[allDates[i]];
+			fs.appendFileSync('new_index.md', '## ' + allDates[i] + '\n');
+			publishDate(thisDate);
+		}
+	}
+
+	function publishDate(thisDate) {
+		var allOrgs = Object.keys(thisDate);
+		for(var i=0; i< allOrgs.length; i++) {
+			fs.appendFileSync('new_index.md', '## ' + allOrgs[i] + '\n');
+			thisOrg = thisDate[allOrgs[i]];
+			publishOrg(thisOrg);
+		}
+	}
+
+	function publishOrg(thisOrg) {
+		var allEvents = Object.keys(thisOrg);
+		allEvents.sort();
+		for(var i=allEvents.length -1; i>-1; i--) {
+			fs.appendFileSync('new_index.md', '### ' + allEvents[i] + '\n');
+			fs.appendFileSync('new_index.md', thisOrg[allEvents[i]].date + '\n');
+			fs.appendFileSync('new_index.md', thisOrg[allEvents[i]].cause + '\n');
+			fs.appendFileSync('new_index.md', thisOrg[allEvents[i]].url + '\n');
+			fs.appendFileSync('new_index.md', thisOrg[allEvents[i]].abstract + '\n');
+		}
+	}
+}
+
 function fetchRecords() {
 	getItemsFromSource('CA', function(err) {
+		if(err) {
 
+		} else {
+			setTimeout(publish, 100);
+		}	
 	});
 }
 
@@ -222,8 +332,7 @@ function getItemsFromSource(id, fn) {
     } else {
 			//console.log(data);
 			var $content = $($.parseHTML(data));
-			sources[id].handler($content, function(err, newsList) {
-				var $content = $($.parseHTML(data));
+			sources[id].handler($content, function(err, items) {
 				fn(null);
 			});
 			return;
@@ -247,6 +356,46 @@ function getCalifornia($content, fn) {
 			thisItem.date = dateStr;
 			items.push(thisItem)  
     }
+
+    var index = 0;
+    function getArticle() {
+      if(index < items.length) {
+				/* Check if a record exists or not for the item*/
+				var orgName = items[index].name;
+				if(orgName.startsWith('Center for Autism and Related Disorders')){
+					console.log("Got here");
+				}
+				if(allOrganizations[orgName] !== undefined)	{
+					var date = new Date(items[index].date);
+					var dateValue = date.getTime();
+					var org = allOrganizations[orgName];
+				  if(org[dateValue] !== undefined) {
+						index ++;
+						setTimeout(getArticle, 100);
+						return;	
+					}	
+				}
+        getContent(items[index].url, function(err, data) {
+          if (err) {
+            index ++;
+            setTimeout(getArticle, 100);
+          } else {
+            //console.log(data);
+            var $article = $($.parseHTML(data));
+						var fileUrl = $article.find('.file').find('a').attr('href');
+						items[index].url = fileUrl;
+						items[index].abstract = "TBD";
+						items[index].cause = "TBD";
+						sortARecord(items[index]);						
+            index ++;
+            setTimeout(getArticle, 100);
+          }
+        });
+      } else {
+        fn(null, items);
+      }
+    }
+    getArticle()
 
 		console.log("Done.");
 	}

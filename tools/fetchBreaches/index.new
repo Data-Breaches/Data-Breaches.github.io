@@ -8,96 +8,43 @@ permalink: /
 
 # List of Data Breaches 
 # 1
-## [1919 Investment Counsel LLC](https://oag.ca.gov/system/files/Notices.pdf)
-September 21, 2020 | IT Provider<br>
+## 1919 Investment Counsel LLC
+[September 21, 2020](https://oag.ca.gov/system/files/Notices.pdf) | IT Provider<br>
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 On September 21, 2020, a 1919ic employee discovered some unusual activity on their 1919ic work computer. We immediately began investigating and retained a third party forensic expert to assist. During our investigation, we learned that an unauthorized user gained access to 1919ic’s computer systems, which are operated by a third-party Managed IT services firm with oversight by 1919ic’s internal technology team. During the forensic analysis, 1919ic was able to quickly take steps to prevent further unauthorized access and secure our systems. At this time, we do not have any indication that your information was accessed or misused. However, because we deeply value you and are committed to transparency, we wanted to make you aware of this incident. 
 </details>
-
-## [1919 Investment Counsel LLC](https://oag.ca.gov/system/files/Notices.pdf)
-October 19, 2020 | IT Provider<br>
+[October 11, 2020](https://oag.ca.gov/system/files/Notice%20of%20Data%20Event%20-%20Atlas%20Mechanical.pdf) | Malware<br>
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-On September 21, 2020, a 1919ic employee discovered some unusual activity on their 1919ic work computer. We immediately began investigating and retained a third party forensic expert to assist. During our investigation, we learned that an unauthorized user gained access to 1919ic’s computer systems, which are operated by a third-party Managed IT services firm with oversight by 1919ic’s internal technology team. During the forensic analysis, 1919ic was able to quickly take steps to prevent further unauthorized access and secure our systems. At this time, we do not have any indication that your information was accessed or misused. However, because we deeply value you and are committed to transparency, we wanted to make you aware of this incident.
+Atlas recently became aware of suspicious activity on its computer network and discovered it could not access certain files on its systems. Atlas immediately launched an investigation, with the assistance of thirdparty computer forensic specialists, and determined that its network had been infected with malware which prevented access to certain files on the system. The investigation determined that the malware was introduced into the system by an unauthorized actor who also accessed and acquired certain files in Atlas’ system. Atlas then began a lengthy and labor-intensive process to identify sensitive information that may have been contained within impacted files, and to identify the individuals whose information may have been impacted. While our investigation is ongoing, we are notifying you because that investigation determined certain information related to you may have been impacted.
 </details>
 
-## [1919 Investment Counsel LLC](https://oag.ca.gov/system/files/Notices.pdf)
-September 31, 2020 | IT Provider<br>
+## Atlas Mechanical, Inc.
+[October 11, 2020](https://oag.ca.gov/system/files/Notice%20of%20Data%20Event%20-%20Atlas%20Mechanical.pdf) | Malware<br>
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-On September 21, 2020, a 1919ic employee discovered some unusual activity on their 1919ic work computer. We immediately began investigating and retained a third party forensic expert to assist. During our investigation, we learned that an unauthorized user gained access to 1919ic’s computer systems, which are operated by a third-party Managed IT services firm with oversight by 1919ic’s internal technology team. During the forensic analysis, 1919ic was able to quickly take steps to prevent further unauthorized access and secure our systems. At this time, we do not have any indication that your information was accessed or misused. However, because we deeply value you and are committed to transparency, we wanted to make you aware of this incident.
+Atlas recently became aware of suspicious activity on its computer network and discovered it could not access certain files on its systems. Atlas immediately launched an investigation, with the assistance of thirdparty computer forensic specialists, and determined that its network had been infected with malware which prevented access to certain files on the system. The investigation determined that the malware was introduced into the system by an unauthorized actor who also accessed and acquired certain files in Atlas’ system. Atlas then began a lengthy and labor-intensive process to identify sensitive information that may have been contained within impacted files, and to identify the individuals whose information may have been impacted. While our investigation is ongoing, we are notifying you because that investigation determined certain information related to you may have been impacted. 
 </details>
-# A
-## [A1919 Investment Counsel LLC](https://oag.ca.gov/system/files/Notices.pdf)
-September 21, 2020 | IT Provider<br>
+[June 3, 2020](https://oag.ca.gov/system/files/Notice%20of%20Data%20Event%20-%20Atlas%20Mechanical.pdf) | Ransomware<br>
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-On September 21, 2020, a 1919ic employee discovered some unusual activity on their 1919ic work computer. We immediately began investigating and retained a third party forensic expert to assist. During our investigation, we learned that an unauthorized user gained access to 1919ic’s computer systems, which are operated by a third-party Managed IT services firm with oversight by 1919ic’s internal technology team. During the forensic analysis, 1919ic was able to quickly take steps to prevent further unauthorized access and secure our systems. At this time, we do not have any indication that your information was accessed or misused. However, because we deeply value you and are committed to transparency, we wanted to make you aware of this incident.
+We recently detected unauthorized access to certain devices in our network and an attempt to encrypt our systems.  We immediately took measures to stop the access, launched an investigation, and a security firm was engaged.  On July 15, 2020, findings from the investigation identified a backup copy of a database made for business continuity reasons that was obtained by the unauthorized party at some point in the prior few weeks. Although we were able to prevent devices from being encrypted, the unauthorized party demanded payment in exchange for deleting the files that were obtained. We reached an agreement and obtained confirmation that the unauthorized party deleted the files.
 </details>
-
-## [A1919 Investment Counsel LLC](https://oag.ca.gov/system/files/Notices.pdf)
-October 19, 2020 | IT Provider<br>
-{: .fs-4 .fw-700 .lh-0  }
-<details>
-  <summary>Abstract</summary>
-On September 21, 2020, a 1919ic employee discovered some unusual activity on their 1919ic work computer. We immediately began investigating and retained a third party forensic expert to assist. During our investigation, we learned that an unauthorized user gained access to 1919ic’s computer systems, which are operated by a third-party Managed IT services firm with oversight by 1919ic’s internal technology team. During the forensic analysis, 1919ic was able to quickly take steps to prevent further unauthorized access and secure our systems. At this time, we do not have any indication that your information was accessed or misused. However, because we deeply value you and are committed to transparency, we wanted to make you aware of this incident.
-</details>
-
-## [A1919 Investment Counsel LLC](https://oag.ca.gov/system/files/Notices.pdf)
-September 31, 2020 | IT Provider<br>
-{: .fs-4 .fw-700 .lh-0  }
-<details>
-  <summary>Abstract</summary>
-On September 21, 2020, a 1919ic employee discovered some unusual activity on their 1919ic work computer. We immediately began investigating and retained a third party forensic expert to assist. During our investigation, we learned that an unauthorized user gained access to 1919ic’s computer systems, which are operated by a third-party Managed IT services firm with oversight by 1919ic’s internal technology team. During the forensic analysis, 1919ic was able to quickly take steps to prevent further unauthorized access and secure our systems. At this time, we do not have any indication that your information was accessed or misused. However, because we deeply value you and are committed to transparency, we wanted to make you aware of this incident.
-</details>
-## [Atlas Mechanical, Inc.](https://oag.ca.gov/system/files/Notice%20of%20Data%20Event%20-%20Atlas%20Mechanical.pdf)
-October 11, 2020 | Malware<br>
-{: .fs-4 .fw-700 .lh-0  }
-<details>
-  <summary>Abstract</summary>
-11 Atlas recently became aware of suspicious activity on its computer network and discovered it could not access certain files on its systems. Atlas immediately launched an investigation, with the assistance of thirdparty computer forensic specialists, and determined that its network had been infected with malware which prevented access to certain files on the system. The investigation determined that the malware was introduced into the system by an unauthorized actor who also accessed and acquired certain files in Atlas’ system. Atlas then began a lengthy and labor-intensive process to identify sensitive information that may have been contained within impacted files, and to identify the individuals whose information may have been impacted. While our investigation is ongoing, we are notifying you because that investigation determined certain information related to you may have been impacted. 
-</details>
-
-## [Atlas Mechanical, Inc.](https://oag.ca.gov/system/files/Notice%20of%20Data%20Event%20-%20Atlas%20Mechanical.pdf)
-October 19, 2020 | Malware<br>
-{: .fs-4 .fw-700 .lh-0  }
-<details>
-  <summary>Abstract</summary>
-19 Atlas recently became aware of suspicious activity on its computer network and discovered it could not access certain files on its systems. Atlas immediately launched an investigation, with the assistance of thirdparty computer forensic specialists, and determined that its network had been infected with malware which prevented access to certain files on the system. The investigation determined that the malware was introduced into the system by an unauthorized actor who also accessed and acquired certain files in Atlas’ system. Atlas then began a lengthy and labor-intensive process to identify sensitive information that may have been contained within impacted files, and to identify the individuals whose information may have been impacted. While our investigation is ongoing, we are notifying you because that investigation determined certain information related to you may have been impacted.
-</details>
-
-## [Atlas Mechanical, Inc.](https://oag.ca.gov/system/files/Notice%20of%20Data%20Event%20-%20Atlas%20Mechanical.pdf)
-October 1, 2020 | Malware<br>
-{: .fs-4 .fw-700 .lh-0  }
-<details>
-  <summary>Abstract</summary>
-1 Atlas recently became aware of suspicious activity on its computer network and discovered it could not access certain files on its systems. Atlas immediately launched an investigation, with the assistance of thirdparty computer forensic specialists, and determined that its network had been infected with malware which prevented access to certain files on the system. The investigation determined that the malware was introduced into the system by an unauthorized actor who also accessed and acquired certain files in Atlas’ system. Atlas then began a lengthy and labor-intensive process to identify sensitive information that may have been contained within impacted files, and to identify the individuals whose information may have been impacted. While our investigation is ongoing, we are notifying you because that investigation determined certain information related to you may have been impacted.
-</details>
-
-
-## [Atlas Mechanical, Inc.](https://oag.ca.gov/system/files/Notice%20of%20Data%20Event%20-%20Atlas%20Mechanical.pdf)
-October 11, 2020 | Malware<br>
-{: .fs-4 .fw-700 .lh-0  }
-<details>
-  <summary>Abstract</summary>
-11 Atlas recently became aware of suspicious activity on its computer network and discovered it could not access certain files on its systems. Atlas immediately launched an investigation, with the assistance of thirdparty computer forensic specialists, and determined that its network had been infected with malware which prevented access to certain files on the system. The investigation determined that the malware was introduced into the system by an unauthorized actor who also accessed and acquired certain files in Atlas’ system. Atlas then began a lengthy and labor-intensive process to identify sensitive information that may have been contained within impacted files, and to identify the individuals whose information may have been impacted. While our investigation is ongoing, we are notifying you because that investigation determined certain information related to you may have been impacted.
-</details>
-
-## [ArbiterSports](https://oag.ca.gov/system/files/Arbiter%20-%20California%20Notification.pdf)
-June 3, 2020 | Ransomware<br>
+## ArbiterSports
+[June 3, 2020](https://oag.ca.gov/system/files/Arbiter%20-%20California%20Notification.pdf) | Ransomware<br>
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently detected unauthorized access to certain devices in our network and an attempt to encrypt our systems.  We immediately took measures to stop the access, launched an investigation, and a security firm was engaged.  On July 15, 2020, findings from the investigation identified a backup copy of a database made for business continuity reasons that was obtained by the unauthorized party at some point in the prior few weeks. Although we were able to prevent devices from being encrypted, the unauthorized party demanded payment in exchange for deleting the files that were obtained. We reached an agreement and obtained confirmation that the unauthorized party deleted the files.
 </details>
 
-## [Assured Imaging](https://oag.ca.gov/system/files/Assured%20Imaging%20Breach%20Letter.pdf)
-May 19, 2020 | Ransomware<br>
+## Assured Imaging
+[May 19, 2020](https://oag.ca.gov/system/files/Assured%20Imaging%20Breach%20Letter.pdf) | Ransomware<br>
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
