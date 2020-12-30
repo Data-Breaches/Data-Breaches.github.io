@@ -23,37 +23,6 @@ var sources = {
 }
 
 const orgEventsSeparator = '<p class="hidden"></p>\n'
-const numberMonths = {
-  '01': 'January',
-  '02': 'February',
-  '03': 'March',
-  '04': 'April',
-  '05': 'May',
-  '06': 'June',
-  '07': 'July',
-  '08': 'August',
-  '09': 'September',
-  '10': 'October',
-  '11': 'November',
-  '12': 'December'
-}
-
-const monthsArray = [null, 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
-
-const shortMonths = {
-  'Jan': 'January',
-  'Feb': 'February',
-  'Mar': 'March',
-  'Apr': 'April',
-  'May': 'May',
-  'Jun': 'June',
-  'Jul': 'July',
-  'Aug': 'August',
-  'Sep': 'September',
-  'Oct': 'October',
-  'Nov': 'November',
-  'Dec': 'December'
-}
 
 var allOrganizations = {
 /*
@@ -208,15 +177,9 @@ function buildInitialRecords() {
 			var BM = block.indexOf('[');
 			var EM = block.indexOf(']');
 			if((BM !== -1) && (EM !== -1)) {
-				var date = block.substring(BM + 1, EM); 
-				console.log(date);
-				if(!date.startsWith('n/a') && (date.indexOf('/') !== -1)) {
-					var parts = date.split('/');
-					var month = monthsArray[parseInt(parts[0])];
-					record.date = month + parts[1] +', ' + parts[2];
-				} else {
-					record.date = date.trim();
-				} 
+				var name = block.substring(BM + 1, EM); 
+				console.log(name);
+				record.name = name;
 			}  else {
 				return NULL;
 			}
@@ -230,9 +193,29 @@ function buildInitialRecords() {
       }  else {
         return NULL;
       }
-			block = block.substring(EM+1);
-			var BM = block.indexOf('|');
+			var BM = block.indexOf(')');
       var EM = block.indexOf('\n');
+      if((BM !== -1) && (EM !== -1)) {
+        var extraName = block.substring(BM + 1, EM);
+				if(extraName.length) {
+        	console.log(extraName);
+				}
+        record.name += extraName;
+				record.name = record.name.trim();
+      }  else {
+        return NULL;
+      }
+			var BM = block.indexOf('\n');
+      var EM = block.indexOf('|');
+      if((BM !== -1) && (EM !== -1)) {
+        var date = block.substring(BM + 1, EM);
+        console.log(date);
+        record.date = date.trim();
+      }  else {
+        return NULL;
+      } 
+			var BM = block.indexOf('|');
+      var EM = block.indexOf('<br>');
       if((BM !== -1) && (EM !== -1)) {
         var cause = block.substring(BM + 1, EM);
         console.log(cause);
@@ -253,24 +236,19 @@ function buildInitialRecords() {
 			return record;
 		}
 
-		function parseAnOrgBlock(thisOrg) {
-			var blocks = thisOrg.split(orgEventsSeparator);
-			var name = blocks[0];
-			name = name.split('\n')[0].trim();
-			for(var i=1; i<blocks.length; i++) {
-				var record = parseABlock(blocks[i]);
-				record.name = name;
-				console.log(record);
-				sortARecord(record);
-			}	
+		function parseAnOrgBlock(thisOrg) = {
+			var blocks = thisOrg.split(orgEventsSeparator)	
+			var record = parseABlock(blocks[i]);	
+			console.log(record);
+			sortARecord(record);
 		}
 		
 		for(var i=1; i<orgBlocks.length; i++) {
 			parseAnOrgBlock(orgBlocks[i])
 		}
 		//console.log(allRecords);
-		setTimeout(fetchRecords, 100);	
-		//setTimeout(publish, 100);
+		//setTimeout(fetchRecords, 100);	
+		setTimeout(publish, 100);
 	}
 }
 
@@ -388,13 +366,6 @@ function getCalifornia($content, fn) {
       thisItem.name = $.trim($thisItem.find('.views-field-field-sb24-org-name').find('a').text());
       thisItem.url = $thisItem.find('.views-field-field-sb24-org-name').find('a').attr('href');
       var dateStr = $thisItem.find('.views-field-field-sb24-breach-date').find('span').eq(0).text();
-    	dateStr = dateStr.trim(); 
-			if(!dateStr.startsWith('n/a') && (dateStr.indexOf('/') !== -1)) {
-        var parts = dateStr.split('/');
-        var month = monthsArray[parseInt(parts[0])];
-        dateStr = month + ' ' +  parts[1] +', ' + parts[2];
-      } 
-
 			thisItem.date = dateStr;
 			items.push(thisItem)  
     }
@@ -404,7 +375,9 @@ function getCalifornia($content, fn) {
       if(index < items.length) {
 				/* Check if a record exists or not for the item*/
 				var orgName = items[index].name;
-
+				if(orgName.startsWith('Center for Autism and Related Disorders')){
+					console.log("Got here");
+				}
 				if(allOrganizations[orgName] !== undefined)	{
 					var date = new Date(items[index].date);
 					var dateValue = date.getTime();
@@ -425,7 +398,7 @@ function getCalifornia($content, fn) {
 						var fileUrl = $article.find('.file').find('a').attr('href');
 						items[index].url = fileUrl;
 						items[index].abstract = "TBD";
-						items[index].cause = "CAUSE";
+						items[index].cause = "TBD";
 						sortARecord(items[index]);						
             index ++;
             setTimeout(getArticle, 100);

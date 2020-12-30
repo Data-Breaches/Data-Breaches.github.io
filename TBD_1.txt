@@ -1,0 +1,2398 @@
+---
+layout: default
+title: List of Data Breaches
+nav_order: 1
+description: "List of Data Breaches Around the World"
+permalink: /
+---
+
+# List of Data Breaches
+
+# 1
+## 1919 Investment Counsel LLC
+<p class="hidden"></p>
+[September 21, 2020](https://oag.ca.gov/system/files/Notices.pdf) | IT Provider
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 21, 2020, a 1919ic employee discovered some unusual activity on their 1919ic work computer. We immediately began investigating and retained a third party forensic expert to assist. During our investigation, we learned that an unauthorized user gained access to 1919ic’s computer systems, which are operated by a third-party Managed IT services firm with oversight by 1919ic’s internal technology team. During the forensic analysis, 1919ic was able to quickly take steps to prevent further unauthorized access and secure our systems. At this time, we do not have any indication that your information was accessed or misused. However, because we deeply value you and are committed to transparency, we wanted to make you aware of this incident.
+</details>
+## 1873349 Ontario, Inc.
+<p class="hidden"></p>
+[June 01, 2018](https://oag.ca.gov/system/files/US_CA_Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Our security team was made aware of suspicious activity on the Canadian Website. We immediately began an investigation with the assistance of a leading computer security firm and disabled the website. On October 30, 2018, the investigation identified unauthorized access to payment card data from cards used to make purchases on the Canadian Website from August 15, 2014 to September 15, 2018. 
+</details>
+## 1-800-Flowers.com
+<p class="hidden"></p>
+[February 15, 2016](https://oag.ca.gov/system/files/CA%20Notification_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+# 2
+## 21st Century Oncology
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/21st.Adult_.Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On November 13, 2015, the Federal Bureau of Investigation (FBI) advised us that patient information was illegally obtained by an unauthorized third party who may have gained access to a 21st Century database. We immediately hired a leading forensics firm to support our investigation, assess our systems and bolster security. The forensics firm determined that, on October 3, 2015, the intruder may have accessed the database, which contained information that may have included your name, Social Security number, physician’s name, diagnosis and treatment information, and insurance information. We have no evidence that your medical record was accessed. 
+</details>
+# 7
+## 7-Eleven, Inc.
+<p class="hidden"></p>
+[June 13, 2016](https://oag.ca.gov/system/files/Individual%20notice%20-%20SAMPLE_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On behalf of the 7-Eleven franchisees, 7-Eleven maintains a database of records for each franchise location that contains information on all franchisee employees for that location. Only the records in the database for the employees of a particular franchisee (“Employing Franchisee”) are sent to the local store and are available for access by the Employing Franchisee. 7-Eleven discovered in June 2016 that as part of the update process, in addition to the normal set of employee records sent for each Employing Franchisee, some additional records from the franchisee employee database were available to certain 7-Eleven franchisees. We immediately updated the records, investigated to determine the cause of the issue, and have taken additional safety measures to protect your information and ensure that records are not accidentally made available to any franchisee other than the Employing Franchisee.
+</details>
+# 8
+## 80sTees
+<p class="hidden"></p>
+[June 03, 2012](https://oag.ca.gov/system/files/Resident%20Notice%20Letter_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+# 9
+## 9W Halo OpCo L.P. d/b/a Angelica
+<p class="hidden"></p>
+[April 10, 2018](https://oag.ca.gov/system/files/Angelica%20-%20Sample%20Notification%20Letter%20for%20California%201_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On April 10, 2018, Angelica sent an email to a former employee in response to his request for a copy of his 2017 W-2. Instead of sending only the former employee’s 2017 W-2, the response inadvertently included an attachment with 2017 W-2 forms for multiple current and former employees of Angelica, including you.  Angelica did not learn about the inadvertent disclosure of the W-2s until April 15, 2018. Angelica immediately reached out to the former employee, who confirmed that he had deleted the message containing the W-2s. Prior to deleting the message, the former employee forwarded the attachment with all of the W-2s to his tax preparer and a current employee of Angelica, both of whom have confirmed that they deleted the file and that they did not forward the file to anyone else.
+</details>
+# A
+## Atlas Mechanical, Inc.
+<p class="hidden"></p>
+[October 11, 2020](https://oag.ca.gov/system/files/Notice%20of%20Data%20Event%20-%20Atlas%20Mechanical.pdf) | Malware
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Atlas recently became aware of suspicious activity on its computer network and discovered it could not access certain files on its systems. Atlas immediately launched an investigation, with the assistance of thirdparty computer forensic specialists, and determined that its network had been infected with malware which prevented access to certain files on the system. The investigation determined that the malware was introduced into the system by an unauthorized actor who also accessed and acquired certain files in Atlas’ system. Atlas then began a lengthy and labor-intensive process to identify sensitive information that may have been contained within impacted files, and to identify the individuals whose information may have been impacted. While our investigation is ongoing, we are notifying you because that investigation determined certain information related to you may have been impacted.
+</details>
+## Agoura Health Products, LLC dba Gundry MD
+<p class="hidden"></p>
+[August 06, 2020](https://oag.ca.gov/system/files/Gundry%20MD%20-%20Template%20Notification%20Letter.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We are writing to advise you of a recent data security incident involving a company called 1ShoppingCart.  com (“1ShoppingCart”). Gundry MD contracts with 1ShoppingCart to process payments made through our website. On October 30, 2020, we learned from 1ShoppingCart that an unauthorized third party accessed 1ShoppingCart’s systems and collected information regarding transactions placed on Gundry MD’s website from August 6, 2020 to August 22, 2020.
+</details>
+## Aetna
+<p class="hidden"></p>
+[June 24, 2020](https://oag.ca.gov/system/files/EyeMed%20Individual%20Notice%20Template%20%2810.21.2020%29%20Reseller.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## ArbiterSports
+<p class="hidden"></p>
+[June 3, 2020](https://oag.ca.gov/system/files/Arbiter%20-%20California%20Notification.pdf) | Ransomware
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently detected unauthorized access to certain devices in our network and an attempt to encrypt our systems.  We immediately took measures to stop the access, launched an investigation, and a security firm was engaged.  On July 15, 2020, findings from the investigation identified a backup copy of a database made for business continuity reasons that was obtained by the unauthorized party at some point in the prior few weeks. Although we were able to prevent devices from being encrypted, the unauthorized party demanded payment in exchange for deleting the files that were obtained. We reached an agreement and obtained confirmation that the unauthorized party deleted the files.
+</details>
+## Assured Imaging
+<p class="hidden"></p>
+[May 19, 2020](https://oag.ca.gov/system/files/Assured%20Imaging%20Breach%20Letter.pdf) | Ransomware
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On May 19, 2020, Assured learned that its electronic medical records system had become encrypted due to “ransomware” deployed by an unknown actor. Because the impacted systems contained patient and employee information, Assured worked quickly to (1) restore access to the patient information so it could continue to care for patients without disruption and (2) investigate what happened and whether this incident resulted in any unauthorized access to, or theft of, personal information by the unknown actor.
+</details>
+## American Payroll Institute, Inc. (APA); Global Payroll Management Institute, Inc.
+<p class="hidden"></p>
+[May 13, 2020](https://oag.ca.gov/system/files/APA%20Security%20Incident%20Sample%20Notice%20Template.pdf) | Malware
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The APA experienced a skimming cyberattack in which personal information was accessed by unauthorized individuals. The source of the cyberattack is thought to have been a vulnerability in APA’s content management system, which allowed a “skimmer” to be installed on both the login webpage of the APA website, as well as the checkout section of the APA’s online store. APA’s IT team uncovered unusual activity on the site dating back to May 13, 2020 at approximately 7:30 pm CT.
+</details>
+## American Payroll Institute, Inc. (APA); Global Payroll Management Institute, Inc. (GPMI)
+<p class="hidden"></p>
+[May 13, 2020](https://oag.ca.gov/system/files/APA%20Security%20Incident%20Sample%20Notice%20Template.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The APA experienced a skimming cyberattack in which personal information was accessed by unauthorized individuals. The source of the cyberattack is thought to have been a vulnerability in APA’s content management system, which allowed a “skimmer” to be installed on both the login webpage of the APA website, as well as the checkout section of the APA’s online store. APA’s IT team uncovered unusual activity on the site dating back to May 13, 2020 at approximately 7:30 pm CT.
+</details>
+## Amphastar Pharmaceuticals, Inc.
+<p class="hidden"></p>
+[May 2, 2020](https://oag.ca.gov/system/files/Amphastar%20Sample%20Individual%20Notification%20Letter%20%28CA%29%20%28082720%29.pdf) | Ransomware
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 24, 2020, the Company learned for the first time that some Company data had been posted on the internet without authorization on July 21. Most of the information was legacy data (approximately 15 years old) and included some of your personal information along with other company records.<br><br>
+
+The Company immediately investigated this posting to learn what happened with the assistance of a leading specialist routinely retained to assess and mitigate cybersecurity incidents. The posting was determined to be related to an earlier ransomware attack on May 2, 2020 that had been fully contained without any indication that data had been removed based on available records. No payment was or will be made to the criminals responsible for this malicious/criminal act. The Company was able to use backups and restore business continuity promptly. As law enforcement and others have reported, ransomware attacks have increased and have targeted the healthcare industry in the United States and around the world including during the global pandemic.
+</details>
+## American Symphony Orchestra League
+<p class="hidden"></p>
+[May 1, 2020](https://oag.ca.gov/system/files/Security%20Incident%20Letter%20on%20letterhead%20FINAL.pdf) | Ransomware
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Blackbaud, which works with many nonprofits and educational institutions to support their development and donor engagement activities, recently notified us of a security incident. You may have received a similar e-mail about this incident from other nonprofits or universities whose data Blackbaud stewards. At this time, we understand that Blackbaud discovered and stopped a ransomware attack. After discovering the attack, Blackbaud’s Cyber Security team—together with independent forensics experts and law enforcement—expelled the cybercriminal from their system. Blackbaud indicated, however, that the cybercriminal did remove a copy of a backup file containing some of your information before being locked out of the system. A full description of the incident is available on Blackbaud’s website at https://www.blackbaud.com/securityincident.
+</details>
+## Allergy & Asthma Medical Group of the Bay Area, Inc.
+<p class="hidden"></p>
+[April 27, 2020](https://oag.ca.gov/system/files/Patient%20Notice%20Letter%20%28HB%20Changes%29%20April%202020%20Break%20in%20letter.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On April 28, 2020, Allergy & Asthma Medical Group of the Bay Area discovered that its Berkeley physicians' office was broken into during the evening of April 27, 2020. We immediately initiated an investigation during which we learned that three laptops were stolen. While these laptops were secured, we are taking a conservative approach that the bad actor(s) may have gained access to them. Accordingly, we performed a diligent review to determine what information was present on the laptops and to whom that information related.  Based on that review, we learned that certain limited information relating to your FeNo results was potentially viewable on the laptop.
+</details>
+## Ascend Clinical LLC
+<p class="hidden"></p>
+[April 21, 2020](https://oag.ca.gov/system/files/Additional%20Sample%20Notification%20Letter.pdf) | Ransomware
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On or about May 31, 2020, Ascend detected irregularities in its data systems, including some Ascend data that had become encrypted through an unknown source. Upon a thorough investigation, Ascend determined that an unauthorized user had accessed and downloaded Ascend business records, including some personally identifiable information (“PII”) of Ascend’s patients. Under a federal law known as the Health Insurance Portability and Accountability Act (“HIPAA”), this PII is considered protected health information (“PHI”).
+</details>
+## Arbonne International, LLC
+<p class="hidden"></p>
+[April 20, 2020](https://oag.ca.gov/system/files/Arbonne%20Exhibit%201%20-%20CA.pdf.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On the evening of April 20, 2020, Arbonne became aware of unusual activity within a limited number of its internal systems. Arbonne immediately commenced an investigation with the assistance of third-party computer specialists. While the investigation remains ongoing, the preliminary investigation determined that certain information in Arbonne’s systems may have been accessed without authorization. On April 23, 2020, the investigation identified a data table containing limited personal information that may have been accessible to unauthorized actor. 
+</details>
+## Alcorn Fence Company
+<p class="hidden"></p>
+[April 19, 2020](https://oag.ca.gov/system/files/Alcorn%20-%20Consumer%20Notification%20Letter%20V2%20Print%20Proof_1.pdf) | Email Compromise
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently detected unauthorized access to an Alcorn employee email account that may have contained your personal information. We immediately launched an investigation and engaged a digital forensics firm to assist. Through this investigation, we determined that your personal information may have been accessed without authorization.
+</details>
+## Alameda Health System
+<p class="hidden"></p>
+[April 08, 2020](https://oag.ca.gov/system/files/Sample%20Notice.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On June 17, 2020, we learned that, for a brief period of time on April 8, 2020, an unauthorized person from outside AHS was able to remotely access the email account of an AHS employee. Upon learning of the incident, we immediately took action to secure the employee’s email account to prevent any further access. We also launched an investigation and engaged a leading forensic security firm to assist in our investigation. As part of that investigation, we searched for any personal information in the email account that could have been viewed. We recently completed our investigation and have determined that the account contained some personal information, including your name and limited medical information. The type of information differs for each individual, but was mostly information such as dates of birth, medical record numbers, appointment dates, driver’s license number, Social Security number and health insurance information.
+</details>
+## Andrew Dang, DDS
+<p class="hidden"></p>
+[April 19, 2020](https://oag.ca.gov/system/files/Template%20notification%20for%20CA%20AG%20submission.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Amtrak
+<p class="hidden"></p>
+[April 16, 2020](https://oag.ca.gov/system/files/Consumer%20Notification%20Letter.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Accident Insurance Company
+<p class="hidden"></p>
+[April 13, 2020](https://oag.ca.gov/system/files/AIC%20-%20Consumer%20Notification%20%28CA%20Version%29_PROOF%20V2.pdf) | Unauthorized Access
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On August 18, 2020, we determined that your personal information may have been accessed during a cyber incident in which unauthorized persons attempted to interfere with the operation of our computer system. While their attempt did not succeed, during the incident they may have had access to sensitive information. When we learned of their attempt in April of 2020 AIC immediately launched an investigation with the assistance of cybersecurity experts to determine what happened and what information may have been exposed. We are unaware of any information being misused but wanted to provide this information to you.
+</details>
+## Angeion Group
+<p class="hidden"></p>
+[March 30, 2020](https://oag.ca.gov/system/files/Angeion%20Notice.pdf) | Email Compromise
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+In July 2020, we learned that between March 30, 2020 and May 4, 2020, an unknown third party accessed, remotely and without authorization, the corporate email box of one of our employees. In light of the employee’s job functions, that email box included certain personal information, present in claims administration files and related communications.
+</details>
+## AST LLC
+<p class="hidden"></p>
+[March 09, 2020](https://oag.ca.gov/system/files/CA%20Breach%20Notice.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Athenian School
+<p class="hidden"></p>
+[February 7, 2020](https://oag.ca.gov/system/files/Sample%20Notice%20to%20be%20sent%20to%20AG%20with%20Credit%20Monitoring.pdf) | Ransomware
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+According to Blackbaud, cybercriminals gained access to their system as part of a ransomware attack sometime between February 7, 2020 and May 20, 2020. Blackbaud informed us that upon discovering the attack, Blackbaud’s cybersecurity team – along with independent forensics experts and law enforcement – stopped the attack and expelled the cybercriminals.  However, Blackbaud discovered that prior to locking the cybercriminals out, they removed a copy of a backup file containing your personal information. Blackbaud has assured us, based on representations by the Federal Bureau of Investigations, that upon receiving the ransomware payment the cybercriminals destroyed the information that they accessed.
+</details>
+## Advantage Capital Funding, LLC
+<p class="hidden"></p>
+[February 6, 2020](https://oag.ca.gov/system/files/AdCap%20-%20California%20Notification.pdf) | IT Provider
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On March 17, 2020, Advantage Capital confirmed a report that it initially received on February 6, 2020 concerning potentially unauthorized access to a third-party hosted database that Advantage Capital used to store merchant loan application data. Advantage Capital subsequently took the database offline and a cyber security firm was engaged to assist with the investigation. Through the investigation, Advantage Capital determined that the unauthorized access occurred between February 6, 2020 and March 6, 2020. Advantage Capital has addressed the security issues resulting in this incident.
+</details>
+## Allstate Benefits
+<p class="hidden"></p>
+[February 05, 2020](undefined) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Ambry Genetics Corporation
+<p class="hidden"></p>
+[January 22, 2020](https://oag.ca.gov/system/files/Sample%20Notification%20Letter_5.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Artech, L.L.C.
+<p class="hidden"></p>
+[January 5, 2020](https://oag.ca.gov/system/files/Artech%20-%20Notice%20of%20Data%20Event.pdf) | Ransomware
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On January 8, 2020, Artech received a report of unusual activity relating to an employee’s Artech user account. We immediately began investigating this report and through that investigation identified ransomware on certain Artech systems. That same day we engaged a leading third-party forensic investigation firm to assess the security of our systems and to confirm the nature and scope of the incident. On January 15, 2020, the investigation determined that an unauthorized actor had access to certain Artech systems between January 5, 2020, and January 8, 2020. Artech undertook a comprehensive review of these systems and determined that some personal information was present in them at the time of the incident. We reviewed this information and our internal records to identify the individuals associated with this information and their contact information for purposes of providing notice. On or around June 25, 2020, we completed this review and determined that some of your personal information was contained in one or more of the involved files.
+</details>
+## Atria Wealth Solutions
+<p class="hidden"></p>
+[December 03, 2019](https://oag.ca.gov/system/files/Atria%20Wealth%20-%20Notice%20to%20CA_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Andrew Lundholm CPA
+<p class="hidden"></p>
+[November 24, 2019](https://oag.ca.gov/system/files/AL%20Notice%20of%20Data%20Event.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## ACCO Engineered Systems, Inc.
+<p class="hidden"></p>
+[November 20, 2019](https://oag.ca.gov/system/files/ACCO%20-%20%28Notice%20Only%29.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Adelanto Elementary School District
+<p class="hidden"></p>
+[November 04, 2019](https://oag.ca.gov/system/files/Notcie%20sent%20to%204264.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Apple Valley Unified School District
+<p class="hidden"></p>
+[November 04, 2019](https://oag.ca.gov/system/files/Apple%20Valley%20notice.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## ABC Unified School District
+<p class="hidden"></p>
+[November 04, 2019](https://oag.ca.gov/system/files/Sample%20Notices%20-%20ABCUSD.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Altice USA, Inc.
+<p class="hidden"></p>
+[November 04, 2019](https://oag.ca.gov/system/files/Altice%20USA%20Ad%20Current-Former%20Employee%20r3prf.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## AFTRA Retirement Fund
+<p class="hidden"></p>
+[October 24, 2019](https://oag.ca.gov/system/files/AFTRA%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Audio Visual Services Group, LLC d/b/a PSAV
+<p class="hidden"></p>
+[October 22, 2019](https://oag.ca.gov/system/files/SAMPLE%20NOTICE_PSAV.pdf) | Email Compromise
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On or about January 15, 2020, PSAV learned that an unauthorized party had gained remote access to certain employees’ business email mailboxes. The unauthorized activity was part of an apparent attempt to use email accounts to re-route wire transfer payments from vendors to bank accounts under the control of the unauthorized party.
+</details>
+## AmeriSave Mortgage Corporation
+<p class="hidden"></p>
+[October 03, 2019](https://oag.ca.gov/system/files/Generic%20Consumer%20Data%20Breach%20%20Notification%20%28California%29.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## American Medical Technologies
+<p class="hidden"></p>
+[October 01, 2019](https://oag.ca.gov/system/files/American%20Medical%20Technologies%20-%20Adult%20Notification%20Letter%20%2812%20Months%29%20V5%20Final.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Active Network, LLC
+<p class="hidden"></p>
+[October 01, 2019](https://oag.ca.gov/system/files/Individual%20Letter%20CA.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Atria Senior Living
+<p class="hidden"></p>
+[September 18, 2019](https://oag.ca.gov/system/files/Atria%20Ad%20CM%20CA%20r4prf.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Auto Approve, LLC
+<p class="hidden"></p>
+[August 28, 2019](https://oag.ca.gov/system/files/Auto%20Approve%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Aveanna Healthcare
+<p class="hidden"></p>
+[July 09, 2019](https://oag.ca.gov/system/files/Aveanna%20-%20Notice%20of%20Data%20Breach%20-%20Exhibit%201%20-%20CA.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Athens Insurance Services, Inc.
+<p class="hidden"></p>
+[July 01, 2019](https://oag.ca.gov/system/files/Athens%20Insurance_Notice.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## AliMed, Inc.
+<p class="hidden"></p>
+[June 1, 2019](https://oag.ca.gov/system/files/9060310.PDF) | Unauthorized Access
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently discovered that a malicious party had gained access to one of our servers and may have acquired payment card data used in connection with certain transactions made with AliMed. We engaged external forensic investigators and data privacy professionals and commenced a prompt and through investigation into the incident. As a result of this investigation, we determined that the payment card information potentially accessed and/or acquired related to certain transactions made with AliMed between June 1, 2019 and June 17, 2020.
+</details>
+## Andy Frain Services
+<p class="hidden"></p>
+[May 22, 2019](https://oag.ca.gov/system/files/Andy%20Frain%20Services%20-%20Proof%20-%20A%20-%20California%20.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Avalara, Inc.
+<p class="hidden"></p>
+[May 22, 2019](https://oag.ca.gov/system/files/PRIVILEGED%20AND%20CONFIDENTIAL%20-%20Sample%20General%20Data%20Subject%20Notice%20_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Ameritas Life Insurance Corp.
+<p class="hidden"></p>
+[May 01, 2019](https://oag.ca.gov/system/files/Ameritas%20Ad%20r1prf.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Acrisure LLC, d/b/a Filice Insurance Agency
+<p class="hidden"></p>
+[April 03, 2019](https://oag.ca.gov/system/files/Filice%20Insurance%20-%20Egnyte%20-%20Consumer%20Notification%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Arthur J. Gallagher & Co.
+<p class="hidden"></p>
+[March 15, 2019](https://oag.ca.gov/system/files/CA%20AG%20-%20Exhibit%201%28Notice%20Only%29.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Altura Credit Union
+<p class="hidden"></p>
+[March 05, 2019](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach%20-%20Altura%20Credit%20Union%2020190327_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## American Indian Health & Services, Inc.
+<p class="hidden"></p>
+[February 26, 2019](https://oag.ca.gov/system/files/AIHS%20-%20individual%20notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Abbott Laboratories
+<p class="hidden"></p>
+[January 19, 2019](https://oag.ca.gov/system/files/Multistate%20Notice%20Draft_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[December 01, 2014](https://oag.ca.gov/system/files/Abbott%20Notification%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## AltaMed Health Services Corporation
+<p class="hidden"></p>
+[January 09, 2019](https://oag.ca.gov/system/files/AltaMed%20%28CL%29%20--%20Notification%20--%205.15.19_0_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[May 21, 2018](https://oag.ca.gov/system/files/AltaMed%20--%20SHDS%20--%20Supplemental%20Consumer%20Notification%20Letter%20Proof%20%282019.05.28%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/AltaMed%20Individual%20Notice%20Template_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## American Cancer Society, Inc.
+<p class="hidden"></p>
+[January 08, 2019](undefined) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## ArmorGames, Inc
+<p class="hidden"></p>
+[January 01, 2019](https://oag.ca.gov/system/files/data_breach_blog_post_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Abel HR
+<p class="hidden"></p>
+[November 11, 2018](https://oag.ca.gov/system/files/Abel%20HR%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Ally Bank
+<p class="hidden"></p>
+[November 11, 2018](https://oag.ca.gov/system/files/Ally%20CA%20Customer%20Notification%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## AeroGrow International
+<p class="hidden"></p>
+[October 29, 2018](https://oag.ca.gov/system/files/Cali%20Indiv%20Notification%20042019_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[May 13, 2015](https://oag.ca.gov/system/files/Second%20July_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[October 15, 2014](https://oag.ca.gov/system/files/Current%20Notice%20-%20Final%20B%20Letter%20Only_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## ACE Cash Express, Inc.
+<p class="hidden"></p>
+[October 27, 2018](https://oag.ca.gov/system/files/ACE-%20CA-%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Avid Technology, Inc.
+<p class="hidden"></p>
+[October 08, 2018](https://oag.ca.gov/system/files/Avid%20Technology-%20Notice%20of%20Data%20Event-%20%28Notice%20Only%29.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Amateur Athletic Union
+<p class="hidden"></p>
+[October 01, 2018](https://oag.ca.gov/system/files/AAU-%20Notice%20of%20Data%20Event-%20CA%20Exhibit%201.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## American Medical Response, Inc.
+<p class="hidden"></p>
+[September 24, 2018](https://oag.ca.gov/system/files/Sample%20Notice_28.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Atrium Health (formerly Carolinas HealthCare System)
+<p class="hidden"></p>
+[September 22, 2018](https://oag.ca.gov/system/files/California%20Individual%20Templates_0%20-%201_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Allen Chern LLP
+<p class="hidden"></p>
+[July 27, 2018](https://oag.ca.gov/system/files/7884921_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Applied Data Finance, LLC d/b/a Personify Financial
+<p class="hidden"></p>
+[July 21, 2018](https://oag.ca.gov/system/files/ADF%20-%20%20Data%20Breach%20Notification%20Letter%20Sample_0.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Animoto Inc.
+<p class="hidden"></p>
+[July 10, 2018](https://oag.ca.gov/system/files/CA-%20Notice%20of%20Data%20Event_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## American Express Travel Related Services Company, Inc.
+<p class="hidden"></p>
+[July 05, 2018](https://oag.ca.gov/system/files/Customer%20Notification%20C1807014816_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[October 01, 2017](https://oag.ca.gov/system/files/Sample%20of%20Notification_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Aetrex Worldwide, Inc.
+<p class="hidden"></p>
+[June 22, 2018](https://oag.ca.gov/system/files/Aetrex-%20Notice%20of%20Data%20Event-%20CA_0%20%28notice%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Aimbridge Hospitality Holdings, LLC
+<p class="hidden"></p>
+[June 07, 2018](https://oag.ca.gov/system/files/Aimbridge%20Hospitality%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA_8.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[January 08, 2018](https://oag.ca.gov/system/files/Aimbridge%20Hospitality%20Holdings%2C%20LLC%20-%20Notice%20of%20Data%20Event%20-%20Exhitbit%201%20-%20CA_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Authentic Recovery Center, LLC
+<p class="hidden"></p>
+[June 07, 2018](https://oag.ca.gov/system/files/Adult%20Notification%20Letters%20submitted%20with%20CA%20Online%20Data%20Security%20Breach_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Advocate Sherman Hospital ("Sherman")
+<p class="hidden"></p>
+[May 08, 2018](https://oag.ca.gov/system/files/March%202019%20Consumer%20Mailing_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Amarin Pharma, Inc.
+<p class="hidden"></p>
+[May 02, 2018](https://oag.ca.gov/system/files/Data%20Issue%20-%20Individual%20Notification.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Art.sy, Inc. d/b/a Artsy
+<p class="hidden"></p>
+[April 30, 2018](https://oag.ca.gov/system/files/Artsy%20-%20CA%20AG%20-%20Exhibit%201_0%20%28notification%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Another Planet Entertainment
+<p class="hidden"></p>
+[April 09, 2018](https://oag.ca.gov/system/files/APE%20-%20Notice%20Letter%20CA%20AG_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## AAA Business Supplies
+<p class="hidden"></p>
+[April 08, 2018](https://oag.ca.gov/system/files/Confidential%20Security%20Alert_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## AccessLex Institute d/b/a Access Group
+<p class="hidden"></p>
+[March 23, 2018](https://oag.ca.gov/system/files/CA%20notification%20letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Autism Learning Partners Holdings, LLC
+<p class="hidden"></p>
+[March 15, 2018](https://oag.ca.gov/system/files/ALP-AisforApple_Sample_Notice_04-03-18_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Amgen, Inc.
+<p class="hidden"></p>
+[February 21, 2018](https://oag.ca.gov/system/files/Amgen%20Data%20Subject%20Notice%20FINAL_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Applied Plan Administrators ("APA"), a division of The Retirement Advantage, Inc. ("TRA")
+<p class="hidden"></p>
+[February 10, 2018](https://oag.ca.gov/system/files/CORR%20A.%20Schlidt%20Letter%20to%20CA%20AG%20Data%20Incident%20Notification_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## American Stock Transfer & Trust Company, LLC
+<p class="hidden"></p>
+[February 01, 2018](https://oag.ca.gov/system/files/Sample%20Notice_21.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Ascensus, LLC
+<p class="hidden"></p>
+[January 31, 2018](https://oag.ca.gov/system/files/221725%20Red%20Hawk%20Casino%20-%20Individual%20Letter_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## ABM Industries Incorporated
+<p class="hidden"></p>
+[January 08, 2018](undefined) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[July 07, 2017](https://oag.ca.gov/system/files/ABM%20-%20Notice%20only%200_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## American Golf Corporation
+<p class="hidden"></p>
+[December 12, 2017](https://oag.ca.gov/system/files/Sample%20Notice_20.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Academy of Art Unversity dba Stephens Institute
+<p class="hidden"></p>
+[November 08, 2017](https://oag.ca.gov/system/files/TEMPLATE%20Notice%20to%20Employees%20%28All%20except%20Mass%20Oregon%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Aflac
+<p class="hidden"></p>
+[September 08, 2017](https://oag.ca.gov/system/files/CALIFORNIA%20HIPPA%20%26%20CM%20ONLY_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## ABB, Inc.
+<p class="hidden"></p>
+[August 25, 2017](https://oag.ca.gov/system/files/ABB%20Sample%20Notification%20Letter%20to%20Individuals_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Avanti Markets Inc.
+<p class="hidden"></p>
+[July 04, 2017](https://oag.ca.gov/system/files/Avanti%20%28update%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[July 02, 2017](https://oag.ca.gov/system/files/Notice%20and%20FAQs_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Andrea Yaley, DDS
+<p class="hidden"></p>
+[May 19, 2017](https://oag.ca.gov/system/files/Breach%20notification_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Advanced Graphic Products, Inc. /dba/ "Advanced-Online"
+<p class="hidden"></p>
+[April 29, 2017](https://oag.ca.gov/system/files/Sample_Notice_0.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## ALLIANCE FOR COLLEGE-READY PUBLIC SCHOOLS
+<p class="hidden"></p>
+[April 04, 2017](https://oag.ca.gov/system/files/Alliance_for_College_Ready_Public_Schools_-_AG_Notice__0.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Alamo Capital
+<p class="hidden"></p>
+[March 14, 2017](https://oag.ca.gov/system/files/Alamo%20Capital%20-%20consumer%20notification%20letter%20-%2004132017_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## American Tire Distributors Holdings Inc.
+<p class="hidden"></p>
+[March 03, 2017](https://oag.ca.gov/system/files/American%20Tire%20Security%20Breach%20Notification%20-%20NOTICE%20ONLYCA%20Agency%20Letter%20March%2016%202017_0%20%281%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Auto Pride Car Wash
+<p class="hidden"></p>
+[February 11, 2017](https://oag.ca.gov/system/files/Substitute-Notice%20RC_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Acme Car Wash and Clearwater Express
+<p class="hidden"></p>
+[February 06, 2017](https://oag.ca.gov/system/files/Substitute%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## ASI Computer Systems
+<p class="hidden"></p>
+[December 01, 2016](https://oag.ca.gov/system/files/Californina%20Exhibit%201_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Agri Beef Co.
+<p class="hidden"></p>
+[November 22, 2016](https://oag.ca.gov/system/files/Agri%20Beef%20California%20Sample%20Data%20Breach%20Notice%20_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Anchor Loans LP
+<p class="hidden"></p>
+[November 07, 2016](https://oag.ca.gov/system/files/Anchor%20Loans%20Sample%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Akira
+<p class="hidden"></p>
+[November 01, 2016](https://oag.ca.gov/system/files/Akira%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Anaheim Majestic Garden Hotel
+<p class="hidden"></p>
+[August 10, 2016](https://oag.ca.gov/system/files/Notice%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Aimbridge Hospitality Holdings LLC
+<p class="hidden"></p>
+[August 10, 2016](https://oag.ca.gov/system/files/Aimbridge%20II%20-Notice%20Only%20%20_0_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Aqua-Aston Hospitality LLC
+<p class="hidden"></p>
+[August 10, 2016](https://oag.ca.gov/system/files/Breach%20Notification%20Letter%2062217%20US_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Apria Healthcare
+<p class="hidden"></p>
+[August 05, 2016](https://oag.ca.gov/system/files/Apria%20-%20Notice%20of%20Data%20Event%20-%20CA%20Exhibit%201_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Anne M. Cummings, M.D., F.A.C.P.
+<p class="hidden"></p>
+[July 26, 2016](https://oag.ca.gov/system/files/Cummings%20Notice%20A_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## A&A Ready Mixed Concrete, Inc.
+<p class="hidden"></p>
+[May 16, 2016](https://oag.ca.gov/system/files/A%26A%20Concrete%20redacted%205_24_16_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Ascensus, Inc.
+<p class="hidden"></p>
+[April 29, 2016](https://oag.ca.gov/system/files/211253%20MENZIES%20AVIATION%20-%20%20PPT%20Letter%20-%20General_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Areas
+<p class="hidden"></p>
+[April 04, 2016](https://oag.ca.gov/system/files/CA%20Sample%20Notification_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Advance International Marketing, Inc.
+<p class="hidden"></p>
+[April 04, 2016](https://oag.ca.gov/system/files/CA_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Aspiranet
+<p class="hidden"></p>
+[March 21, 2016](https://oag.ca.gov/system/files/W2%20Incident%20-%20notice%20attachment_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Advance Auto Parts, Inc
+<p class="hidden"></p>
+[March 07, 2016](https://oag.ca.gov/system/files/ACID_PRINTERPROOFS.NOTICE%20LETTER_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Academy of Art Unversity
+<p class="hidden"></p>
+[March 04, 2016](https://oag.ca.gov/system/files/Academy%20of%20Art%20Notice%20Letter%20%28002%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Aptos Inc.
+<p class="hidden"></p>
+[February 01, 2016](https://oag.ca.gov/system/files/Mrs_Prindables_California_Courtesy_Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Amaash Corporation
+<p class="hidden"></p>
+[December 02, 2015](https://oag.ca.gov/system/files/Website%20Notification_11.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Avis Budget Group
+<p class="hidden"></p>
+[October 02, 2015](https://oag.ca.gov/system/files/Employee%20Notification%20Letter%20-%20Final%20%282%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## American Express Travel Related Services Company, Inc and /or its Affiliates (“AXP”)
+<p class="hidden"></p>
+[September 23, 2015](https://oag.ca.gov/system/files/C2015100305%20-%20Customer%20Letter%20-%20CA%20AG%20Online%20Submission_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[April 23, 2015](https://oag.ca.gov/system/files/C2015060271%20-%20Customer%20Letter%20-%20CA%20AG%20Online%20Submission_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[March 22, 2015](https://oag.ca.gov/system/files/CA%20AG%20-%20Customer%20Letter%20-%20C2015060341_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[February 01, 2015](https://oag.ca.gov/system/files/CA%20AG%20Online%20Submission%20-%20Customer%20Letter%20-%20C2015050034_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[January 20, 2015](https://oag.ca.gov/system/files/C2015050146%20CA%20AG%20Online%20Submission%20-%20Customer%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[December 30, 2014](https://oag.ca.gov/system/files/CA%20AG%20Online%20-%20Customer%20Letter%20-%20C2015050188_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[December 21, 2014](https://oag.ca.gov/system/files/C2015020361%20CA%20AG%20-%20Customer%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[December 01, 2014](https://oag.ca.gov/system/files/CA%20AG%20Customer%20Letter%20-%20C2015030368_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[November 20, 2014](https://oag.ca.gov/system/files/C2015030179%20%20-%20Customer%20Letter%20-%20CA%20AG%20Online%20Submission_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[November 02, 2014](https://oag.ca.gov/system/files/CA%20AG%20-%20Customer%20Letter%20-%20C2015010321_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[October 18, 2014](https://oag.ca.gov/system/files/CA%20AG%20Online%20Submission%20-%20Customer%20Letter_C2015080150_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[August 07, 2014](https://oag.ca.gov/system/files/CA%20AG%20-%20Customer%20Letter-%20C2015080219_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[June 02, 2014](https://oag.ca.gov/system/files/C2014100066%20Customer%20Letter%20-%20CA%20AG%20Online%20Submission_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[May 19, 2014](https://oag.ca.gov/system/files/CA%20AG%20Customer%20Letter%20-%20C2015060086_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[April 29, 2014](https://oag.ca.gov/system/files/C2015080328%20-%20Customer%20Letter%20-%20CA%20AG%20Online%20Submission_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[April 14, 2014](https://oag.ca.gov/system/files/C2015020110%20CA%20AG%20-%20Customer%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[April 12, 2014](https://oag.ca.gov/system/files/CA%20AG%20Online%20Submission-Customer%20Letter-%20C2015050304_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[December 07, 2013](https://oag.ca.gov/system/files/AMEX%2060413%20updated%20Customer%20Notice%20-%20C2015090247_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[July 06, 2013](https://oag.ca.gov/system/files/Customer%20Notification%20Letter%20-%20C2014070210_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[June 13, 2013](https://oag.ca.gov/system/files/C2014060203%20-%20CA%20AG%20-%20Customer%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[May 28, 2013](https://oag.ca.gov/system/files/Website%20Server%20Active%20CM%20Letter_%28WSC%29_EN_Final_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[April 09, 2013](https://oag.ca.gov/system/files/Recovered%20Data_Active%20CM%20Letter_%28RDC%29_EN_Final_172013_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[March 08, 2013](https://oag.ca.gov/system/files/Amex%20White%20Lodging-C2014050213%20CA%20AG%20Letter_Customer%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[February 10, 2013](https://oag.ca.gov/system/files/Data%20Server_Active%20CM%20Letter_%28MSC%29_EN_Final_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[February 01, 2013](https://oag.ca.gov/system/files/CA%20AG_Roys%20Holdings_C2013057989_customer%20letter%20ADO1_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[January 17, 2013](https://oag.ca.gov/system/files/Sprouts-C2013027013%20CA%20AG%20Letter_Customer%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[January 15, 2013](https://oag.ca.gov/system/files/Celerant-C2013068451%20CA%20Customer%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[December 21, 2012](https://oag.ca.gov/system/files/Shoplet%20Merchant%20Notification%20C2013026933_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[December 19, 2012](https://oag.ca.gov/system/files/Tennis%20Express-C2013016801%20CA%20AG%20Letter_online%20submission_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[November 01, 2012](https://oag.ca.gov/system/files/Data%20Server_Active%20CM%20Letter_%28MSC%29_EN_Final_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[October 16, 2012](https://oag.ca.gov/system/files/Fabric%20Depot-C2013027035%20CA%20-%20Merchant%20letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[September 01, 2012](https://oag.ca.gov/system/files/EJ%20PHAIR%20BREWING%20CO%20and%20ALE%20HOUS-C2012116470%20CA%20AG%20Letter_customer%20notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[August 03, 2012](https://oag.ca.gov/system/files/AmEx%20Paygate-C2012095824%20CA%20AG%20Letter%5Bx%5D_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[June 26, 2012](https://oag.ca.gov/system/files/Recoverd%20Cards_AD01_Active%20%28RDCSBMMYY%29%20CM%20Letter_Final_032912_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[June 13, 2012](https://oag.ca.gov/system/files/Website%20Server%20Active%20CM%20Letter_%28WSC%29_EN_Final_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[June 03, 2012](https://oag.ca.gov/system/files/80sTees.com-C2013037430%20CA%20Customer%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[May 21, 2012](https://oag.ca.gov/system/files/Pages%20from%20USC%20Hospitality-C2012065283%20CA%20AG%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[April 02, 2012](https://oag.ca.gov/system/files/Chaparral_CM%20Letter_Final_071912_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[April 01, 2012](https://oag.ca.gov/system/files/Website%20Data%20Server_AD01_Active%20%28WSCSBMMYY%29%20CM%20Letter_Final_071912_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[March 02, 2012](https://oag.ca.gov/system/files/Creative%20Croisants%20-%20LAX%20-%20C2012075344_Customer%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[February 02, 2012](https://oag.ca.gov/system/files/La%20Condesa_AD01_Active%20CM%20Letter_Final_071912_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[January 17, 2012](https://oag.ca.gov/system/files/Paragon%20Solution%20Network%201ink-C2013068305%20CA%20AG%20Letter_Customer%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[November 06, 2011](https://oag.ca.gov/system/files/Pages%20from%20GoTickets%20com-C2012065270%20CA%20AG%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[July 11, 2011](https://oag.ca.gov/system/files/Customer%20Letter%20-%20C2014120039%20-%20CA%20AG%20Online%20Submission_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[April 06, 2011](https://oag.ca.gov/system/files/I%20H%20S%20Inc-C2013037330%20CA%20AG%20Letter_Merchant%20letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[March 13, 2011](https://oag.ca.gov/system/files/Customer%20Letter%20-%20C2014060082_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[February 15, 2011](https://oag.ca.gov/system/files/CA%20AG%20Online%20-%20Customer%20Letter%20-%20C2015040121_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[May 05, 2008](https://oag.ca.gov/system/files/CA%20AG%20Online%20Submission%20-%20Customer%20Letter_C2015050133_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Recoverd%20Cards_AD01_Active%20%28RDCSBMMYY%29%20CM%20Letter_Final_032912_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## American Bankers Association
+<p class="hidden"></p>
+[September 16, 2015](https://oag.ca.gov/system/files/Security%20Alert%20Regarding%20ABA_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Acclaim Technical Services
+<p class="hidden"></p>
+[August 26, 2015](https://oag.ca.gov/system/files/ATS%20Sample%20Letter%201_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Accuform Signs
+<p class="hidden"></p>
+[June 30, 2015](https://oag.ca.gov/system/files/Accuform-SampleNotification%20-%20Standard_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Acer Service Corporation
+<p class="hidden"></p>
+[May 12, 2015](https://oag.ca.gov/system/files/Customer%20Notice%20Letter%20-%20California_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Atkinson, Andelson, Loya, Ruud & Romo
+<p class="hidden"></p>
+[April 23, 2015](https://oag.ca.gov/system/files/Atkinson%2C%20Andelson%2C%20Loya%2C%20Ruud%20%26%20Romo%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## ADP, LLC
+<p class="hidden"></p>
+[April 07, 2015](https://oag.ca.gov/system/files/Notification%20letter.6%208%202015_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Apple America Group LLC
+<p class="hidden"></p>
+[March 03, 2015](https://oag.ca.gov/system/files/Non-Massachusetts%20consumer%20notification%20letter%20FINAL%20AAG_0.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Advantage Consolidated LLC
+<p class="hidden"></p>
+[February 23, 2015](https://oag.ca.gov/system/files/Basic%20Letter%20to%20Patients%20Advantage_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Automotive Recovery Services, Inc.
+<p class="hidden"></p>
+[January 12, 2015](https://oag.ca.gov/system/files/KAR_Sample%20Consumer%20Breach%20Notification%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## American Airlines, Inc.
+<p class="hidden"></p>
+[December 30, 2014](https://oag.ca.gov/system/files/American%20Airlines%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## American Apparel, Inc
+<p class="hidden"></p>
+[December 10, 2014](https://oag.ca.gov/system/files/employeenotificationofbreach_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Acosta, Inc. and its subsidiaries, including Mosaic Sales Solutions US Operating Co. LLC
+<p class="hidden"></p>
+[November 10, 2014](https://oag.ca.gov/system/files/A6701_LV2_PRF_ADULT_NON-MASS_0.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Armor Games Inc.
+<p class="hidden"></p>
+[October 24, 2014](https://oag.ca.gov/system/files/DataBreachNotification_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## American Residuals and Talen, Inc. ("ART")
+<p class="hidden"></p>
+[October 18, 2014](https://oag.ca.gov/system/files/Notice%20template_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## ABM Parking Services
+<p class="hidden"></p>
+[September 29, 2014](https://oag.ca.gov/system/files/FINAL%20Press%20Release%20and%20Website%20notice%20%28clean%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Alight Solutions LLC
+<p class="hidden"></p>
+[September 22, 2014](https://oag.ca.gov/system/files/Enclosures%20Joint.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## American Soccer Company, Inc.
+<p class="hidden"></p>
+[September 04, 2014](https://oag.ca.gov/system/files/Data%20Security%20Breach%20Oct%2023%2C%202014_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Auburn University
+<p class="hidden"></p>
+[September 01, 2014](https://oag.ca.gov/system/files/Auburn%20-%20notice%20sample_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Ascensus, Inc
+<p class="hidden"></p>
+[July 29, 2014](https://oag.ca.gov/system/files/Hanmi%20Bank%20Participant%20Letter%20%20-%20California_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Albertson's LLC
+<p class="hidden"></p>
+[June 22, 2014](https://oag.ca.gov/system/files/2014-08-15%20AB%20Acquisition%20Final%20Press%20Release_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/2014-09-29%20AB%20Acquisition%20Press%20Release_0.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Anderson & Murison
+<p class="hidden"></p>
+[June 01, 2014](https://oag.ca.gov/system/files/template%20adult%20CA%20prf_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## AT&T Mobility, LLC
+<p class="hidden"></p>
+[April 09, 2014](https://oag.ca.gov/system/files/CA%20Customer%20Notice.doc__1.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Atlantic Automotive Corporation d/b/a MileOne
+<p class="hidden"></p>
+[March 05, 2014](https://oag.ca.gov/system/files/MileOne%20Final%20Letter%20redacted_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## AppleCare Insurance Services, Inc.
+<p class="hidden"></p>
+[January 01, 2014](https://oag.ca.gov/system/files/AppleCare%20Notification%20Ltr%20022814_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Affinity Gaming
+<p class="hidden"></p>
+[December 07, 2013](https://oag.ca.gov/system/files/Affinity%205%2016%20Notification%20to%20Affected%20%28Website%20and%20Press%20Release%29%20PDF_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Anthem Blue Cross
+<p class="hidden"></p>
+[October 23, 2013](https://oag.ca.gov/system/files/Final%20Provider%20Notice%20CA_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## AHMC Healthcare, Inc and affiliated hospitals
+<p class="hidden"></p>
+[October 12, 2013](https://oag.ca.gov/system/files/AHMC%20Press%20Release_10-21%20revised_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Adobe Systems Incorporated
+<p class="hidden"></p>
+[September 11, 2013](https://oag.ca.gov/system/files/CA%20Customer%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Advocate Medical Group
+<p class="hidden"></p>
+[July 15, 2013](https://oag.ca.gov/system/files/Advocate.8.23.13.Notifications_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Affinity Gaming LLC
+<p class="hidden"></p>
+[March 14, 2013](https://oag.ca.gov/system/files/Affinity%20Press%20Release_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## American Express Travel Related Services Company, Inc and/or its Affiliates ("AXP")
+<p class="hidden"></p>
+[March 08, 2013](https://oag.ca.gov/system/files/AMEX%206_21_14_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## ANTIOCH UNIFIED SCHOOL DISTRICT
+<p class="hidden"></p>
+[January 18, 2013](https://oag.ca.gov/system/files/Notification%20to%20employees%20regarding%20Benefits%20Breach%20for%20Antioch%20Unified%20School%20District.%20%20Mailed%20%201.22.13_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Accume Partners
+<p class="hidden"></p>
+[October 31, 2012](https://oag.ca.gov/system/files/CA.FormNotce_0.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Alere Home Monitoring, Inc.
+<p class="hidden"></p>
+[September 23, 2012](https://oag.ca.gov/system/files/Sample%20Letter_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## American Express Travel Related Services Company, Inc and/or its Affiliates (“AXP”)
+<p class="hidden"></p>
+[August 24, 2012](https://oag.ca.gov/system/files/Hotusa%20Website%20Server%20Active%20CM%20Letter_%28WSC%29_EN_Final_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[April 02, 2012](https://oag.ca.gov/system/files/AD01%20CM%20Letter_Final_071912%20Strawberrynet_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## American Tool Supply
+<p class="hidden"></p>
+[August 01, 2012](https://oag.ca.gov/system/files/Notice%20to%20CA_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Anasazi Hotel LLC
+<p class="hidden"></p>
+[June 18, 2012](https://oag.ca.gov/system/files/Anasazi%20-%20Sample%20Consumer%20Security%20Breach%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Advanced Data Processing, Inc.
+<p class="hidden"></p>
+[June 15, 2012](https://oag.ca.gov/system/files/California%20Attorney%20General%20Notice%20--%20Sample%20Notice%20Letters_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Apria Healthcare, Inc.
+<p class="hidden"></p>
+[June 14, 2012](https://oag.ca.gov/system/files/Apria%20Healthcare%20Sample%20Notification%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## American Pharmacists Association
+<p class="hidden"></p>
+[April 23, 2012](https://oag.ca.gov/system/files/2008164.3_3.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Ameritas LIfe Insurance Corp.
+<p class="hidden"></p>
+[March 22, 2012](https://oag.ca.gov/system/files/Sample%20Breach%20Notification_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## American Express Travel Related Services Company Inc and / or its Affiliates ("AXP")
+<p class="hidden"></p>
+[December 30, 2011](https://oag.ca.gov/system/files/Recoverd%20Cards_AD01_Active%20%28RDCSBMMYY%29%20CM%20Letter_Final_071912_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## American Express Travel Related Services Company, Inc and/or it's affiliates ('AXP')
+<p class="hidden"></p>
+[November 01, 2010](https://oag.ca.gov/system/files/Encore%20Tickets-C2012106044%20CA%20AG%20Letter%5B1%5D_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Aeries Software, Inc.
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/AERIES%20-%20Data%20Breach%20Notification%20FINAL%202020-04-27.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## A.B. Closing, Inc. D/B/A Kavaliro
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Individual%20Notice%20of%20Kavaliro%20Data%20Breach.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## A&A Global Imports, Inc.
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/A%26A%20Consumer%20Notice%20Proof%20-%20FINAL%201-9-19_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Artix Entertainment, LLC
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/SecurityIncidentWebsiteNotice-October16-2018_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Ancestry.com Operations, Inc.
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/RootsWeb%20Breach%20Notice%20_%20Combined%20_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Allrecipes.com, Inc.
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Meredith%20-%20Final%20consumer%20notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Aptos, Inc. on behalf of Retailers in Attached Addendum
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Marbles%20Aptos%20Notice%20_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Aptos, Inc. on behalf of Retailers in the Attached Addendum
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Aptos%2C%20Inc%20multiple%20notices%20only_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Aptos, Inc. on behalf of Retailers in Attached Addenda
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Bambeco%20notice%20only_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Abbott Nutrition
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Multistate%20Consumer%20Notice%20Redacted_%28161063433%29_%282%29_0.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## ACTIVEOutdoors
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/ComboLTR_0.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Alliance Health Networks, LLC
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/B7126_MINOR_PRF_0.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## AT&T
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/CS_California_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## American Sleep Medicine
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/San%20Diego%20Patient%20Breach%20Notification%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Anthem, Inc.
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/CA_AG%20Anthem%20Member%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## AECOM Technology Corporation
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/AECOM%20Letter%20Notification%20-%20F%20INAL_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## American Express Travel Related Services Company, Inc. and /or its Affiliates (“AXP”)
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/AMEX%20-%20Anonymous-5_29_14%20CA%20AG%20Letter_0_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Arcadia Health Services, Inc. d/b/a Arcadia Home Care & Staffing
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Breach%20Notification%20Arcadia%20%28Form%20OAG%29%20March%2016%202014_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## ADP
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/EEtemplate_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Altrec, Inc.
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Altrec%20CA%20Notice%20Letter%20Sample_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+# B
+## Belden
+<p class="hidden"></p>
+[November 12, 2020](https://oag.ca.gov/system/files/Breach%20Notification%20Template%20-%20%28Belden%29%20%28US%29.pdf) | Unauthorized Access
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On the evening of November 12, 2020, Belden IT professionals detected unusual activity involving certain company servers. We immediately triggered our cybersecurity incident response plan, deployed teams of internal IT specialists, and engaged leading third-party cybersecurity forensic experts and other advisors to identify the scope of the incident and move quickly to mitigate the impact. Forensics experts determined that we were the target of a sophisticated attack by a party outside the company. On or about November 15, 2020, we learned that the outside party accessed servers that contained personal information of some current and former employees.
+</details>
+## Backroads
+<p class="hidden"></p>
+[October 2, 2020](https://oag.ca.gov/system/files/Backroads%20-%20Notice%20of%20Data%20Event.pdf) | Unauthorized Access
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On October 2, 2020, Backroads became aware of suspicious activity within its computer network.  Backroads immediately began an investigation, working with external forensic specialists, to determine the nature and scope of the activity. Our investigation determined that certain files within our environment were encrypted and inaccessible. On October 16, 2020, we discovered that certain files had been accessible to unknown actors and that certain personal information was contained in these files. We recognize that it may feel like there was a delay between the initial incident and receiving this notification. From the moment we knew that files were accessible to the unknown actors, we have been working both internally to determine who could have been affected, as well as externally with appropriate authorities in each jurisdiction where we operate globally. Thank you for your understanding and patience while we worked through all the necessary details.
+</details>
+## Barrister Books
+<p class="hidden"></p>
+[July 7, 2020](https://oag.ca.gov/system/files/Barrister%20-%20Consumer%20Notification%20Letter%20%28CA%29%204851-2741-7808%20v.2%20%20%281%29.pdf) | Website Compromise
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently discovered a data security incident involving our website. We immediately launched an investigation and engaged a digital forensics firm to assist. The recently completed investigation determined that payment card information may have been exposed for customers who made purchases through barristerbooks.com, lawbooks.com or lawbooksforless.com between July 7, 2020 and September 11, 2020.
+</details>
+## BarristerBooks, Inc.
+<p class="hidden"></p>
+[July 07, 2020](https://oag.ca.gov/system/files/Barrister%20-%20Consumer%20Notification%20Letter%20%28CA%29%204851-2741-7808%20v.2%20%20%281%29.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Baylor Genetics
+<p class="hidden"></p>
+[May 4, 2020](https://oag.ca.gov/system/files/9102338.PDF) | Breach
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+While preparing 2019 tax returns, we discovered a potential data security incident that may have affected some of our client’s personal information. We immediately launched an investigation and worked with the IRS and our software provider to ascertain what had occurred. We also retained an independent digital cybersecurity firm to conduct a forensic investigation of B+Co’s network and computer systems.
+</details>
+<p class="hidden"></p>
+[September 24, 2019](https://oag.ca.gov/system/files/9102338.PDF) | Phishing
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Baylor Genetics was the target of an email phishing campaign that resulted in a limited number of employees receiving a suspicious email containing a malicious link. These employees unfortunately fell victim to the phishing campaign, resulting in an unauthorized individual gaining access to those employees’ email accounts. Upon learning of the incident, Baylor Genetics disabled the impacted email accounts and required mandatory password resets to prevent further misuse.  There is no evidence that the purpose of the phishing campaign was to obtain patient information and we have no evidence that any of your information was actually acquired or used by the unauthorized individual. However, out of an abundance of caution, we are providing notice and offering you credit monitoring services at no charge.
+</details>
+## Bregante + Company, LLC
+<p class="hidden"></p>
+[May 04, 2020](https://oag.ca.gov/system/files/Bregante%20-%20Consumer%20Notification%20Letter%20-%20Phase%202%20%28no%20fraudulent%20returns%29%20-%20FINAL_Proof.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Bank of America
+<p class="hidden"></p>
+[April 22, 2020](https://oag.ca.gov/system/files/2020-3523_Privacy_Notification_Final_Template%20%28P%29.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Brown-Forman Corporation
+<p class="hidden"></p>
+[April 14, 2020](https://oag.ca.gov/ecrime/databreach/reports/sb24-193435) | Unauthorized Access
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 28, 2020, we discovered suspicious activity in our internal network and promptly began to investigate and contain it. On August 4, 2020 we learned the cyber criminals stole certain records containing information about some of our current and former employees. In some cases, these records contained limited information about employee dependents or beneficiaries. Out of an abundance of caution, we are providing this letter to all current employees of Brown-Forman as well as former employees who worked at Brown-Forman as of 2013 to alert them of this incident. We will notify you separately if your beneficiaries or dependents were impacted.
+</details>
+## BMB Associates
+<p class="hidden"></p>
+[March 16, 2020](https://oag.ca.gov/system/files/BMB%20Associates%20-%20Breach%20Notification%20Letter%20-%20PROOF.pdf) | Unauthorized Access
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On or about March 16, 2020, the Company discovered some clients had IRS E-file rejections. Based on our investigation, the e-filing rejections was due to fraudulent tax filings by an unauthorized third party who was able to compromise the Company’s Intuit ProSeries® service and create a guest account. The Company’s IT team was able to discover the hidden guest account and was able to remove it on April 2, 2020.
+</details>
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/BMB%20Associates%20-%20Breach%20Notification%20Letter%20-%20PROOF.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Bruce L. Boros, M.D., P.A. DBA Advanced Urgent Care
+<p class="hidden"></p>
+[March 1, 2020](https://oag.ca.gov/system/files/Notice%20Letter%20Redacted%20%289205840x7AB84%29.pdf) | Ransomware
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On March 1, 2020, a ransomware infection encrypted files stored on a backup drive.
+</details>
+## Bailard, Inc.
+<p class="hidden"></p>
+[February 25, 2020](https://oag.ca.gov/system/files/Bailard%20-%20CA%20Notice%20of%20Data%20Event.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Beverly Hills Unified School District
+<p class="hidden"></p>
+[November 4, 2019](https://oag.ca.gov/system/files/Beverly%20Hills%20Unified%20School%20District%20Notice_1.pdf) | Vulnerability
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The District uses the Aeries Student Information System to provide students and their parents with online access to information regarding school events and schedules. In late November 2019, Aeries learned that an unauthorized individual attempted to exploit a vulnerability in the Aeries software that would allow access to student and parent information. Aeries later determined that the exploit was successful. Upon discovery, Aeries began an investigation and law enforcement launched an investigation to identify the person responsible, who Aeries believes is now in police custody. On April 27, 2020, we were notified by Aeries that this individual may have accessed the District’s Aeries System. We then contacted Aeries and, on May 5, 2020, we were informed that the individual did access parent and student data within the District’s Aeries System.
+</details>
+## Brea-Olinda Unified School District
+<p class="hidden"></p>
+[November 04, 2019](https://oag.ca.gov/system/files/BOUSD%20Aeries%20Notice%20of%20Data%20Breach%20to%20Parents%20-%20Official.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Blue Cross Blue Shield Association
+<p class="hidden"></p>
+[September 28, 2019](https://oag.ca.gov/system/files/Member%20Notice%201.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Bed Bath & Beyond Inc.
+<p class="hidden"></p>
+[September 04, 2019](https://oag.ca.gov/system/files/Bed%20Bath%20%26%20Beyond%20--%20Final%20CA%20Notice%20%2810-29-19%29.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[May 15, 2017](https://oag.ca.gov/system/files/Bed%20Bath%20%26%20Beyond%20--%20CA%20attachments_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## BookShark LLC
+<p class="hidden"></p>
+[August 26, 2019](https://oag.ca.gov/system/files/CA%20Sample%20Letters.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Bamboo HR LLC
+<p class="hidden"></p>
+[February 11, 2019](https://oag.ca.gov/system/files/BHR%20General%20Notification%20Sample_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Brighton Collectibles, LLC
+<p class="hidden"></p>
+[January 28, 2019](https://oag.ca.gov/system/files/Brighton%20Adult%20CA%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Bank of the West
+<p class="hidden"></p>
+[December 03, 2018](https://oag.ca.gov/system/files/Bank%20of%20the%20West%20LS%200319-031%20Campbell%20ATM_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[March 02, 2018](https://oag.ca.gov/system/files/LS%200818-088%20GLBA%20Incident_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[February 01, 2017](https://oag.ca.gov/system/files/LS%200517-050%20ATM%20Skimming-GLBA%20Incident_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Sample%20email%20notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## British Airways Plc
+<p class="hidden"></p>
+[October 21, 2018](undefined) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Blood Systems, Inc.
+<p class="hidden"></p>
+[August 29, 2018](https://oag.ca.gov/system/files/Blood%20Systems%2C%20Inc.%20Data%20Breach%20Donor%20Notice%20Letter_%20Mailed_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## BEL USA, LLC ("BEL") through its website DiscountMugs.com
+<p class="hidden"></p>
+[August 05, 2018](https://oag.ca.gov/system/files/California_5.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Bayside Covenant Church, Inc.
+<p class="hidden"></p>
+[August 03, 2018](https://oag.ca.gov/system/files/Bayside%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Beverages & More, Inc. dba BevMo!
+<p class="hidden"></p>
+[August 02, 2018](https://oag.ca.gov/system/files/Sample%20Notice_27.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## BioMarin Pharmaceutical Inc.
+<p class="hidden"></p>
+[June 18, 2018](https://oag.ca.gov/system/files/BioMarin%20-%20California%20Notification%20Letter%20-%20sample_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Bankers Life (BL) - BL is the marketing brand of Bankers Life and Casualty Co., Medicare Supplement insurance policies sold by Colonial Penn Life Insurance Co. and select policies sold in NY by Bankers Conseco Life Insurance Company, a NY licensed ins. co
+<p class="hidden"></p>
+[May 30, 2018](https://oag.ca.gov/system/files/CNO%20CA1%20Notice%20%282%29%20%282%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Brinker International, Inc.
+<p class="hidden"></p>
+[May 11, 2018](https://oag.ca.gov/system/files/Website%20notice%205-18-18%20Updated_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Black Phoenix, Inc
+<p class="hidden"></p>
+[May 01, 2018](https://oag.ca.gov/system/files/NOTICE%20OF%20DATA%20BREACH%20-%20BP_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Branton, de Jong and Associates
+<p class="hidden"></p>
+[February 11, 2018](https://oag.ca.gov/system/files/Branton%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Blue Beacon International
+<p class="hidden"></p>
+[January 29, 2018](https://oag.ca.gov/system/files/Blue%20Beacon--CA%20Adult%20Consumer%20Notification%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Bay Area Air Quality Management District
+<p class="hidden"></p>
+[January 10, 2018](https://oag.ca.gov/system/files/20180525%20BAAQMD%20Sample%20Breach%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Bakersfield City School District
+<p class="hidden"></p>
+[November 09, 2017](https://oag.ca.gov/system/files/Employee%20Letter%20regarding%20Data%20Breach_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Brinderson, L.P.
+<p class="hidden"></p>
+[October 24, 2017](https://oag.ca.gov/system/files/T425_v01%20-%20CA%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Best Buy Co., Inc.
+<p class="hidden"></p>
+[September 26, 2017](https://oag.ca.gov/system/files/Best%20Buy%20-%20Individual%20Notification%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Bronson Nutritionals LLC
+<p class="hidden"></p>
+[May 15, 2017](https://oag.ca.gov/system/files/Bronson%20Nutritionals%20-%20Template%20Individual%20Notification%20Letter%20%28U.S.%20Residents%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## BMO Harris Bank N.A.
+<p class="hidden"></p>
+[May 15, 2017](https://oag.ca.gov/system/files/BMO%20Harris%20Customer%20Notice%20Template_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Bridger Insurance Services
+<p class="hidden"></p>
+[May 07, 2017](https://oag.ca.gov/system/files/Bridger%20-%20Website%20Notice%20of%20Data%20Breach%20--%203.22.19_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Bluestem Brands, Inc.
+<p class="hidden"></p>
+[April 07, 2017](https://oag.ca.gov/system/files/72494_California_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Bombas LLC
+<p class="hidden"></p>
+[November 11, 2016](https://oag.ca.gov/system/files/Sample%20Individual%20Notice_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[September 27, 2014](https://oag.ca.gov/system/files/Bombas%20-%20Sample%20Notice_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Bulletproof 360, Inc.
+<p class="hidden"></p>
+[October 26, 2016](https://oag.ca.gov/system/files/Bulletproof%20Notice_0.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[October 13, 2016](https://oag.ca.gov/system/files/BP3%20first-time%20recipient%20CA%20notification%20letter%20sample_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Baxter Credit Union
+<p class="hidden"></p>
+[October 03, 2016](https://oag.ca.gov/system/files/BCU_-_SSN_Plus_Notice_0.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## BraceAbility
+<p class="hidden"></p>
+[September 24, 2016](https://oag.ca.gov/system/files/BraceAbility%20notice%20only%20_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## BEYOND YOGA
+<p class="hidden"></p>
+[August 01, 2016](https://oag.ca.gov/system/files/password-reset-email_V3_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Broadview Mortgage
+<p class="hidden"></p>
+[July 28, 2016](https://oag.ca.gov/system/files/Broadview%20Adult_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Brian Goldman, MD A Medical Corporation
+<p class="hidden"></p>
+[July 19, 2016](https://oag.ca.gov/system/files/breach%20%20letter%20pdf_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Banner Health
+<p class="hidden"></p>
+[June 17, 2016](https://oag.ca.gov/system/files/Banner%20Patient%20letter%20%28CA%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Berkeley Endocrine Clinic
+<p class="hidden"></p>
+[April 22, 2016](https://oag.ca.gov/system/files/Berkeley%20Endocrine%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Bon Secours Health System, Inc.
+<p class="hidden"></p>
+[April 18, 2016](https://oag.ca.gov/system/files/Combined%20General_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Berkeley Unified School District
+<p class="hidden"></p>
+[April 11, 2016](https://oag.ca.gov/system/files/BerkeleyUSD-NotificationBANG-sample_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Brooks Brothers
+<p class="hidden"></p>
+[April 04, 2016](https://oag.ca.gov/system/files/Sample%20Notice_9.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Bristol Farms, Inc.
+<p class="hidden"></p>
+[March 30, 2016](https://oag.ca.gov/system/files/Sample%20Notice_6.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Billy Casper Golf
+<p class="hidden"></p>
+[February 26, 2016](https://oag.ca.gov/system/files/B7655_ADULT_NOTIFICATION_PROOF_0.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## BMP/Pennant Holdings, LLC
+<p class="hidden"></p>
+[January 13, 2016](https://oag.ca.gov/system/files/Website%20Notification_7.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Baja Bound Insurance Services, Inc.
+<p class="hidden"></p>
+[December 16, 2015](https://oag.ca.gov/system/files/BajaBound_notice%20only%20_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Blucora, Inc.
+<p class="hidden"></p>
+[November 10, 2015](https://oag.ca.gov/system/files/20160111%20Account%20accessed%20CA_clean%20version_0.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+## Blue Shield of California
+<p class="hidden"></p>
+[September 15, 2015](https://oag.ca.gov/system/files/Member%20Adult_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[December 20, 2013](https://oag.ca.gov/system/files/98368-PROOF2_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
+<p class="hidden"></p>
+[February 28, 2013](https://oag.ca.gov/system/files/Template%20Notification%20Letter%20070314_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBD
+</details>
