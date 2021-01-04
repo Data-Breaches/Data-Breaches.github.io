@@ -31,7 +31,7 @@ Our security team was made aware of suspicious activity on the Canadian Website.
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDI
 </details>
 # 2
 ## 21st Century Oncology
@@ -58,7 +58,7 @@ On behalf of the 7-Eleven franchisees, 7-Eleven maintains a database of records 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDI
 </details>
 # 9
 ## 9W Halo OpCo L.P. d/b/a Angelica
@@ -92,7 +92,11 @@ We are writing to advise you of a recent data security incident involving a comp
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On July 1, 2020, EyeMed discovered that an unauthorized individual gained access to an EyeMed email mailbox and sent
+phishing emails to email addresses contained in the mailbox’s address book. On the same day, EyeMed took immediate
+actiontoblock theunauthorizedindividual’saccess tothe mailboxandsecuredthe mailbox. EyeMedimmediately launchedan
+investigation into the incident and engaged a cybersecurity firm to assist in its efforts. It was determined that the unauthorized
+individual first gained access to the mailbox on June 24, 2020, and that access terminated on July 1, 2020. 
 </details>
 ## ArbiterSports
 <p class="hidden"></p>
@@ -190,7 +194,10 @@ On June 17, 2020, we learned that, for a brief period of time on April 8, 2020, 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On Sunday, April 19, 2020, during the pandemic and while my business was closed, I went into
+my office and discovered that a break-in had occurred and my office had been burglarized, including the
+theft of, among other things, our office computer. I immediately reported the incident to the police, with
+whom we continue to liase. I also am concurrently notifying federal and state regulators of the incident.
 </details>
 ## Amtrak
 <p class="hidden"></p>
@@ -198,7 +205,9 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On the evening of April 16, 2020, Amtrak determined that an unknown third party gained unauthorized access to
+certain Amtrak Guest Rewards accounts. Your account was among those that were accessed without
+authorization.
 </details>
 ## Accident Insurance Company
 <p class="hidden"></p>
@@ -222,7 +231,12 @@ In July 2020, we learned that between March 30, 2020 and May 4, 2020, an unknown
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On or about March 9, 2020, an unknown third party accessed employee payroll
+information after having gained access to an employee’s email address. The third party
+was able to set up rules in the employee’s email that diverted the employee’s email
+messages to the third party. We wanted to inform you about this incident as soon as
+possible to allow you to take precautionary steps to further protect your personal
+information. 
 </details>
 ## Athenian School
 <p class="hidden"></p>
@@ -246,7 +260,7 @@ On March 17, 2020, Advantage Capital confirmed a report that it initially receiv
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDB
 </details>
 ## Ambry Genetics Corporation
 <p class="hidden"></p>
@@ -254,7 +268,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Artech, L.L.C.
 <p class="hidden"></p>
@@ -270,7 +284,7 @@ On January 8, 2020, Artech received a report of unusual activity relating to an 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDI
 </details>
 ## Andrew Lundholm CPA
 <p class="hidden"></p>
@@ -278,7 +292,10 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On April 29, 2020, we identified suspicious activity in our tax filing software and immediately initiated
+an investigation into the activity. On May 19, 2020, we determined an unknown actor accessed our tax filing software at
+times between November 24, 2019 and April 29, 2020. The unknown actor also accessed folders containing sensitive
+information that we use to prepare tax returns. Your information was contained within these folders. 
 </details>
 ## ACCO Engineered Systems, Inc.
 <p class="hidden"></p>
@@ -286,7 +303,12 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On November 20, 2019, ACCO discovered that an employee’s company laptop and mobile
+phone had been stolen. Upon learning of the event, ACCO immediately remotely deleted all information from the
+mobile phone and launched an investigation into the nature and scope of the event. ACCO undertook a lengthy and
+labor-intensive process in an attempt to identify the information contained on the devices. While the investigation
+was unable to confirm the specific data contained on the devices or whether any of the data was accessed, ACCO is
+notifying you in an abundance of caution
 </details>
 ## Adelanto Elementary School District
 <p class="hidden"></p>
@@ -294,7 +316,12 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On April 27nd, 2020, Aeries Software notified over 150 school districts, including AESD, that their system was breached. 
+The District uses the Aeries Student Information System to provide students and their parents with online access to 
+information regarding school events and schedules. In late November 2019, Aeries learned that an unauthorized 
+individual exploited a vulnerability in the Aeries software that would allow access to student and parent information. 
+Upon discovery, Aeries and law enforcement launched an investigation and believe they have the person responsible in 
+custody. 
 </details>
 ## Apple Valley Unified School District
 <p class="hidden"></p>
@@ -302,7 +329,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDI
 </details>
 ## ABC Unified School District
 <p class="hidden"></p>
@@ -310,7 +337,10 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On May 12, 2020, the ABC Unified School District was informed
+by Aeries Software, Inc., the vendor for our student information
+database, that they had suffered a data breach impacting those
+who use the ABC USD portal
 </details>
 ## Altice USA, Inc.
 <p class="hidden"></p>
@@ -318,7 +348,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+In November 2019, an unauthorized third party gained access to certain Altice USA employees’ email account credentials
+through a phishing incident. The unauthorized third party then used the stolen credentials to remotely access and, in
+some instances, download the employees’ mailbox contents. Upon identifying this incident through our internal controls,
+we secured the email accounts, engaged an expert computer forensics firm to assist with our investigation, and notified
+law enforcement
 </details>
 ## AFTRA Retirement Fund
 <p class="hidden"></p>
@@ -326,7 +360,14 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On October 28, 2019, AFTRA received an alert of suspicious activity in its environment. AFTRA
+immediately launched an investigation into the nature and scope of the incident. As part of the investigation, which
+was conducted with the assistance of a third-party forensic expert, it was determined that certain files and folders on
+AFTRA’s network may have been subject to unauthorized access for periods of time between October 24, 2019 and
+October 28, 2019. At this time, AFTRA does not have evidence that files containing your information were accessed;
+however, access to these files could not be ruled out. AFTRA then undertook a time-consuming review of all the files and
+folders that may have been accessed to determine what sensitive information they may contain. 
+
 </details>
 ## Audio Visual Services Group, LLC d/b/a PSAV
 <p class="hidden"></p>
@@ -342,7 +383,11 @@ On or about January 15, 2020, PSAV learned that an unauthorized party had gained
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On December 12, 2019, one of AmeriSave’s business partners notified AmeriSave that, between
+October 2019 and November 2019, unauthorized third-parties may have used AmeriSave’s
+account credentials to access a business partner platform that maintained the personal
+information of AmeriSave’s customers. As a result, your personal information may have been
+inappropriately viewed or accessed by these third parties.
 </details>
 ## American Medical Technologies
 <p class="hidden"></p>
@@ -350,7 +395,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On or about December 17, 2019 we discovered suspicious activity within an employee’s email account. We
+immediately engaged a third-party forensic firm to perform an investigation into our email tenant. After an extensive and
+comprehensive investigation and data mining process, on May 14, 2020, we learned that your personal information may have been
+available to the attacker during the incident. We are sending you this letter to notify you about the incident and provide information
+about steps you can take to protect your information.
 </details>
 ## Active Network, LLC
 <p class="hidden"></p>
@@ -358,7 +407,9 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+We recently identified suspicious activity on the Blue Bear platform. Our investigation determined the activity related to
+Blue Bear webstore users between October 1, 2019 and November 13, 2019. During this time, some personal information
+that you provided may have been accessed or acquired by unauthorized third parties.
 </details>
 ## Atria Senior Living
 <p class="hidden"></p>
@@ -366,7 +417,12 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Our ongoing investigation into an email phishing incident recently determined that an unauthorized person had gained
+access to some of our employees’ email accounts. Upon first learning of the incident, we immediately took steps to
+secure the accounts and began an investigation with the assistance of a cybersecurity firm. The investigation determined
+an unauthorized party had accessed the accounts at various times between September 18, 2019 and September 20,
+2019. The investigation was unable to determine which specific emails or attachments, if any, were viewed by the
+unauthorized individual. 
 </details>
 ## Auto Approve, LLC
 <p class="hidden"></p>
@@ -374,7 +430,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On September 15, 2019, a security researcher alerted Auto Approve to a system vulnerability
+exposed following a standard maintenance release. As a result, certain personal information that you previously
+shared with Auto Approve, in relation to an auto loan, was accessible to external parties for approximately three
+weeks. Auto Approve has not identified evidence of access to this data, apart from the security researcher and his
+affiliate, and is therefore advising you of this incident in an abundance of caution. 
 </details>
 ## Aveanna Healthcare
 <p class="hidden"></p>
@@ -382,7 +442,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+? Beginning on August 24, 2019, Aveanna became aware of suspicious activity relating to a number
+of its employee email accounts. Aveanna took steps to secure the email accounts and began working with outside
+computer forensics specialists to determine the nature and scope of the activity. The investigation determined that an
+unknown actor accessed certain employee email accounts between July 9, 2019 and August 24, 2019. Unfortunately,
+the investigation did not reveal if any email or attachment was actually accessed or viewed.
 </details>
 ## Athens Insurance Services, Inc.
 <p class="hidden"></p>
@@ -390,7 +454,13 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On or around September 17, 2019, Athens Insurance Services, Inc. (“Athens”) became aware of a potential
+compromise to one (1) of its employee’s email account. Athens immediately took actionable steps to secure
+the affected account, including changing the account password. Further, Athens engaged an expert forensic
+company to investigate the incident. It was ultimately determined that one (1) email account experienced
+unauthorized access between July 1, 2019 and September 17, 2019. On January 22, 2020, after thorough
+investigation, Athens determined that the unauthorized access may have allowed access to your personal
+information. Athens has worked diligently to obtain sufficient contact information to provide notification
 </details>
 ## AliMed, Inc.
 <p class="hidden"></p>
@@ -406,7 +476,7 @@ We recently discovered that a malicious party had gained access to one of our se
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On May 22, 2019, an Andy Frain Services employee’s laptop was stolen from her vehicle. 
 </details>
 ## Avalara, Inc.
 <p class="hidden"></p>
@@ -414,7 +484,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On May 22, 2019, an employee of one of our customers (who happens to be a former employee of Compli, Inc.)
+notified us that an eCompli code update contained a vulnerability that allowed the employee to gain unauthorized
+access to certain personal information about certain individuals at some of our customers, including your
+organization. This third party informed us of the vulnerability and we subsequently removed the vulnerability on
+May 22, 2019.
 </details>
 ## Ameritas Life Insurance Corp.
 <p class="hidden"></p>
@@ -422,7 +496,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On May 9, 2019, Ameritas discovered a few associates fell victim to a phishing campaign that was designed to trick
+the recipient into providing their email credentials. Upon investigation, Ameritas determined that several associates
+were impacted at different times between May 1 - June 4 and concluded that, as a result of the phishing campaign,
+a number of their email inboxes were compromised. Ameritas quickly addressed the exposure by disabling the
+unauthorized access and deployed a mandatory enterprise-wide password reset. 
 </details>
 ## Acrisure LLC, d/b/a Filice Insurance Agency
 <p class="hidden"></p>
@@ -430,7 +508,12 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On April 3, 2019, Filice Insurance Agency learned from its third-party cloud service
+provider that a data security incident may have affected client information. The incident involved
+unauthorized access to the cloud storage service. Upon learning of this incident, we immediately
+disabled the unauthorized access and launched an investigation. We also engaged a leading digital
+forensics team to provide assistance. On May 21, 2019, the digital forensics investigation determined
+that your personal information was affected.
 </details>
 ## Arthur J. Gallagher & Co.
 <p class="hidden"></p>
@@ -438,7 +521,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDB
 </details>
 ## Altura Credit Union
 <p class="hidden"></p>
@@ -446,7 +529,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On March 8, 2019, an ATM skimming device with an associated video camera was discovered
+on one of our ATMs. This discovery immediately prompted the examination of all of our ATMs at
+all of our branches. Our review yielded evidence that these skimming devices had been
+installed and removed from other locations. These ATM skimming devices were unlawfully
+installed on our machines at various points between March 5 to March 8, 2019.
 </details>
 ## American Indian Health & Services, Inc.
 <p class="hidden"></p>
@@ -454,7 +541,16 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On March 7, 2019, AIHS discovered a former AIHS employee forwarded certain AIHS
+emails to her personal email account. While the individual was employed by AIHS at the time the emails
+were forwarded, because they were forwarded in a manner that conflicts with AIHS policies and procedures,
+AIHS immediately launched an investigation with the assistance of a third-party computer forensics expert.
+The investigation included reviewing the email account of this former employee to determine the
+information contained in the forwarded emails and to whom the information related. The investigation
+determined the former employee forwarded certain emails between February 26, 2019 and March 6, 2019,
+some of which contained information relating to certain AIHS employees, patients, and vendors. Although
+we are unaware of any actual or attempted misuse of your personal information, we are providing you this
+notification out of an abundance of caution because your information was present in the forwarded emails. 
 </details>
 ## Abbott Laboratories
 <p class="hidden"></p>
@@ -462,14 +558,19 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On January 9, 2019, as part of a regular audit process, Abbott provided its third-party auditor with a portable drive
+containing information about certain employee stock options and stock grants. On January 19, 2019, the auditor informed
+us that the drive was misplaced. We immediately began an investigation into the actions of the auditor and circumstances
+leading to the loss of the drive. Although we have no information suggesting that the drive was improperly accessed, it
+has not been recovered, and we are notifying individuals who had some of their personal information on the drive out of
+an abundance of caution.
 </details>
 <p class="hidden"></p>
 [December 01, 2014](https://oag.ca.gov/system/files/Abbott%20Notification%20Letter_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## AltaMed Health Services Corporation
 <p class="hidden"></p>
@@ -477,21 +578,35 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On February 19, 2019, we discovered our information system had been infected with a virus
+that prohibited our access to our files. We immediately worked to restore our information system and launched an
+investigation, with the assistance of third-party forensics, to determine the nature and scope of the incident. As part
+of our ongoing investigation, we determined this virus was introduced by an unknown third-party that had access to
+certain servers on our information system which contain personal and protected health information relating to current
+and former Centrelake patients. After a review of available forensic evidence, we determined that suspicious activity
+began on our network on January 9, 2019, lasting until the virus infection on February 19, 2019.
+
 </details>
 <p class="hidden"></p>
 [May 21, 2018](https://oag.ca.gov/system/files/AltaMed%20--%20SHDS%20--%20Supplemental%20Consumer%20Notification%20Letter%20Proof%20%282019.05.28%29_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On December 31, 2018, SHDS informed AltaMed that it had experienced a data security
+incident involving the SHDS network which, according to SHDS, affected information belonging to certain
+AltaMed patients. In its letter to AltaMed, SHDS stated that it first detected abnormal activity within its
+network on June 22, 2018. Upon detecting this activity, SHDS launched an investigation and engaged a
+forensics firm to support its inquiry. SHDS ultimately determined that an unauthorized third-party gained
+access to SHDS’s network as early as May 21, 2018 and acquired files containing patient information. SHDS
+also notified the Federal Bureau of Investigation (“FBI”) about this incident and will cooperate fully with the
+FBI’s investigation.
 </details>
 <p class="hidden"></p>
 [](https://oag.ca.gov/system/files/AltaMed%20Individual%20Notice%20Template_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## American Cancer Society, Inc.
 <p class="hidden"></p>
@@ -499,7 +614,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDB
 </details>
 ## ArmorGames, Inc
 <p class="hidden"></p>
@@ -507,7 +622,14 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On January 29th, 2019, Tuik Security Group privately contacted us to let us
+know about a potential breach of our users' data. We immediately began an investigation which
+included an ongoing audit of our hosting provider, web servers, and database systems. We can
+now confirm this breach is real and occurred around January 1st, 2019. This appears to be part
+of a larger breach affecting 16 companies (see this news article for more information). We are
+one of the smaller companies affected, apparently holding less than 2% of the total accounts
+affected between the 16 companies. At this time, we have no evidence that any Armor Games’
+users’ data was actually misused and we are taking steps to prevent potential misuse.
 </details>
 ## Abel HR
 <p class="hidden"></p>
@@ -515,7 +637,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDB
 </details>
 ## Ally Bank
 <p class="hidden"></p>
@@ -523,7 +645,8 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+We recently discovered (November 2018) that our third-party supplier inadvertently transmitted
+files, which contained your personal information, to another financial institution.
 </details>
 ## AeroGrow International
 <p class="hidden"></p>
@@ -531,21 +654,28 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On March 4, 2019, AeroGrow learned that an unauthorized person may have acquired, through
+the use of malicious code, the payment card information that users entered into the eCommerce
+vendor’s payment page. Upon learning of the incident, we immediately removed the malicious
+code and secured the website. We are writing to you because our investigation indicates that the
+payment card information you submitted to the eCommerce vendor’s payment page may have
+been compromised. This malicious code may have been present on our website between
+October 29, 2018, and March 4, 2019. 
+
 </details>
 <p class="hidden"></p>
 [May 13, 2015](https://oag.ca.gov/system/files/Second%20July_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [October 15, 2014](https://oag.ca.gov/system/files/Current%20Notice%20-%20Final%20B%20Letter%20Only_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## ACE Cash Express, Inc.
 <p class="hidden"></p>
@@ -553,7 +683,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDB
 </details>
 ## Avid Technology, Inc.
 <p class="hidden"></p>
@@ -561,7 +691,17 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+? In October of last year, Avid determined there had been unauthorized access to certain Avid
+employee email accounts. Avid first identified suspicious activity within an email account on September 24, 2018,
+and promptly launched an investigation into the nature and scope of the incident, the information that may have
+been improperly accessed, and the identities of the impacted individuals. Avid also took steps to secure the email
+accounts. The investigation determined a rule to forward all incoming messages to an unauthorized email account
+was established on an employee’s account from October 8, 2018 to October 12, 2018. Avid then began an extensive
+programmatic and manual review of the impacted account to determine if any sensitive data was contained in the
+account. Avid began notifying individuals on or around June 5, 2019, while this data review was underway. On August
+16, 2019, we completed the process of identifying individuals who may have had personal information accessible in
+the account. We recently concluded a thorough, manual review of our records to identify contact information for the
+remaining individuals with information accessible within the account.
 </details>
 ## Amateur Athletic Union
 <p class="hidden"></p>
@@ -569,7 +709,9 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On August 2, 2019, AAU, with the assistance of third-party forensic investigators, identified signs
+of malicious code on our site, play.aausports.org and determined that the code could capture information entered onto
+the site’s checkout page from October 1, 2018 to July 2, 2019.
 </details>
 ## American Medical Response, Inc.
 <p class="hidden"></p>
@@ -577,7 +719,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+We learned that an outside entity sent phishing emails to certain of our employees soliciting their login information
+to our email system. The entity appears to have been able to use these credentials to gain unauthorized access to a
+small number of employee email accounts, which contained certain personal information about a limited number of
+our employees or affiliated students as well as patients. The access was limited to information that was contained in
+emails of the impacted employees and did not extend to patient or employee database(s).
 </details>
 ## Atrium Health (formerly Carolinas HealthCare System)
 <p class="hidden"></p>
@@ -585,7 +731,10 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On October 1, 2018, AccuDoc informed Atrium Health that AccuDoc had been the victim of a cyber incident and that
+certain databases containing billing information belonging to Atrium Health and its Managed Locations may have
+been involved. Following an extensive review of AccuDoc’s systems by multiple forensic experts, it appears that an
+unauthorized third party gained access to AccuDoc’s databases between September 22, 2018 and September 29, 2018. 
 </details>
 ## Allen Chern LLP
 <p class="hidden"></p>
@@ -593,7 +742,9 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+We were recently informed by a third-party vendor that its own investigation concluded that a database hosted
+by the vendor and containing UpRight Law’s clients’ personal information was potentially acquired by an
+unauthorized individual between July 27 and July 30, 2018. 
 </details>
 ## Applied Data Finance, LLC d/b/a Personify Financial
 <p class="hidden"></p>
@@ -601,7 +752,14 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On or about November 9, 2018, we were alerted to suspicious activity regarding an employee’s business e-mail
+account. We immediately began investigating this activity and subsequently determined that an unauthorized third
+party had illegally gained access to the employee’s business e-mail account on July 21, 2018. The hacker also gained
+access to a second employee’s email account. The hacker was able to view the contents of both e-mail accounts and
+send “spear-phishing” e-mails to others. A “spear-phishing” e-mail is a message that appears to be from someone the
+recipient knows and trusts, but it is actually sent by a different person trying to illegally obtain access to the recipient’s
+computer system, e-mail accounts, or personal information. We have seen no evidence of this hack extending outside
+of our email servers into the rest of our IT system.
 </details>
 ## Animoto Inc.
 <p class="hidden"></p>
@@ -609,7 +767,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDI
 </details>
 ## American Express Travel Related Services Company, Inc.
 <p class="hidden"></p>
@@ -617,14 +775,24 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Expedia informed American Express of a potential intrusion on its Orbitz travel booking platform, which serves as the underlying
+booking engine for Amextravel.com and travel booked through Amex Travel Representatives. On July 23, Expedia provided us
+with a list of potentially impacted Amex travel customers. Expedia has told us that transactions made from July 5 through July 9
+may be at risk. Expedia has also told us it has taken remediation steps to prevent further access to the Orbitz platform.
+
 </details>
 <p class="hidden"></p>
 [October 01, 2017](https://oag.ca.gov/system/files/Sample%20of%20Notification_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On March 16, 2018, Orbitz alerted us that it was the victim of a cyber attack. The attack involved Orbitz customers and customers
+of their business partners, and occurred on a platform that serves as the underlying booking engine for Amextravel.com and travel
+booked through Amex Travel Representatives. Certain transactions made on the Orbitz platform from January 1, 2016 through
+December 22, 2017 may have been impacted. Orbitz has assured us that its platform has been remediated. To be clear, this was an
+attack on the Orbitz platform. It was not an attack on, and did not compromise, the platforms American Express uses to manage
+your American Express®
+ Card accounts.
 </details>
 ## Aetrex Worldwide, Inc.
 <p class="hidden"></p>
@@ -632,7 +800,13 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Aetrex recently was contacted by representatives of the credit card industry regarding potential
+fraud related to a small number of credit/debit cards that were used on our website. We immediately launched an
+internal investigation and hired third-party forensic investigators. We determined that an unauthorized third-party was
+able to insert a malicious code into our website to obtain customer payment card information entered into our website
+between June 22, 2018, and November 20, 2018, and during a few hours on December 4, 2018, possibly impacting our
+customers whose payment card information was used during these time periods. On or around December 17, 2018, we
+confirmed the identities of the individuals whose payment card information may have been impacted. 
 </details>
 ## Aimbridge Hospitality Holdings, LLC
 <p class="hidden"></p>
@@ -640,14 +814,26 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+ On September 14, 2018, we became aware of unusual activity in an employee’s email account. We
+immediately launched an internal investigation into the unusual activity. With the assistance of computer forensics
+experts, we learned <<Company>> was the victim of an email phishing incident which resulted in unauthorized access
+to a number of employees’ email accounts between June 7, 2018 and September 24, 2018. After determining there
+was unauthorized access, we undertook a lengthy and labor-intensive process to identify the personal information
+contained within the affected email accounts. On November 28, 2018, our investigation confirmed the identity of
+the individuals whose personal information was affected. Based on available forensic evidence, an email containing
+your personal information was potentially subject to unauthorized access. Although we are unaware of any actual
+or attempted misuse of your personal information, we are notifying you in an abundance of caution because your
+information was present in the impacted email accounts.
 </details>
 <p class="hidden"></p>
 [January 08, 2018](https://oag.ca.gov/system/files/Aimbridge%20Hospitality%20Holdings%2C%20LLC%20-%20Notice%20of%20Data%20Event%20-%20Exhitbit%201%20-%20CA_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On March 21, 2018, we identified unusual activity in an employee email account. We immediately
+changed the employee’s credentials and launched an investigation, with the assistance of third-party forensic
+investigation firm, to determine what happened. As part of the investigation, we determined that certain employee
+email accountswere subject to unauthorized access and certain emailswere accessible to an unauthorized individual(s).
 </details>
 ## Authentic Recovery Center, LLC
 <p class="hidden"></p>
@@ -655,7 +841,10 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On June 21, 2018, we learned that an unauthorized third party gained access to one of our secure email accounts. We
+immediately began an investigation and notified local and federal authorities. The investigation determined that the
+unauthorized access occurred between June 7, 2018 and June 21, 2018. Upon discovery of the incident, we immediately
+terminated any unauthorized access to the email account.
 </details>
 ## Advocate Sherman Hospital ("Sherman")
 <p class="hidden"></p>
@@ -663,7 +852,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Jobscience – a service provider that helped us process job application information – informed us it was the victim of a data breach.  
+According to Jobscience, in or around May 2018, an unauthorized third party was able to gain access to and acquire data contained on 
+Jobscience’s server that was used to process employee application information.  After provision of additional information by Jobscience 
+in December 2018 and further investigation, we were able to identify in February 2019 that your data was involved.  Jobscience stated 
+that law enforcement is aware of the incident, but this notification was not delayed as a result of a law enforcement investigation. 
 </details>
 ## Amarin Pharma, Inc.
 <p class="hidden"></p>
@@ -671,7 +864,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On or around June 20, 2019, we became aware of media reports suggesting that a database containing information about
+consumers who use or have expressed interest in Vascepa® may have been subject to unauthorized access. Amarin
+promptly began investigating these reports and determined that the database in question was maintained by the vendor.
+Amarin promptly took steps to suspend active data feeds to the vendor’s database, and the vendor informed us that the
+database was taken offline on June 20, 2019. 
 </details>
 ## Art.sy, Inc. d/b/a Artsy
 <p class="hidden"></p>
@@ -679,7 +876,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDI
 </details>
 ## Another Planet Entertainment
 <p class="hidden"></p>
@@ -687,7 +884,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## AAA Business Supplies
 <p class="hidden"></p>
@@ -695,7 +892,9 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Our accounting email addresses were compromised, which we discovered on Thursday,
+June 7, 2018. The parties involved appear to be pursuing fraudulent attempts to get AAA, our
+customers and our vendors to misdirect payments.
 </details>
 ## AccessLex Institute d/b/a Access Group
 <p class="hidden"></p>
@@ -703,7 +902,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On March 28, 2018 we learned that on March 23, 2018 a vendor we use to help provide student loan processing services
+inadvertently sent a copy of certain loan files, including your file, to another business that was not authorized to receive
+them. Shortly after we learned of the inadvertent file transfer, we contacted managers of the second business that received
+the files. The second business confirmed it had deleted the transferred files and agreed that the appropriate manager would
+sign a sworn statement confirming it had deleted the files and retained no copies.
 </details>
 ## Autism Learning Partners Holdings, LLC
 <p class="hidden"></p>
@@ -711,7 +914,10 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On March 15, 2018, A is for Apple sent an email to a former employee in response to her request for a copy of her 2017
+IRS Form W-2. Instead of sending only the former employee’s W-2, the response inadvertently included an attachment
+with the W-2 forms for all current and former employees, including yours. The former employee quickly reported this
+error to us and stated that she immediately deleted the file from her account. 
 </details>
 ## Amgen, Inc.
 <p class="hidden"></p>
@@ -719,7 +925,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On April 23, 2018, we received a letter from WTW informing us that they had suffered a phishing incident that led
+to a breach of security and the potential unauthorized disclosure of personal information on February 21, 2018. The
+information that WTW maintained on behalf of Amgen related to claims brought against Amgen in civil litigation
+as well as worker’s compensation and workplace injury claims. Your information was among this type of personal
+information that was maintained by WTW and could have been disclosed in this incident.
 </details>
 ## Applied Plan Administrators ("APA"), a division of The Retirement Advantage, Inc. ("TRA")
 <p class="hidden"></p>
@@ -727,7 +937,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## American Stock Transfer & Trust Company, LLC
 <p class="hidden"></p>
@@ -735,7 +945,12 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+AST serves as the exchange agent for a transaction involving Colony NorthStar Credit Real Estate, Inc. (the
+“Company”). On February 1, 2018, an AST employee sent a file containing information about shareholders of the
+Company (the “Shareholder Information”) to 34 financial advisors who represent those shareholders. Each financial
+advisor received the Shareholder Information in a format that displayed only the information relating to those
+shareholders who were represented by such financial advisor. On the same day, it was discovered that the financial
+advisors could manipulate the file to access information relating to shareholders who are not their clients.
 </details>
 ## Ascensus, LLC
 <p class="hidden"></p>
@@ -743,7 +958,13 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On January 31, 2018, Ascensus inadvertently sent a payroll report to
+another Ascensus retirement plan client. Upon discovering this,
+Ascensus immediately informed the recipient that she had received
+confidential data in error. The client’s plan administrator confirmed to
+Ascensus that she deleted the report immediately upon identifying
+that it did not relate to participants in her plan, and that no other
+individuals at her company viewed or had access to the report
 </details>
 ## ABM Industries Incorporated
 <p class="hidden"></p>
@@ -751,14 +972,20 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDB
 </details>
 <p class="hidden"></p>
 [July 07, 2017](https://oag.ca.gov/system/files/ABM%20-%20Notice%20only%200_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On or about August 1, 2017, we discovered that ABM had become the target of a phishing email
+campaign. For background, phishing is a type of electronic attack where outside individuals impersonate a trusted
+person or company to obtain information or install dangerous software. Several ABM employees had clicked on
+the phishing emails and entered their credentials. As is our protocol, we immediately took steps to secure these
+employees’ email accounts and launched an in-depth investigation to determine whether any sensitive information
+was accessed or acquired. 
+
 </details>
 ## American Golf Corporation
 <p class="hidden"></p>
@@ -766,7 +993,9 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+We	were	recently	informed by the	company	that	hosts	and	operates	our	website	of	a	potential	security	incident	involving	our	website.	
+Based	upon	the	vendor’s	investigation,	it	appears	that	an	unauthorized	individual	was	able	to	gain	access	to	portions	of	our	website	and	
+install	malicious	software	on	the	website	servers	designed	to	capture	payment	card	information	as	it	was	being	entered	on	the site
 </details>
 ## Academy of Art Unversity dba Stephens Institute
 <p class="hidden"></p>
@@ -774,7 +1003,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+The Academy of Art University is committed to safeguarding the personal information of our employees. 
 </details>
 ## Aflac
 <p class="hidden"></p>
@@ -782,7 +1011,13 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+American Family Life Assurance Company of Columbus and Continental American
+Insurance Company (collectively “Aflac”) are committed to protecting the security and
+confidentiality of personal and health information that we receive and maintain. Following an
+extensive internal investigation, we are writing to inform you of an incident involving a
+business email system hosted by a third party. Aflac is notifying individuals regarding
+possible unauthorized access to Microsoft Office 365 hosted email accounts belonging to
+limited number of sales agents. 
 </details>
 ## ABB, Inc.
 <p class="hidden"></p>
@@ -790,7 +1025,10 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+ABB, Inc. (“ABB”), received notice on August 25, 2017, that an employee’s email account had suspicious login
+activity as the result of a hacker sending a phishing scheme email to ABB employees on or around August 25,
+2017. ABB conducted a full assessment to determine the scope of the data loss and identify any potentially
+affected individuals.
 </details>
 ## Avanti Markets Inc.
 <p class="hidden"></p>
@@ -798,14 +1036,14 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDI
 </details>
 <p class="hidden"></p>
 [July 02, 2017](https://oag.ca.gov/system/files/Notice%20and%20FAQs_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Andrea Yaley, DDS
 <p class="hidden"></p>
@@ -813,7 +1051,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On June 2, 2017 our office received a ransomware notice from someone who had hacked our
+computer systems. We believe the hacking occurred on or about May 19, 2017. Upon receiving
+the notice, we immediately contacted the local and federal authorities, shut down all our computer
+systems, and implemented additional security measures to preclude further attacks. We were able
+to restore our health records from our backup systems
 </details>
 ## Advanced Graphic Products, Inc. /dba/ "Advanced-Online"
 <p class="hidden"></p>
@@ -821,7 +1063,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Advanced-Online learned on January 3, 2018 that certain personal information housed on the company’s online
+platform may have been subject to unauthorized access. The date range for the incident appears to be April 29, 2017
+until January 12, 2018. Upon becoming aware of the potential unauthorized access, Advanced-Online promptly
+engaged a nationally recognized cybersecurity and forensics firm to assess and address the situation. 
+
 </details>
 ## ALLIANCE FOR COLLEGE-READY PUBLIC SCHOOLS
 <p class="hidden"></p>
@@ -829,7 +1075,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Schoolzilla informed us that a computer security researcher performed a security analysis and detected a
+vulnerability in the Schoolzilla system on or about April 4, 2017. As soon as Schoolzilla received the notice on
+or about April 5, 2017, they immediately fixed the error and verified that nobody other than the one security
+researcher accessed the exposed files. Schoolzilla also assured us that the security researcher, who
+discovered and alerted them to this vulnerability, permanently and securely deleted the data. 
 </details>
 ## Alamo Capital
 <p class="hidden"></p>
@@ -837,7 +1087,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On March 14, 2017, a data security incident occurred which may have
+affected your personal information. When we discovered the incident on the same day, we
+immediately launched an investigation, and reported it to the FBI, the SEC and the Financial
+Industry Regulatory Authority (FINRA). Our information technology personnel also took
+measures to secure all client information.
 </details>
 ## American Tire Distributors Holdings Inc.
 <p class="hidden"></p>
@@ -845,7 +1099,9 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+We believe that on March 3, 2017 a file containing your 2016 W-2 information was apparently
+fraudulently obtained by a third party. We learned of this on March 6, 2017 and an investigation immediately
+commenced. We believe the incident has been contained and did not involve an intrusion into the company's networks. 
 </details>
 ## Auto Pride Car Wash
 <p class="hidden"></p>
@@ -853,7 +1109,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Acme Car Wash and Clearwater Express
 <p class="hidden"></p>
@@ -861,7 +1117,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## ASI Computer Systems
 <p class="hidden"></p>
@@ -869,7 +1125,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Agri Beef Co.
 <p class="hidden"></p>
@@ -877,7 +1133,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Gorilla Group, a third-party partner that hosts Snake River Farms servers, advised us that a data security incident
+occurred during the window of November 22, 2016 to April 4, 2017, and Gorilla Group notified Agri Beef of the
+incident on April 5, 2017. During the window, a third party may have gained access to snakeriverfarms.com with
+the intent to obtain certain PII.
+
 </details>
 ## Anchor Loans LP
 <p class="hidden"></p>
@@ -885,7 +1145,9 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On or about November 7, 2016, a security researcher accessed one of our databases that was publicly exposed on
+the Internet. We reacted swiftly by reconfiguring the database and moving to secure the data. Because the security
+researcher had access to this database, your personal information may have been exposed.
 </details>
 ## Akira
 <p class="hidden"></p>
@@ -893,7 +1155,12 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Akira was recently contacted by representatives of the credit card industry
+regarding potential fraud related to credit cards used on our website. We immediately launched
+an internal investigation and hired a third party forensic investigator. On July 18, 2017, the
+forensic investigator confirmed that our website was infected with a form of malicious code that
+collected certain payment information used at checkout. This code was immediately removed
+from our website.
 </details>
 ## Anaheim Majestic Garden Hotel
 <p class="hidden"></p>
@@ -901,7 +1168,9 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+The Anaheim Majestic Garden Hotel had engaged the Sabre Hospitality Solutions SynXis Central Reservations
+System (“SHS Reservation System”) to facilitate online booking of hotel reservations. You may be aware that the
+SHS Reservation System is a leading online reservations systems used throughout the world.
 </details>
 ## Aimbridge Hospitality Holdings LLC
 <p class="hidden"></p>
@@ -909,7 +1178,14 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Sabre Hospitality Solutions (“Sabre”) provides reservation management services to The Anza
+Calabasas Hotel. The Sabre Hospitality Solutions SynXis Central Reservations system (CRS) facilitates the booking
+of hotel reservations made by consumers through hotels, online travel agencies, and similar booking services. Sabre
+notified us on or about June 6, 2017 that an unauthorized party gained access to account credentials that permitted
+unauthorized access to unencrypted payment card information, as well as certain reservation information, for a
+subset of hotel reservations processed through the CRS. The investigation determined that the unauthorized party
+first obtained access to payment card and other reservation information on August 10, 2016, and the last access to
+payment card information was on March 9, 2017
 </details>
 ## Aqua-Aston Hospitality LLC
 <p class="hidden"></p>
@@ -917,7 +1193,12 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+The Sabre Hospitality Solutions SynXis Central Reservations system (CRS) facilitates the booking of
+hotel reservations made by consumers through hotels, online travel agencies, and similar booking
+services. Following an examination of forensic evidence, Sabre notified us on or about June 8, 2017 that
+an unauthorized party gained access to account credentials that permitted unauthorized access to
+unencrypted payment card information, as well as certain reservation information, for a subset of hotel
+reservations processed through the CRS, including some reservations made by Aqua-Aston customers. 
 </details>
 ## Apria Healthcare
 <p class="hidden"></p>
@@ -925,7 +1206,12 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On August 5, 2016, we discovered that the email account of an Apria Healthcare employee was subject
+to unauthorized access. We immediately launched an internal investigation and retained third-party forensic experts to
+assist in the investigation of the incident. The forensic investigators later determined that the email account contained the
+personal information of certain individuals, including you. We then undertook a thorough analysis and review of all
+documents within the email accounts to determine all affected individuals and data types involved.
+
 </details>
 ## Anne M. Cummings, M.D., F.A.C.P.
 <p class="hidden"></p>
@@ -933,7 +1219,9 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On August 22, 2016, I received confirmed notice from my electronic medical record provider that their electronic
+system was subject to a malware attack on July 26, 2016. They became aware of the incident on July 27, 2016, and I
+am informed that they promptly took action to secure their systems. 
 </details>
 ## A&A Ready Mixed Concrete, Inc.
 <p class="hidden"></p>
@@ -941,7 +1229,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Ascensus, Inc.
 <p class="hidden"></p>
@@ -949,7 +1237,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On August 23, 2016, we discovered a website configuration error
+that allowed the plan administrator of another Ascensus retirement
+plan access to your personal information. Upon discovering this,
+Ascensus immediately terminated the configuration that allowed this
+inadvertent access. 
 </details>
 ## Areas
 <p class="hidden"></p>
@@ -957,7 +1249,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDI
 </details>
 ## Advance International Marketing, Inc.
 <p class="hidden"></p>
@@ -965,7 +1257,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDI
 </details>
 ## Aspiranet
 <p class="hidden"></p>
@@ -973,7 +1265,9 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On March 21, 2016, Aspiranet was targeted by an e-mail scam called “spoofing.” We discovered this incident within thirty
+minutes of it taking place. Nonetheless, it resulted in Aspiranet inadvertently making personal information from your W-2
+filing available to a third party.
 </details>
 ## Advance Auto Parts, Inc
 <p class="hidden"></p>
@@ -981,7 +1275,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On March 7, 2016, a third party obtained unauthorized access to employee information. This
+access was through a phishing-type attack in which an outside party posing as an Advance employee convinced an
+employee to provide a file containing information about certain individuals who worked for Advance during 2015. The
+employee believed the email request for this file was a legitimate internal data request. The information was not
+obtained through a breach of Advance’s information systems.
 </details>
 ## Academy of Art Unversity
 <p class="hidden"></p>
@@ -989,7 +1287,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDI
 </details>
 ## Aptos Inc.
 <p class="hidden"></p>
@@ -997,7 +1295,13 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Mrs Prindables along with a wide range of major retailers, utilizes a third party company
+named Aptos to operate and maintain the technology for website and telephone orders. On
+February 6, 2017, Aptos informed us that unauthorized person(s) electronically accessed and
+placed malware on Aptos’ platform holding Information for 40 online retailers, including
+Mrs Prindables, from approximately February 2016 and ended in December 2016. Aptos has
+told us that it discovered the breach in November 2016, but was asked by law enforcement
+investigating the incident to delay notification to allow the investigation to move forward
 </details>
 ## Amaash Corporation
 <p class="hidden"></p>
@@ -1005,7 +1309,13 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Wendy’s recently reported additional malicious cyber activity involving some franchisee-operated
+restaurants. The Company believes this criminal cyberattack resulted from a service provider’s remote
+access credentials being compromised, allowing access – and the ability to deploy malware – to some
+franchisees’ POS systems. Soon after detecting the malware, Wendy’s identified a method of disabling
+it and thereafter has disabled the malware in all franchisee restaurants where it has been discovered. The
+investigation has confirmed that criminals used malware believed to have been effectively deployed on
+some Wendy’s franchisee systems starting in late fall 2015. 
 </details>
 ## Avis Budget Group
 <p class="hidden"></p>
@@ -1013,7 +1323,14 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On	 October,	 2,	 2015	 the	third-party	 provider,	 which	 manages	 our	 benefits	 open	 enrollment	 process,	
+inadvertently	sent	a	file	containing	personal	information,	which	included	your	name,	address and	social	
+security	number,	to	another	company	that	is	also	one	of	its	clients. Immediately	upon	learning	of	this	
+incident,	 Avis	 Budget	 Group’s	 Information	 Security and	 Human	 Resources	 teams	 fully	 and	 thoroughly	
+investigated	 this	 incident,	 in	 close	 cooperation	 with	 our	 third-party	 provider	 and	 the	 company	 where	
+the data	 was	 erroneously	 sent. We	 have	 no	 evidence	 or	 reason	 to	 believe	 that	 your	 personal	
+information	was	misused	or	stolen. Our	data	security	investigation	confirmed	that	a	file containing	your	
+data	was	briefly	viewed	by	two	individuals	and	promptly	and	properly	deleted.	
 </details>
 ## American Express Travel Related Services Company, Inc and /or its Affiliates (“AXP”)
 <p class="hidden"></p>
@@ -1021,343 +1338,364 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Protecting the security of our Card Members’ information is very important to us and we strive to let you know about
+security concerns as soon as possible. We have been informed that a data security incident occurred at a merchant
+where you used your Card. Account information of some of our Card Members, including some of your account
+information, may have been involved. It is important to note that American Express owned or controlled systems were
+not compromised by this incident, and we are providing this notice to you as a precautionary measure.
 </details>
 <p class="hidden"></p>
 [April 23, 2015](https://oag.ca.gov/system/files/C2015060271%20-%20Customer%20Letter%20-%20CA%20AG%20Online%20Submission_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Protecting the security of our Card Members’ information is very important to us and we strive to let you know
+about security concerns as soon as possible. We became aware that a third party service provider engaged by
+numerous merchants experienced unauthorized access to its system. Account information of some of our Card
+Members, including some of your account information, may have been involved. It is important to note that
+American Express owned or controlled systems were not compromised by this incident, and we are providing this
+notice to you as a precautionary measure
 </details>
 <p class="hidden"></p>
 [March 22, 2015](https://oag.ca.gov/system/files/CA%20AG%20-%20Customer%20Letter%20-%20C2015060341_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [February 01, 2015](https://oag.ca.gov/system/files/CA%20AG%20Online%20Submission%20-%20Customer%20Letter%20-%20C2015050034_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [January 20, 2015](https://oag.ca.gov/system/files/C2015050146%20CA%20AG%20Online%20Submission%20-%20Customer%20Letter_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [December 30, 2014](https://oag.ca.gov/system/files/CA%20AG%20Online%20-%20Customer%20Letter%20-%20C2015050188_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [December 21, 2014](https://oag.ca.gov/system/files/C2015020361%20CA%20AG%20-%20Customer%20Letter_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [December 01, 2014](https://oag.ca.gov/system/files/CA%20AG%20Customer%20Letter%20-%20C2015030368_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [November 20, 2014](https://oag.ca.gov/system/files/C2015030179%20%20-%20Customer%20Letter%20-%20CA%20AG%20Online%20Submission_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Protecting the security of our Card Members’ information is very important to us and we strive to let you know about security
+concerns as soon as possible. We became aware that a third party service provider engaged by numerous merchants
+experienced unauthorized access to its system. Account information of some of our Card Members, including some of your
+account information, may have been involved. It is important to note that American Express owned or controlled systems were
+not compromised by this incident, and we are providing this notice to you as a precautionary measure.
 </details>
 <p class="hidden"></p>
 [November 02, 2014](https://oag.ca.gov/system/files/CA%20AG%20-%20Customer%20Letter%20-%20C2015010321_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [October 18, 2014](https://oag.ca.gov/system/files/CA%20AG%20Online%20Submission%20-%20Customer%20Letter_C2015080150_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [August 07, 2014](https://oag.ca.gov/system/files/CA%20AG%20-%20Customer%20Letter-%20C2015080219_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [June 02, 2014](https://oag.ca.gov/system/files/C2014100066%20Customer%20Letter%20-%20CA%20AG%20Online%20Submission_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Protecting the security of our Card Members’ information is very important to us and we strive to let you know about security
+concerns as soon as possible. We have been informed that a data security incident occurred at a merchant where you used
+your Card. Account information of some of our Card Members, including some of your account information, may have been
+involved. It is important to note that American Express owned or controlled systems were not compromised by this incident,
+and we are providing this notice to you as a precautionary measure
 </details>
 <p class="hidden"></p>
 [May 19, 2014](https://oag.ca.gov/system/files/CA%20AG%20Customer%20Letter%20-%20C2015060086_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [April 29, 2014](https://oag.ca.gov/system/files/C2015080328%20-%20Customer%20Letter%20-%20CA%20AG%20Online%20Submission_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [April 14, 2014](https://oag.ca.gov/system/files/C2015020110%20CA%20AG%20-%20Customer%20Notice_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [April 12, 2014](https://oag.ca.gov/system/files/CA%20AG%20Online%20Submission-Customer%20Letter-%20C2015050304_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [December 07, 2013](https://oag.ca.gov/system/files/AMEX%2060413%20updated%20Customer%20Notice%20-%20C2015090247_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Protecting the security of our Card Members’ information is very important to us and we strive to let you know about security
+concerns as soon as possible. We have been informed that a data security incident occurred at a merchant where you used your Card.
+Account information of some of our Card Members, including some of your account information, may have been involved. It is
+important to note that American Express owned or controlled systems were not compromised by this incident, and we are providing
+this notice to you as a precautionary measure
 </details>
 <p class="hidden"></p>
 [July 06, 2013](https://oag.ca.gov/system/files/Customer%20Notification%20Letter%20-%20C2014070210_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [June 13, 2013](https://oag.ca.gov/system/files/C2014060203%20-%20CA%20AG%20-%20Customer%20Notice_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [May 28, 2013](https://oag.ca.gov/system/files/Website%20Server%20Active%20CM%20Letter_%28WSC%29_EN_Final_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [April 09, 2013](https://oag.ca.gov/system/files/Recovered%20Data_Active%20CM%20Letter_%28RDC%29_EN_Final_172013_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [March 08, 2013](https://oag.ca.gov/system/files/Amex%20White%20Lodging-C2014050213%20CA%20AG%20Letter_Customer%20Letter_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [February 10, 2013](https://oag.ca.gov/system/files/Data%20Server_Active%20CM%20Letter_%28MSC%29_EN_Final_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [February 01, 2013](https://oag.ca.gov/system/files/CA%20AG_Roys%20Holdings_C2013057989_customer%20letter%20ADO1_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [January 17, 2013](https://oag.ca.gov/system/files/Sprouts-C2013027013%20CA%20AG%20Letter_Customer%20Letter_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [January 15, 2013](https://oag.ca.gov/system/files/Celerant-C2013068451%20CA%20Customer%20Letter_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [December 21, 2012](https://oag.ca.gov/system/files/Shoplet%20Merchant%20Notification%20C2013026933_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [December 19, 2012](https://oag.ca.gov/system/files/Tennis%20Express-C2013016801%20CA%20AG%20Letter_online%20submission_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [November 01, 2012](https://oag.ca.gov/system/files/Data%20Server_Active%20CM%20Letter_%28MSC%29_EN_Final_1.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [October 16, 2012](https://oag.ca.gov/system/files/Fabric%20Depot-C2013027035%20CA%20-%20Merchant%20letter_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [September 01, 2012](https://oag.ca.gov/system/files/EJ%20PHAIR%20BREWING%20CO%20and%20ALE%20HOUS-C2012116470%20CA%20AG%20Letter_customer%20notice_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [August 03, 2012](https://oag.ca.gov/system/files/AmEx%20Paygate-C2012095824%20CA%20AG%20Letter%5Bx%5D_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [June 26, 2012](https://oag.ca.gov/system/files/Recoverd%20Cards_AD01_Active%20%28RDCSBMMYY%29%20CM%20Letter_Final_032912_1.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [June 13, 2012](https://oag.ca.gov/system/files/Website%20Server%20Active%20CM%20Letter_%28WSC%29_EN_Final_1.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [June 03, 2012](https://oag.ca.gov/system/files/80sTees.com-C2013037430%20CA%20Customer%20Letter_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [May 21, 2012](https://oag.ca.gov/system/files/Pages%20from%20USC%20Hospitality-C2012065283%20CA%20AG%20Letter_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [April 02, 2012](https://oag.ca.gov/system/files/Chaparral_CM%20Letter_Final_071912_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [April 01, 2012](https://oag.ca.gov/system/files/Website%20Data%20Server_AD01_Active%20%28WSCSBMMYY%29%20CM%20Letter_Final_071912_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [March 02, 2012](https://oag.ca.gov/system/files/Creative%20Croisants%20-%20LAX%20-%20C2012075344_Customer%20Letter_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [February 02, 2012](https://oag.ca.gov/system/files/La%20Condesa_AD01_Active%20CM%20Letter_Final_071912_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [January 17, 2012](https://oag.ca.gov/system/files/Paragon%20Solution%20Network%201ink-C2013068305%20CA%20AG%20Letter_Customer%20Letter_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [November 06, 2011](https://oag.ca.gov/system/files/Pages%20from%20GoTickets%20com-C2012065270%20CA%20AG%20Letter_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [July 11, 2011](https://oag.ca.gov/system/files/Customer%20Letter%20-%20C2014120039%20-%20CA%20AG%20Online%20Submission_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [April 06, 2011](https://oag.ca.gov/system/files/I%20H%20S%20Inc-C2013037330%20CA%20AG%20Letter_Merchant%20letter_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [March 13, 2011](https://oag.ca.gov/system/files/Customer%20Letter%20-%20C2014060082_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [February 15, 2011](https://oag.ca.gov/system/files/CA%20AG%20Online%20-%20Customer%20Letter%20-%20C2015040121_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [May 05, 2008](https://oag.ca.gov/system/files/CA%20AG%20Online%20Submission%20-%20Customer%20Letter_C2015050133_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [](https://oag.ca.gov/system/files/Recoverd%20Cards_AD01_Active%20%28RDCSBMMYY%29%20CM%20Letter_Final_032912_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## American Bankers Association
 <p class="hidden"></p>
@@ -1365,7 +1703,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Acclaim Technical Services
 <p class="hidden"></p>
@@ -1373,7 +1711,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Accuform Signs
 <p class="hidden"></p>
@@ -1381,7 +1719,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Acer Service Corporation
 <p class="hidden"></p>
@@ -1389,7 +1727,8 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+We recently identified a security issue involving the information of certain customers who used our ecommerce
+site between May 12, 2015 and April 28, 2016, which resulted in unauthorized access by a third party
 </details>
 ## Atkinson, Andelson, Loya, Ruud & Romo
 <p class="hidden"></p>
@@ -1397,7 +1736,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On April 23, 2015, a personal laptop belonging to a member of our law firm was stolen while the attorney was a
+passenger on the MTS Trolley in downtown San Diego. The theft was reported on April 24, 2015 to the San Diego
+police department. The report was taken by Officer Ruvido, ID No. 5509 and was assigned Case No. 15-017392. We
+have been working with law enforcement but, to date, they have been unable to locate the stolen laptop computer.
+
 </details>
 ## ADP, LLC
 <p class="hidden"></p>
@@ -1405,7 +1748,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDI
 </details>
 ## Apple America Group LLC
 <p class="hidden"></p>
@@ -1413,7 +1756,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Advantage Consolidated LLC
 <p class="hidden"></p>
@@ -1421,7 +1764,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Automotive Recovery Services, Inc.
 <p class="hidden"></p>
@@ -1429,7 +1772,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## American Airlines, Inc.
 <p class="hidden"></p>
@@ -1437,7 +1780,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## American Apparel, Inc
 <p class="hidden"></p>
@@ -1445,7 +1788,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Acosta, Inc. and its subsidiaries, including Mosaic Sales Solutions US Operating Co. LLC
 <p class="hidden"></p>
@@ -1453,7 +1796,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDB
 </details>
 ## Armor Games Inc.
 <p class="hidden"></p>
@@ -1461,7 +1804,16 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On Oct 24, 2014, we discovered that a third party obtained access to our users’ emails and
+“hashed’ passwords. That means that the passwords were encrypted in such a way that it is nearly impossible
+for anyone, even us, to read it. However, on Oct 24, 2017, a security researcher informed us of a file containing
+emails and plaintext passwords which claims the data had come from us (Armor Games) and another company
+(Coupon Mom). We are investigating whether we are the true source of the breach, since the number of leaked
+emails/passwords is far less than the number of emails breached on either our system or Coupon Mom’s
+system in 2013. Our users’ passwords were hashed (this makes it unlikely that they could extract plaintext
+passwords from our data), and some users are reporting that their passwords were included in this breach
+though they have never used either site. As we investigate the source of the data in this file, we are taking the
+precautionary measure of treating this as a data breach of our own users.
 </details>
 ## American Residuals and Talen, Inc. ("ART")
 <p class="hidden"></p>
@@ -1469,7 +1821,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDB
 </details>
 ## ABM Parking Services
 <p class="hidden"></p>
@@ -1477,7 +1829,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Alight Solutions LLC
 <p class="hidden"></p>
@@ -1485,7 +1837,8 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On May 20, 2019, in connection with a routine Federal Reserve security review, we became aware of an
+issue involving your personal information.
 </details>
 ## American Soccer Company, Inc.
 <p class="hidden"></p>
@@ -1493,7 +1846,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Auburn University
 <p class="hidden"></p>
@@ -1501,7 +1854,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Ascensus, Inc
 <p class="hidden"></p>
@@ -1509,7 +1862,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Albertson's LLC
 <p class="hidden"></p>
@@ -1517,14 +1870,14 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [](https://oag.ca.gov/system/files/2014-09-29%20AB%20Acquisition%20Press%20Release_0.PDF) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Anderson & Murison
 <p class="hidden"></p>
@@ -1532,7 +1885,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Your agent used our personal umbrella rating system to obtain a quote through Anderson & Murison’s
+web-based online personal umbrella rating system. To request a premium estimate, your agent provided
+us with information relating to you. On July 18, 2014, we discovered that some of the umbrella applications
+completed on our website were accessible for viewing on the internet. This inadvertent disclosure was not
+the result of an action or inaction by your retail insurance agent.
 </details>
 ## AT&T Mobility, LLC
 <p class="hidden"></p>
@@ -1540,7 +1897,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Atlantic Automotive Corporation d/b/a MileOne
 <p class="hidden"></p>
@@ -1548,7 +1905,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## AppleCare Insurance Services, Inc.
 <p class="hidden"></p>
@@ -1556,7 +1913,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Affinity Gaming
 <p class="hidden"></p>
@@ -1564,7 +1921,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Anthem Blue Cross
 <p class="hidden"></p>
@@ -1572,7 +1929,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## AHMC Healthcare, Inc and affiliated hospitals
 <p class="hidden"></p>
@@ -1580,7 +1937,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Adobe Systems Incorporated
 <p class="hidden"></p>
@@ -1588,7 +1945,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Advocate Medical Group
 <p class="hidden"></p>
@@ -1596,7 +1953,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Affinity Gaming LLC
 <p class="hidden"></p>
@@ -1604,7 +1961,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## American Express Travel Related Services Company, Inc and/or its Affiliates ("AXP")
 <p class="hidden"></p>
@@ -1612,7 +1969,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## ANTIOCH UNIFIED SCHOOL DISTRICT
 <p class="hidden"></p>
@@ -1620,7 +1977,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Accume Partners
 <p class="hidden"></p>
@@ -1628,7 +1985,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Alere Home Monitoring, Inc.
 <p class="hidden"></p>
@@ -1636,7 +1993,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## American Express Travel Related Services Company, Inc and/or its Affiliates (“AXP”)
 <p class="hidden"></p>
@@ -1644,14 +2001,14 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [April 02, 2012](https://oag.ca.gov/system/files/AD01%20CM%20Letter_Final_071912%20Strawberrynet_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## American Tool Supply
 <p class="hidden"></p>
@@ -1659,7 +2016,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Anasazi Hotel LLC
 <p class="hidden"></p>
@@ -1667,7 +2024,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Advanced Data Processing, Inc.
 <p class="hidden"></p>
@@ -1675,7 +2032,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Apria Healthcare, Inc.
 <p class="hidden"></p>
@@ -1683,7 +2040,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## American Pharmacists Association
 <p class="hidden"></p>
@@ -1691,7 +2048,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Ameritas LIfe Insurance Corp.
 <p class="hidden"></p>
@@ -1699,7 +2056,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## American Express Travel Related Services Company Inc and / or its Affiliates ("AXP")
 <p class="hidden"></p>
@@ -1707,7 +2064,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## American Express Travel Related Services Company, Inc and/or it's affiliates ('AXP')
 <p class="hidden"></p>
@@ -1715,7 +2072,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Aeries Software, Inc.
 <p class="hidden"></p>
@@ -1723,7 +2080,8 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+The purpose of this notice is to inform you that your database may have been subject to unauthorized access
+involving your Parent and Student Data.
 </details>
 ## A.B. Closing, Inc. D/B/A Kavaliro
 <p class="hidden"></p>
@@ -1731,7 +2089,14 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+In March 2020, Kavaliro became aware of unauthorized persons who were using
+an imposter domain name to conduct email phishing directed at Kavaliro’s
+customers. Kavaliro has since had the imposter domain taken down, and while
+investigating the imposter domain, on March 26, 2020, became aware of
+unauthorized access to several Kavaliro email accounts by those involved with
+the imposter domain. On April 11, 2020, Kavaliro was able to determine that
+there was also unauthorized access to multiple additional Kavaliro email
+accounts, as well as certain internal file management systems. 
 </details>
 ## A&A Global Imports, Inc.
 <p class="hidden"></p>
@@ -1739,7 +2104,15 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On August 17, 2018, we were notified by law enforcement that they suspected certain of A&A’s information may
+have been compromised by unknown cyber attackers. Upon receiving this notification, we immediately engaged
+with several firms, including a leading computer forensic firm, to conduct a forensic investigation into the matter.
+As a result of that investigation, we discovered that unauthorized code was placed on our website that may have
+been capable of capturing certain information entered on the website during the checkout process. Our forensic
+investigation further revealed that the cyber attackers also may have been able to acquire data out of our customer
+database. Based on our investigation to date, it appears that information entered on our website may have been
+exposed at various points in time, including from August 15, 2017 to January 4, 2019. Importantly, the unauthorized
+code identified during our forensic investigation has been removed. 
 </details>
 ## Artix Entertainment, LLC
 <p class="hidden"></p>
@@ -1747,7 +2120,9 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Two talented individuals found a vulnerability in our older game websites (specifically
+AdventureQuest, DragonFable, and MechQuest). We were notified of this on October 16th, 2018.
+Thankfully, they have worked diligently with us to fix these issues and protect our game network
 </details>
 ## Ancestry.com Operations, Inc.
 <p class="hidden"></p>
@@ -1755,7 +2130,9 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Immediately aer receiving the file containing the RootsWeb surname list user data, the Ancestry Information Security
+Team commenced its analysis of the file and its contents, and started a forensic investigation of RootsWeb’s systems to
+determine the source of the data and identify any potential active exploitation of the RootsWeb system
 </details>
 ## Allrecipes.com, Inc.
 <p class="hidden"></p>
@@ -1763,7 +2140,13 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+We recently determined that the email address and password typed into
+allrecipes.com by members when they created or logged into their accounts
+prior to June 2013 may have been intercepted by an unauthorized third party.
+Based on information available to us, we cannot determine with certainty who
+did this or how this occurred. Our best analysis is that email addresses and
+allrecipes.com passwords were intercepted during account registration or login
+by our members.
 </details>
 ## Aptos, Inc. on behalf of Retailers in Attached Addendum
 <p class="hidden"></p>
@@ -1771,7 +2154,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDI
 </details>
 ## Aptos, Inc. on behalf of Retailers in the Attached Addendum
 <p class="hidden"></p>
@@ -1779,7 +2162,9 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+We were informed on February 6, 2017 that our website www.alphaindustries.com experienced
+an intrusion last year. Our site is operated for us by a third-party platform provider, Aptos, and it
+was Aptos that experienced the intrusion.
 </details>
 ## Aptos, Inc. on behalf of Retailers in Attached Addenda
 <p class="hidden"></p>
@@ -1787,7 +2172,12 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+We are writing to inform you of an incident that may have involved your personal information. Along
+with more than 40 other retailers, our eCommerce store is hosted on a software platform owned and managed
+by Aptos, Inc. Aptos has determined that an unauthorized person or persons remotely accessed its systems
+and gained access to information of some of the individual consumers of these retailers. The investigation
+indicates that the intrusion began in approximately February 2016 and ended in December 2016. This letter
+provides details of what Aptos has explained to us regarding their investigation of this breach.
 </details>
 ## Abbott Nutrition
 <p class="hidden"></p>
@@ -1795,7 +2185,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDI
 </details>
 ## ACTIVEOutdoors
 <p class="hidden"></p>
@@ -1803,7 +2193,9 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Although we have made and continue to make significant investments in technology and security, on
+August 22, we became aware that we were the victim of an unauthorized and unlawful access to our online hunting and
+fishing licensing applications in Idaho, Oregon and Washington.
 </details>
 ## Alliance Health Networks, LLC
 <p class="hidden"></p>
@@ -1811,7 +2203,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## AT&T
 <p class="hidden"></p>
@@ -1819,7 +2211,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## American Sleep Medicine
 <p class="hidden"></p>
@@ -1827,7 +2219,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Anthem, Inc.
 <p class="hidden"></p>
@@ -1835,7 +2227,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## AECOM Technology Corporation
 <p class="hidden"></p>
@@ -1843,7 +2235,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## American Express Travel Related Services Company, Inc. and /or its Affiliates (“AXP”)
 <p class="hidden"></p>
@@ -1851,7 +2243,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Arcadia Health Services, Inc. d/b/a Arcadia Home Care & Staffing
 <p class="hidden"></p>
@@ -1859,7 +2251,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## ADP
 <p class="hidden"></p>
@@ -1867,7 +2259,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Altrec, Inc.
 <p class="hidden"></p>
@@ -1875,7 +2267,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 # B
 ## Belden
@@ -1908,7 +2300,10 @@ We recently discovered a data security incident involving our website. We immedi
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+We recently discovered a data security incident involving our website. We immediately launched an
+investigation and engaged a digital forensics firm to assist. The recently completed investigation determined that payment
+card information may have been exposed for customers who made purchases through barristerbooks.com, lawbooks.com
+or lawbooksforless.com between July 7, 2020 and September 11, 2020.
 </details>
 ## Baylor Genetics
 <p class="hidden"></p>
@@ -1931,7 +2326,10 @@ Baylor Genetics was the target of an email phishing campaign that resulted in a 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+While preparing 2019 tax returns, we discovered a potential data security incident that may have affected
+some of our client’s personal information. We immediately launched an investigation and worked with the IRS and our
+software provider to ascertain what had occurred. We also retained an independent digital cybersecurity firm to conduct a
+forensic investigation of B+Co’s network and computer systems. 
 </details>
 ## Bank of America
 <p class="hidden"></p>
@@ -1939,7 +2337,8 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Authorized lenders are required to submit loan applications to the SBA through the SBA’s loan
+application platform.
 </details>
 ## Brown-Forman Corporation
 <p class="hidden"></p>
@@ -1962,7 +2361,10 @@ On or about March 16, 2020, the Company discovered some clients had IRS E-file r
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On or about March 16, 2020, the Company discovered some clients had IRS E-file rejections. Based on our investigation,
+the e-filing rejections was due to fraudulent tax filings by an unauthorized third party who was able to compromise the
+Company’s Intuit ProSeries® service and create a guest account. The Company’s IT team was able to discover the hidden
+guest account and was able to remove it on April 2, 2020
 </details>
 ## Bruce L. Boros, M.D., P.A. DBA Advanced Urgent Care
 <p class="hidden"></p>
@@ -1978,7 +2380,10 @@ On March 1, 2020, a ransomware infection encrypted files stored on a backup driv
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Bailard became aware of unusual activity involving a single employee email account and immediately
+began an investigation. With the assistance of third-party computer specialists, on April 3, 2020, the investigation
+determined that the employee email account had been accessed at varying times between February 25, 2020 and
+March 5, 2020 without authorization.
 </details>
 ## Beverly Hills Unified School District
 <p class="hidden"></p>
@@ -1994,7 +2399,7 @@ The District uses the Aeries Student Information System to provide students and 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Blue Cross Blue Shield Association
 <p class="hidden"></p>
@@ -2002,7 +2407,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Bed Bath & Beyond Inc.
 <p class="hidden"></p>
@@ -2010,14 +2415,16 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+We recently discovered that a third party used email and password information acquired
+outside Bed Bath & Beyond and Buy Buy Baby to access a limited number of online accounts
+during the period of September 4 – 27, 2019. 
 </details>
 <p class="hidden"></p>
 [May 15, 2017](https://oag.ca.gov/system/files/Bed%20Bath%20%26%20Beyond%20--%20CA%20attachments_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDI
 </details>
 ## BookShark LLC
 <p class="hidden"></p>
@@ -2025,7 +2432,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDB
 </details>
 ## Bamboo HR LLC
 <p class="hidden"></p>
@@ -2033,7 +2440,18 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On February 13, 2019, BambooHR became aware of unauthorized access by an unidentified thirdparty to the TraxPayroll system. We determined that the unauthorized party was trying to change
+employee direct deposit information, which we quickly isolated and fixed. We also shut-down the
+means by which the unauthorized access occurred. It appears that the third party may have had access
+to the TraxPayroll system as early as February 5, 2019, but the attempted inappropriate actions took
+place between February 11-13, 2019. BambooHR then conducted a comprehensive review of all
+unauthorized activity and determined that a report was accessed that may have allowed the third
+party to view personal information of certain employees. It appears that the unauthorized party’s
+purpose in accessing the TraxPayroll system was to divert payroll deposits into its own accounts, not
+to collect personal information. While BambooHR is unable to determine whether your personal
+information was retained, it was contained in the report that was accessed. Out of an abundance of
+caution, BambooHR is notifying all individuals that may have been affected by this this unfortunate
+event. 
 </details>
 ## Brighton Collectibles, LLC
 <p class="hidden"></p>
@@ -2041,7 +2459,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On March 7, 2019, we learned that an unauthorized individual may have gained access to the website we used to
+process credit card transactions between January 28, 2019 and February 15, 2019. When we first learned of this
+incident, we took immediate steps to secure the information. A thorough investigation was conducted by a forensic
+investigation firm to determine what happened, who was impacted and what information may have been affected. We
+wanted to let you know this occurred and to assure you we take it very seriously. 
 </details>
 ## Bank of the West
 <p class="hidden"></p>
@@ -2049,28 +2471,40 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On January 20, 2019, the Bank’s security teams identified instances of unauthorized account withdrawal
+attempts concerning certain debit cards which had previously been used at our Campbell Branch ATM. We
+promptly contacted law enforcement and began taking steps to review our ATM network. Our review
+found that a device known as an “ATM skimming device” had been installed and removed from our
+Campbell Branch ATM. We believe the ATM skimming device was unlawfully installed on our ATM machine
+between December 3, 2018 and December 22, 2018.
 </details>
 <p class="hidden"></p>
 [March 02, 2018](https://oag.ca.gov/system/files/LS%200818-088%20GLBA%20Incident_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On March 2, 2018, we were notified of a security incident that occurred at one of our contracted service
+providers who furnishes Bank of the West with business data analysis services relating to our business
+banking customers. The service provider’s investigation determined that unauthorized third parties used
+compromised credentials to log into a limited number of their employee email accounts and may have
+accessed information associated with your business. On March 19, 2018, we received a copy of the data
+file that may have been illegally accessed. We immediately took action, however, the data file was not in
+an easily useable format and required significant analysis to identify potentially affected individuals and
+associated mailing addresses.
 </details>
 <p class="hidden"></p>
 [February 01, 2017](https://oag.ca.gov/system/files/LS%200517-050%20ATM%20Skimming-GLBA%20Incident_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDI
 </details>
 <p class="hidden"></p>
 [](https://oag.ca.gov/system/files/Sample%20email%20notice_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## British Airways Plc
 <p class="hidden"></p>
@@ -2078,7 +2512,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDB
 </details>
 ## Blood Systems, Inc.
 <p class="hidden"></p>
@@ -2086,7 +2520,19 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+What Happened
+On Sept. 4, 2018, we detected unusual activity related to donor profiles within our eDonor donor
+portal. A prompt investigation with our software vendor, Haemonetics Software Solutions,
+revealed that between Aug. 29 and Sept. 2, 2018, a small number of blood donor profiles were
+subject to unauthorized access on our donor portal website: «DonorURL». In some of the donor
+accounts, donor loyalty program points were fraudulently used to order or attempt to order gift
+cards in our Hero Rewards Store. In an abundance of caution, we disabled donor portal login
+capability for all donors between Sept. 4 and 7 while we investigated the activity and established
+a corrective action plan. On Sept. 7 and Sept. 14, we notified donors by email that their
+passwords were reset with additional password security measures. Finally, for the few accounts
+for which donor points were inappropriately used, all earned loyalty points were promptly
+restored.
+
 </details>
 ## BEL USA, LLC ("BEL") through its website DiscountMugs.com
 <p class="hidden"></p>
@@ -2094,7 +2540,14 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On November 16, 2018, we discovered that an unauthorized change had been made to our
+DiscountMugs.com website. We immediately initiated an investigation and learned that unauthorized code
+was inserted into our shopping cart page designed to collect information customers entered on that page.
+We immediately removed the unauthorized code and reported the matter to law enforcement and to the
+payment card companies. On December 20, 2018, our investigation determined that orders placed by credit
+or debit cards between August 5, 2018 and November 16, 2018, may have been impacted by the
+unauthorized code. We are providing you with this notice because our records indicate that you placed an
+order between August 5, 2018 and November 16, 2018
 </details>
 ## Bayside Covenant Church, Inc.
 <p class="hidden"></p>
@@ -2102,7 +2555,16 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+In October of 2018, Bayside became aware of suspicious activity in certain employees’ email
+accounts. Bayside immediately began an investigation to confirm the nature and scope of this activity. Through the
+investigation, which included working with third party forensic investigators, we determined that the unauthorized
+actors accessed certain employees’ accounts without authorization between August 3, 2018 and October 20, 2018.
+Unfortunately, the investigation was unable to determine which emails or attachments may have been viewed without
+authorization. In an abundance of caution, the entire contents of the email accounts involved were reviewed to identify
+any personal information contained within the accounts. On December 19, 2018, the programmatic and manual review
+was completed, and it was determined that certain personal information was contained within the accounts that were
+accessed without authorization. To date, we have no information that there has been any actual or attempted misuse of
+the personal information within the accounts related to this event. 
 </details>
 ## Beverages & More, Inc. dba BevMo!
 <p class="hidden"></p>
@@ -2110,7 +2572,13 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Based upon information that we have received to date from the service provider that operates our website (NCR
+Corporation) and the results of a third party forensic investigation sponsored by NCR, we believe that an
+unauthorized individual was able to gain access to the BevMo website and install malicious code on our checkout
+page. This code was designed to capture payment information and may have affected certain orders placed on the
+BevMo website between August 2, 2018 and September 26, 2018. You are receiving this letter because our
+records indicate that you placed an order on the website during this timeframe.
+
 </details>
 ## BioMarin Pharmaceutical Inc.
 <p class="hidden"></p>
@@ -2118,7 +2586,12 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On June 21, 2018, we discovered that someone (the “attacker”) had accessed two BioMarin email mailboxes,
+beginning on June 18, 2018, as a result of a successful phishing attack by which the attacker acquired a temporary
+employee’s user ID and password. When we discovered the breach on June 21, we had the temporary employee
+change his credentials, thereby preventing further access to the mailboxes. We have so far been unable to
+determine for certain whether the attacker extracted any or all of the information in the mailboxes before this
+access was terminated, but it is possible.
 </details>
 ## Bankers Life (BL) - BL is the marketing brand of Bankers Life and Casualty Co., Medicare Supplement insurance policies sold by Colonial Penn Life Insurance Co. and select policies sold in NY by Bankers Conseco Life Insurance Company, a NY licensed ins. co
 <p class="hidden"></p>
@@ -2126,7 +2599,12 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+We recently discovered that unauthorized third parties accessed credentials belonging to a limited number of our
+employees between May 30 and September 13, 2018. During this period, unauthorized third parties used improperly
+obtained employee information to gain access to certain company websites, potentially resulting in unauthorized
+access to personal information of policyholders and applicants. Based on our investigation, we have no reason to
+believe that our systems or network have been otherwise compromised at this time. 
+
 </details>
 ## Brinker International, Inc.
 <p class="hidden"></p>
@@ -2134,7 +2612,12 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On May 11, 2018, we learned that some of our Guests’ payment
+card information was compromised at certain Chili’s restaurants as the result of a data
+incident. Currently, we believe the data incident was limited to between March – April
+2018; however, we continue to assess the scope of the incident. We deeply value our
+relationships with our Guests and sincerely apologize to those who may have been
+affected.
 </details>
 ## Black Phoenix, Inc
 <p class="hidden"></p>
@@ -2142,7 +2625,10 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Malicious code was injected into the portion of the checkout page where credit card info bound for
+AuthorizeNet is gathered. If you made a purchase using the AuthorizeNet gateway during this period,
+your credit card data may have been compromised. We do not store any credit card info ourselves on
+the site – none whatsoever - so there was no credit card data to harvest from before this time period. 
 </details>
 ## Branton, de Jong and Associates
 <p class="hidden"></p>
@@ -2150,7 +2636,13 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Upon encountering suspicious electronic activity on our tax program, we immediately contacted our tax preparation
+software and began an investigation into the matter to determine what was going on. Additionally, we changed all
+passwords, and hired a leading, specialized forensic IT firm. On March 16, 2018, the specialized forensic IT firm
+determined that there was unauthorized access to our system from a foreign IP address. This access occurred between
+February 11th and February 26th, 2018. Unfortunately, the forensic IT firm cannot determine which individuals’
+information was accessed within program folders, so we are notifying everyone whose information was accessible out of
+an abundance of caution and concern for our clients. 
 </details>
 ## Blue Beacon International
 <p class="hidden"></p>
@@ -2158,7 +2650,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On March 15, 2018, we discovered that our employee portal accounts had been accessed
+without authorization. We immediately disabled our employee portal site and launched an investigation
+led by an expert team of data security response professionals. The Federal Bureau of Investigation and the
+Internal Revenue Service/Criminal Investigation unit (IRS/CI) were also notified in order to provide additional
+security for your identity and to prevent fraudulent activity. 
 </details>
 ## Bay Area Air Quality Management District
 <p class="hidden"></p>
@@ -2166,7 +2662,12 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On January 10, 2018, unknown individuals accessed an Air District email account and gained access to
+messages sent to and from that account over a period of approximately two weeks. Three other accounts
+were accessed for less than one day each. A small number of the messages in those accounts contained
+personal information from current and former employees, several past and present members of the Board
+of Directors, Hearing Board and Advisory Council, as well as a smaller number of individuals who
+engaged in transactions with the Air District.
 </details>
 ## Bakersfield City School District
 <p class="hidden"></p>
@@ -2174,7 +2675,12 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On November 9, 2017, at or about 4:24 p.m., the Board Docs Agenda was posted to the District’s website. In this agenda packet
+under the Certificated Human Resources Report, a report of certificated extra-time was inadvertently attached. It was confirmed
+that the personal information contained in this attachment included that of approximately 1,250 certificated
+employees and/or substitutes who worked extra-time. The error was identified at approximately 7:45 p.m. and
+immediately removed. The total time this information remained online was approximately three hours and twenty-one
+minutes. 
 </details>
 ## Brinderson, L.P.
 <p class="hidden"></p>
@@ -2182,7 +2688,10 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On October 24, 2017, we discovered that an unauthorized individual may have gained access to one of our computer
+systems. Upon learning of this, we blocked the intruder’s access to our systems, shut down the affected systems, and
+immediately began an investigation to determine the scope of the incident. We also engaged a forensic security firm
+to assist in our investigation.
 </details>
 ## Best Buy Co., Inc.
 <p class="hidden"></p>
@@ -2190,7 +2699,12 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Based on an internal investigation, [24]7.ai found that malicious code was inserted in its software
+between September 26 and October 12, 2017. This code appears to have enabled an unauthorized
+party to access payment information of certain Best Buy customers who shopped on BestBuy.com
+between those dates. This issue did not affect Best Buy systems nor did it affect our physical Best
+Buy stores.
+
 </details>
 ## Bronson Nutritionals LLC
 <p class="hidden"></p>
@@ -2198,7 +2712,10 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+We recently identified malware on certain of our systems. Based on our investigation, the malware
+appears to have been placed on our systems around May 15, 2017. As a customer who made a purchase
+on our online store (www.bronsonvitamins.com) or by phone with our customer service center between
+May 15, 2017 and January 30, 2018, you may be affected by this matter.
 </details>
 ## BMO Harris Bank N.A.
 <p class="hidden"></p>
@@ -2206,7 +2723,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Bridger Insurance Services
 <p class="hidden"></p>
@@ -2214,7 +2731,10 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+ In September 2018, Bridger contacted its third-party IT provider to help resolve
+issues with its network. During this process, Bridger became aware of potential unusual access to
+one of its servers. Bridger launched an internal investigation to determine the nature of this
+potential access, and on September 14, 2018, Bridger shutdown the potentially affected server.
 </details>
 ## Bluestem Brands, Inc.
 <p class="hidden"></p>
@@ -2222,7 +2742,8 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+We believe that your personal information was accessed by cyber-attackers executing an attempt to obtain unauthorized access
+to your Fingerhut account between March 24, 2017 and April 7, 2017. 
 </details>
 ## Bombas LLC
 <p class="hidden"></p>
@@ -2230,14 +2751,20 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Last year, as part of a review of data security, we discovered that malicious code designed to scrape credit card numbers
+and other personal information may have been present as early as November 11, 2016 on our e-commerce platform. We
+launched a thorough investigation to determine whether personal information of our customers was potentially exposed.
+
 </details>
 <p class="hidden"></p>
 [September 27, 2014](https://oag.ca.gov/system/files/Bombas%20-%20Sample%20Notice_1.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+We first started selling Bombas socks online through our website in September 2013. We relied on larger, professional
+third party service providers for the design, development, hosting, maintenance, backend credit card processing, and
+security of our website. 
+
 </details>
 ## Bulletproof 360, Inc.
 <p class="hidden"></p>
@@ -2245,14 +2772,26 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On March 21, 2017, we informed you about an incident that potentially affected your
+payment card information used for online transactions on Bulletproof’s e-commerce website. Our March 21
+notification to you was based on a preliminary forensic report that indicated payment card information was at
+risk from October 26, 2016 through January 31, 2017. We received a final forensic report on August 1, 2017,
+that indicates that payment card information used on Bulletproof’s e-commerce website from October 26,
+2016 through May 30, 2017 may have been compromised. 
 </details>
 <p class="hidden"></p>
 [October 13, 2016](https://oag.ca.gov/system/files/BP3%20first-time%20recipient%20CA%20notification%20letter%20sample_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+ In mid-October 2017, Bulletproof identified unauthorized computer code that had been
+added to the software that operates the checkout page at www.bulletproof.com. When we discovered the
+unauthorized code, we immediately removed it and began an investigation. We have been working with
+leading computer security firms to examine our systems. We have also been working with law enforcement.
+Based on our investigation, we determined that the unauthorized code may have been capable of capturing
+information entered during the checkout process during the period from May 20, 2017 through October 13,
+2017 and October 15-19, 2017. You are receiving this notice because your payment card may have been
+entered on the checkout page during this time period.
 </details>
 ## Baxter Credit Union
 <p class="hidden"></p>
@@ -2260,7 +2799,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+We value and respect the privacy of your information, which is why we are writing to advise you
+of a recent incident that may have involved certain of your personal information. On October
+11, 2016, we learned that the email account of one of our employees had been compromised as
+part of an investigation we undertook after the email account was used to SPAM, or send an
+unsolicited email. 
 </details>
 ## BraceAbility
 <p class="hidden"></p>
@@ -2268,7 +2811,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDB
 </details>
 ## BEYOND YOGA
 <p class="hidden"></p>
@@ -2276,7 +2819,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Broadview Mortgage
 <p class="hidden"></p>
@@ -2284,7 +2827,9 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On July 28, 2016, we were advised by our third-party information technology provider that it had identified two
+unauthorized administrative accounts on a server in one of our branch offices. We immediately began an investigation
+and promptly disabled the unauthorized accounts. 
 </details>
 ## Brian Goldman, MD A Medical Corporation
 <p class="hidden"></p>
@@ -2292,7 +2837,10 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On July 19, 2016 two laptop computers belonging to the medical offices of Dr. Brian HalevieGoldman were stolen. The laptops were password protected, secured in a carrying case and
+locked inside a vehicle when the theft occurred. It is not known whether the information
+contained on the laptops was or will be accessed by the thief. It is possible that the laptops
+themselves and not the information they contained were the target of the thief.
 </details>
 ## Banner Health
 <p class="hidden"></p>
@@ -2300,7 +2848,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On July 13, 2016, we discovered that cyber attackers may have gained unauthorized access to information stored
+on a limited number of Banner Health computer servers. We immediately launched an investigation, hired a leading
+forensics firm, took steps to block the cyber attackers, and contacted law enforcement. The investigation revealed
+that the attack was initiated on June 17, 2016.
+
 </details>
 ## Berkeley Endocrine Clinic
 <p class="hidden"></p>
@@ -2308,7 +2860,10 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+On April 22, 2016, my office was subject to a spam email which we believe went to many patients. Though no patient
+information was affected by that correspondence, we sent a notification email to all individuals on our email list,
+informing them of the spam. Inadvertently, the recipient list for the notification email on April 22, 2016 was not hidden. 
+
 </details>
 ## Bon Secours Health System, Inc.
 <p class="hidden"></p>
@@ -2316,7 +2871,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 ## Berkeley Unified School District
 <p class="hidden"></p>
@@ -2324,7 +2879,16 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+The Bay Area News Group, a publisher of multiple Bay Area newspapers, annually conducts surveys
+of all public agencies in the Bay Area regarding employee salary and related payroll information. They
+are entitled to this information pursuant to the California Public Records Act. The District compiled
+the requested information and transmitted it in an electronic file last week to the reporter who was
+coordinating the collection of the data. Unfortunately, the District inadvertently sent an electronic file
+that contained social security numbers. It did not include any other confidential information such as
+addresses, telephone numbers or birthdates. The reporter immediately contacted us about the
+transmission of confidential data. We then immediately responded by requesting that the reporter
+delete the files, and we transmitted another version of the data requested that did not include
+confidential data.
 </details>
 ## Brooks Brothers
 <p class="hidden"></p>
@@ -2332,7 +2896,11 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Brooks Brothers was recently alerted to a potential security incident. Based upon an extensive forensic investigation, it appears that
+an unauthorized individual was able to gain access to and install malicious software designed to capture payment card information on
+some of our payment processing systems at our retail and outlet locations. To find out if your Brooks Brothers or Brooks Brothers
+Outlet location was impacted, please visit www.brooksbrothers.com/incident-locationsfor a list of affected locations. Please note that
+this incident did not affect any purchases made on the BrooksBrothers.com website.
 </details>
 ## Bristol Farms, Inc.
 <p class="hidden"></p>
@@ -2340,7 +2908,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDB
 </details>
 ## Billy Casper Golf
 <p class="hidden"></p>
@@ -2348,7 +2916,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDB
 </details>
 ## BMP/Pennant Holdings, LLC
 <p class="hidden"></p>
@@ -2356,7 +2924,13 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Wendy’s recently reported additional malicious cyber activity involving some franchisee-operated
+restaurants. The Company believes this criminal cyberattack resulted from a service provider’s remote
+access credentials being compromised, allowing access – and the ability to deploy malware – to some
+franchisees’ POS systems. Soon after detecting the malware, Wendy’s identified a method of disabling
+it and thereafter has disabled the malware in all franchisee restaurants where it has been discovered. The
+investigation has confirmed that criminals used malware believed to have been effectively deployed on
+some Wendy’s franchisee systems starting in late fall 2015.
 </details>
 ## Baja Bound Insurance Services, Inc.
 <p class="hidden"></p>
@@ -2364,7 +2938,7 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDB
 </details>
 ## Blucora, Inc.
 <p class="hidden"></p>
@@ -2372,7 +2946,10 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+Fighting tax-related identity theft is a high priority for TaxAct. We have been working diligently with the
+IRS, state regulators and other tax software providers to identify new security measures we can use to
+deter such fraudulent activity. As part of that ongoing process, we recently discovered suspicious activity
+related to your TaxAct account.
 </details>
 ## Blue Shield of California
 <p class="hidden"></p>
@@ -2380,19 +2957,19 @@ TBD
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [December 20, 2013](https://oag.ca.gov/system/files/98368-PROOF2_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
 <p class="hidden"></p>
 [February 28, 2013](https://oag.ca.gov/system/files/Template%20Notification%20Letter%20070314_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBD
+TBDU
 </details>
