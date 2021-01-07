@@ -1,0 +1,2704 @@
+## Nevro Corporation
+<p class="hidden"></p>
+[November 11, 2017](https://oag.ca.gov/system/files/Notification%20Letter%20-%20%20Nevro_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Nevro was recently the victim of a criminal break-in at our corporate headquarters in which
+several laptop computers were stolen. Nearby businesses were also targeted by the same perpetrators, who stole laptops
+from those businesses as well. Nevro has been unable to recover the stolen laptops on which limited information relating
+to you has been stored.
+</details>
+## National Capital Poison Center (“NCPC”)
+<p class="hidden"></p>
+[October 21, 2017](https://oag.ca.gov/system/files/NCPC%20Exhibit%201%20to%20CA%20Regulator%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+? In October 2017, NCPC discovered it had experienced a ransomware infection.
+Upon discovery of this incident, NCPC immediately launched an investigation, with the assistance
+of a third-party forensic investigator, to determine the nature and scope of the event and ensure the
+security of their systems. While this investigation is ongoing, on November 27, 2017, NCPC
+determined that unauthorized access to a database server occurred on October 21, 2017, and that
+unauthorized access to the data stored on that server cannot be ruled out. The possibly affected
+database contains information provided during calls made to or from the center between January
+1997 and October 21, 2017. 
+</details>
+## Northwestern Mutual Life Insurance Company
+<p class="hidden"></p>
+[August 31, 2017](https://oag.ca.gov/system/files/%20Sample%20Client%20Notification%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+ I was the victim of a computer scam. During the course of a telephone call, fraudsters used social
+engineering methods to gain remote access to my desktop computer on August 31, 2017, and several times thereafter. I
+have notified law enforcement, and we are working with the Northwestern Mutual Home Office to investigate and
+address this situation.
+
+</details>
+## National Stores, Inc.
+<p class="hidden"></p>
+[July 16, 2017](https://oag.ca.gov/system/files/National%20Stores-Consumer%20Notification%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On December 22, 2017, National Stores received an alert that a data security incident
+may have affected customer payment card information. We immediately launched an investigation and
+engaged cybersecurity experts to assist with the investigation. We also contacted the FBI and payment card
+brands in order to prevent fraudulent activity on payment cards that may have been affected. 
+</details>
+## Northern Humboldt Union High School District
+<p class="hidden"></p>
+[April 17, 2017](https://oag.ca.gov/system/files/Northern%20Humboldt%20notice%20only%20SecurityBreach2017_0_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDI
+</details>
+## NEO Tech
+<p class="hidden"></p>
+[January 27, 2017](https://oag.ca.gov/system/files/NEO%20Tech%20Amended%20Notice%20of%20Data%20Breach%20-%20California_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On Friday, January 27, 2017, NEO Tech was the victim of an email “phishing” incident
+that resulted in the release of employee W-2 wage and tax data to an unauthorized email
+recipient outside the company. This was an isolated incident that did not involve an intrusion
+into our computer systems or network. 
+</details>
+## Nakawatase & Kaminsky, CPAs, LLP
+<p class="hidden"></p>
+[October 31, 2016](https://oag.ca.gov/system/files/ACL1000_L_PCIDFSSTAGE_109_20170131_001_archive_v2_IDX_001_PDF_001_8002010000_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## National Wholesale Incorporated
+<p class="hidden"></p>
+[September 01, 2016](https://oag.ca.gov/system/files/CA%20Consumer%20Notice_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Napa Valley Dentistry
+<p class="hidden"></p>
+[August 11, 2016](https://oag.ca.gov/system/files/Napa%20Valley%20Dentistry%20NOTICE%20ONLY_0_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+ Someone broke into our locked storage unit, which was within a gated storage facility, and stole
+a password-protected server. Upon discovery of the theft, we promptly notified the Napa Police Department and will
+provide whatever cooperation is necessary to identify the perpetrator(s) and hold them accountable. On September
+8, 2016, we confirmed that your personal information may have been on the server. In December 2012, Dr. Justin
+Newberry, DDS, purchased Napa Valley Dentistry, including this server, from Dr. C. Michael Quinn, DDS. The server
+may therefore contain personal information of Dr. Quinn’s former patients who may not currently have a relationship
+with Napa Valley Dentistry. While there is no indication that your personal information was, in fact, accessed without
+authorization, we are notifying you out of an abundance of caution and offering you identity protection services.
+</details>
+## Noble House Hotels & Resorts
+<p class="hidden"></p>
+[August 10, 2016](https://oag.ca.gov/system/files/Noble%20House%20-%20Consumer%20Notification%20Letter%20%28Non-Massachusetts%20residents%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The Sabre Hospitality Solutions SynXis Central Reservations system (Sabre) facilitates the booking
+of hotel reservations made by consumers through hotels, online travel agencies, and similar booking services. These
+services include reservations for Noble House Hotels & Resorts (Noble House). On May 2, 2017 Sabre informed us that
+it retained “expert third parties” to investigate a data security incident that may have affected personal information you
+provided in making reservations at a Noble House property. Sabre informed us that upon discovering the incident, it
+engaged a digital forensics firm to conduct an investigation. On June 6, 2017, Sabre informed us that certain reservation
+information may have been accessed between August 10, 2016 and March 9, 2017 without authorization. 
+</details>
+<p class="hidden"></p>
+[April 25, 2016](https://oag.ca.gov/system/files/Noble%20house%20%28all%20properties%29%20individual%20notification%20template%20-%20CA%20FINAL_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We began an investigation after we were notified by the Secret Service about
+possible fraudulent activity on the payment card system at one of our properties. We engaged a
+computer security firm to examine the payment systems at all of the properties we manage for
+any signs of an issue. Through our investigation, we learned that malware may have been
+installed on payment processing systems that potentially affected cards swiped at the following
+hotels, restaurants, and bars during the periods identified:
+</details>
+## Newkirk Products, Inc.
+<p class="hidden"></p>
+[May 21, 2016](https://oag.ca.gov/system/files/CAexampleletter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDI
+</details>
+## Northrop Grumman Systems Corporation
+<p class="hidden"></p>
+[April 18, 2016](https://oag.ca.gov/system/files/Northrop%20Grumman%20Individual%20Notification%20Letter_64772036_1_0.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDI
+</details>
+## Noodles & Company
+<p class="hidden"></p>
+[January 31, 2016](https://oag.ca.gov/system/files/Noodles%20Press%20Release%20-%2006%2028%202016%20Final-Final%20%282%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On May 17, 2016, Noodles & Company began investigating unusual activity
+its credit card processor reported to the Company. Noodles & Company immediately began
+working with third-party forensic experts to investigate these reports and to identify any signs of
+compromise on its computer systems. On June 2, 2016, Noodles & Company discovered
+suspicious activity on its computer systems that indicated a potential compromise of guests’
+debit and credit card data for some debit and credit cards used at certain Noodles & Company
+locations.
+</details>
+## Neiman Marcus Group LTD LLC
+<p class="hidden"></p>
+[December 26, 2015](https://oag.ca.gov/system/files/Neiman%20Marcus%20notice%20only%20_1-29-2016_0_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Nationstar Mortgage LLC
+<p class="hidden"></p>
+[July 27, 2015](https://oag.ca.gov/system/files/Greenlight%20Incident_CA_%20Notification081015_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## North East Medical Services
+<p class="hidden"></p>
+[July 11, 2015](https://oag.ca.gov/system/files/NEMS%20Letter_AllClearID_LONG_final_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Native Canada Footwear
+<p class="hidden"></p>
+[April 28, 2015](https://oag.ca.gov/system/files/5789_Native%20Footwear_Notice_US_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Native Shoes became aware of a potential vulnerability in the security of our website in late June 2017 and immediately
+launched an investigation. That investigation has confirmed that malware may have infected the Native Shoes website as
+early as April 2015. As a result, we are informing you that it is possible that your payment information was compromised
+if you bought shoes from nativeshoes.com using Visa or Mastercard between April 28, 2015, and June 23, 2017. If that
+payment information was indeed stolen, your information may be affected.
+</details>
+## NLU Products, LLC
+<p class="hidden"></p>
+[April 20, 2015](https://oag.ca.gov/system/files/Customer%20Notification%20California_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently discovered that we have been the victim of a data security incident that began in April 2015,
+during which personal, private and unencrypted credit/debit card information may have been exposed to an
+outside party and compromised.
+</details>
+## New Horizons Computer Learning Centers, Inc.
+<p class="hidden"></p>
+[April 04, 2015](https://oag.ca.gov/system/files/New%20Horizons%20notice%20only%207_10_15_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDI
+</details>
+## Nite Ize, Inc.
+<p class="hidden"></p>
+[March 03, 2015](https://oag.ca.gov/system/files/Notification%20Letter%20Credit%20Cards%20and%20Database%20%28US%20incl%20PR%20Territories%20%29%20_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Noble House Hotel and Resorts
+<p class="hidden"></p>
+[January 28, 2015](https://oag.ca.gov/system/files/General%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Noble House Hotels and Resorts
+<p class="hidden"></p>
+[December 29, 2014](https://oag.ca.gov/system/files/General%20Notice_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Nvidia Corporation
+<p class="hidden"></p>
+[October 08, 2014](https://oag.ca.gov/system/files/Notice%2C%2012-17-2014_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Northern Trust
+<p class="hidden"></p>
+[May 17, 2014](https://oag.ca.gov/system/files/WASHINGTON_DC-%2379225-v1-NT_-_Attachment_A_-_General_Notification_Letter_0.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## NCO Financial Systems, Inc.
+<p class="hidden"></p>
+[March 29, 2014](https://oag.ca.gov/system/files/CA_SAMPLE-0-D_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## NECA/IBEW Family Medical Care Plan
+<p class="hidden"></p>
+[December 28, 2012](https://oag.ca.gov/system/files/Sample%20Notice%20to%20Participants_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## North Los Angeles County Regional Center
+<p class="hidden"></p>
+[November 10, 2012](https://oag.ca.gov/system/files/NLACRC%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Nationwide Mutual Insurance Company
+<p class="hidden"></p>
+[October 03, 2012](https://oag.ca.gov/system/files/PE%2320121003-127_letter%20_Final%20Template__0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Nordstrom fsb
+<p class="hidden"></p>
+[June 07, 2012](https://oag.ca.gov/system/files/Notification%20Sample%20%28Nordstrom%20fsb%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Nebraska State College System
+<p class="hidden"></p>
+[May 23, 2012](https://oag.ca.gov/system/files/NSCS%20Notice%20to%20California%20Residents_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDI
+</details>
+## New York State Electric & Gas (NYSEG) and Rochester Gas and Electric (RG&E) (subsidiaries of Iberdrola USA)
+<p class="hidden"></p>
+[January 05, 2012](https://oag.ca.gov/system/files/CA%20customer%20letter.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Next Glass, Inc.
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/2020%200717%20Next%20Glass.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently became aware of a breach of BeerAdvocate user data that occurred between 2012 and 2013.
+After a thorough investigation from an independent third party cyber security firm, it was confirmed that
+BeerAdvocate user login credentials (email address, BeerAdvocate forum password) were lost and
+aggregated along with breaches of other websites into a breach dataset that became known as
+CouponMom 2014. We are notifying you as your BeerAdvocate forum login credentials may have been
+affected at that time. Importantly, BeerAdvocate did not possess or lose any financial information or
+information that is likely to lead to identity theft.
+</details>
+## Nicopure Labs, LLC
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/NicoPure%20%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We have received reports from several customers of fraudulent charges appearing on their payment cards shortly
+after they were used to make a purchase on our website. We have proactively initiated an investigation and engaged
+a cyber security firm to examine our website.
+</details>
+## NSC Technologies, LLC
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/NSC%20Data%20Breach_CA%20Letter_030717_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On March 2, 2017 an on-line hacker posing as NSC’s CEO emailed the company’s payroll
+department and directed that copies of employee W-2 forms be sent to him. Believing the
+request to come from the CEO, the payroll department forwarded PDF copies of a number
+of employee IRS W-2 forms to the requestor, who was using a false email address that
+appeared to belong to NSC’s CEO. Although this “spoofing” episode was identified for
+what it was literally moments after the W-2 forms were sent to the hacker, by that point the
+forms themselves had already been shared with him or her. At this point we have no
+indication that any of the information contained on the W-2 forms that the payroll
+department was tricked into sharing with the hacker has been misused in any way, but the
+potential for such misuse certainly exists.
+</details>
+## Novation Settlement Solutions
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Novation%20Ad%20CA%20r2prf_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+In late August, Novation learned that some of its confidential information may be in the possession of an unidentified
+third-party. Novation promptly initiated a fact-gathering process and, subsequently, on September 8, 2016, determined
+that an unidentified third-party was likely in possession of a set of Novation files including applications and contracts.
+Novation has no evidence that any of your information has been misused. Novation is notifying you of this event so that
+you can, if you choose, take steps to protect against the potential misuse of your information.
+
+</details>
+## NextBus, Inc.
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/NextBus_ONLY%20Notification_Letter_CA_AG_0%20%281%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## National Credit Adjusters, LLC
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/NCA%20Sample%202014-6-4_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Neiman Marcus Group
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/neiman%20notice%20only%20CA%20AG%20PDF_0_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## National Processing Company, Inc.
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Sample%20CA%20notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+# O
+## One Workplace Ferrari, LLC dba One Workplace
+<p class="hidden"></p>
+[August 14, 2020](https://oag.ca.gov/system/files/One%20Workplace%20employee%20notification%20letter%28FINAL%29.pdf) | Ransomware
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On August 14, 2020, One Workplace was alerted to suspicious activity on our computer network. We hired cybersecurity experts and a computer forensic investigator to help us investigate the incident, ensure the safety of our environment, and confirm whether anyone’s personal information was impacted. The investigation confirmed that we were the victim of a ransomware attack, and an unauthorized individual had gained access to our network. Based on the investigation, the attacker viewed and removed some data stored in the system. On September 17, 2020, we confirmed that the data viewed or taken by the attacker included employees’ personal information
+</details>
+## Osmose Utilities Services, Inc.
+<p class="hidden"></p>
+[July 6, 2020](https://oag.ca.gov/system/files/Osmose%20-%20California%20Notification.pdf) | Ransomware
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 13, 2020, Osmose suffered a cyber attack against our computer systems, whereby some of our systems were encrypted. We immediately secured the affected systems, launched an investigation to determine the nature and scope of the incident, and a specialized cybersecurity firm was engaged to assist. We restored our computer systems to fully operational.
+</details>
+## Optima Family Services, Inc.
+<p class="hidden"></p>
+[April 21, 2020](https://oag.ca.gov/system/files/TEMPLATE%20CodeMetro%20HIPAA%20Individual%20Notice_2_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On April 21, 2020, CodeMetro systems suffered a ransomware attack, which was detected within
+hours of its deployment. Upon discovery, we took immediate steps to contain the threat and
+engaged a third-party forensic firm to investigate the incident and assist with remediation efforts.
+We also notified federal law enforcement authorities of the incident. 
+</details>
+## Orchard Medical Consulting
+<p class="hidden"></p>
+[January 16, 2020](https://oag.ca.gov/system/files/CA%20Notice_9.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On January 30, 2020, we discovered that an unauthorized individual potentially gained access to a single employee’s
+email account. Upon discovery of the incident, our information technology department took swift action and prevented
+any further unauthorized access.
+</details>
+## OTR Leasing, LLC
+<p class="hidden"></p>
+[January 14, 2020](https://oag.ca.gov/system/files/OTR%20-%20California%20Notification.pdf) | Email Compromise
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently learned that an unauthorized person gained access to a limited number of employee email accounts with personal information between January 14, 2020 and January 20, 2020. We immediately secured the accounts and a leading cyber security firm was hired to assist with the investigation.
+</details>
+## Overlake Medical Center & Clinics
+<p class="hidden"></p>
+[December 06, 2019](https://oag.ca.gov/system/files/Overlake%20Hospital%20Notice.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Oklahoma Department of Securities
+<p class="hidden"></p>
+[November 29, 2018](https://oag.ca.gov/system/files/ODS%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA%20%28Notice%20Only%29.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDB
+</details>
+## OXO International, Ltd.
+<p class="hidden"></p>
+[July 01, 2018](https://oag.ca.gov/system/files/OXO%20International%202%20Ad%20r2fin_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On December 17, 2018, OXO confirmed through our forensic investigators that the security of certain personal information
+that you entered into our e-commerce website (https://www.oxo.com) may have been compromised. We currently believe
+that information entered in the customer order form between June 9, 2017 – November 28, 2017, June 8, 2018 – June 9,
+2018, July 20, 2018 – October 16, 2018 may have been compromised. While we believe the attempt to compromise your
+payment information may have been ineffective, we are notifying you out of an abundance of caution. 
+
+</details>
+## OXO
+<p class="hidden"></p>
+[July 01, 2018](https://oag.ca.gov/system/files/OXO%20International%20Ad%20r3prf_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On October 1, 2018, OXO learned that the security of certain personal information entered into our e-commerce
+website (https://www.oxo.com) may have been compromised. The incident involved an outside source inserting
+unauthorized code on OXO’s website on or around July 1, 2018 that collected information entered into the customer order
+pages on our website.
+</details>
+## OnCourse Learning Corporation (“OCL”), a predecessor-in-interest to Relias LLC (“Relias”)
+<p class="hidden"></p>
+[June 11, 2018](https://oag.ca.gov/system/files/ACID_PRINTERPROOFS_20190305_relias501_1%20%282%29%20%5B48%5D_0.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Specifically, we have learned that an unauthorized third party may have obtained access to the personal
+information of our customers. The incident was limited to the time period between approximately June 11, 2018
+and February 4, 2019.
+</details>
+## Orbitz
+<p class="hidden"></p>
+[October 01, 2017](https://oag.ca.gov/system/files/Orbitz%20Sample%20Individual%20Notification_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+While conducting an investigation of a legacy Orbitz travel booking platform (the “platform”), we
+determined on March 1, 2018 that there was evidence suggesting that, between October 1, 2017 and
+December 22, 2017, an attacker may have accessed personal information, stored on this consumer and
+business partner platform, that was submitted for certain purchases made between January 1, 2016 and
+June 22, 2016. We took immediate steps to investigate the incident and enhance security and monitoring
+of the affected platform, and made every effort to remediate the issue, including taking swift action to
+eliminate and prevent unauthorized access to the platform.
+
+</details>
+## Occidental College
+<p class="hidden"></p>
+[June 01, 2017](https://oag.ca.gov/system/files/20170619%20Occidental%20College%20Sample%20Notice-CA_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The college has reason to believe that on or around June 1, 2017, an unauthorized person may
+have gained access to a computer file containing a limited amount of personally identifiable
+information. The college has conducted a thorough investigation into what happened. 
+</details>
+## OSIsoft, LLC
+<p class="hidden"></p>
+[March 23, 2017](https://oag.ca.gov/system/files/Memorandum-on-Credential-Theft-Incident-CA_0_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+OSIsoft is experiencing a security incident that may affect employees,
+interns, consultants and contractors. Stolen credentials were used to
+remotely access OSIsoft computers.
+</details>
+## Operating Engineers Local Union No. 3
+<p class="hidden"></p>
+[February 09, 2017](https://oag.ca.gov/system/files/OE3%20Notice%20of%20Data%20Breach%20Letter%20from%20RB_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDI
+</details>
+## Orange County Global Medical Center
+<p class="hidden"></p>
+[February 08, 2017](https://oag.ca.gov/system/files/Sample%20Notice_3.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+In connection with preparing research regarding labor and delivery services provided to patients
+in 2016, on February 8, 2017, we discovered that an employee inadvertently emailed an Orange County Global
+Medical Center statistical report. The error was discovered that same day, and we reached out to the recipient and
+instructed him to permanently delete the information. 
+</details>
+## Ondracek & Company
+<p class="hidden"></p>
+[November 21, 2016](https://oag.ca.gov/system/files/Ondracek%20Version%201_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On February 6, 2017, we learned that some clients had received notification letters from the IRS telling
+them that someone had filed or attempted to file a 2016 tax return. Knowing that neither they nor we filed the
+returns, we immediately began an investigation into the matter (specifically, whether the breach was from a third
+party or our network). That same day we contacted our IT consultant, immediately changed all system passwords
+and user information, and started running scans and reviewing our systems to identify any malicious malware on
+our network. None was found. We further contacted the IRS and FTB, and hired a specialized forensic IT firm for
+additional investigation.
+</details>
+## Oilandgasjobsearch.com Limited
+<p class="hidden"></p>
+[September 03, 2016](https://oag.ca.gov/system/files/OGJS%20-%20Security%20Breach%20Notification%20Sample_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Opes Advisors
+<p class="hidden"></p>
+[May 26, 2016](https://oag.ca.gov/system/files/Adult%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On or about May 26, 2016, email login credentials were compromised allowing an outside party to gain access to
+one specific account. Although we are still investigating the incident, the email may have contained your private
+information so we wanted to let you know about this incident right away. 
+</details>
+## OptumRx
+<p class="hidden"></p>
+[March 16, 2016](https://oag.ca.gov/system/files/individual%20notification%20letter%20optumrx%20vendor%20laptop%20matter%20-%20final_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Omni Hotels & Resorts
+<p class="hidden"></p>
+[December 23, 2015](https://oag.ca.gov/system/files/NoticeofDataBreach070816_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDB
+</details>
+## Orange County Employees Association
+<p class="hidden"></p>
+[June 05, 2015](https://oag.ca.gov/system/files/AG%20Sample%20Notice%20073115_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## orlantino dyoco, M.D.
+<p class="hidden"></p>
+[June 03, 2015](https://oag.ca.gov/system/files/dyoco%20notification_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## OneStopParking
+<p class="hidden"></p>
+[August 01, 2014](https://oag.ca.gov/system/files/OSP%20Notice%20Letter_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On December 25, 2014 we learned of a potential exposure of personal information provided to
+OneStopParking. We immediately began an internal investigation into this issue and were able to remediate the
+issue by December 31, 2014. Independent forensic investigators were retained to assist with this investigation. Our
+investigation has determined that customers who used our website between August 1, 2014 and December 31, 2014
+may have been impacted by this incident. Unfortunately we are not able to determine which specific individuals
+may have been affected by this incident. While we cannot determine exactly what information may have been
+compromised, the information potentially compromised includes the customer’s name, address, credit card number,
+credit card expiration date and CVV code.
+</details>
+## OppenheimerFunds
+<p class="hidden"></p>
+[April 24, 2014](https://oag.ca.gov/system/files/CA%20Security%20Breach%20Notification%20Sample_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## OANDA Corporation
+<p class="hidden"></p>
+[March 03, 2014](https://oag.ca.gov/system/files/2014-03-03%20breach_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## OnCore Manufacturing Services
+<p class="hidden"></p>
+[July 05, 2013](https://oag.ca.gov/system/files/OnCore%20Notification%20Letter%20to%20Employees%20Final_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Ouidad
+<p class="hidden"></p>
+[June 30, 2013](https://oag.ca.gov/system/files/Customer%20Notification_2.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## OCS America, Inc.
+<p class="hidden"></p>
+[March 04, 2013](https://oag.ca.gov/system/files/CA%20OCS%20Employee%20Breach%20Notice%20Letter%20%2811%20March%202013%29%20v1_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Outdoor Network LLC
+<p class="hidden"></p>
+[December 14, 2012](https://oag.ca.gov/system/files/Outdoor%20Network%20Notification%20V1%20D_data%20audit%20proof_090613_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Opening Ceremony Online LLC
+<p class="hidden"></p>
+[February 14, 2012](https://oag.ca.gov/system/files/Opening%20Ceremony%20-%20Notice%20re%20Security%20Breach%20to%20Customer.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Oak River Insurance Company
+<p class="hidden"></p>
+[October 01, 2011](https://oag.ca.gov/system/files/Sample%20Letter_2.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## OneWest Bank, FSB
+<p class="hidden"></p>
+[January 01, 2011](https://oag.ca.gov/system/files/Network%20Intrusion_Breach%20Notification%20on_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Outpost Vineyards
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Outpost%20Breach_Draft%20Notification%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+# P
+## Promo.com Ltd.
+<p class="hidden"></p>
+[June 22, 2020](https://oag.ca.gov/system/files/Notices%20of%20Data%20Breach%285576039.1%29.pdf) | IT Provider
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 21, 2020, our team became aware that a data security vulnerability on a thirdparty service which affected many companies had caused a breach affecting certain non-finance related Slidely and Promo user data. We immediately launched an internal investigation to identify what had occurred and to take all necessary steps to protect our customers.
+</details>
+## PULAU Corporation
+<p class="hidden"></p>
+[June 11, 2020](https://oag.ca.gov/system/files/PULAU%20-%20Individual%20Notification%20Letter%20-%20General%20Population.pdf) | Unauthorized Access
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We are writing to notify you of a data security issue involving certain of your personal information. We recently learned that an unauthorized party accessed some systems on our network between approximately June 11 and June 29, 2020. Promptly after learning of the matter, we began to investigate its nature and scope and secure our systems. We engaged leading security experts to assist with our investigation and we coordinated with law enforcement authorities on the matter. Based on our investigation, we believe the unauthorized party acquired certain employment-related records stored on the affected systems. The affected records contained certain personal information, such as name, contact information, date of birth, government-issued ID (such as Social Security, passport, military ID, tax ID and/or driver’s license numbers), financial account information (such as bank account and/or payment card information), online account usernames and passwords, and/or health-related information (including health insurance information).  Importantly, not all of this information was affected for each impacted individual.
+</details>
+## Pivot Technology Solutions, Inc.
+<p class="hidden"></p>
+[June 9, 2020](https://oag.ca.gov/system/files/Notification%20Letter.PDF) | Ransomware
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On June 12, 2020, the Companies were the victim of a cybersecurity attack by an unauthorized third party, where the unauthorized party attempted to encrypt parts of the Companies’ technology infrastructure (the “Incident”). On July 1, 2020, the Companies discovered that the unauthorized third party had gained access to and exfiltrated limited personal information of US employees and consultants, and immediately undertook an investigation to determine the scope of the information affected.
+</details>
+## Polycystic Kidney Disease Foundation
+<p class="hidden"></p>
+[May 1, 2020](https://oag.ca.gov/system/files/PKD%20Foundation%20Data%20Security%20Breach%20Notice%20Letter.pdf) | Ransomware
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 16, 2020, we were contacted by Blackbaud, one of the world’s largest providers of customer relationship management systems for not-for-profit organizations and the higher education sector. Company representatives informed us that a Blackbaud service provider had been the victim of a ransomware attack that culminated in May 2020. The cybercriminal was unsuccessful in blocking access to the database involved in the attack, however, the cybercriminal was able to remove a copy of a subset of data from several of Blackbaud’s clients including data of Polycystic Kidney Disease Foundation.
+</details>
+## Pacific Huntington Hotel Corporation
+<p class="hidden"></p>
+[April 10, 2020](https://oag.ca.gov/system/files/EXPERIAN_F6968_Revised_TLLAX%20-%20Cyber%20-%20Template%20notification%20letter%20%28DRAFT%2020200804%29_SAS_PROOF.pdf) | Phishing
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On 28 April 2020, The Langham, Huntington, Pasadena confirmed that through a phishing attack, a third party gained unauthorised access to the mailbox of an employee of the hotel on April 10, 2020 and had access to the mailbox for approximately two weeks.
+</details>
+## Patriot Growth Insurance Services, LLC
+<p class="hidden"></p>
+[March 10, 2020](https://oag.ca.gov/system/files/Patriot%20CBM%20Breach%20Letter.pdf) | Email Compromise
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On March 11, 2020, CBM discovered suspicious activity related to a CBM employee’s email account. We immediately took steps to secure the employee’s email account and launched an investigation which included working with a third-party forensic investigator to determine the nature and scope of the activity. On March 21, 2020, the investigation determined that a CBM employee email account had their account credentials being used by an unknown actor(s) to gain unauthorized access to the account on separate occasions on March 10, 2020 and March 11, 2020. During this limited timeframe, the unauthorized actor may have had access to certain emails and attachments within the account.
+</details>
+<p class="hidden"></p>
+[December 23, 2019](https://oag.ca.gov/system/files/PGIS%20Breach%20Letter.pdf) | Email Compromise
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On January 7, 2020 VBS discovered suspicious activity in a VBS employee’s email account. We immediately took steps to secure the employee’s email account and launched an investigation which included working with a third-party forensic investigator to determine the nature and scope of the activity. On January 17, 2020, the investigation determined that two (2) VBS employee email accounts had their account credentials being used by an unknown actor(s) to gain unauthorized access to each account. The investigation confirmed the unauthorized actor(s) gained access on separate occasions to one account between December 23, 2019 and January 13, 2020 and the second account between January 6, 2020 and January 7, 2020. During this limited timeframe, the unauthorized actor may have had access to certain emails and attachments within the accounts.
+</details>
+## PCL Constructors, Inc.
+<p class="hidden"></p>
+[February 18, 2020](https://oag.ca.gov/system/files/PCL%20Constructors%20Ad%20Employee%201yr%20r5prf.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We were recently informed by our third-party vendor that assists with payroll operations that an unauthorized actor
+accessed the vendor’s database that stores the personal information of current and former PCL employees. As a result,
+the unauthorized user may have been able to access the database that contained your personal information. However,
+we have no direct evidence that your personal information was misused.
+
+</details>
+## PupBox, c/o Petco Animal Supplies Stores, Inc.
+<p class="hidden"></p>
+[February 11, 2020](https://oag.ca.gov/system/files/Experian_F8590_L02_PupBox_CA%20Template.docx_SAS_PROOF_Rev1.pdf) | Website Compromise
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We are writing to inform you that on September 2, 2020, PupBox (a business unit of Petco Animal Supplies Stores, Inc.) became aware of a security incident which affected the PupBox website and may have resulted in a breach of your personal information. On August 7, 2020, we received a notification that fraudulent activities may have occurred on credit cards that were used on the PupBox website between February 26, 2020 and July 21, 2020. We promptly launched an investigation with the assistance of a leading cybersecurity firm, which revealed an unauthorized plugin on the PupBox website. The plugin allowed personal information to be captured and shared with a third-party server between February 11, 2020 and August 9, 2020.
+</details>
+## Prostate Cancer Foundation
+<p class="hidden"></p>
+[February 7, 2020](https://oag.ca.gov/system/files/Letter%20re%20Data%20Breach-Package%20A.pdf) | Ransomware
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We were recently notified by one of our third-party service providers of a security incident. At this time, we understand they discovered and stopped a ransomware attack. After discovering the attack, the service provider’s Cyber Security team—together with independent forensics experts and law enforcement— successfully prevented the cybercriminal from blocking their system access and fully encrypting files; and ultimately expelled them from their system. Prior to locking the cybercriminal out, the cybercriminal removed a copy of our backup file containing your personal information. This occurred at some point beginning on February 7, 2020 and could have been in there intermittently until May 20, 2020.
+</details>
+## Principal Life Insurance Company
+<p class="hidden"></p>
+[December 12, 2019](https://oag.ca.gov/system/files/Participant%20Notification%20Letter%20-%201%20year.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDI
+</details>
+## Prime Communications
+<p class="hidden"></p>
+[December 11, 2019](https://oag.ca.gov/system/files/Prime%20Communications.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On April 27, 2020, we became aware of a situation in which a former Prime employee inadvertently
+received an email with a file containing information related to other Prime employees. Upon learning of this incident, we
+immediately began investigating to understand what happened and the scope of potentially affected information. Our
+investigation determined that the file included your information and was inadvertently sent via email to one (1) former
+Prime employee on December 11, 2019. We have no evidence indicating that your information has been released or
+otherwise disclosed beyond this former employee or to the general public.
+</details>
+## Pacific Guardian Life Insurance Co. Ltd.
+<p class="hidden"></p>
+[November 04, 2019](https://oag.ca.gov/system/files/Pacific%20Guardian%20Life%20-%20California%20Attorney%20General%20Notification.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## PKF LLP
+<p class="hidden"></p>
+[August 17, 2019](https://oag.ca.gov/system/files/PKF%20LLP%20CA%20Template.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+PKF, LLP (“we,” “us,” or “our”) is a CPA firm that provides auditing services to
+employee benefits plans. The protection and privacy of the personal information
+entrusted to us is one of our highest priorities. Because of this, we are writing to
+make you aware of a recent data security incident.
+</details>
+## Ply Gem Residential Solutions
+<p class="hidden"></p>
+[July 26, 2019](https://oag.ca.gov/system/files/Ply%20Gem%20-%20California%20Notification.pdf) | Email Compromise
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently concluded an investigation and analysis of a data security incident involving unauthorized access to some employees’ email accounts. Upon learning of the incident, we immediately secured the accounts, launched an investigation, and engaged a cyber security firm to assist. Our investigation determined that an unauthorized person obtained access to the email accounts at various times between July 26, 2019 and November 18, 2019.
+</details>
+## Pacific Press Publishing Association
+<p class="hidden"></p>
+[June 22, 2019](https://oag.ca.gov/system/files/Pacific_Press_Breach%2004%2024%202020%20v2%5B2%5D.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## PIH Health
+<p class="hidden"></p>
+[June 11, 2019](https://oag.ca.gov/system/files/PIH%20Health%20-%20Sample%20Notification%20Letter%20v2.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDI
+</details>
+## Paul Quinn College
+<p class="hidden"></p>
+[May 24, 2019](https://oag.ca.gov/system/files/California%20Sample%20Notification%20Letter%20PQC.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On August 16, 2019, we learned that certain PQC employee email accounts had been accessed without
+authorization. In immediate response, we took steps to secure the impacted email accounts and to further secure our email
+system, and we began an extensive and detailed analysis of the email accounts to determine if they contained any personal
+information that may have been affected by the incident. The analysis was completed on February 19, 2020, and it
+revealed that some of your information was contained in the affected email accounts. After the analysis was complete, we
+worked diligently to identify up-to-date address information in order to effectuate notification and took steps to notify you
+of this incident as quickly as possible in light of significant challenges arising from responding to the COVID-19
+situation.
+</details>
+## Presbyterian Healthcare Services
+<p class="hidden"></p>
+[May 09, 2019](https://oag.ca.gov/system/files/SSN%20Final%20Proof%20%28Updated%29-07-30-2019.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Pacific Specialty Insurance Company
+<p class="hidden"></p>
+[March 20, 2019](https://oag.ca.gov/system/files/PSIC%20-%20CA%20Notice%20of%20Data%20Event.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+? On June 14, 2019 Pacific Specialty became aware of a pattern of suspicious activity relating
+to certain Pacific Specialty employee email accounts. In response, Pacific Specialty changed the employee’s
+account password and worked with an outside forensics expert to investigate the nature and scope of the activity.
+The investigation determined that certain Pacific Specialty email accounts were accessed without authorization
+between March 20, 2019 and March 30, 2019. The period of unauthorized access varied for each account at issue.
+Every potentially accessible file within the impacted accounts was reviewed to determine what files may have been
+accessible to the unauthorized actor. On November 7, 2019 we became aware of the identities of the individuals
+whose information was included in the impacted accounts. We continued working to obtain contact information for
+impacted individuals through January 14, 2020.
+</details>
+## Princess Polly Group Pty Ltd
+<p class="hidden"></p>
+[November 01, 2018](https://oag.ca.gov/system/files/Princess%20Polly%20Group%20Pty%20Ltd%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA_0%28notice%29_2.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDB
+</details>
+## Paylocity Corporation
+<p class="hidden"></p>
+[November 01, 2018](https://oag.ca.gov/system/files/ACID_PRINTERPROOFS_20181121_paylocity501_CA%20%28SAMPLE%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Paylocity contracts with Group 1 Automotive, Inc. to provide payroll services. On November 1, 2018, an
+incident occurred where certain personal information of some Group 1 Automotive employees was
+inadvertently and temporarily exposed to the administrator of another Paylocity client. The information was
+not viewed or otherwise compromised, and we have already taken steps to ensure this will not happen in the
+future.
+
+</details>
+## Prosper Marketplace, Inc.
+<p class="hidden"></p>
+[October 03, 2018](undefined) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDB
+</details>
+## Pie Five Pizza
+<p class="hidden"></p>
+[September 07, 2018](https://oag.ca.gov/system/files/Sample%20Notice_29.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Pie Five Pizza was recently alerted to a potential security incident. Based upon an
+extensive forensic investigation, it appears that an unauthorized individual was able to
+gain access to and install malicious software designed to capture payment card
+information on some of our payment processing systems at a limited number of our
+locations. Although we do not store payment card information on our systems, based
+on the forensic investigation, it appears that the malicious software was able to
+capture card information date in real time as card information as it was being entered
+into certain of our systems. To find out if your Pie Five location was impacted, please
+visit https://www.piefivepizza.com/paymentcardsecurity/store-list/
+(https://www.piefivepizza.com/paymentcardsecurity/store-list/) for a list of affected
+locations and corresponding dates. Please note that this incident did not affect any
+purchases made on the PieFivePizza.com website.
+
+</details>
+## Pharmaca Integrative Pharmacy Inc.
+<p class="hidden"></p>
+[July 19, 2018](https://oag.ca.gov/system/files/Pharmaca%20-%20Regulator%20Notice%20-%20CA%20-%20FINAL_0%20%28notice%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+? After receiving reports of fraud related to a small number of customers from payment
+card issuers, Pharmaca began an investigation, and on or around December 6, 2018, identified suspicious
+code on its point-of-sale systems. Pharmaca immediately began working with leading security experts to
+help determine what happened. Through this investigation, Pharmaca confirmed, on or about December 19,
+2018, that malicious code may have captured customer credit and debit card information used for purchases
+at certain Pharmaca stores between July 19, 2018 and December 12, 2018. 
+</details>
+## Pharmacy Times Office of Continuing Professional Education ("PTCE")
+<p class="hidden"></p>
+[July 06, 2018](https://oag.ca.gov/system/files/CA%20-%20Exhibit%20A%20Packet_0_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+ On or about July 6, 2018, PTCE learned that an unauthorized party may have accessed a file
+containing PTCE data. PTCE immediately launched an investigation and began working with third-party forensic
+investigators to determine the nature and scope of the potential data event. On September 17, 2018, based on
+investigative developments to date, PTCE concluded that a file containing its data had been publicly available between
+May 11, 2018 and July 6, 2018, and on the latter date, may have been subject to unauthorized access by an unknown
+party. On or around October 12, 2018, PTCE confirmed that the file contained information that included personally
+identifiable information for a limited number of PTCE clients. PTCE then took steps to confirm the identity of the clients
+whose personally identifiable information was contained in the data file. 
+
+</details>
+## Paysafe Group Holdings Limited
+<p class="hidden"></p>
+[May 13, 2018](https://oag.ca.gov/system/files/Template%20Individual%20Notification.pdf) | Website Compromise
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On November 6, 2020, through Merchant Services’* internal cybersecurity program, we discovered a potential compromise of a website used by part of our U.S. business. We promptly initiated an investigation to determine the nature and potential impact of the vulnerability. In the course of doing so, we identified suspicious activity indicating that an unauthorized actor submitted automated queries to the website. We created a secure environment to test the queries, using available logs and other information to assess potential impact. By November 19, 2020, we determined that a subset of the queries identified might have involved data held on the website. We analyzed logs and other information available to assess whether those queries could have returned information to unauthorized actors, and we engaged external forensics experts to assist. By December 3, 2020, we determined that some queries may have compromised certain information held on the website, although the evidence is not conclusive. At this time, we have identified evidence of suspicious activity on the website between May 13, 2018, and November 24, 2020. We have notified law enforcement.  Although we are not aware of any evidence confirming that the activity resulted in unauthorized actors acquiring or misusing your personal information, we are providing this notice out of an abundance of caution so that you can take steps to protect yourself.
+</details>
+## Plant Therapy
+<p class="hidden"></p>
+[March 29, 2018](https://oag.ca.gov/system/files/Plant%20Therapy%20-%20California%20AG%20Notification%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On May 11, 2018, Plant Therapy learned of a potential data security incident
+involving the unauthorized installation of malware on our e-commerce web platform. Upon discovering
+the incident, we took immediate steps to secure this information. We also launched an investigation
+and worked with a leading forensics firm to determine what happened and whether customer payment
+card information had been accessed or acquired without authorization. This letter serves to inform you
+of the incident and to share with you steps that you can take to help protect your information.
+</details>
+## PLAE INC.
+<p class="hidden"></p>
+[March 15, 2018](https://oag.ca.gov/system/files/PLAE%20Notification%20Letter%20-%20052918%20FINAL_for%20state%20regulators_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Protecting your financial information is our top priority and while we have extensive security systems in place to protect
+your data, a cyber-attack took place that may have affected customers who placed online orders between March 15, 2018
+and May 11, 2018. We began an investigation as soon as we became aware of a potential breach on May 10, 2018, and
+were able thereafter to stop further unauthorized account access by this attacker. 
+</details>
+## Phillip Capital Inc.
+<p class="hidden"></p>
+[February 28, 2018](https://oag.ca.gov/system/files/Phillip01_Multi%20States_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On February 28, 2018, Phillip Capital received a phishing email from a third-party vendor. Phillip Capital responded to this
+phishing email by logging onto what we believed was the vendor’s legitimate platform. This enabled the attacker to access a few
+of our employees’ email accounts before we discovered the incident and cut off all unauthorized access. 
+</details>
+## POPSUGAR Inc.
+<p class="hidden"></p>
+[February 22, 2018](https://oag.ca.gov/system/files/POPSUGAR%20Notice%20of%20Data%20Breach_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On April 30, 2018, we discovered that, in February 2018,
+an unauthorized third party gained access to account credentials and
+accessed certain user information.
+</details>
+## PF@-Com, Inc.
+<p class="hidden"></p>
+[February 20, 2018](https://oag.ca.gov/system/files/CA%20-%20Notification%20of%20Breach_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On March 12, 2018, we discovered that information entered on some of our websites (aveneusa.com, renefurtererusa.com,
+kloraneusa.com, and glytone-usa.com (the “Websites”)) had been captured and potentially sent to unauthorized third
+parties. We immediately began a full investigation of the incident, which concluded on March 28, 2018, by which time
+we were able to identify the types of information that may have been compromised and the population of potentially
+affected visitors. Any information entered on any of the Websites between February 20, 2018 and March 15, 2018 may
+have been exposed. 
+
+</details>
+## Paycor, Inc.
+<p class="hidden"></p>
+[February 16, 2018](https://oag.ca.gov/system/files/Supreme%20Corporation%20Notice%20Letter%20-%20CA_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+During the normal course of business, a Paycor employee accidentally mailed an encrypted
+computer disc (“CD”) containing images of IRS W-2 tax information for you and fellow
+employees from Supreme Corporation and its affiliates. The CD was mailed directly to one
+recipient at another trusted Paycor client company. The same recipient of the CD also received
+the corresponding password to unencrypt the CD’s contents via a separate email. The recipient
+conducted a “spot check” of random entries in the report to ensure it contained the information
+she expected for her company’s employees. The recipient did not view all entries in the CD.
+Upon realizing that the CD did not contain information for her company, the recipient
+immediately notified Paycor of the mailing error. Paycor immediately took steps to ensure the
+CD was securely returned by the recipient, that the recipient securely deleted any relevant data
+from her company systems, and that the file had only been viewed by the single recipient. 
+</details>
+## Peaceful Valley Farm & Garden Supply
+<p class="hidden"></p>
+[February 09, 2018](https://oag.ca.gov/system/files/Notification%20Letter_2.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We	value	your	business	and	respect	the	privacy	of	your	information,	which	is	why	we	are	writing	to	let	
+you	know	about	a	serious	data	security	incident	that	occurred	between	February	9,	2018	and	August	22,	
+2018	that	involved	your	personal	information.		The	breach	involved	the	unauthorized	access	by	an	
+unknown	third	party	of	personal	information	of	customers	who	placed orders	on	the	Peaceful	Valley	
+Farm	Supply	website	during	the	above	time	period.
+</details>
+## PAR Electrical Contractors, Inc.
+<p class="hidden"></p>
+[December 22, 2017](https://oag.ca.gov/system/files/Sample%20Letters%20-%20General_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDI
+</details>
+## Pinterest
+<p class="hidden"></p>
+[November 24, 2017](https://oag.ca.gov/system/files/2017.12.08%20Pinterest%20User%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Providence Saint John's Health Center
+<p class="hidden"></p>
+[November 20, 2017](https://oag.ca.gov/system/files/Nuance%20PSJH%20Notification%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On December 8, 2017, one of our vendors, Nuance Communications, Inc. (Nuance), a medical transcription software
+company,1
+experienced an unauthorized intrusion into their computer system that resulted in the theft of your personal
+information. 
+</details>
+## Pedes Orange County
+<p class="hidden"></p>
+[November 14, 2017](https://oag.ca.gov/system/files/Pedes%20Adult%20CA%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We share our medical facility with another medical group to conduct surgical procedures throughout the week. To
+assist in scheduling surgical procedures, we share a scheduling tool with other medical professionals in the building.
+On November 14, 2017, we learned that a physician from another medical group in the facility accessed our Pedes
+electronic medical records database without permission and disclosed the database materials to their attorney. Since
+discovering this incident, we have been working with the unauthorized individual to destroy all patient medical
+information that was accessed without permission. 
+</details>
+## Pension Fund of the Christian Church (“Pension Fund”)
+<p class="hidden"></p>
+[November 09, 2017](https://oag.ca.gov/system/files/PFR%20Standard%20Notification%20Letter%20Sample%201_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Pension Fund of the Christian Church values and respects your privacy, which is why we are
+writing to advise you about two recent incidents that may affect your personal information, to
+explain the steps that we have undertaken since discovering the incidents and to provide you
+with guidance on what you can do to protect yourself. 
+</details>
+## Pizza Hut, Inc.
+<p class="hidden"></p>
+[October 01, 2017](https://oag.ca.gov/system/files/Sample%20Customer%20Notice%20%28General%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Pizza Hut has recently identified a temporary security intrusion that occurred on our website. We have
+learned that the information of some customers who visited our website or mobile application during an
+approximately 28-hour period (from the morning of October 1, 2017 through midday on October 2, 2017)
+and subsequently placed an order may have been compromised. Pizza Hut identified the security
+intrusion quickly and took immediate action to halt it. 
+</details>
+## Palomar Health
+<p class="hidden"></p>
+[September 27, 2017](https://oag.ca.gov/system/files/Palomar%20patient%20notification%20letter%20102017_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+<p class="hidden"></p>
+[February 22, 2014](https://oag.ca.gov/system/files/Palomar%20Health%20Sample%20Letter%203.28.14_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Preferred Hotel Group, Inc.
+<p class="hidden"></p>
+[August 10, 2017](https://oag.ca.gov/system/files/Historic%20Notification%20Letter%20SHORT_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Sabre Hospitality Solutions, a company that facilitates the booking of our reservations either through
+our member hotels, our call centers, travel agencies, online travel agencies, or similar booking services
+informed us that an unauthorized party gained access to their SynXis Central Reservations system. We
+have been told that this unauthorized party could view unencrypted payment card information, as well
+as certain reservation information, for a subset of hotel reservations processed through their system. 
+</details>
+## Pacific Alliance Medical Center
+<p class="hidden"></p>
+[June 14, 2017](https://oag.ca.gov/system/files/Breach%20Notification%20Forms_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDB
+</details>
+## Professional Publications, Inc. (PPI)
+<p class="hidden"></p>
+[June 11, 2017](https://oag.ca.gov/system/files/Sample%20Individual%20Notification%20-%20PPI_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+During routine security monitoring of the PPI website, we found indications of suspicious activity and immediately
+launched an investigation. On September 19, 2018, our investigation determined that a hacker had implemented
+malicious code that allowed the hacker to obtain access in June 2017 to personal information that was submitted
+in connection with certain transactions made on the website between March 9 and April 5, 2017. We immediately
+began efforts to identify and notify affected individuals and sent notifications to these individuals in October 2018,
+which may have included you.
+</details>
+## Provo Craft & Novelty, Inc., d/b/a/ Cricut
+<p class="hidden"></p>
+[May 27, 2017](https://oag.ca.gov/system/files/Provo%20Craft%20Consumer%20Notification%20Letter_2.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We have learned that the checkout page on a prior version of our website was the subject of a cyberattack, which was
+designed to scrape payment and personal information of customers at checkout while making purchases. You are
+receiving this letter because you entered information to check out on shop.cricut.com between the dates of May 27 and
+July 12, 2017. 
+</details>
+## Palo Alto Unified School District
+<p class="hidden"></p>
+[April 04, 2017](https://oag.ca.gov/system/files/data_breach_letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+After a recent upgrade to their backup systems, a configuration error exposed Schoolzilla’s backup files. A
+computer security researcher doing targeted vulnerability analysis detected this issue late on April 4, 2017,
+downloaded those files, and notified Schoolzilla of the problem. As soon as Schoolzilla received the notice
+on the morning of April 5, 2017, they immediately fixed the error, verified via log files that nobody other than
+the one security researcher accessed those exposed files, and ensured that the security researcher who
+discovered and alerted us to this vulnerability permanently and securely deleted the data.
+</details>
+## Performant Financial Corporation
+<p class="hidden"></p>
+[January 27, 2017](https://oag.ca.gov/system/files/Sample%20Performant%20Notice%20to%20Individuals%20-%20CT%20Data%20Breach_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+By letter dated April 7, 2017, C&T informed Performant that after noticing unusual activity on its
+network, C&T had hired a specialist forensic information technology firm to investigate. As a result of
+that investigation it was determined that an unauthorized individual had accessed a C&T network drive
+between January 27, 2017, and February 2, 2017. C&T, however, could not determine whether any
+specific files were accessed. The network drive, unfortunately, contained the Company’s 401K audit
+files for certain years.
+</details>
+## Platt College, Los Angeles LLC
+<p class="hidden"></p>
+[January 17, 2017](https://oag.ca.gov/system/files/Platt%20NOB_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+A technical error caused Student’s 1098T Tuition Statements to be addressed with
+another student’s mailing address, and the Statements were inadvertently mailed to
+another student on January 13, 2017. 
+
+</details>
+## Pool Supply Unlimited
+<p class="hidden"></p>
+[January 09, 2017](https://oag.ca.gov/system/files/Pool%20Supply%20redacted_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Palomar Community College District
+<p class="hidden"></p>
+[January 05, 2017](https://oag.ca.gov/system/files/CA%20Notice_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On January 19, 2017, we learned that an unauthorized individual may have accessed part of our network that contained
+IRS Form W-2s for some of our employees. Upon learning of this, we immediately began an investigation and
+contacted law enforcement. 
+</details>
+## prAna
+<p class="hidden"></p>
+[December 14, 2016](https://oag.ca.gov/system/files/CA%20AG%20notice%20attach.%20-%20prana_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDI
+</details>
+## Pacific Hospitality Group
+<p class="hidden"></p>
+[November 03, 2016](https://oag.ca.gov/system/files/MC%20Customer%20Notification%20Letter_Website%20Version_7.20.17v2_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The Sabre Hospitality Solutions SynXis Central Reservations system (CRS) facilitates the booking
+of hotel reservations made by consumers through hotels, online travel agencies, and similar
+booking services. Following an examination of forensic evidence, Sabre informed us that an
+unauthorized party had gained access to account credentials that permitted unauthorized access
+to unencrypted payment card information, as well as certain reservation information, for a subset
+of hotel reservations processed through the CRS. Sabre notified our company about the possible
+breach on or about June 6, 2017 and then sent us the dates of breach by property and the list of
+the impacted guest records on June 13, 2017.
+</details>
+## Print EZ, Inc.
+<p class="hidden"></p>
+[September 01, 2016](https://oag.ca.gov/system/files/Print%20EZ%20-%20CA%20Exhibit%201_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+During a routine review, Print EZ identified an anomaly in scan results for its e-commerce website
+printez.com. Upon receiving these results, Print EZ immediately commenced an investigation and later identified
+suspicious file that was inserted into its e-commerce website. Print EZ quickly removed the infected file and took
+additional steps to secure its website. Additionally, Print EZ completely modified its checkout process to implement
+additional security measures. Print EZ determined on December 14, 2018 that it was unable to determine how the
+file may have affected information entered onto its website. In an abundance of caution, Print EZ is notifying
+customers who used a credit card on its website from September 1, 2016 until September 23, 2018 when Print EZ
+moved to its new checkout process. 
+</details>
+## Pacifica Hotel Management, LLC
+<p class="hidden"></p>
+[August 10, 2016](https://oag.ca.gov/system/files/Sample%20Notice_18.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The Sabre Hospitality Solutions SynXis Central Reservations system (CRS) facilitates the booking of
+hotel reservations made by consumers through hotels, online travel agencies, and similar booking
+services. Following an examination of forensic evidence, Sabre notified us on or about June 6, 2017 that
+an unauthorized party gained access to account credentials that permitted unauthorized access to
+unencrypted payment card information, as well as certain reservation information, for a subset of hotel
+reservations processed through the CRS. 
+</details>
+## Pratap S. Kurra, M.D.
+<p class="hidden"></p>
+[August 08, 2016](https://oag.ca.gov/system/files/Pratap%20Kurra%20MD_Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On August 9, 2016, I was informed that papers related to my practice were found in a trash container. I immediately
+began an investigation into the matter and determined that on August 8, 2016, the day before, billing tickets used by
+my practice were accidentally thrown away during my move. Fortunately, all known records were retrieved within
+24 hours, and upon further investigation, it was determined to have been a singular incident. 
+
+</details>
+## Public Health Institute
+<p class="hidden"></p>
+[July 04, 2016](https://oag.ca.gov/system/files/1887.2%20Notice%20of%20Data%20Breach%20PHI%20CEHTP%20final%20100516_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The California Environmental Health Tracking Program (CEHTP) of the Public Health Institute
+(PHI) became aware on August 4, 2016 that an electronic database containing email addresses
+and corresponding passwords for individual user accounts at one or more of the sites listed
+below was accessible on the internet without encryption or other security features for
+approximately 30 days. The accounts in question are:
+
+</details>
+## Premier America Credit Union
+<p class="hidden"></p>
+[June 29, 2016](https://oag.ca.gov/system/files/FinalLetterPackage_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently learned that a departing employee of Premier America emailed to his non-Premier
+America account lists that reflected some of your personal information, in violation of our company
+policies, during late June 2016. At this point, we assume that the purpose of the acquisition was
+solely for solicitation purposes (which we consider to be inappropriate) and do not believe that you
+are at risk for identity theft. 
+</details>
+## PAX Labs, Inc.
+<p class="hidden"></p>
+[June 25, 2016](https://oag.ca.gov/system/files/PAX%20-%20Consumer%20Data%20Breach%20Notice_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On July 15, 2016, we discovered that an unauthorized party had gained access to one of our cloud-based
+website servers and installed unauthorized software. PAX removed this software on July 15, 2016.
+Subsequently, an unauthorized party added similar software on July 22, 2016, which PAX removed that
+same day. Our investigation revealed that the unauthorized party accessed personal payment card
+information of approximately 6,000 customers who had made purchases from either
+www.JUULvapor.com or www.PAXvapor.com between June 25, 2016, and July 22, 2016.
+</details>
+## Preferred Hotel & Resorts
+<p class="hidden"></p>
+[June 01, 2016](https://oag.ca.gov/system/files/Sample%20Notice_22.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The Sabre SynXis Central Reservations System (CRS) facilitates the booking of hotel reservations made by
+consumers through hotels, online travel agencies, and similar booking services. Following their internal
+investigation, Sabre notified us that an unauthorized party gained access to user credentials that enabled the party
+to view some reservation information for a subset of hotel reservations that Sabre processed on behalf of some of
+its customers, including certain Preferred hotel properties. The investigation determined that the unauthorized party
+was able to access Sabre’s system between June of 2016 and November of 2017. Please note that no Preferred
+computer or network systems were affected in any way by this incident.
+</details>
+## Project Management Institute
+<p class="hidden"></p>
+[April 23, 2016](https://oag.ca.gov/system/files/Standard%20Notice%20%284%29_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+PMI was informed on June 14, 2016, that one of its vendors, Comnet Marketing Group, Inc. (“Comnet”), had been
+the victim of an intrusion of its computer systems. An unauthorized user gained administrative access to Comnet’s
+systems on April 23-24, 2016, and issued commands to delete all the data housed on Comnet’s servers. That data may
+have included certain PMI customer credit card information that Comnet had collected on behalf of PMI. Comnet
+did not discover any evidence indicating that the credit card data was accessed or acquired by an unauthorized
+user or that the unauthorized user intended to steal data. But Comnet has been unable to definitively rule out any
+unauthorized access to or acquisition of data. Thus, PMI provides this notice out of an abundance of caution.
+
+</details>
+## Pivotal Software, Inc.
+<p class="hidden"></p>
+[March 22, 2016](https://oag.ca.gov/system/files/Sample%20of%20Notice%20to%20California%20residents_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+ As we stated earlier, Pivotal was recently involved in an e-mail “phishing” scam
+targeting personal information of Pivotal employees. On March 22, 2016, an unknown third party sent a
+fraudulent email message impersonating CEO Rob Mee to an employee requesting certain information
+about Pivotal employees. The employee responded to the request, mistakenly believing that it came from
+Mr. Mee. 
+</details>
+## PerkinElmer, Inc.
+<p class="hidden"></p>
+[February 24, 2016](https://oag.ca.gov/system/files/PerkinElmer%2003152016%20California%20notice%20redacted_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDB
+</details>
+## Pirthipal Dhillon
+<p class="hidden"></p>
+[December 02, 2015](https://oag.ca.gov/system/files/Website%20Notification_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Wendy’s recently reported additional malicious cyber activity involving some franchisee-operated
+restaurants. The Company believes this criminal cyberattack resulted from a service provider’s remote
+access credentials being compromised, allowing access – and the ability to deploy malware – to some
+franchisees’ POS systems. Soon after detecting the malware, Wendy’s identified a method of disabling
+it and thereafter has disabled the malware in all franchisee restaurants where it has been discovered. The
+investigation has confirmed that criminals used malware believed to have been effectively deployed on
+some Wendy’s franchisee systems starting in late fall 2015. 
+</details>
+## Peninsula Foods, L.P.
+<p class="hidden"></p>
+[December 02, 2015](https://oag.ca.gov/system/files/Website%20Notification_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Wendy’s recently reported additional malicious cyber activity involving some franchisee-operated
+restaurants. The Company believes this criminal cyberattack resulted from a service provider’s remote
+access credentials being compromised, allowing access – and the ability to deploy malware – to some
+franchisees’ POS systems. Soon after detecting the malware, Wendy’s identified a method of disabling
+it and thereafter has disabled the malware in all franchisee restaurants where it has been discovered. The
+investigation has confirmed that criminals used malware believed to have been effectively deployed on
+some Wendy’s franchisee systems starting in late fall 2015. 
+</details>
+## Peter Michael Winery
+<p class="hidden"></p>
+[April 12, 2015](https://oag.ca.gov/system/files/PMW%2C%20Notification%20Letter%2C%20%28US%20%2B%20PR%20-%20MA%29%20FINAL%20DRAFT%206-11-2015_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Packers Sanitation Services, Inc. Ltd.
+<p class="hidden"></p>
+[February 05, 2015](https://oag.ca.gov/system/files/NOTIFICATION%20OF%20BREACH%20%282%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Piedmont Advantage Credit Union
+<p class="hidden"></p>
+[January 31, 2015](https://oag.ca.gov/system/files/PACU%20-%20Master%20Proof_0.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Phoenix House Foundation, Inc. and its affiliates
+<p class="hidden"></p>
+[December 19, 2014](https://oag.ca.gov/system/files/PHOENIX%20HOUSE_%20INDIVIDUAL%20NOTIFICATION%20VERSION%201_WPP-REVISED_0.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDB
+</details>
+## Piech Sales Company, LLC dba ValuePetSupplies.com
+<p class="hidden"></p>
+[November 25, 2014](https://oag.ca.gov/system/files/Sample%20Breach%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Physicians Skin and Weight Centers, Inc.
+<p class="hidden"></p>
+[November 04, 2014](https://oag.ca.gov/system/files/Physicians%20Skin%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Providence Saint Joseph Medical Center
+<p class="hidden"></p>
+[November 01, 2014](https://oag.ca.gov/system/files/Providence%20Adult%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Palm Springs Federal Credit Union
+<p class="hidden"></p>
+[October 20, 2014](https://oag.ca.gov/system/files/final%20letter%20sent%20to%20members_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Peppermill Casinos, Inc.
+<p class="hidden"></p>
+[October 12, 2014](https://oag.ca.gov/system/files/Breach%20Letter_3.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Point Loma Nazarene University
+<p class="hidden"></p>
+[October 07, 2014](https://oag.ca.gov/system/files/PLNU%20Notice%20Updated%20M946_v01_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Between October 7, 2014 and October 20, 2014, the University became aware of and remediated instances of
+unauthorized access to five employee email accounts that occurred during this time period as a result of phishing
+attacks. Upon learning of this matter, we immediately launched an investigation and retained outside forensic
+experts to determine the scope of this incident. While the investigation into the matter is ongoing, the external
+forensics experts have confirmed that the following categories of your personal information were potentially subject
+to unauthorized access: 
+</details>
+## Pacific Biosciences of California, Inc.
+<p class="hidden"></p>
+[September 16, 2014](https://oag.ca.gov/system/files/All%20Notices%20-%20CA_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDB
+</details>
+## Perspectives
+<p class="hidden"></p>
+[September 08, 2014](https://oag.ca.gov/system/files/Notification%20of%20Perspectives%20Database%20Breach%202%20%2801075324%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Paytime Harrisburg Inc. d/b/a Paytime, Inc.
+<p class="hidden"></p>
+[April 07, 2014](https://oag.ca.gov/system/files/Notice%20Exhibits%20A%20%20B_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## P.F. Chang's China Bistro
+<p class="hidden"></p>
+[October 19, 2013](https://oag.ca.gov/system/files/PFCB%20August%204%20Press%20Release_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Petrochem Insulation, Inc.
+<p class="hidden"></p>
+[July 18, 2013](https://oag.ca.gov/system/files/Petrochem%20Invdividual%20Notice%20Letter-SAMPLE_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Pinkerton Government Services, Inc.
+<p class="hidden"></p>
+[November 15, 2012](https://oag.ca.gov/system/files/Letter%20to%20Employees_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Pepperdine University
+<p class="hidden"></p>
+[November 11, 2012](https://oag.ca.gov/system/files/Final%20Notification%20Letter%20Dec%2006%202012_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Philip P Corneliuson
+<p class="hidden"></p>
+[September 15, 2012](https://oag.ca.gov/system/files/PHILIP%20P%20BREACH%20%28Recovered%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Petco Animal Supplies, Inc.
+<p class="hidden"></p>
+[May 18, 2012](https://oag.ca.gov/system/files/Experian%20Final%20Proof%20-%20Base%20Version_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Perry Dental
+<p class="hidden"></p>
+[February 16, 2012](https://oag.ca.gov/system/files/Breach%20Notification.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Pacifica-Coastside Credit Union / SF Fire Credit Union
+<p class="hidden"></p>
+[December 29, 2011](https://oag.ca.gov/system/files/pacifica_letter01_newmembers_6.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Pono Products, Inc. dba reuseit.com
+<p class="hidden"></p>
+[August 22, 2011](https://oag.ca.gov/system/files/Reuseit%20-%20Data%20Breach%20Notice%20-%20sample.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Placer Union High School District
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/PUHSD%20Total%20Registration%20Data%20Vulnerability%20Parent%20Letter_%2005.17.19.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Port City Operating Company, doing business as St. Joseph's Medical Center
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/CA%20Attorney%20General%20Patient%20Notification%20Letter_Adult%20Hospital%20Patient_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Paul Stuart, Inc.
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Paul%20Stuart%20notice%20only_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDB
+</details>
+## Praetorian Digital which operates PoliceOne.com
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Praetorian%20Digital%20notice%20only%20CA_0_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On Friday, February 3, 2017, we were notified that the content of our
+PoliceOne Forum was the subject of unauthorized access and acquisition. The incident
+occurred in our forums, which are run on third party software and are entirely separate
+from our main PoliceOne member database and other systems, which have not been
+compromised. We have become aware of a security incident in our PoliceOne Forums
+that allegedly occurred in 2015. We are aggressively addressing the matter and want to
+make you clear on the scope of the issue and its potential impact to you. Security is incredibly important to us and we've worked hard to protect your information over the
+past 17 years.
+</details>
+## Pride Mountain Vineyards
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Pride%20Mountain%20Vineyards%20Customer%20Breach%20Notification%205.11.12_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Palmaz Vineyards
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Palmaz_eCellars%20Breach%20Notification%20Letter%206_10_2015_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Premera Blue Cross, including Academe, Inc. (formerly known as LifeWise Health Plan of Arizona, Inc.), Connexion Insurance Solutions, Inc., Life Wise Health Plan of Washington, Life Wise Health Plan of Oregon, Inc., LifeWise Assurance Company, Vivacity
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/CA%20-%20Premera%20-%20Adult_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDI
+</details>
+## Park 'N Fly
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Park%20n%20Fly%201_13_2015%2048024%20_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Public Architecture
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Hacker%20announcement_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## PLS Financial Services, Inc.
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Master%20Notification_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## PHH Corporation
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Letter%20Version%201_proof_PHH_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Postcard Press, Inc. d/b/a Next Day Flyers
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Individual%20Notification%20Letter_1.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+# Q
+## Quality-Care Pharmacy
+<p class="hidden"></p>
+[March 11, 2018](https://oag.ca.gov/system/files/Quality-Care%20-%20Sample_Redacted_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Quest Nutrition
+<p class="hidden"></p>
+[November 10, 2017](https://oag.ca.gov/system/files/Sample%20Notice_25.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently learned that an outside individual sent emails to certain Quest Nutrition employees soliciting their
+login information to our email system. The individual appears to have been able to use these credentials to gain
+unauthorized access to an employee email account, which contained certain personal information about a limited
+number of our employees, influencers/partners, and other individuals.
+</details>
+## Quench USA, Inc
+<p class="hidden"></p>
+[February 10, 2017](https://oag.ca.gov/system/files/Quench%20--%20notice%20only%201%20--%20California_0_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On February 13, 2017, we discovered our Coffee Service server had been infected with a virus that
+prohibited our access to our files. We restored the server and launched an investigation to determine the capabilities
+of the virus and how it was introduced to the server. On February 22, 2017, as part of our ongoing investigation, we
+determined this virus was introduced by an unknown third party that had access to a server on our information system
+and confirmed this server contains information relating to Quench Coffee Service customers.
+</details>
+## Quest Diagnostics
+<p class="hidden"></p>
+[November 26, 2016](https://oag.ca.gov/system/files/Patient%20Notice%20FINAL_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+<p class="hidden"></p>
+[November 17, 2014](https://oag.ca.gov/system/files/Quest%20attachment%20to%20CA%20online%20submission_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Qvale Auto Group, Inc.
+<p class="hidden"></p>
+[June 27, 2016](https://oag.ca.gov/system/files/Qvale%20Notification%20%2810-7-16%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The incident occurred when, during the course of an upgrade by a third party IT vendor, employee access
+limitations were removed to certain information of employees for a limited time period in June 2016. This allowed
+certain employees to potentially access that information. As soon as this error was discovered, it was corrected.
+</details>
+## Quayside Publishing Group
+<p class="hidden"></p>
+[April 29, 2013](https://oag.ca.gov/system/files/Security%20Breach%20Notification_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDI
+</details>
+## QVC, Inc.
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Final%20CA%20Email%20Notice%20Proof_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+QVC uses technology to track activities that occur on its website, and the tracking technology sends data to companies
+that provide services to QVC. We recently learned that as the result of a technical setting, instead of sending anonymous
+data, the tracking technology unintentionally sent limited information about website visitors to those online marketing
+partners. While the information was sent securely, neither QVC nor the online marketing partners intended for this data to
+be sent.
+</details>
+# R
+## River City Bank
+<p class="hidden"></p>
+[September 29, 2020](https://oag.ca.gov/system/files/River%20City%20-%20California%20Notice.pdf) | Insider Threat
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 29, 2020, we discovered some unauthorized activity performed by a Bank employee. This individual downloaded customer data, including yours, to a personal storage drive and later sent the information to a third party. In doing so, the employee exceeded their authorized access, which was limited to accessing the Bank’s data for legitimate bank purposes. When we first learned of this incident, we took immediate steps to restrict the employee’s system access.  We also reported the incident to law enforcement. A thorough investigation was conducted by a forensic investigation firm to determine what happened, who was impacted, and what information may have been affected.
+</details>
+## Rocklin Unified School District
+<p class="hidden"></p>
+[September 18, 2020](https://oag.ca.gov/system/files/RUSD%20-%20NutriKids%20-%20NutriLink%20Breach%20Parent%20Notification.pdf) | Vulnerability
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 17, 2020 we were informed by Rocklin Unified Parent that there was a bug in the NutriLink software that may allow unauthorized access to the NutriKids-NutriLink system. The initial report was focused on NutriKids-NutriLink Databases where families can look up information on their student(s), which we do use and Link® to through our district website.
+</details>
+<p class="hidden"></p>
+[November 04, 2019](https://oag.ca.gov/system/files/RUSD%20-%20Aeries%20Breach%20Parent%20Notification.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/RUSD%20-%20NutriKids%20-%20NutriLink%20Breach%20Parent%20Notification.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## RadNet, Inc.
+<p class="hidden"></p>
+[July 18, 2020](https://oag.ca.gov/system/files/Radnet%20Consumer%20Notice%20%282%29.pdf) | Unauthorized Access
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+I am writing to let you know of an incident that may have affected your personal information. On July 18, an unknown third party gained access to a RadNet server that was used to store certain employee data, and copied certain files to an external server. RadNet quickly discovered this activity and blocked further access to the files and its systems and retrieved the copied files.
+</details>
+## Robie & Matthai APC
+<p class="hidden"></p>
+[May 7, 2020](https://oag.ca.gov/system/files/Robie%20%26%20Matthai%2C%20P.C.%20V5%20Print%20Proof.pdf) | Ransomware
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On May 7, 2020, Robie & Matthai, APC (the “Firm”) was the victim of a ransomware attack. We were able to recover our information from offline backups with no significant interruption in service. After a third-party forensic analysis, however, we determined that the individual(s) who carried out this attack (the “Attacker”) may have accessed some of the personal information on our system. You are receiving this notice because we believe your personal information may have been included among that data set.
+</details>
+## Romanazzi & Associates
+<p class="hidden"></p>
+[April 16, 2020](https://oag.ca.gov/system/files/Letter%201.%20Final%20Draft%207-10-20.pdf) | Unauthorized Access
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On April 22, 2020, we learned that fraudulent tax returns were filed for a few of our clients.  Based on this information, we contacted our tax software vendor and the Internal Revenue Service as well as the local police and FBI offices to investigate the issue. We also engaged IT professionals to perform a scan and analysis of our system. We immediately took steps to secure the access to our systems and tax software and the client information contained therein.
+</details>
+## Rady Children’s Hospital - San Diego and Rady Children’s Hospital Foundation – San Diego
+<p class="hidden"></p>
+[February 7, 2020](https://oag.ca.gov/system/files/RCHSD-Blackbaud%20-%20Notification%20Letter%20%28Adult%20Identity%20Monitoring%20with%20Spanish%20Translation%29.pdf) | Unauthorized Access
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Blackbaud recently informed us that it experienced a data security incident that may have involved information pertaining to members of our community who provided information to Rady Children’s Hospital – San Diego or the Rady Children’s Hospital Foundation – San Diego. Upon learning of the incident, we immediately launched an investigation to determine what happened and whether any personal information was impacted. According to Blackbaud, between February 7, 2020 and June 4, 2020, an unauthorized party had access to backup files related to the Blackbaud fundraising and donor management software we use. Upon learning this information, we retained outside cybersecurity experts, including a vendor to review the backup data at issue. On October 7, 2020, we determined that some of your personal information was contained in the backup files.  Blackbaud has informed us that it has no reason to believe that any information in the files has been or will be misused, or will otherwise be made available publicly. We nonetheless wanted to make you aware of this incident and offer you complimentary identity monitoring services to help alleviate any concern you may have.
+</details>
+## Rady Children’s Hospital – San Diego and Rady Children’s Hospital Foundation – San Diego
+<p class="hidden"></p>
+[February 07, 2020](https://oag.ca.gov/system/files/RCHSD-Blackbaud%20-%20Notification%20Letter%20%28Adult%20Identity%20Monitoring%20with%20Spanish%20Translation%29.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Blackbaud recently informed us that it experienced a data security incident that may have
+involved information pertaining to members of our community who provided information to Rady Children’s
+Hospital – San Diego or the Rady Children’s Hospital Foundation – San Diego. Upon learning of the incident, we
+immediately launched an investigation to determine what happened and whether any personal information was
+impacted. According to Blackbaud, between February 7, 2020 and June 4, 2020, an unauthorized party had access to
+backup files related to the Blackbaud fundraising and donor management software we use. Upon learning this
+information, we retained outside cybersecurity experts, including a vendor to review the backup data at issue. On
+October 7, 2020, we determined that some of your personal information was contained in the backup files.
+Blackbaud has informed us that it has no reason to believe that any information in the files has been or will be
+misused, or will otherwise be made available publicly. We nonetheless wanted to make you aware of this incident
+and offer you complimentary identity monitoring services to help alleviate any concern you may have. 
+</details>
+## RailWorks Corporation
+<p class="hidden"></p>
+[January 27, 2020](https://oag.ca.gov/system/files/Employee%20US%20Individual%20Notification.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDB
+</details>
+## Red Bluff Joint Union High School District
+<p class="hidden"></p>
+[November 04, 2019](https://oag.ca.gov/system/files/RBJUHSD_Notification.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The District uses the Aeries Student Information System to provide students and their parents with
+online access to information regarding school events and schedules. In late November 2019, Aeries
+learned that an unauthorized individual attempted to exploit a vulnerability in the Aeries software that
+would allow access to student and parent information. Aeries later determined that the exploit was
+successful. Upon discovery, Aeries began an investigation and law enforcement launched an
+investigation to identify the person responsible, who Aeries believes is now in police custody. On May
+3rd, 2020, we learned that this individual may have accessed the District’s Aeries System. We then
+conducted our own investigation, and on May 6th, 2020, determined that the individual did access
+parent and student data in the District’s Aeries System. 
+</details>
+## River Valley Farms LLC
+<p class="hidden"></p>
+[August 12, 2019](https://oag.ca.gov/system/files/Reiter%20Affiliated%20Companies%20-%20Notice%20of%20Data%20Event%20-%20Ex.%20A_4.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Reiter Brothers, Inc
+<p class="hidden"></p>
+[August 12, 2019](https://oag.ca.gov/system/files/Reiter%20Affiliated%20Companies%20-%20Notice%20of%20Data%20Event%20-%20Ex.%20A_2.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Reiter Berry Farms, Inc.
+<p class="hidden"></p>
+[August 12, 2019](https://oag.ca.gov/system/files/Reiter%20Affiliated%20Companies%20-%20Notice%20of%20Data%20Event%20-%20Ex.%20A.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Rady Children's Hospital San Diego
+<p class="hidden"></p>
+[June 20, 2019](https://oag.ca.gov/system/files/RCHSD%20-%20Sample%20Consumer%20Notification%20Letter.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On January 3, 2020, we learned of a data security incident that involved radiology-related patient
+information. Upon learning of the incident, we secured the affected information and launched an immediate investigation.
+We learned that, between the dates of June 20, 2019 and January 3, 2020, some information for a limited number of patients
+was accessed without authorization via an Internet port. On February 5, 2020, our investigation determined that your
+information may have been involved
+</details>
+## Raley's/Bel Air Mart/Nob Hill General Store, Inc.
+<p class="hidden"></p>
+[September 24, 2018](https://oag.ca.gov/system/files/HIPAA%20Breach%20Notification%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Redwood Eye Center
+<p class="hidden"></p>
+[September 19, 2018](https://oag.ca.gov/system/files/Redwood%20-%20AG%20Notification%20-%20California%2012.6.18_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 20, 2018, we learned that at sometime during the night of September 19, 2018, IT
+Lighthouse, the third-party vendor that hosts and stores our electronic medical records experienced a ransomware
+attack that affected our patient records. Ransomware is a type of malicious software that is used by cybercriminals
+to encrypt or lock up files on computers or servers and demand a ransom payment in order to restore access to the
+locked information. This ransomware attack locked the server that stored some of our patient information. 
+
+</details>
+## Rite Aid Corporation
+<p class="hidden"></p>
+[August 30, 2018](https://oag.ca.gov/system/files/Rite%20Aid-Individual%20Notification%2010-18_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+As a result of Rite Aid’s sale of 1,932 stores and 3 distribution centers to Walgreens, Rite Aid provides certain transition
+services to Walgreens to support the sale of the stores and distribution centers until converted to Walgreens’ systems
+(“Transition Services”). To support the Transition Services, Rite Aid provides weekly administrative files to certain
+Walgreens vendor partners including Empower. Due to a programming update made by Rite Aid on August 30, 2018,
+Rite Aid associates were inadvertently included in the standard eligibility file that goes to Empower. 
+</details>
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Rite%20Aid%20Notification%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## RSC Insurance Brokerage, Inc.
+<p class="hidden"></p>
+[August 23, 2018](https://oag.ca.gov/system/files/RSC%20Resolution%20Sample%20CA%20Individual%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On January 22, 2019, RSC provided written notification to your healthcare provider that it had
+completed its investigation and analysis of an incident involving the theft of an RSC employee’s password-protected
+laptop. The laptop was stolen on August 23, 2018. Upon learning of the theft, RSC notified law enforcement, changed
+the employee’s account credentials, and launched an investigation with the assistance of a leading cyber security firm. 
+</details>
+## Reddit, Inc.
+<p class="hidden"></p>
+[June 14, 2018](https://oag.ca.gov/system/files/Reddit%20breach%20notice%20%28email%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Renaissance Philanthropic Solutions Group (“RenPSG”)
+<p class="hidden"></p>
+[June 05, 2018](https://oag.ca.gov/system/files/RenPSG-%20Notice%20of%20Data%20Event-CA%20Exhibit%201_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Rennline Automotive
+<p class="hidden"></p>
+[May 28, 2018](https://oag.ca.gov/system/files/CA_X108_v02__002__0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On January 18, 2019, we discovered unauthorized code on our website. The unauthorized code was removed, and
+we worked with a leading cyber security firm to investigate the incident. The investigation determined that the
+unauthorized code was added by an unauthorized individual so that payment card information entered by purchasers
+on our e-commerce website was copied and sent to an unauthorized server. The code was active between May 28,
+2018 and June 13, 2018; June 15, 2018 and July 12, 2018; July 20, 2018 and August 13, 2018; and August 22, 2018 and
+January 18, 2019. 
+</details>
+## R.R. Bowker LLC
+<p class="hidden"></p>
+[May 01, 2018](https://oag.ca.gov/system/files/CA%20Notice%20_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On October 23, 2018, our investigation identified unauthorized code that was added to the checkout page on
+www.myidentifiers.com. Findings from the investigation indicate that the code may have been present and capable
+of copying information entered by customers during the checkout process from May 1, 2018 to October 23, 2018. 
+</details>
+## Roadrunner Transportation Systems, Inc.
+<p class="hidden"></p>
+[April 01, 2018](https://oag.ca.gov/system/files/RRTS%20-%20July%202018%20-%20Supplemental%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Rady Children's Hospital-San Diego
+<p class="hidden"></p>
+[March 29, 2018](https://oag.ca.gov/system/files/MINOR%20PATIENT%20LETTER%20-%20ENGLISH_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On April 12, 2018, Rady Children’s Hospital – San Diego (RCHSD) became aware that your child’s
+information was inadvertently included on a Compact Disc (CD) that was generated for Quality Control (QC)
+purposes and sent via Federal Express to one of our contracted entities on March 29, 2018. The receiving
+entity contacted RCHSD to report that patient information was included on the CD, and made immediate
+arrangements to securely send the CD back to RCHSD. The CD has been received and secured by RCHSD.
+Please rest assured that this entity is bound by the same federal privacy standards as RCHSD and has the same
+obligations to protect the confidentiality, privacy and security of patient information. 
+</details>
+<p class="hidden"></p>
+[June 06, 2014](https://oag.ca.gov/system/files/Rady%20Childrens%20Number%20one%206_16_14_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Rail Europe North America Inc.
+<p class="hidden"></p>
+[November 29, 2017](https://oag.ca.gov/system/files/RENA%20Customer%20Notification_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On February 16, 2018, as a result of a query from one of our banks, we discovered that beginning on November 29, 2017,
+through February 16, 2018, unauthorized persons gained unauthorized access to our ecommerce websites’ IT platform.
+Upon discovery that this malicious intrusion may have compromised users’ personal information, we immediately cut off
+from the Internet all compromised servers on February 16, 2018, and engaged information security experts to assist with
+forensic analysis, system restoration and security hardening
+</details>
+## Rehabilitation
+<p class="hidden"></p>
+[November 22, 2017](https://oag.ca.gov/system/files/Notification%20Letter%20-%20%20Draft_12-4-17_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On Wednesday, November 22, 2017, a file containing your name and social security
+number was inadvertently emailed without encryption to an outside entity. The file has
+been deleted, and there is no indication that your personal information was
+compromised; however, we believe it important to err on the side of caution and notify
+you of this incident.
+</details>
+## Ron's Pharmacy Services
+<p class="hidden"></p>
+[October 03, 2017](https://oag.ca.gov/system/files/T927_v01.pdf_Prescription_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Richard Owen Nursery, Inc. d/b/a Dutch Gardens USA
+<p class="hidden"></p>
+[September 29, 2017](https://oag.ca.gov/system/files/Richard%20Owen%20Sample-%20All%20States_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On or about August 6, 2018, Dutch Gardens became aware that its website had become infected with
+malware resulting in the potential compromise of some of its customers' personal information, including
+yours. Dutch Gardens has determined that its website may have been infected during the period of
+September 29, 2017 until July 31, 2018.
+</details>
+## Roberts Hawaii, Inc.
+<p class="hidden"></p>
+[July 30, 2017](https://oag.ca.gov/system/files/NPC_Breach_C5920_CA_Sample_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Roberts Hawaii received reports from several customers of fraudulent charges appearing on their
+payment cards shortly after they were used to make a purchase on our website. We immediately
+initiated an investigation and engaged a leading cyber security firm to examine our website
+network.
+</details>
+## RM Acquisition, LLC d/b/a Rand McNally
+<p class="hidden"></p>
+[April 12, 2017](https://oag.ca.gov/system/files/Rand%20CAnotice%20only_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On February 28, 2017, we became aware of suspicious activity on the server for our e-commerce store. When
+you purchased anything via this website you entered information, including your credit card and other personal
+information. Through this breach, an unauthorized party may have been able to gain access to your credit card
+information by installing malware that obtained that information. Though we believe this party may have first
+gained access to credit card information around April 2016, we only recently discovered on or around April 11, 2017
+that your information may have been collected as a result of the incident. 
+</details>
+## Real Estate Business Services, Inc.
+<p class="hidden"></p>
+[March 13, 2017](https://oag.ca.gov/system/files/REBS%20Notice%20of%20Breach%207.3.17_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently learned that malicious code (“malware”) uploaded by an unauthorized third party was
+present in payment processing software used for store.car.org. This malware may have copied and
+transmitted to an unknown third party personal information that briefly went through our servers
+during the store.car.org payment processing step of purchases of REBS (Real Estate Business
+Services) products and services between March 13, 2017 and May 15, 2017. The malware was
+removed from our systems, and we now use an entirely different payment system through PayPal.
+</details>
+## Rent the Runway
+<p class="hidden"></p>
+[February 23, 2017](https://oag.ca.gov/system/files/ca_notice_sample_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+It was discovered that your Rent the Runway account was accessed by an unknown party
+between December 25, 2016 and February 23, 2017.
+
+</details>
+## Rite Aid Online Store, Inc.
+<p class="hidden"></p>
+[January 30, 2017](https://oag.ca.gov/system/files/Rite%20Aid%20Online%20Store%2C%20Inc.%20Individual%20Notification%20Letter_65144423_1_0.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently learned that unauthorized third parties accessed Rite Aid Online Store’s e-commerce platform and
+acquired certain personal information of customers who manually entered their payment card details at the online
+store between January 30, 2017 and April 11, 2017. 
+</details>
+## Renovate America, Inc.
+<p class="hidden"></p>
+[January 20, 2017](https://oag.ca.gov/system/files/RenovateAmerica%202_3_17_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently discovered that our company was the targeted victim of an email spoofing
+attack on January 20, 2017 in which an individual pretended to be our Chief Executive Officer. A request
+was made from what appeared to be a legitimate Renovate America email address for all 2016 Renovate
+America employee W-2 information. Unfortunately, copies of all 2016 employee W¬2 forms were provided
+before we discovered that the request was made from a fraudulent account by someone using an email
+address that appeared to belong to our CEO. We discovered the fraudulent nature of the request within a
+few hours and have been working tirelessly to investigate and to mitigate the impact of the attack.
+
+</details>
+## Rod's Western Palace
+<p class="hidden"></p>
+[October 11, 2016](https://oag.ca.gov/system/files/Rod%27s%20Western%20Palace%20-%20CA%20Notification%20%286607474-2x7AB84%29_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDB
+</details>
+## Remington Lodging & Hospitality, LLC and Affiliates
+<p class="hidden"></p>
+[August 10, 2016](https://oag.ca.gov/system/files/Remington%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The Sabre Hospitality Solutions SynXis Central Reservations system (CRS) facilitates the booking of hotel
+reservations made by consumers through hotels, online travel agencies, and similar booking services. Following
+an examination of forensic evidence, Sabre notified us on June 6, 2017 that an unauthorized party gained access to
+account credentials that permitted unauthorized access to unencrypted payment card information, as well as certain
+reservation information, for a subset of hotel reservations processed through Sabre’s reservation system.
+
+</details>
+## Rosewood Hotel Group
+<p class="hidden"></p>
+[May 29, 2016](https://oag.ca.gov/system/files/Rosewood%20-%20California%20Notification%20Materials_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Sabre notified us in late December 2017 that it had uncovered evidence that, between May 29, 2016 and
+January 11, 2017, an unauthorized party had gained access to certain Rosewood guest reservation information that
+was maintained on Sabre’s systems. 
+
+</details>
+## Ronald L. Ross
+<p class="hidden"></p>
+[January 13, 2016](https://oag.ca.gov/system/files/Website%20Notification_3.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Wendy’s recently reported additional malicious cyber activity involving some franchisee-operated
+restaurants. The Company believes this criminal cyberattack resulted from a service provider’s remote
+access credentials being compromised, allowing access – and the ability to deploy malware – to some
+franchisees’ POS systems. Soon after detecting the malware, Wendy’s identified a method of disabling
+it and thereafter has disabled the malware in all franchisee restaurants where it has been discovered. The
+investigation has confirmed that criminals used malware believed to have been effectively deployed on
+some Wendy’s franchisee systems starting in late fall 2015. 
+</details>
+## RDR Foods, Inc.
+<p class="hidden"></p>
+[January 13, 2016](https://oag.ca.gov/system/files/Website%20Notification_2.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Wendy’s recently reported additional malicious cyber activity involving some franchisee-operated
+restaurants. The Company believes this criminal cyberattack resulted from a service provider’s remote
+access credentials being compromised, allowing access – and the ability to deploy malware – to some
+franchisees’ POS systems. Soon after detecting the malware, Wendy’s identified a method of disabling
+it and thereafter has disabled the malware in all franchisee restaurants where it has been discovered. The
+investigation has confirmed that criminals used malware believed to have been effectively deployed on
+some Wendy’s franchisee systems starting in late fall 2015. 
+</details>
+## RealSelf, Inc.
+<p class="hidden"></p>
+[December 25, 2015](https://oag.ca.gov/system/files/RealSelf%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## RateMyProfessors.com LLC
+<p class="hidden"></p>
+[November 26, 2015](https://oag.ca.gov/system/files/RateMyProfessors%20User%20Notification%2020160106%20-%20Attach%20to%20California%20AG%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDB
+</details>
+## ROBERT SOPER, M.D.
+<p class="hidden"></p>
+[June 27, 2015](https://oag.ca.gov/system/files/SOPER%20NOTIFICATION%20LETTER_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Rea.deeming Beauty Inc. d/b/a beautyblender
+<p class="hidden"></p>
+[April 23, 2015](https://oag.ca.gov/system/files/Rea.deeming%20Beauty%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Beautyblender was recently contacted by two customers reporting fraud on
+credit cards used to make purchases on our site. We immediately launched an internal
+investigation and contacted our website hosting company. The website hosting company
+discovered what it believed was a form of malicious code on our site on October 26, 2017 which
+it then removed. A third party forensic investigator was also retained to assist with our
+investigation. On November 27, 2017, the forensic investigator confirmed that the malware
+inserted into our website collected certain payment card information used at checkout. The
+forensic investigator then began efforts to determine when the malware was placed on our
+website. Unfortunately, due to the lack of backups of our website that were available from our
+website hosting company, we have been unable to confirm the date that the malware was placed
+on our website.
+</details>
+## Rob Kirby, CPA
+<p class="hidden"></p>
+[December 19, 2014](https://oag.ca.gov/system/files/Security%20Breach%20Notification_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Riverside County Regional Medical Center (RCRMC)
+<p class="hidden"></p>
+[November 26, 2014](https://oag.ca.gov/system/files/Adult%20SSN%20Sample_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Rosen Hotels & Resorts
+<p class="hidden"></p>
+[September 02, 2014](https://oag.ca.gov/system/files/CA%20-%20Rosen%20AG%20Notification_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We received unconfirmed reports on February 3, 2016 of a pattern of unauthorized
+charges occurring on payment cards after they had been used by some of our guests during
+their stay. We immediately initiated an investigation into these reports and hired a leading
+cyber security firm to examine our payment card processing system. Findings from the
+investigation show that an unauthorized person installed malware in RH&R’s payment card
+network that searched for data read from the magnetic stripe of payment cards as it was
+routed through the affected systems. 
+</details>
+## Recreational Equipment Inc.
+<p class="hidden"></p>
+[July 04, 2014](https://oag.ca.gov/system/files/REI%20Notice_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Riverside County Regional Medical Center
+<p class="hidden"></p>
+[June 17, 2014](https://oag.ca.gov/system/files/Riverside%20County%20Med%20Center%206_24_14_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Riverside Community College District
+<p class="hidden"></p>
+[May 30, 2014](https://oag.ca.gov/system/files/Riverside%20Adult%20Notice_0.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Record Assist LLC
+<p class="hidden"></p>
+[May 28, 2014](https://oag.ca.gov/system/files/AllOtherStates_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Robert Meaglia, DDS
+<p class="hidden"></p>
+[December 16, 2013](https://oag.ca.gov/system/files/scan2_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## R.T. Jones Capital Management Equities
+<p class="hidden"></p>
+[July 22, 2013](https://oag.ca.gov/system/files/Cal%20ex%20A_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Reeves International, Inc.
+<p class="hidden"></p>
+[March 31, 2013](https://oag.ca.gov/system/files/222309%20Reeves%20%28Non-Mass%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Rollins, Inc.
+<p class="hidden"></p>
+[March 04, 2013](https://oag.ca.gov/system/files/Rollins%20Ad_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Roy's Holdings, Inc.
+<p class="hidden"></p>
+[January 28, 2013](https://oag.ca.gov/system/files/nldh-prolaw%20nldh%20com_Exchange_07-05-2013_15-47-37_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Rosenthal Collins Group, LLC
+<p class="hidden"></p>
+[November 27, 2012](https://oag.ca.gov/system/files/Consumer%20Letter%20%28FINAL%2047-state%20letter%29_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On Tuesday morning, November 27, RCG detected unauthorized access to personal information contained in an RCG web
+application. The unauthorized access began late Monday night and was detected by RCG Tuesday morning. Access to the
+web application (https:\\accountforms.rcgdirect.com) was shut down immediately and the unauthorized access was
+terminated. RCG conducted an internal investigation and is working with law enforcement and security professionals to
+identify the person(s) responsible for the unauthorized access.
+</details>
+## Reyes Beverage Group
+<p class="hidden"></p>
+[November 09, 2012](https://oag.ca.gov/system/files/RBGDataBreachLetterFINAL_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Rentpath, Inc., formerly knwon as Primedia, Inc.
+<p class="hidden"></p>
+[June 20, 2012](https://oag.ca.gov/system/files/RentPath%20Notice%205.31.13_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## River Arch Dental/Hamner Square Dental
+<p class="hidden"></p>
+[May 18, 2012](https://oag.ca.gov/system/files/River%20Arch%20Notification%20Attorney%20General_2.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Rent-A-Center, Inc.
+<p class="hidden"></p>
+[April 01, 2012](https://oag.ca.gov/system/files/RentACenter%20Notification%20Letter.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Rubio's Restaurants, Inc.
+<p class="hidden"></p>
+[February 05, 2012](https://oag.ca.gov/system/files/Blank%20Notification%20Letters.PDF) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## RJL Insurance Services
+<p class="hidden"></p>
+[October 01, 2011](https://oag.ca.gov/system/files/RJL%20NotificationLetter%20Basic%201.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Ronald L Wolfe & Associates Inc.
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/RLWA%20Data%20Breach%20Notice.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On March 5, 2020, the Santa Barbara Police Department first notified us that data thieves, operating out
+of San Diego, breached the secured online data base of several companies, including that of Ronald L. Wolfe and
+Associates, Inc. (“Wolfe & Associates, Property Services”). We were advised that it is possible the breach may have
+occurred as much as six months ago, and that the alleged culprits have since been arrested. The Santa Barbara
+Police Department has been investigating the matter and informed us that the thieves likely used “strong-arm”
+tactics to force breaching of security measures that were in place.
+</details>
+## Redtail Technology, Inc.
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/California%20-%20Breach%20Notification%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On March 4, 2019, we discovered that our logging systems inadvertently captured a small subset of personal
+information that we store for advisors and retained the data in a debug log file that was accessible to Internet
+users. We are working hard and increasing our efforts to help safeguard your personal data that is in our custody
+and protect it from future incidents.
+</details>
+## Regency Theatres
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/RegencyDataBreachAllClear_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+At the beginning of June, we discovered that in January, 2018, information on the www.regencymovies.com
+website was accessed by an unauthorized third party
+</details>
+## Rebecca Minkoff
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Pages%20from%20REV3_EXPERIAN_C2679_NOTICE_LETTER_TO_CONSUMERS_%28GENERAL%29%5B3%5D.DOCX_LIVEAUDIT_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDB
+</details>
+## Round Pond Estates
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Round%20Pond%20Breach%20Notification%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Rhys Vineyards
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Rhys%20ecellar%20breach%20notification_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Repris Vineyards
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Repris%20Missing%20Link%20Breach%20Notification%20Letter%20Final_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Rombauer Vineyards, Inc.
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/eCellars%20Customer%20Letter_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## REEVE-WOODS EYE CENTER
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/3041402_1_0.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## RR Donnelley
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Notification%20Letter_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+## Regions Financial Corporation
+<p class="hidden"></p>
+[](https://oag.ca.gov/system/files/Sample%20Letter.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+TBDU
+</details>
+# S
+## Sam's Club
+<p class="hidden"></p>
+[September 24, 2020](https://oag.ca.gov/system/files/Sams%20Club%20-%20Individual%20Notification%20Letter%20Template.pdf) | Ransomware
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+We recently learned that, in mid-September, an unauthorized party used your login credentials (email address and password) to access your Sam's Club account. Based on our investigation, the credential
+s used did not come from Sam's Club. Instead, it is likely that your credentials were taken from another source, for example another company's website, where you may have used the same or similar login information. The unauthorized party may have used this login information to conduct fraudulent transactions involving your Sam's Club Cash Rewards.
+</details>
+## Southbeachsmoke.com; directvapor.com; vaporfi.com
+<p class="hidden"></p>
+[September 14, 2020](https://oag.ca.gov/system/files/Southbeachsmoke%2Cdirectvapor%2Cvaporfi_1.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On September 23, 2020, SBS became aware of suspicious activity associated with its online check-out page. We
+immediately began an internal investigation and determined that an unauthorized user may have gained access to
+information entered into the check-out page of Southbeachsmoke.com between September 14, 2020 through September 23,
+2020. On October 13, 2020, we completed our investigation and determined that your information may have been impacted
+by this incident.
+</details>
+## Sonoma Valley Healthcare District
+<p class="hidden"></p>
+[September 10, 2020](https://oag.ca.gov/system/files/Sonoma%20Valley%20Health%20Ad%20No%20CM%20r1prf.pdf) | Ransomware
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+SVH experienced a ransomware cyberattack on October 11, 2020 by what is believed to be a Russian “threat actor.” This event was part of a broader attack on dozens of hospitals across the country. We discovered the attack on that same day and immediately responded by shutting down all systems to contain the damage. We promptly notified law enforcement of the incident and engaged a leading external cybersecurity firm to assess the potential disclosure of protected health information.<br><br>
+
+In a ransomware attack, cybercriminals attempt to disrupt the business by locking companies out of their own data and servers. After discovering the attack, our cyber security team – in partnership with outside information technology and forensics experts – successfully prevented the cybercriminal from blocking our system access and ultimately expelled them from our system. As recommended, SVH did not pay ransom.
+</details>
+## Southern Mono Healthcare District d/b/a Mammoth Hospital
+<p class="hidden"></p>
+[September 5, 2020](https://oag.ca.gov/system/files/Notice%20of%20Unauthorized%20Access%20to%20Medical%20Information%20%28Template%20for%20SSN%20disclosure%29.pdf) | Laptop Stolen
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The incident occurred on 09/05/2020. Mammoth Hospital was notified on that date. A laptop of a Mammoth Hospital staff member was stolen from a vehicle.
+</details>
+## SiteOne Landscape Supply, Inc.
+<p class="hidden"></p>
+[July 2, 2020](https://oag.ca.gov/system/files/SiteOne%20-%20California%20Notice.pdf) | Network Compromise
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Upon identifying the incident on July 14, 2020, we immediately took steps to protect and secure our systems and launched an investigation. Through our investigation, we determined that an unauthorized party gained access to our IT network between July 2, 2020 and July 14, 2020, and removed certain files.
+</details>
+## Sonoma Recovery Services, LLC d/b/a Olympia House
+<p class="hidden"></p>
+[July 1, 2020](https://oag.ca.gov/system/files/Sonoma%20Recovery%20Services%2C%20LLC%20-%20Notice.pdf) | Unauthorized Access
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On August 7, 2020, Olympia House was alerted to suspicious behavior within its network. Olympia House immediately began an investigation to determine the nature and scope of the event. This investigation included working with third-party forensic experts. Once Olympia House systems were secure, our efforts focused on determining what information was impacted, to whom the information related, and valid address information for those individuals to provide notice of the event.  The investigation determined that certain files within the Olympia House system were accessed without authorization between July 1, 2020 through August 7, 2020.
+</details>
+## Salinas Valley Memorial Healthcare System
+<p class="hidden"></p>
+[April 29, 2020](https://oag.ca.gov/system/files/SVMHS%20-%20Form%20of%20Patient%20Notification%20%28L01%29%20%20PDF.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On April 30, 2020, SVMHS determined that the email account of one of its employees had been
+compromised. On May 7, 2020 and June 5, 2020 respectively, SVMHS subsequently determined that
+email accounts of a contractor and three other employees were also compromised. These five email
+accounts were compromised through Outlook Web Access, SVMHS’s browser-based email access
+solution.
+</details>
+<p class="hidden"></p>
+[April 24, 2020](https://oag.ca.gov/system/files/SVMHS%20Form%20of%20Patient%20Notification%20%28L01%29.pdf) | Compromise
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On April 30, 2020, SVMHS determined that the email account of one of its employees had been compromised.  On May 7, 2020 and June 5, 2020 respectively, SVMHS subsequently determined that email accounts of a contractor and three other employees were also compromised. These five email accounts were compromised through Outlook Web Access, SVMHS’s browser-based email access solution.
+</details>
+## Steel Partners
+<p class="hidden"></p>
+[April 18, 2020](https://oag.ca.gov/system/files/2020-11-18%20FINAL%20Steel%20Partners%20Resident%20Notification%20Letter%20III.pdf) | Email Compromise
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Steel Partners discovered unauthorized activity in the email account of one of its employees and immediately initiated an investigation, which identified unauthorized access to that email account.  Steel Partners locked the account and promptly engaged a forensic security firm to assist. The investigation identified that the method by which the email account was accessed allowed for a local download of the entire mailbox. On May 29, 2020, it was determined that there were documents within the employee’s email account that contained personal information. A broader review of our systems indicated that only one email account was impacted. We are notifying you because some of your personal information was contained in documents within the Steel Partners employee’s email account.
+</details>
+## Steel Partners Holdings L.P.
+<p class="hidden"></p>
+[April 18, 2020](https://oag.ca.gov/system/files/2020-11-18%20FINAL%20Steel%20Partners%20Resident%20Notification%20Letter%20III.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+Steel Partners discovered unauthorized activity in the email account of one of its employees and
+immediately initiated an investigation, which identified unauthorized access to that email account.
+Steel Partners locked the account and promptly engaged a forensic security firm to assist. The
+investigation identified that the method by which the email account was accessed allowed for a
+local download of the entire mailbox. On May 29, 2020, it was determined that there were
+documents within the employee’s email account that contained personal information. A broader
+review of our systems indicated that only one email account was impacted. We are notifying you
+because some of your personal information was contained in documents within the Steel Partners
+employee’s email account.
+</details>
+## Stockpile, Inc.
+<p class="hidden"></p>
+[April 17, 2020](https://oag.ca.gov/system/files/EXPERIAN_F6848_Stockpile%20-%20Breach%20Notification%20Letter.pdf) | Unauthorized Access
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On or about July 9, 2020, Stockpile discovered that an unauthorized person gained access to a folder in its cloud environment containing personal information collected as part of Stockpile’s registration process. As a result, the unauthorized third party may have viewed certain elements of your personal information. The incident occurred potentially as early as April 17, 2020, and Stockpile recently identified you as a potentially affected individual.
+</details>
+## Spotify USA Inc.
+<p class="hidden"></p>
+[April 9, 2020](https://oag.ca.gov/system/files/Copy%20of%20Spotify%20Breach%20Notice%20Letter%20%28CALIFORNIA%29.DOCX_.pdf) | Vulnerability
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On Thursday November 12th, Spotify discovered a vulnerability in our system that inadvertently exposed your Spotify account registration information, which may have included email address, your preferred display name, password, gender, and date of birth only to certain business partners of Spotify. Spotify did not make this information publicly accessible. We estimate that this vulnerability existed as of April 9, 2020 until we discovered it on November 12, 2020, when we took immediate steps to correct it.
+</details>
+## San Dieguito Union High School District
+<p class="hidden"></p>
+[April 1, 2020](https://oag.ca.gov/system/files/AB279_v01.pdf) | Database Compromise
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On January 28th, 2020, San Dieguito alerted Aeries that their database may have been potentially subject to unauthorized access. We immediately launched an investigation into the nature and scope of the incident and took measures to secure the database. We also assisted San Dieguito and its forensic experts with their investigation into the incident. On February 25, 2020, the forensic investigations revealed that San Dieguito’s Aeries database was subject to unauthorized access from April 2019 to January 2020. San Dieguito undertook a labor-intensive review of the affected database to determine the scope of personal information contained within. San Dieguito has asked Aeries to notify you out of an abundance of caution because your information was present in the affected database.
+</details>
+<p class="hidden"></p>
+[July 01, 2019](https://oag.ca.gov/system/files/SDUHSD%20-%20Notice%20of%20Data%20Event.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+SDUHSD became aware of unusual activity related to certain employees’ email accounts. SDUHSD
+immediately launched an investigation, with the aid of forensic experts, to determine the nature and the scope of the
+activity. SDUHSD learned of unauthorized access to certain employees’ email accounts. The unauthorized access
+occurred between July 1, 2019 to July 17, 2019. SDUHSD undertook a lengthy and labor-intensive process to identify
+the personal information contained in the affected email accounts along with the contact information for the affected
+individuals. While the investigation was unable to determine the scope of information that was actually accessed within
+the affected email accounts, SDUHSD is notifying you in an abundance of caution because we have confirmed that your
+information was present in the affected email accounts.
+</details>
+<p class="hidden"></p>
+[April 01, 2019](https://oag.ca.gov/system/files/AB279_v01.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On January 28th, 2020, San Dieguito alerted Aeries that their database may have been potentially
+subject to unauthorized access. We immediately launched an investigation into the nature and scope of the incident and
+took measures to secure the database. We also assisted San Dieguito and its forensic experts with their investigation
+into the incident. On February 25, 2020, the forensic investigations revealed that San Dieguito’s Aeries database was
+subject to unauthorized access from April 2019 to January 2020. San Dieguito undertook a labor-intensive review of
+the affected database to determine the scope of personal information contained within. San Dieguito has asked Aeries
+to notify you out of an abundance of caution because your information was present in the affected database. 
+</details>
+## SFO
+<p class="hidden"></p>
+[March 05, 2020](https://oag.ca.gov/system/files/Notice%20to%20CA.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+SFOConnect.com and SFOConstruction.com were the targets of a cyberattack in March 2020.
+The attackers inserted malicious computer code on these websites to steal some users’ login
+credentials. 
+
+</details>
+## St. Paul Center for Biblical Theology
+<p class="hidden"></p>
+[March 3, 2020](https://oag.ca.gov/system/files/SPC%20INDIVIDUAL%20NOTICE%20LETTER%20%20BLANK%20%28Y0188181xBD6FB%29.pdf) | Website Compromise
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+On August 20, 2020, St. Paul Center received notice from a payment processing vendor that our website (http://www.stpaulcenter.com) was a common point of purchase for some unauthorized payment card transactions and that there may have been a possible compromise of our website. We investigated to find out what happened, to prevent something like this from happening again, and to provide notice to potentially affected individuals.<br><br>
+
+We determined that a cyber-criminal installed malware in software that we use to enhance our online purchasing. The malware permitted the unauthorized collection or “scraping” of certain payment card data provided through the website. We believe the incident only involved customers who made purchases or donations on the website between March 3, 2020 and August 9, 2020. On August 26, 2020, we determined that the incident may have involved your personal information because you made a payment card purchase or donation using our website during that time period.
+</details>
+## San Francisco Employees' Retirement System
+<p class="hidden"></p>
+[February 24, 2020](https://oag.ca.gov/system/files/10up%20Breach%20-%20SFERS%20Notice%20Website%20FINAL.pdf) | CAUSE
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+The Retirement System contracts with vendors to provide SFERS members with on‐
+line access to their account information.  One of the vendors, 10up Inc., set up a test
+environment on a separate computer server which included a database containing
+data from approximately 74,000 SFERS member accounts as of August 29, 2018.  The
+server data was not subsequently updated.
+</details>
+## STRATA Trust Company
+<p class="hidden"></p>
+[February 10, 2020](https://oag.ca.gov/system/files/Frontier%20Bancshares%20-%20Consumer%20Notification%20Letter%20%28California%29_1.pdf) | Email Compromise
+{: .fs-4 .fw-700 .lh-0  }
+<details>
+  <summary>Abstract</summary>
+STRATA recently detected unusual activity involving an employee email account. Upon detecting a potential incident, we took immediate steps to contain the incident and launched an investigation to determine whether it involved any unauthorized access to personal information. Our investigation included retaining a digital forensics firm to assist. On May 21, 2020, we determined that your personal information could have been accessed in the incident. This access, if any, may have occurred in early February 2020. We therefore are notifying you of the incident, providing you with steps you can take to help protect your personal information, and offering you complimentary identity monitoring services for 12 months.
+</details>
