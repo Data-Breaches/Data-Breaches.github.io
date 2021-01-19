@@ -1278,7 +1278,7 @@ inadvertent access.
 </details>
 ## Areas
 <p class="hidden"></p>
-[April 04, 2016](https://oag.ca.gov/system/files/CA%20Sample%20Notification_0.pdf) | CAUSE
+[April 04, 2016](https://oag.ca.gov/system/files/CA%20Sample%20Notification_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1286,7 +1286,7 @@ On April 29, 2016, Areas learned it was the target of an email phishing scheme w
 </details>
 ## Advance International Marketing, Inc.
 <p class="hidden"></p>
-[April 04, 2016](https://oag.ca.gov/system/files/CA_0.pdf) | CAUSE
+[April 04, 2016](https://oag.ca.gov/system/files/CA_0.pdf) | Vulnerability
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1295,7 +1295,7 @@ firm, and alerted law enforcement. The investigation determined that the unautho
 </details>
 ## Aspiranet
 <p class="hidden"></p>
-[March 21, 2016](https://oag.ca.gov/system/files/W2%20Incident%20-%20notice%20attachment_0.pdf) | CAUSE
+[March 21, 2016](https://oag.ca.gov/system/files/W2%20Incident%20-%20notice%20attachment_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1305,7 +1305,7 @@ filing available to a third party.
 </details>
 ## Advance Auto Parts, Inc
 <p class="hidden"></p>
-[March 07, 2016](https://oag.ca.gov/system/files/ACID_PRINTERPROOFS.NOTICE%20LETTER_0.pdf) | CAUSE
+[March 07, 2016](https://oag.ca.gov/system/files/ACID_PRINTERPROOFS.NOTICE%20LETTER_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1317,7 +1317,7 @@ obtained through a breach of Advance’s information systems.
 </details>
 ## Academy of Art Unversity
 <p class="hidden"></p>
-[March 04, 2016](https://oag.ca.gov/system/files/Academy%20of%20Art%20Notice%20Letter%20%28002%29_0.pdf) | CAUSE
+[March 04, 2016](https://oag.ca.gov/system/files/Academy%20of%20Art%20Notice%20Letter%20%28002%29_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1326,7 +1326,7 @@ the recipient/employee wrongly believed the e-mail to contain a valid request fr
 </details>
 ## Aptos Inc.
 <p class="hidden"></p>
-[February 01, 2016](https://oag.ca.gov/system/files/Mrs_Prindables_California_Courtesy_Notice_0.pdf) | CAUSE
+[February 01, 2016](https://oag.ca.gov/system/files/Mrs_Prindables_California_Courtesy_Notice_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1340,7 +1340,7 @@ investigating the incident to delay notification to allow the investigation to m
 </details>
 ## Amaash Corporation
 <p class="hidden"></p>
-[December 02, 2015](https://oag.ca.gov/system/files/Website%20Notification_11.pdf) | CAUSE
+[December 02, 2015](https://oag.ca.gov/system/files/Website%20Notification_11.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1354,7 +1354,7 @@ some Wendy’s franchisee systems starting in late fall 2015.
 </details>
 ## Avis Budget Group
 <p class="hidden"></p>
-[October 02, 2015](https://oag.ca.gov/system/files/Employee%20Notification%20Letter%20-%20Final%20%282%29_0.pdf) | CAUSE
+[October 02, 2015](https://oag.ca.gov/system/files/Employee%20Notification%20Letter%20-%20Final%20%282%29_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1369,7 +1369,7 @@ data	was	briefly	viewed	by	two	individuals	and	promptly	and	properly	deleted.
 </details>
 ## American Express Travel Related Services Company, Inc and /or its Affiliates (“AXP”)
 <p class="hidden"></p>
-[September 23, 2015](https://oag.ca.gov/system/files/C2015100305%20-%20Customer%20Letter%20-%20CA%20AG%20Online%20Submission_0.pdf) | CAUSE
+[September 23, 2015](https://oag.ca.gov/system/files/C2015100305%20-%20Customer%20Letter%20-%20CA%20AG%20Online%20Submission_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1380,7 +1380,7 @@ information, may have been involved. It is important to note that American Expre
 not compromised by this incident, and we are providing this notice to you as a precautionary measure.
 </details>
 <p class="hidden"></p>
-[April 23, 2015](https://oag.ca.gov/system/files/C2015060271%20-%20Customer%20Letter%20-%20CA%20AG%20Online%20Submission_0.pdf) | CAUSE
+[April 23, 2015](https://oag.ca.gov/system/files/C2015060271%20-%20Customer%20Letter%20-%20CA%20AG%20Online%20Submission_0.pdf) | IT Provider 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1392,49 +1392,49 @@ American Express owned or controlled systems were not compromised by this incide
 notice to you as a precautionary measure
 </details>
 <p class="hidden"></p>
-[March 22, 2015](https://oag.ca.gov/system/files/CA%20AG%20-%20Customer%20Letter%20-%20C2015060341_0.pdf) | CAUSE
+[March 22, 2015](https://oag.ca.gov/system/files/CA%20AG%20-%20Customer%20Letter%20-%20C2015060341_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 Protecting the security of our Card Members’ information is very important to us and we strive to let you know about security concerns as soon as possible. A third party service provider engaged by numerous merchants experienced unauthorized access to its system. As a result, account information of some of our Card Members, including some of your account information, may have been involved. It is important to note that American Express owned or controlled systems were not compromised by this incident, and we are providing this notice to you as a precautionary measure. At this time, we have been informed that your name and address, along with your current or previously issued American Express Card account number, expiration date, and four-digit security code (printed on the front of your Card), may have been compromised. Please be aware that you may receive additional letters from us if more than one of your American Express Card accounts were involved.
 </details>
 <p class="hidden"></p>
-[February 01, 2015](https://oag.ca.gov/system/files/CA%20AG%20Online%20Submission%20-%20Customer%20Letter%20-%20C2015050034_0.pdf) | CAUSE
+[February 01, 2015](https://oag.ca.gov/system/files/CA%20AG%20Online%20Submission%20-%20Customer%20Letter%20-%20C2015050034_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A company that provides payment processing services to numerous merchants has informed us that there has been unauthorized access to its processing system. As a result, account information of some of our Cardmembers, including some of your account information, may have been improperly accessed. 
 </details>
 <p class="hidden"></p>
-[January 20, 2015](https://oag.ca.gov/system/files/C2015050146%20CA%20AG%20Online%20Submission%20-%20Customer%20Letter_0.pdf) | CAUSE
+[January 20, 2015](https://oag.ca.gov/system/files/C2015050146%20CA%20AG%20Online%20Submission%20-%20Customer%20Letter_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to its data files. 
 </details>
 <p class="hidden"></p>
-[December 30, 2014](https://oag.ca.gov/system/files/CA%20AG%20Online%20-%20Customer%20Letter%20-%20C2015050188_0.pdf) | CAUSE
+[December 30, 2014](https://oag.ca.gov/system/files/CA%20AG%20Online%20-%20Customer%20Letter%20-%20C2015050188_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to its data files. 
 </details>
 <p class="hidden"></p>
-[December 21, 2014](https://oag.ca.gov/system/files/C2015020361%20CA%20AG%20-%20Customer%20Letter_0.pdf) | CAUSE
+[December 21, 2014](https://oag.ca.gov/system/files/C2015020361%20CA%20AG%20-%20Customer%20Letter_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 Protecting the security of our Card Members’ information is very important to us and we strive to let you know about security concerns as soon as possible. A third party service provider engaged by numerous merchants experienced unauthorized access to its system. As a result, account information of some of our Card Members, including some of your account information, may have been involved. It is important to note that American Express owned or controlled systems were not compromised by this incident, and we are providing this notice to you as a precautionary measure. At this time, we have been informed that your name and address, along with your current or previously issued American Express Card account number, expiration date, and four-digit security code (printed on the front of your Card), may have been compromised. Please be aware that you may receive additional letters from us if more than one of your American Express Card accounts were involved.
 </details>
 <p class="hidden"></p>
-[December 01, 2014](https://oag.ca.gov/system/files/CA%20AG%20Customer%20Letter%20-%20C2015030368_0.pdf) | CAUSE
+[December 01, 2014](https://oag.ca.gov/system/files/CA%20AG%20Customer%20Letter%20-%20C2015030368_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to its data files.
 </details>
 <p class="hidden"></p>
-[November 20, 2014](https://oag.ca.gov/system/files/C2015030179%20%20-%20Customer%20Letter%20-%20CA%20AG%20Online%20Submission_0.pdf) | CAUSE
+[November 20, 2014](https://oag.ca.gov/system/files/C2015030179%20%20-%20Customer%20Letter%20-%20CA%20AG%20Online%20Submission_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1445,28 +1445,28 @@ account information, may have been involved. It is important to note that Americ
 not compromised by this incident, and we are providing this notice to you as a precautionary measure.
 </details>
 <p class="hidden"></p>
-[November 02, 2014](https://oag.ca.gov/system/files/CA%20AG%20-%20Customer%20Letter%20-%20C2015010321_0.pdf) | CAUSE
+[November 02, 2014](https://oag.ca.gov/system/files/CA%20AG%20-%20Customer%20Letter%20-%20C2015010321_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A company that provides payment processing services to numerous merchants has informed us that there has been unauthorized access to its processing system. As a result, account information of some of our Cardmembers, including some of your account information, may have been improperly accessed.
 </details>
 <p class="hidden"></p>
-[October 18, 2014](https://oag.ca.gov/system/files/CA%20AG%20Online%20Submission%20-%20Customer%20Letter_C2015080150_0.pdf) | CAUSE
+[October 18, 2014](https://oag.ca.gov/system/files/CA%20AG%20Online%20Submission%20-%20Customer%20Letter_C2015080150_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to its data files. 
 </details>
 <p class="hidden"></p>
-[August 07, 2014](https://oag.ca.gov/system/files/CA%20AG%20-%20Customer%20Letter-%20C2015080219_0.pdf) | CAUSE
+[August 07, 2014](https://oag.ca.gov/system/files/CA%20AG%20-%20Customer%20Letter-%20C2015080219_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to their website files. 
 </details>
 <p class="hidden"></p>
-[June 02, 2014](https://oag.ca.gov/system/files/C2014100066%20Customer%20Letter%20-%20CA%20AG%20Online%20Submission_0.pdf) | CAUSE
+[June 02, 2014](https://oag.ca.gov/system/files/C2014100066%20Customer%20Letter%20-%20CA%20AG%20Online%20Submission_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1477,35 +1477,35 @@ involved. It is important to note that American Express owned or controlled syst
 and we are providing this notice to you as a precautionary measure
 </details>
 <p class="hidden"></p>
-[May 19, 2014](https://oag.ca.gov/system/files/CA%20AG%20Customer%20Letter%20-%20C2015060086_0.pdf) | CAUSE
+[May 19, 2014](https://oag.ca.gov/system/files/CA%20AG%20Customer%20Letter%20-%20C2015060086_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to its data files. 
 </details>
 <p class="hidden"></p>
-[April 29, 2014](https://oag.ca.gov/system/files/C2015080328%20-%20Customer%20Letter%20-%20CA%20AG%20Online%20Submission_0.pdf) | CAUSE
+[April 29, 2014](https://oag.ca.gov/system/files/C2015080328%20-%20Customer%20Letter%20-%20CA%20AG%20Online%20Submission_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to its data files. 
 </details>
 <p class="hidden"></p>
-[April 14, 2014](https://oag.ca.gov/system/files/C2015020110%20CA%20AG%20-%20Customer%20Notice_0.pdf) | CAUSE
+[April 14, 2014](https://oag.ca.gov/system/files/C2015020110%20CA%20AG%20-%20Customer%20Notice_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to its data files. 
 </details>
 <p class="hidden"></p>
-[April 12, 2014](https://oag.ca.gov/system/files/CA%20AG%20Online%20Submission-Customer%20Letter-%20C2015050304_0.pdf) | CAUSE
+[April 12, 2014](https://oag.ca.gov/system/files/CA%20AG%20Online%20Submission-Customer%20Letter-%20C2015050304_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to their website files. 
 </details>
 <p class="hidden"></p>
-[December 07, 2013](https://oag.ca.gov/system/files/AMEX%2060413%20updated%20Customer%20Notice%20-%20C2015090247_0.pdf) | CAUSE
+[December 07, 2013](https://oag.ca.gov/system/files/AMEX%2060413%20updated%20Customer%20Notice%20-%20C2015090247_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1516,217 +1516,217 @@ important to note that American Express owned or controlled systems were not com
 this notice to you as a precautionary measure
 </details>
 <p class="hidden"></p>
-[July 06, 2013](https://oag.ca.gov/system/files/Customer%20Notification%20Letter%20-%20C2014070210_0.pdf) | CAUSE
+[July 06, 2013](https://oag.ca.gov/system/files/Customer%20Notification%20Letter%20-%20C2014070210_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to its data files.
 </details>
 <p class="hidden"></p>
-[June 13, 2013](https://oag.ca.gov/system/files/C2014060203%20-%20CA%20AG%20-%20Customer%20Notice_0.pdf) | CAUSE
+[June 13, 2013](https://oag.ca.gov/system/files/C2014060203%20-%20CA%20AG%20-%20Customer%20Notice_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to their website files.
 </details>
 <p class="hidden"></p>
-[May 28, 2013](https://oag.ca.gov/system/files/Website%20Server%20Active%20CM%20Letter_%28WSC%29_EN_Final_0.pdf) | CAUSE
+[May 28, 2013](https://oag.ca.gov/system/files/Website%20Server%20Active%20CM%20Letter_%28WSC%29_EN_Final_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to their website files. 
 </details>
 <p class="hidden"></p>
-[April 09, 2013](https://oag.ca.gov/system/files/Recovered%20Data_Active%20CM%20Letter_%28RDC%29_EN_Final_172013_0.pdf) | CAUSE
+[April 09, 2013](https://oag.ca.gov/system/files/Recovered%20Data_Active%20CM%20Letter_%28RDC%29_EN_Final_172013_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. We were recently made aware that your American Express Card information was recovered during an investigation by law enforcement and/or American Express.
 </details>
 <p class="hidden"></p>
-[March 08, 2013](https://oag.ca.gov/system/files/Amex%20White%20Lodging-C2014050213%20CA%20AG%20Letter_Customer%20Letter_0.pdf) | CAUSE
+[March 08, 2013](https://oag.ca.gov/system/files/Amex%20White%20Lodging-C2014050213%20CA%20AG%20Letter_Customer%20Letter_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to its data files.
 </details>
 <p class="hidden"></p>
-[February 10, 2013](https://oag.ca.gov/system/files/Data%20Server_Active%20CM%20Letter_%28MSC%29_EN_Final_0.pdf) | CAUSE
+[February 10, 2013](https://oag.ca.gov/system/files/Data%20Server_Active%20CM%20Letter_%28MSC%29_EN_Final_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to its data files.
 </details>
 <p class="hidden"></p>
-[February 01, 2013](https://oag.ca.gov/system/files/CA%20AG_Roys%20Holdings_C2013057989_customer%20letter%20ADO1_0.pdf) | CAUSE
+[February 01, 2013](https://oag.ca.gov/system/files/CA%20AG_Roys%20Holdings_C2013057989_customer%20letter%20ADO1_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to its data files.
 </details>
 <p class="hidden"></p>
-[January 17, 2013](https://oag.ca.gov/system/files/Sprouts-C2013027013%20CA%20AG%20Letter_Customer%20Letter_0.pdf) | CAUSE
+[January 17, 2013](https://oag.ca.gov/system/files/Sprouts-C2013027013%20CA%20AG%20Letter_Customer%20Letter_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 American Express is strongly committed to the security of all our Cardmembers’ information and wants to inform you that a merchant where you have used your American Express Card for payment detected unauthorized access to its data files. 
 </details>
 <p class="hidden"></p>
-[January 15, 2013](https://oag.ca.gov/system/files/Celerant-C2013068451%20CA%20Customer%20Letter_0.pdf) | CAUSE
+[January 15, 2013](https://oag.ca.gov/system/files/Celerant-C2013068451%20CA%20Customer%20Letter_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A company that provides payment processing services to numerous merchants has informed us that there has been unauthorized access to its processing system. As a result, account information of some of our Cardmembers, including some of your account information, may have been improperly accessed. 
 </details>
 <p class="hidden"></p>
-[December 21, 2012](https://oag.ca.gov/system/files/Shoplet%20Merchant%20Notification%20C2013026933_0.pdf) | CAUSE
+[December 21, 2012](https://oag.ca.gov/system/files/Shoplet%20Merchant%20Notification%20C2013026933_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned of a security incident that may have resulted in the disclosure of the credit card information, names, and addresses associated with your account. As a reminder, we do not collect your social security number or date of birth. We take the security of your information very seriously, and sincerely apologize for any inconvenience this may cause you.
 </details>
 <p class="hidden"></p>
-[December 19, 2012](https://oag.ca.gov/system/files/Tennis%20Express-C2013016801%20CA%20AG%20Letter_online%20submission_0.pdf) | CAUSE
+[December 19, 2012](https://oag.ca.gov/system/files/Tennis%20Express-C2013016801%20CA%20AG%20Letter_online%20submission_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to their website files.
 </details>
 <p class="hidden"></p>
-[November 01, 2012](https://oag.ca.gov/system/files/Data%20Server_Active%20CM%20Letter_%28MSC%29_EN_Final_1.pdf) | CAUSE
+[November 01, 2012](https://oag.ca.gov/system/files/Data%20Server_Active%20CM%20Letter_%28MSC%29_EN_Final_1.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to its data files. 
 </details>
 <p class="hidden"></p>
-[October 16, 2012](https://oag.ca.gov/system/files/Fabric%20Depot-C2013027035%20CA%20-%20Merchant%20letter_0.pdf) | CAUSE
+[October 16, 2012](https://oag.ca.gov/system/files/Fabric%20Depot-C2013027035%20CA%20-%20Merchant%20letter_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 On January 7, 2013. I learned of a data security incident that may have resulted in the disclosure of the credit card information names, and billing address associated with your online purchase. Shorty after the learning of the incident, we retained a forensic computer investigator, who determined that on or about October 16, 2012, and unauthorized third party gained access to our website and data system. 
 </details>
 <p class="hidden"></p>
-[September 01, 2012](https://oag.ca.gov/system/files/EJ%20PHAIR%20BREWING%20CO%20and%20ALE%20HOUS-C2012116470%20CA%20AG%20Letter_customer%20notice_0.pdf) | CAUSE
+[September 01, 2012](https://oag.ca.gov/system/files/EJ%20PHAIR%20BREWING%20CO%20and%20ALE%20HOUS-C2012116470%20CA%20AG%20Letter_customer%20notice_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to its data files. 
 </details>
 <p class="hidden"></p>
-[August 03, 2012](https://oag.ca.gov/system/files/AmEx%20Paygate-C2012095824%20CA%20AG%20Letter%5Bx%5D_0.pdf) | CAUSE
+[August 03, 2012](https://oag.ca.gov/system/files/AmEx%20Paygate-C2012095824%20CA%20AG%20Letter%5Bx%5D_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 American Express is strongly committed to the security of all our Cardmembers’ information and wants to inform you that a merchant where you have used your American Express Card for payment detected unauthorized access to their website. 
 </details>
 <p class="hidden"></p>
-[June 26, 2012](https://oag.ca.gov/system/files/Recoverd%20Cards_AD01_Active%20%28RDCSBMMYY%29%20CM%20Letter_Final_032912_1.pdf) | CAUSE
+[June 26, 2012](https://oag.ca.gov/system/files/Recoverd%20Cards_AD01_Active%20%28RDCSBMMYY%29%20CM%20Letter_Final_032912_1.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 American Express is strongly committed to the security of all our Cardmembers’ information. We have recently been made aware that your American Express Card information was recovered during the course of an investigation by law enforcement and/or American Express. At this time, we believe the affected data included your American Express Card account number, your name and the expiration date on your card.  Importantly, your Social Security number is not impacted, and our systems do not show any indication of unauthorized activity on your Card account related to this incident. 
 </details>
 <p class="hidden"></p>
-[June 13, 2012](https://oag.ca.gov/system/files/Website%20Server%20Active%20CM%20Letter_%28WSC%29_EN_Final_1.pdf) | CAUSE
+[June 13, 2012](https://oag.ca.gov/system/files/Website%20Server%20Active%20CM%20Letter_%28WSC%29_EN_Final_1.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to their website files. 
 </details>
 <p class="hidden"></p>
-[June 03, 2012](https://oag.ca.gov/system/files/80sTees.com-C2013037430%20CA%20Customer%20Letter_0.pdf) | CAUSE
+[June 03, 2012](https://oag.ca.gov/system/files/80sTees.com-C2013037430%20CA%20Customer%20Letter_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to their website files. 
 </details>
 <p class="hidden"></p>
-[May 21, 2012](https://oag.ca.gov/system/files/Pages%20from%20USC%20Hospitality-C2012065283%20CA%20AG%20Letter_0.pdf) | CAUSE
+[May 21, 2012](https://oag.ca.gov/system/files/Pages%20from%20USC%20Hospitality-C2012065283%20CA%20AG%20Letter_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 American Express is strongly committed to the security of all our Cardmembers’ information and wants to inform you that a merchant where you have used your American Express Card for payment detected unauthorized access to its data files.
 </details>
 <p class="hidden"></p>
-[April 02, 2012](https://oag.ca.gov/system/files/Chaparral_CM%20Letter_Final_071912_0.pdf) | CAUSE
+[April 02, 2012](https://oag.ca.gov/system/files/Chaparral_CM%20Letter_Final_071912_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 American Express is strongly committed to the security of all our Cardmembers’ information and wants to inform you that a merchant where you have used your American Express Card for payment detected unauthorized access to its data files.
 </details>
 <p class="hidden"></p>
-[April 01, 2012](https://oag.ca.gov/system/files/Website%20Data%20Server_AD01_Active%20%28WSCSBMMYY%29%20CM%20Letter_Final_071912_0.pdf) | CAUSE
+[April 01, 2012](https://oag.ca.gov/system/files/Website%20Data%20Server_AD01_Active%20%28WSCSBMMYY%29%20CM%20Letter_Final_071912_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 American Express is strongly committed to the security of all our Cardmembers’ information and wants to inform you that a merchant where you have used your American Express Card for payment detected unauthorized access to their website.
 </details>
 <p class="hidden"></p>
-[March 02, 2012](https://oag.ca.gov/system/files/Creative%20Croisants%20-%20LAX%20-%20C2012075344_Customer%20Letter_0.pdf) | CAUSE
+[March 02, 2012](https://oag.ca.gov/system/files/Creative%20Croisants%20-%20LAX%20-%20C2012075344_Customer%20Letter_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 American Express is strongly committed to the security of all our Cardmembers’ information and wants to inform you that a merchant where you have used your American Express Card for payment detected unauthorized access to its data files.
 </details>
 <p class="hidden"></p>
-[February 02, 2012](https://oag.ca.gov/system/files/La%20Condesa_AD01_Active%20CM%20Letter_Final_071912_0.pdf) | CAUSE
+[February 02, 2012](https://oag.ca.gov/system/files/La%20Condesa_AD01_Active%20CM%20Letter_Final_071912_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 American Express is strongly committed to the security of all our Cardmembers’ information and wants to inform you that a merchant where you have used your American Express Card for payment detected unauthorized access to its data files. 
 </details>
 <p class="hidden"></p>
-[January 17, 2012](https://oag.ca.gov/system/files/Paragon%20Solution%20Network%201ink-C2013068305%20CA%20AG%20Letter_Customer%20Letter_0.pdf) | CAUSE
+[January 17, 2012](https://oag.ca.gov/system/files/Paragon%20Solution%20Network%201ink-C2013068305%20CA%20AG%20Letter_Customer%20Letter_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to their website files.
 </details>
 <p class="hidden"></p>
-[November 06, 2011](https://oag.ca.gov/system/files/Pages%20from%20GoTickets%20com-C2012065270%20CA%20AG%20Letter_0.pdf) | CAUSE
+[November 06, 2011](https://oag.ca.gov/system/files/Pages%20from%20GoTickets%20com-C2012065270%20CA%20AG%20Letter_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 American Express is strongly committed to the security of all our Cardmembers’ information and wants to inform you that a merchant where you have used your American Express Card for payment detected unauthorized access to its data files.
 </details>
 <p class="hidden"></p>
-[July 11, 2011](https://oag.ca.gov/system/files/Customer%20Letter%20-%20C2014120039%20-%20CA%20AG%20Online%20Submission_0.pdf) | CAUSE
+[July 11, 2011](https://oag.ca.gov/system/files/Customer%20Letter%20-%20C2014120039%20-%20CA%20AG%20Online%20Submission_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to their website files.
 </details>
 <p class="hidden"></p>
-[April 06, 2011](https://oag.ca.gov/system/files/I%20H%20S%20Inc-C2013037330%20CA%20AG%20Letter_Merchant%20letter_0.pdf) | CAUSE
+[April 06, 2011](https://oag.ca.gov/system/files/I%20H%20S%20Inc-C2013037330%20CA%20AG%20Letter_Merchant%20letter_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are writing to notify you of a data security incident involving IHS Inc. On February 22, 2013, IHS discovered that some of our databases, including those containing personal information you provided as a customer of IHS Jane’s, were illegally accessed by unauthorized parties. Our investigation indicates that the unauthorized parties acquired the relevant data from the IHS Jane’s environment on or about November 22, 2012. 
 </details>
 <p class="hidden"></p>
-[March 13, 2011](https://oag.ca.gov/system/files/Customer%20Letter%20-%20C2014060082_0.pdf) | CAUSE
+[March 13, 2011](https://oag.ca.gov/system/files/Customer%20Letter%20-%20C2014060082_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to their website files.
 </details>
 <p class="hidden"></p>
-[February 15, 2011](https://oag.ca.gov/system/files/CA%20AG%20Online%20-%20Customer%20Letter%20-%20C2015040121_0.pdf) | CAUSE
+[February 15, 2011](https://oag.ca.gov/system/files/CA%20AG%20Online%20-%20Customer%20Letter%20-%20C2015040121_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to their website files. 
 </details>
 <p class="hidden"></p>
-[May 05, 2008](https://oag.ca.gov/system/files/CA%20AG%20Online%20Submission%20-%20Customer%20Letter_C2015050133_0.pdf) | CAUSE
+[May 05, 2008](https://oag.ca.gov/system/files/CA%20AG%20Online%20Submission%20-%20Customer%20Letter_C2015050133_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to its data files. 
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Recoverd%20Cards_AD01_Active%20%28RDCSBMMYY%29%20CM%20Letter_Final_032912_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Recoverd%20Cards_AD01_Active%20%28RDCSBMMYY%29%20CM%20Letter_Final_032912_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1734,7 +1734,7 @@ American Express is strongly committed to the security of all our Cardmembers’
 </details>
 ## American Bankers Association
 <p class="hidden"></p>
-[September 16, 2015](https://oag.ca.gov/system/files/Security%20Alert%20Regarding%20ABA_0.pdf) | CAUSE
+[September 16, 2015](https://oag.ca.gov/system/files/Security%20Alert%20Regarding%20ABA_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1742,7 +1742,7 @@ ABA has learned that email addresses and passwords used to make purchases or reg
 </details>
 ## Acclaim Technical Services
 <p class="hidden"></p>
-[August 26, 2015](https://oag.ca.gov/system/files/ATS%20Sample%20Letter%201_0.pdf) | CAUSE
+[August 26, 2015](https://oag.ca.gov/system/files/ATS%20Sample%20Letter%201_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1750,7 +1750,7 @@ We recently learned that Acclaim Technical Services, Inc., (“ATS”) was the t
 </details>
 ## Accuform Signs
 <p class="hidden"></p>
-[June 30, 2015](https://oag.ca.gov/system/files/Accuform-SampleNotification%20-%20Standard_0.pdf) | CAUSE
+[June 30, 2015](https://oag.ca.gov/system/files/Accuform-SampleNotification%20-%20Standard_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1758,7 +1758,7 @@ We are contacting you regarding a data security incident that has occurred at Ac
 </details>
 ## Acer Service Corporation
 <p class="hidden"></p>
-[May 12, 2015](https://oag.ca.gov/system/files/Customer%20Notice%20Letter%20-%20California_0.pdf) | CAUSE
+[May 12, 2015](https://oag.ca.gov/system/files/Customer%20Notice%20Letter%20-%20California_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1767,7 +1767,7 @@ site between May 12, 2015 and April 28, 2016, which resulted in unauthorized acc
 </details>
 ## Atkinson, Andelson, Loya, Ruud & Romo
 <p class="hidden"></p>
-[April 23, 2015](https://oag.ca.gov/system/files/Atkinson%2C%20Andelson%2C%20Loya%2C%20Ruud%20%26%20Romo%20Notice_0.pdf) | CAUSE
+[April 23, 2015](https://oag.ca.gov/system/files/Atkinson%2C%20Andelson%2C%20Loya%2C%20Ruud%20%26%20Romo%20Notice_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1779,7 +1779,7 @@ have been working with law enforcement but, to date, they have been unable to lo
 </details>
 ## ADP, LLC
 <p class="hidden"></p>
-[April 07, 2015](https://oag.ca.gov/system/files/Notification%20letter.6%208%202015_0.pdf) | CAUSE
+[April 07, 2015](https://oag.ca.gov/system/files/Notification%20letter.6%208%202015_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1787,7 +1787,7 @@ Unfortunately, on April 7th, and May 18th, 2015 an ADP associate inadvertently t
 </details>
 ## Apple America Group LLC
 <p class="hidden"></p>
-[March 03, 2015](https://oag.ca.gov/system/files/Non-Massachusetts%20consumer%20notification%20letter%20FINAL%20AAG_0.PDF) | CAUSE
+[March 03, 2015](https://oag.ca.gov/system/files/Non-Massachusetts%20consumer%20notification%20letter%20FINAL%20AAG_0.PDF) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1795,7 +1795,7 @@ We are contacting you regarding a data security incident that occurred on March 
 </details>
 ## Advantage Consolidated LLC
 <p class="hidden"></p>
-[February 23, 2015](https://oag.ca.gov/system/files/Basic%20Letter%20to%20Patients%20Advantage_0.pdf) | CAUSE
+[February 23, 2015](https://oag.ca.gov/system/files/Basic%20Letter%20to%20Patients%20Advantage_0.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1803,7 +1803,7 @@ I am writing to inform that your personal information may have been on a databas
 </details>
 ## Automotive Recovery Services, Inc.
 <p class="hidden"></p>
-[January 12, 2015](https://oag.ca.gov/system/files/KAR_Sample%20Consumer%20Breach%20Notification%20Letter_0.pdf) | CAUSE
+[January 12, 2015](https://oag.ca.gov/system/files/KAR_Sample%20Consumer%20Breach%20Notification%20Letter_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1811,7 +1811,7 @@ ARS takes the security of this information seriously. Unfortunately, we have dis
 </details>
 ## American Airlines, Inc.
 <p class="hidden"></p>
-[December 30, 2014](https://oag.ca.gov/system/files/American%20Airlines%20Notice_0.pdf) | CAUSE
+[December 30, 2014](https://oag.ca.gov/system/files/American%20Airlines%20Notice_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1819,7 +1819,7 @@ We are writing to inform you about an incident involving unauthorized access to 
 </details>
 ## American Apparel, Inc
 <p class="hidden"></p>
-[December 10, 2014](https://oag.ca.gov/system/files/employeenotificationofbreach_0.pdf) | CAUSE
+[December 10, 2014](https://oag.ca.gov/system/files/employeenotificationofbreach_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1827,7 +1827,7 @@ As you may have seen in the press, Anthem, Inc. (Anthem), the largest of the Blu
 </details>
 ## Acosta, Inc. and its subsidiaries, including Mosaic Sales Solutions US Operating Co. LLC
 <p class="hidden"></p>
-[November 10, 2014](https://oag.ca.gov/system/files/A6701_LV2_PRF_ADULT_NON-MASS_0.PDF) | CAUSE
+[November 10, 2014](https://oag.ca.gov/system/files/A6701_LV2_PRF_ADULT_NON-MASS_0.PDF) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1836,7 +1836,7 @@ and a company laptop. The associate discovered the theft on November 11, 2014 an
 </details>
 ## Armor Games Inc.
 <p class="hidden"></p>
-[October 24, 2014](https://oag.ca.gov/system/files/DataBreachNotification_0.pdf) | CAUSE
+[October 24, 2014](https://oag.ca.gov/system/files/DataBreachNotification_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1853,7 +1853,7 @@ precautionary measure of treating this as a data breach of our own users.
 </details>
 ## American Residuals and Talen, Inc. ("ART")
 <p class="hidden"></p>
-[October 18, 2014](https://oag.ca.gov/system/files/Notice%20template_0.pdf) | CAUSE
+[October 18, 2014](https://oag.ca.gov/system/files/Notice%20template_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1863,7 +1863,7 @@ your information was accessed or taken. We are unaware of any actual or attempte
 </details>
 ## ABM Parking Services
 <p class="hidden"></p>
-[September 29, 2014](https://oag.ca.gov/system/files/FINAL%20Press%20Release%20and%20Website%20notice%20%28clean%29_0.pdf) | CAUSE
+[September 29, 2014](https://oag.ca.gov/system/files/FINAL%20Press%20Release%20and%20Website%20notice%20%28clean%29_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1873,16 +1873,17 @@ After being notified by Datapark of a potential compromise, the company launched
 </details>
 ## Alight Solutions LLC
 <p class="hidden"></p>
-[September 22, 2014](https://oag.ca.gov/system/files/Enclosures%20Joint.pdf) | CAUSE
+[September 22, 2014](https://oag.ca.gov/system/files/Enclosures%20Joint.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-On May 20, 2019, in connection with a routine Federal Reserve security review, we became aware of an
-issue involving your personal information.
+On May 20, 2019, in connection with a routine Federal Reserve security review, we became aware of an issue involving your personal information.  
+
+Starting on September 22, 2014, system-generated emails from the SmartBenefits website were sent to individual participants confirming changes they made to their SmartBenefits online account. Federal Reserve Benefits Center system-generated emails were also sent to some individual participants to follow up on open cases with the Federal Reserve Benefits Center. Those communications inadvertently included your Social Security Number in the properties of the email. This information, which was used as an internal identifier for account tracking and customer service, was not included in the subject line or body of any email, and only included information pertinent to the recipient. You may have received at least one such email, sent via an unencrypted transmission, during the period from September 22, 2014 through June 29, 2019.
 </details>
 ## American Soccer Company, Inc.
 <p class="hidden"></p>
-[September 04, 2014](https://oag.ca.gov/system/files/Data%20Security%20Breach%20Oct%2023%2C%202014_0.pdf) | CAUSE
+[September 04, 2014](https://oag.ca.gov/system/files/Data%20Security%20Breach%20Oct%2023%2C%202014_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1890,7 +1891,7 @@ On October 21, 2014, SCORE discovered a potential unauthorized data breach that 
 </details>
 ## Auburn University
 <p class="hidden"></p>
-[September 01, 2014](https://oag.ca.gov/system/files/Auburn%20-%20notice%20sample_0.pdf) | CAUSE
+[September 01, 2014](https://oag.ca.gov/system/files/Auburn%20-%20notice%20sample_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1898,7 +1899,7 @@ On March 2, 2015, Auburn University became aware of the fact that personal infor
 </details>
 ## Ascensus, Inc
 <p class="hidden"></p>
-[July 29, 2014](https://oag.ca.gov/system/files/Hanmi%20Bank%20Participant%20Letter%20%20-%20California_0.pdf) | CAUSE
+[July 29, 2014](https://oag.ca.gov/system/files/Hanmi%20Bank%20Participant%20Letter%20%20-%20California_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1906,14 +1907,14 @@ Ascensus, the recordkeeper for Hanmi Bank Profit Sharing & 401(k) Savings Plan, 
 </details>
 ## Albertson's LLC
 <p class="hidden"></p>
-[June 22, 2014](https://oag.ca.gov/system/files/2014-08-15%20AB%20Acquisition%20Final%20Press%20Release_0.pdf) | CAUSE
+[June 22, 2014](https://oag.ca.gov/system/files/2014-08-15%20AB%20Acquisition%20Final%20Press%20Release_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 BOISE, ID - August 14,2014 -- AB Acquisition LLC, which operates Albertsons stores under Albertson's LLC and ACME Markets, Jewel-Osco, and Shaw's and Star Markets under New Albertson's, Inc., recently learned of an unlawful intrusion to obtain credit and debit card payment information in some of its stores. The appropriate federal law enforcement authorities have been notified, and AB Acquisition is working closely with its third party IT services provider, SUPERVALU, to better understand the nature and scope of the incident. Third-party data forensics experts are supporting an ongoing investigation. AB Acquisition has not determined that any cardholder data was in fact stolen, and currently it has no evidence of any misuse of any such data.
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/2014-09-29%20AB%20Acquisition%20Press%20Release_0.PDF) | CAUSE
+[](https://oag.ca.gov/system/files/2014-09-29%20AB%20Acquisition%20Press%20Release_0.PDF) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1921,7 +1922,7 @@ AB Acquisition LLC, which operates Albertsons stores under Albertson's LLC and A
 </details>
 ## Anderson & Murison
 <p class="hidden"></p>
-[June 01, 2014](https://oag.ca.gov/system/files/template%20adult%20CA%20prf_0.pdf) | CAUSE
+[June 01, 2014](https://oag.ca.gov/system/files/template%20adult%20CA%20prf_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1933,7 +1934,7 @@ the result of an action or inaction by your retail insurance agent.
 </details>
 ## AT&T Mobility, LLC
 <p class="hidden"></p>
-[April 09, 2014](https://oag.ca.gov/system/files/CA%20Customer%20Notice.doc__1.PDF) | CAUSE
+[April 09, 2014](https://oag.ca.gov/system/files/CA%20Customer%20Notice.doc__1.PDF) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1941,7 +1942,7 @@ AT&T's commitments to customer privacy and data security are top priorities, and
 </details>
 ## Atlantic Automotive Corporation d/b/a MileOne
 <p class="hidden"></p>
-[March 05, 2014](https://oag.ca.gov/system/files/MileOne%20Final%20Letter%20redacted_0.pdf) | CAUSE
+[March 05, 2014](https://oag.ca.gov/system/files/MileOne%20Final%20Letter%20redacted_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1949,7 +1950,7 @@ TradeMotion hosts and operates automobileparts websites for auto dealers nationw
 </details>
 ## AppleCare Insurance Services, Inc.
 <p class="hidden"></p>
-[January 01, 2014](https://oag.ca.gov/system/files/AppleCare%20Notification%20Ltr%20022814_0.pdf) | CAUSE
+[January 01, 2014](https://oag.ca.gov/system/files/AppleCare%20Notification%20Ltr%20022814_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1957,7 +1958,7 @@ We are writing to let you know about a privacy issue involving some of your pers
 </details>
 ## Affinity Gaming
 <p class="hidden"></p>
-[December 07, 2013](https://oag.ca.gov/system/files/Affinity%205%2016%20Notification%20to%20Affected%20%28Website%20and%20Press%20Release%29%20PDF_0.pdf) | CAUSE
+[December 07, 2013](https://oag.ca.gov/system/files/Affinity%205%2016%20Notification%20to%20Affected%20%28Website%20and%20Press%20Release%29%20PDF_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1966,7 +1967,7 @@ has established a confidential, toll-free inquiry line to assist its customers.
 </details>
 ## Anthem Blue Cross
 <p class="hidden"></p>
-[October 23, 2013](https://oag.ca.gov/system/files/Final%20Provider%20Notice%20CA_0.pdf) | CAUSE
+[October 23, 2013](https://oag.ca.gov/system/files/Final%20Provider%20Notice%20CA_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1974,7 +1975,7 @@ We are sending you this letter to notify you that your Tax Identification Number
 </details>
 ## AHMC Healthcare, Inc and affiliated hospitals
 <p class="hidden"></p>
-[October 12, 2013](https://oag.ca.gov/system/files/AHMC%20Press%20Release_10-21%20revised_0.pdf) | CAUSE
+[October 12, 2013](https://oag.ca.gov/system/files/AHMC%20Press%20Release_10-21%20revised_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1982,7 +1983,7 @@ ALHAMBRA, Calif. – Oct. 21, 2013 – AHMC Healthcare Inc. said today that prot
 </details>
 ## Adobe Systems Incorporated
 <p class="hidden"></p>
-[September 11, 2013](https://oag.ca.gov/system/files/CA%20Customer%20Notice_0.pdf) | CAUSE
+[September 11, 2013](https://oag.ca.gov/system/files/CA%20Customer%20Notice_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1990,7 +1991,7 @@ On behalf of Adobe Systems, I am writing to inform you about an incident that in
 </details>
 ## Advocate Medical Group
 <p class="hidden"></p>
-[July 15, 2013](https://oag.ca.gov/system/files/Advocate.8.23.13.Notifications_0.pdf) | CAUSE
+[July 15, 2013](https://oag.ca.gov/system/files/Advocate.8.23.13.Notifications_0.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1998,7 +1999,7 @@ On July 15, 2013, we learned that an Advocate administrative office inPark Ridge
 </details>
 ## Affinity Gaming LLC
 <p class="hidden"></p>
-[March 14, 2013](https://oag.ca.gov/system/files/Affinity%20Press%20Release_0.pdf) | CAUSE
+[March 14, 2013](https://oag.ca.gov/system/files/Affinity%20Press%20Release_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2006,7 +2007,7 @@ LAS VEGAS, December 20, 2013 — Affinity Gaming ("Affinity") has confirmed an u
 </details>
 ## American Express Travel Related Services Company, Inc and/or its Affiliates ("AXP")
 <p class="hidden"></p>
-[March 08, 2013](https://oag.ca.gov/system/files/AMEX%206_21_14_0.pdf) | CAUSE
+[March 08, 2013](https://oag.ca.gov/system/files/AMEX%206_21_14_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2014,15 +2015,15 @@ We are strongly committed to the security of our Cardmembers’ information and 
 </details>
 ## ANTIOCH UNIFIED SCHOOL DISTRICT
 <p class="hidden"></p>
-[January 18, 2013](https://oag.ca.gov/system/files/Notification%20to%20employees%20regarding%20Benefits%20Breach%20for%20Antioch%20Unified%20School%20District.%20%20Mailed%20%201.22.13_0.pdf) | CAUSE
+[January 18, 2013](https://oag.ca.gov/system/files/Notification%20to%20employees%20regarding%20Benefits%20Breach%20for%20Antioch%20Unified%20School%20District.%20%20Mailed%20%201.22.13_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-The confidentiality of personal information maintained by the Antioch Unified School District is critically important and the District takes great efforts to protect it. Regrettably, we are writing to you because of an incident involving an inadvertent disclosure of information which occurred on January 18,2013. At that time, and email pertaining to Worker's Compensation procedures as well as accident investigation forms were sent to al limited number of District personnel. The email mistakenly included an attachment that contained the social security numbers and abbreviated Worker's Compensation claim information of current and former employees that reported injuries.
+The confidentiality of personal information maintained by the Antioch Unified School District is critically important and the District takes great efforts to protect it. Regrettably, we are writing to you because of an incident involving an inadvertent disclosure of information which occurred on January 18,2013. At that time, and email pertaining to Worker's Compensation procedures as well as accident investigation forms were sent to a limited number of District personnel. The email mistakenly included an attachment that contained the social security numbers and abbreviated Worker's Compensation claim information of current and former employees that reported injuries.
 </details>
 ## Accume Partners
 <p class="hidden"></p>
-[October 31, 2012](https://oag.ca.gov/system/files/CA.FormNotce_0.PDF) | CAUSE
+[October 31, 2012](https://oag.ca.gov/system/files/CA.FormNotce_0.PDF) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2030,7 +2031,7 @@ Recently we learned of a data security breach involving a laptop belonging to We
 </details>
 ## Alere Home Monitoring, Inc.
 <p class="hidden"></p>
-[September 23, 2012](https://oag.ca.gov/system/files/Sample%20Letter_1.pdf) | CAUSE
+[September 23, 2012](https://oag.ca.gov/system/files/Sample%20Letter_1.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2038,14 +2039,14 @@ We are writing to inform you of an incident that may have involved your personal
 </details>
 ## American Express Travel Related Services Company, Inc and/or its Affiliates (“AXP”)
 <p class="hidden"></p>
-[August 24, 2012](https://oag.ca.gov/system/files/Hotusa%20Website%20Server%20Active%20CM%20Letter_%28WSC%29_EN_Final_0.pdf) | CAUSE
+[August 24, 2012](https://oag.ca.gov/system/files/Hotusa%20Website%20Server%20Active%20CM%20Letter_%28WSC%29_EN_Final_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are strongly committed to the security of our Cardmembers’ information and strive to let you know about security concerns as soon as possible. A merchant where you used your American Express Card detected unauthorized access to their website files
 </details>
 <p class="hidden"></p>
-[April 02, 2012](https://oag.ca.gov/system/files/AD01%20CM%20Letter_Final_071912%20Strawberrynet_0.pdf) | CAUSE
+[April 02, 2012](https://oag.ca.gov/system/files/AD01%20CM%20Letter_Final_071912%20Strawberrynet_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2053,7 +2054,7 @@ American Express is strongly committed to the security of all our Cardmembers’
 </details>
 ## American Tool Supply
 <p class="hidden"></p>
-[August 01, 2012](https://oag.ca.gov/system/files/Notice%20to%20CA_0.pdf) | CAUSE
+[August 01, 2012](https://oag.ca.gov/system/files/Notice%20to%20CA_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2061,7 +2062,7 @@ On August 1, 2012, ATS discovered that a hacker gained access to the ATS System.
 </details>
 ## Anasazi Hotel LLC
 <p class="hidden"></p>
-[June 18, 2012](https://oag.ca.gov/system/files/Anasazi%20-%20Sample%20Consumer%20Security%20Breach%20Notice_0.pdf) | CAUSE
+[June 18, 2012](https://oag.ca.gov/system/files/Anasazi%20-%20Sample%20Consumer%20Security%20Breach%20Notice_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2069,7 +2070,7 @@ Around March 21, 2013 we were notified by the credit card processing vendor that
 </details>
 ## Advanced Data Processing, Inc.
 <p class="hidden"></p>
-[June 15, 2012](https://oag.ca.gov/system/files/California%20Attorney%20General%20Notice%20--%20Sample%20Notice%20Letters_0.pdf) | CAUSE
+[June 15, 2012](https://oag.ca.gov/system/files/California%20Attorney%20General%20Notice%20--%20Sample%20Notice%20Letters_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2077,7 +2078,7 @@ The notice is sent to you on behalf of Advanced Data Processing, Inc. (the "Comp
 </details>
 ## Apria Healthcare, Inc.
 <p class="hidden"></p>
-[June 14, 2012](https://oag.ca.gov/system/files/Apria%20Healthcare%20Sample%20Notification%20Letter_0.pdf) | CAUSE
+[June 14, 2012](https://oag.ca.gov/system/files/Apria%20Healthcare%20Sample%20Notification%20Letter_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
