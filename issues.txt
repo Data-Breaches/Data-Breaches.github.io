@@ -1,16 +1,21 @@
+Accident
 Breach
+Computer Stolen
+Cloud Storage Compromise
+Database Compromise
+Device Lost
 Email Compromise
 Insider Threat
 IT Provider
 Laptop Stolen
 Malware
 Misconfiguration
-Device Lost 
 Network Compromise
 Phishing
 Programming Error
 Ransomware
 Server Stolen
+Skimming
 Unauthorized Access
 Unknown
 User Error

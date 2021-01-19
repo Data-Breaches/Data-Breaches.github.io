@@ -19,7 +19,7 @@ On September 21, 2020, a 1919ic employee discovered some unusual activity on the
 </details>
 ## 1873349 Ontario, Inc.
 <p class="hidden"></p>
-[June 01, 2018](https://oag.ca.gov/system/files/US_CA_Notice_0.pdf) | Website Compromise 
+[June 01, 2018](https://oag.ca.gov/system/files/US_CA_Notice_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -27,7 +27,7 @@ Our security team was made aware of suspicious activity on the Canadian Website.
 </details>
 ## 1-800-Flowers.com
 <p class="hidden"></p>
-[February 15, 2016](https://oag.ca.gov/system/files/CA%20Notification_1.pdf) | Unauthorized Access 
+[February 15, 2016](https://oag.ca.gov/system/files/CA%20Notification_1.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -37,7 +37,7 @@ investigation and identified signs of unauthorized access to the network that op
 # 2
 ## 21st Century Oncology
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/21st.Adult_.Notice_0.pdf) | Database Compromise 
+[](https://oag.ca.gov/system/files/21st.Adult_.Notice_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -46,7 +46,7 @@ On November 13, 2015, the Federal Bureau of Investigation (FBI) advised us that 
 # 7
 ## 7-Eleven, Inc.
 <p class="hidden"></p>
-[June 13, 2016](https://oag.ca.gov/system/files/Individual%20notice%20-%20SAMPLE_0.pdf) | Accident 
+[June 13, 2016](https://oag.ca.gov/system/files/Individual%20notice%20-%20SAMPLE_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -55,7 +55,7 @@ On behalf of the 7-Eleven franchisees, 7-Eleven maintains a database of records 
 # 8
 ## 80sTees
 <p class="hidden"></p>
-[June 03, 2012](https://oag.ca.gov/system/files/Resident%20Notice%20Letter_1.pdf) | Unknown
+[June 03, 2012](https://oag.ca.gov/system/files/Resident%20Notice%20Letter_1.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -68,7 +68,7 @@ evaluation of our computer server. At that time we did not find any intrusion or
 # 9
 ## 9W Halo OpCo L.P. d/b/a Angelica
 <p class="hidden"></p>
-[April 10, 2018](https://oag.ca.gov/system/files/Angelica%20-%20Sample%20Notification%20Letter%20for%20California%201_0.pdf) | User Error
+[April 10, 2018](https://oag.ca.gov/system/files/Angelica%20-%20Sample%20Notification%20Letter%20for%20California%201_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -85,7 +85,7 @@ Atlas recently became aware of suspicious activity on its computer network and d
 </details>
 ## Agoura Health Products, LLC dba Gundry MD
 <p class="hidden"></p>
-[August 06, 2020](https://oag.ca.gov/system/files/Gundry%20MD%20-%20Template%20Notification%20Letter.pdf) | IT Provider
+[August 06, 2020](https://oag.ca.gov/system/files/Gundry%20MD%20-%20Template%20Notification%20Letter.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -93,7 +93,7 @@ We are writing to advise you of a recent data security incident involving a comp
 </details>
 ## Aetna
 <p class="hidden"></p>
-[June 24, 2020](https://oag.ca.gov/system/files/EyeMed%20Individual%20Notice%20Template%20%2810.21.2020%29%20Reseller.pdf) | Email Compromise
+[June 24, 2020](https://oag.ca.gov/system/files/EyeMed%20Individual%20Notice%20Template%20%2810.21.2020%29%20Reseller.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -129,7 +129,7 @@ The APA experienced a skimming cyberattack in which personal information was acc
 </details>
 ## American Payroll Institute, Inc. (APA); Global Payroll Management Institute, Inc. (GPMI)
 <p class="hidden"></p>
-[May 13, 2020](https://oag.ca.gov/system/files/APA%20Security%20Incident%20Sample%20Notice%20Template.pdf) | Malware
+[May 13, 2020](https://oag.ca.gov/system/files/APA%20Security%20Incident%20Sample%20Notice%20Template.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -155,7 +155,7 @@ Blackbaud, which works with many nonprofits and educational institutions to supp
 </details>
 ## Allergy & Asthma Medical Group of the Bay Area, Inc.
 <p class="hidden"></p>
-[April 27, 2020](https://oag.ca.gov/system/files/Patient%20Notice%20Letter%20%28HB%20Changes%29%20April%202020%20Break%20in%20letter.pdf) | Laptop Stolen
+[April 27, 2020](https://oag.ca.gov/system/files/Patient%20Notice%20Letter%20%28HB%20Changes%29%20April%202020%20Break%20in%20letter.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -171,7 +171,7 @@ On or about May 31, 2020, Ascend detected irregularities in its data systems, in
 </details>
 ## Arbonne International, LLC
 <p class="hidden"></p>
-[April 20, 2020](https://oag.ca.gov/system/files/Arbonne%20Exhibit%201%20-%20CA.pdf.pdf) | Unauthorized Access
+[April 20, 2020](https://oag.ca.gov/system/files/Arbonne%20Exhibit%201%20-%20CA.pdf.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -187,7 +187,7 @@ We recently detected unauthorized access to an Alcorn employee email account tha
 </details>
 ## Alameda Health System
 <p class="hidden"></p>
-[April 08, 2020](https://oag.ca.gov/system/files/Sample%20Notice.PDF) | Email Compromise
+[April 08, 2020](https://oag.ca.gov/system/files/Sample%20Notice.PDF) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -195,7 +195,7 @@ On June 17, 2020, we learned that, for a brief period of time on April 8, 2020, 
 </details>
 ## Andrew Dang, DDS
 <p class="hidden"></p>
-[April 19, 2020](https://oag.ca.gov/system/files/Template%20notification%20for%20CA%20AG%20submission.pdf) | Computer Stolen
+[April 19, 2020](https://oag.ca.gov/system/files/Template%20notification%20for%20CA%20AG%20submission.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -206,7 +206,7 @@ whom we continue to liase. I also am concurrently notifying federal and state re
 </details>
 ## Amtrak
 <p class="hidden"></p>
-[April 16, 2020](https://oag.ca.gov/system/files/Consumer%20Notification%20Letter.pdf) | Unauthorized Access 
+[April 16, 2020](https://oag.ca.gov/system/files/Consumer%20Notification%20Letter.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -232,7 +232,7 @@ In July 2020, we learned that between March 30, 2020 and May 4, 2020, an unknown
 </details>
 ## AST LLC
 <p class="hidden"></p>
-[March 09, 2020](https://oag.ca.gov/system/files/CA%20Breach%20Notice.pdf) | Email Compromise 
+[March 09, 2020](https://oag.ca.gov/system/files/CA%20Breach%20Notice.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -261,7 +261,7 @@ On March 17, 2020, Advantage Capital confirmed a report that it initially receiv
 </details>
 ## Allstate Benefits
 <p class="hidden"></p>
-[February 05, 2020](undefined) | Unknown
+[February 05, 2020](undefined) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -269,7 +269,7 @@ TBDB
 </details>
 ## Ambry Genetics Corporation
 <p class="hidden"></p>
-[January 22, 2020](https://oag.ca.gov/system/files/Sample%20Notification%20Letter_5.pdf) | Email Compromise
+[January 22, 2020](https://oag.ca.gov/system/files/Sample%20Notification%20Letter_5.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -285,7 +285,7 @@ On January 8, 2020, Artech received a report of unusual activity relating to an 
 </details>
 ## Atria Wealth Solutions
 <p class="hidden"></p>
-[December 03, 2019](https://oag.ca.gov/system/files/Atria%20Wealth%20-%20Notice%20to%20CA_1.pdf) | Email Compromise
+[December 03, 2019](https://oag.ca.gov/system/files/Atria%20Wealth%20-%20Notice%20to%20CA_1.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -297,7 +297,7 @@ CUSO Financial undertook efforts to locate address information for potentially i
 </details>
 ## Andrew Lundholm CPA
 <p class="hidden"></p>
-[November 24, 2019](https://oag.ca.gov/system/files/AL%20Notice%20of%20Data%20Event.pdf) | Unauthorized Access
+[November 24, 2019](https://oag.ca.gov/system/files/AL%20Notice%20of%20Data%20Event.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -308,7 +308,7 @@ information that we use to prepare tax returns. Your information was contained w
 </details>
 ## ACCO Engineered Systems, Inc.
 <p class="hidden"></p>
-[November 20, 2019](https://oag.ca.gov/system/files/ACCO%20-%20%28Notice%20Only%29.pdf) | Device Lost
+[November 20, 2019](https://oag.ca.gov/system/files/ACCO%20-%20%28Notice%20Only%29.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -321,7 +321,7 @@ notifying you in an abundance of caution
 </details>
 ## Adelanto Elementary School District
 <p class="hidden"></p>
-[November 04, 2019](https://oag.ca.gov/system/files/Notcie%20sent%20to%204264.pdf) | Vulnerability
+[November 04, 2019](https://oag.ca.gov/system/files/Notcie%20sent%20to%204264.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -334,18 +334,18 @@ custody.
 </details>
 ## Apple Valley Unified School District
 <p class="hidden"></p>
-[November 04, 2019](https://oag.ca.gov/system/files/Apple%20Valley%20notice.pdf) | Vulnerability
+[November 04, 2019](https://oag.ca.gov/system/files/Apple%20Valley%20notice.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-Apply Valley USD uses the Aeries Student information System to provide students and their parents with online access to information regarding school events and schedules. in late
+Apply Valley USD uses the Aeries Student information System to provide students and their parents with online access to information regarding school events adn schedules. in late
 November 2019, Aeries learned that an unauthorized individual exploited a vulnerability in the Aeries software that would allow access to student and parent information. Upon
 discovery, Aeries began an investigation and law enforcement launched an investigation to identify the person responsible, who Aeries believes is now in police custody. On May 4, 
 2020, Aeries notified the District that this individual may have accessed data pertaining to over 160 school districts, including Apple Valley Unified School District.
 </details>
 ## ABC Unified School District
 <p class="hidden"></p>
-[November 04, 2019](https://oag.ca.gov/system/files/Sample%20Notices%20-%20ABCUSD.pdf) | IT Provider
+[November 04, 2019](https://oag.ca.gov/system/files/Sample%20Notices%20-%20ABCUSD.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -356,7 +356,7 @@ who use the ABC USD portal
 </details>
 ## Altice USA, Inc.
 <p class="hidden"></p>
-[November 04, 2019](https://oag.ca.gov/system/files/Altice%20USA%20Ad%20Current-Former%20Employee%20r3prf.pdf) | Phishing
+[November 04, 2019](https://oag.ca.gov/system/files/Altice%20USA%20Ad%20Current-Former%20Employee%20r3prf.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -368,7 +368,7 @@ law enforcement
 </details>
 ## AFTRA Retirement Fund
 <p class="hidden"></p>
-[October 24, 2019](https://oag.ca.gov/system/files/AFTRA%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201_1.pdf) | Network Compromise 
+[October 24, 2019](https://oag.ca.gov/system/files/AFTRA%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201_1.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -391,7 +391,7 @@ On or about January 15, 2020, PSAV learned that an unauthorized party had gained
 </details>
 ## AmeriSave Mortgage Corporation
 <p class="hidden"></p>
-[October 03, 2019](https://oag.ca.gov/system/files/Generic%20Consumer%20Data%20Breach%20%20Notification%20%28California%29.pdf) | Unauthorized Access
+[October 03, 2019](https://oag.ca.gov/system/files/Generic%20Consumer%20Data%20Breach%20%20Notification%20%28California%29.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -403,7 +403,7 @@ inappropriately viewed or accessed by these third parties.
 </details>
 ## American Medical Technologies
 <p class="hidden"></p>
-[October 01, 2019](https://oag.ca.gov/system/files/American%20Medical%20Technologies%20-%20Adult%20Notification%20Letter%20%2812%20Months%29%20V5%20Final.pdf) | Email Compromise
+[October 01, 2019](https://oag.ca.gov/system/files/American%20Medical%20Technologies%20-%20Adult%20Notification%20Letter%20%2812%20Months%29%20V5%20Final.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -415,7 +415,7 @@ about steps you can take to protect your information.
 </details>
 ## Active Network, LLC
 <p class="hidden"></p>
-[October 01, 2019](https://oag.ca.gov/system/files/Individual%20Letter%20CA.pdf) | Unauthorized Access
+[October 01, 2019](https://oag.ca.gov/system/files/Individual%20Letter%20CA.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -425,7 +425,7 @@ that you provided may have been accessed or acquired by unauthorized third parti
 </details>
 ## Atria Senior Living
 <p class="hidden"></p>
-[September 18, 2019](https://oag.ca.gov/system/files/Atria%20Ad%20CM%20CA%20r4prf.pdf) | Phishing
+[September 18, 2019](https://oag.ca.gov/system/files/Atria%20Ad%20CM%20CA%20r4prf.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -438,7 +438,7 @@ unauthorized individual.
 </details>
 ## Auto Approve, LLC
 <p class="hidden"></p>
-[August 28, 2019](https://oag.ca.gov/system/files/Auto%20Approve%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201.pdf) | Vulnerability
+[August 28, 2019](https://oag.ca.gov/system/files/Auto%20Approve%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -450,7 +450,7 @@ affiliate, and is therefore advising you of this incident in an abundance of cau
 </details>
 ## Aveanna Healthcare
 <p class="hidden"></p>
-[July 09, 2019](https://oag.ca.gov/system/files/Aveanna%20-%20Notice%20of%20Data%20Breach%20-%20Exhibit%201%20-%20CA.pdf) | Email Compromise
+[July 09, 2019](https://oag.ca.gov/system/files/Aveanna%20-%20Notice%20of%20Data%20Breach%20-%20Exhibit%201%20-%20CA.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -462,7 +462,7 @@ the investigation did not reveal if any email or attachment was actually accesse
 </details>
 ## Athens Insurance Services, Inc.
 <p class="hidden"></p>
-[July 01, 2019](https://oag.ca.gov/system/files/Athens%20Insurance_Notice.pdf) | Email Compromise
+[July 01, 2019](https://oag.ca.gov/system/files/Athens%20Insurance_Notice.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -484,7 +484,7 @@ We recently discovered that a malicious party had gained access to one of our se
 </details>
 ## Andy Frain Services
 <p class="hidden"></p>
-[May 22, 2019](https://oag.ca.gov/system/files/Andy%20Frain%20Services%20-%20Proof%20-%20A%20-%20California%20.pdf) | Laptop Stolen
+[May 22, 2019](https://oag.ca.gov/system/files/Andy%20Frain%20Services%20-%20Proof%20-%20A%20-%20California%20.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -492,7 +492,7 @@ On May 22, 2019, an Andy Frain Services employee’s laptop was stolen from her 
 </details>
 ## Avalara, Inc.
 <p class="hidden"></p>
-[May 22, 2019](https://oag.ca.gov/system/files/PRIVILEGED%20AND%20CONFIDENTIAL%20-%20Sample%20General%20Data%20Subject%20Notice%20_0.pdf) | Vulnerability
+[May 22, 2019](https://oag.ca.gov/system/files/PRIVILEGED%20AND%20CONFIDENTIAL%20-%20Sample%20General%20Data%20Subject%20Notice%20_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -504,7 +504,7 @@ May 22, 2019.
 </details>
 ## Ameritas Life Insurance Corp.
 <p class="hidden"></p>
-[May 01, 2019](https://oag.ca.gov/system/files/Ameritas%20Ad%20r1prf.pdf) | Phishing
+[May 01, 2019](https://oag.ca.gov/system/files/Ameritas%20Ad%20r1prf.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -516,7 +516,7 @@ unauthorized access and deployed a mandatory enterprise-wide password reset.
 </details>
 ## Acrisure LLC, d/b/a Filice Insurance Agency
 <p class="hidden"></p>
-[April 03, 2019](https://oag.ca.gov/system/files/Filice%20Insurance%20-%20Egnyte%20-%20Consumer%20Notification%20Letter_0.pdf) | Cloud Storage Compromise
+[April 03, 2019](https://oag.ca.gov/system/files/Filice%20Insurance%20-%20Egnyte%20-%20Consumer%20Notification%20Letter_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -529,7 +529,7 @@ that your personal information was affected.
 </details>
 ## Arthur J. Gallagher & Co.
 <p class="hidden"></p>
-[March 15, 2019](https://oag.ca.gov/system/files/CA%20AG%20-%20Exhibit%201%28Notice%20Only%29.pdf) | Device Lost
+[March 15, 2019](https://oag.ca.gov/system/files/CA%20AG%20-%20Exhibit%201%28Notice%20Only%29.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -540,7 +540,7 @@ hard drive. In the middle of Octover 2019, Gallegher determined that your person
 </details>
 ## Altura Credit Union
 <p class="hidden"></p>
-[March 05, 2019](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach%20-%20Altura%20Credit%20Union%2020190327_0.pdf) | Skimming
+[March 05, 2019](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach%20-%20Altura%20Credit%20Union%2020190327_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -552,7 +552,7 @@ installed on our machines at various points between March 5 to March 8, 2019.
 </details>
 ## American Indian Health & Services, Inc.
 <p class="hidden"></p>
-[February 26, 2019](https://oag.ca.gov/system/files/AIHS%20-%20individual%20notice_0.pdf) | Insider Threat
+[February 26, 2019](https://oag.ca.gov/system/files/AIHS%20-%20individual%20notice_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -569,7 +569,7 @@ notification out of an abundance of caution because your information was present
 </details>
 ## Abbott Laboratories
 <p class="hidden"></p>
-[January 19, 2019](https://oag.ca.gov/system/files/Multistate%20Notice%20Draft_0.pdf) | Device Lost
+[January 19, 2019](https://oag.ca.gov/system/files/Multistate%20Notice%20Draft_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -581,7 +581,7 @@ has not been recovered, and we are notifying individuals who had some of their p
 an abundance of caution.
 </details>
 <p class="hidden"></p>
-[December 01, 2014](https://oag.ca.gov/system/files/Abbott%20Notification%20Letter_0.pdf) | Network Compromise
+[December 01, 2014](https://oag.ca.gov/system/files/Abbott%20Notification%20Letter_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -589,7 +589,7 @@ Anthem discovered on January 29, 2015 that it was the target of a cyber-attack t
 </details>
 ## AltaMed Health Services Corporation
 <p class="hidden"></p>
-[January 09, 2019](https://oag.ca.gov/system/files/AltaMed%20%28CL%29%20--%20Notification%20--%205.15.19_0_0.pdf) | Malware
+[January 09, 2019](https://oag.ca.gov/system/files/AltaMed%20%28CL%29%20--%20Notification%20--%205.15.19_0_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -603,7 +603,7 @@ began on our network on January 9, 2019, lasting until the virus infection on Fe
 
 </details>
 <p class="hidden"></p>
-[May 21, 2018](https://oag.ca.gov/system/files/AltaMed%20--%20SHDS%20--%20Supplemental%20Consumer%20Notification%20Letter%20Proof%20%282019.05.28%29_0.pdf) | Network Compromise
+[May 21, 2018](https://oag.ca.gov/system/files/AltaMed%20--%20SHDS%20--%20Supplemental%20Consumer%20Notification%20Letter%20Proof%20%282019.05.28%29_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -617,7 +617,7 @@ also notified the Federal Bureau of Investigation (“FBI”) about this inciden
 FBI’s investigation.
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/AltaMed%20Individual%20Notice%20Template_0.pdf) | Insider Threat
+[](https://oag.ca.gov/system/files/AltaMed%20Individual%20Notice%20Template_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -625,7 +625,7 @@ On June 30, 2014, the Arcadia Police Department informed us that it was investig
 </details>
 ## American Cancer Society, Inc.
 <p class="hidden"></p>
-[January 08, 2019](undefined) | Unknown
+[January 08, 2019](undefined) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -633,7 +633,7 @@ TBDB
 </details>
 ## ArmorGames, Inc
 <p class="hidden"></p>
-[January 01, 2019](https://oag.ca.gov/system/files/data_breach_blog_post_0.pdf) | IT Provider
+[January 01, 2019](https://oag.ca.gov/system/files/data_breach_blog_post_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -648,7 +648,7 @@ users’ data was actually misused and we are taking steps to prevent potential 
 </details>
 ## Abel HR
 <p class="hidden"></p>
-[November 11, 2018](https://oag.ca.gov/system/files/Abel%20HR%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA_0.pdf) | Email Compromise
+[November 11, 2018](https://oag.ca.gov/system/files/Abel%20HR%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -659,7 +659,7 @@ your information was present in the email account when this incident occurred.
 </details>
 ## Ally Bank
 <p class="hidden"></p>
-[November 11, 2018](https://oag.ca.gov/system/files/Ally%20CA%20Customer%20Notification%20Letter_0.pdf) | IT Provider
+[November 11, 2018](https://oag.ca.gov/system/files/Ally%20CA%20Customer%20Notification%20Letter_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -668,7 +668,7 @@ files, which contained your personal information, to another financial instituti
 </details>
 ## AeroGrow International
 <p class="hidden"></p>
-[October 29, 2018](https://oag.ca.gov/system/files/Cali%20Indiv%20Notification%20042019_0.pdf) | Malware
+[October 29, 2018](https://oag.ca.gov/system/files/Cali%20Indiv%20Notification%20042019_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -682,14 +682,14 @@ October 29, 2018, and March 4, 2019.
 
 </details>
 <p class="hidden"></p>
-[May 13, 2015](https://oag.ca.gov/system/files/Second%20July_0.pdf) | Malware
+[May 13, 2015](https://oag.ca.gov/system/files/Second%20July_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 After we eradicated the initial infiltration into our system (as we previously informed you), our systems were attacked again by, we believe, the same hacker. This hacker is a sophisticated and persistent criminal with detailed knowledge of how to exploit online shopping cart systems. We discovered on June 10, 2015, that the hacker managed to circumvent the safeguards we had implemented after the initial attack. We worked into the night in response to this discovery, and on the same day, successfully eradicated the malicious software that caused the second attack. 
 </details>
 <p class="hidden"></p>
-[October 15, 2014](https://oag.ca.gov/system/files/Current%20Notice%20-%20Final%20B%20Letter%20Only_0.pdf) | Malware
+[October 15, 2014](https://oag.ca.gov/system/files/Current%20Notice%20-%20Final%20B%20Letter%20Only_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -697,7 +697,7 @@ Here at AeroGrow International, Inc., we take the security of our customers’ i
 </details>
 ## ACE Cash Express, Inc.
 <p class="hidden"></p>
-[October 27, 2018](https://oag.ca.gov/system/files/ACE-%20CA-%20Letter_0.pdf) | Unauthorized Access
+[October 27, 2018](https://oag.ca.gov/system/files/ACE-%20CA-%20Letter_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -707,7 +707,7 @@ engaged a leading cyber security firm to assist us. The investigation determined
 </details>
 ## Avid Technology, Inc.
 <p class="hidden"></p>
-[October 08, 2018](https://oag.ca.gov/system/files/Avid%20Technology-%20Notice%20of%20Data%20Event-%20%28Notice%20Only%29.pdf) | Email Compromise
+[October 08, 2018](https://oag.ca.gov/system/files/Avid%20Technology-%20Notice%20of%20Data%20Event-%20%28Notice%20Only%29.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -725,7 +725,7 @@ remaining individuals with information accessible within the account.
 </details>
 ## Amateur Athletic Union
 <p class="hidden"></p>
-[October 01, 2018](https://oag.ca.gov/system/files/AAU-%20Notice%20of%20Data%20Event-%20CA%20Exhibit%201.pdf) | Malware
+[October 01, 2018](https://oag.ca.gov/system/files/AAU-%20Notice%20of%20Data%20Event-%20CA%20Exhibit%201.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -735,7 +735,7 @@ the site’s checkout page from October 1, 2018 to July 2, 2019.
 </details>
 ## American Medical Response, Inc.
 <p class="hidden"></p>
-[September 24, 2018](https://oag.ca.gov/system/files/Sample%20Notice_28.pdf) | Phishing
+[September 24, 2018](https://oag.ca.gov/system/files/Sample%20Notice_28.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -747,7 +747,7 @@ emails of the impacted employees and did not extend to patient or employee datab
 </details>
 ## Atrium Health (formerly Carolinas HealthCare System)
 <p class="hidden"></p>
-[September 22, 2018](https://oag.ca.gov/system/files/California%20Individual%20Templates_0%20-%201_0.pdf) | IT Provider
+[September 22, 2018](https://oag.ca.gov/system/files/California%20Individual%20Templates_0%20-%201_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -758,7 +758,7 @@ unauthorized third party gained access to AccuDoc’s databases between Septembe
 </details>
 ## Allen Chern LLP
 <p class="hidden"></p>
-[July 27, 2018](https://oag.ca.gov/system/files/7884921_0.pdf) | IT Provider
+[July 27, 2018](https://oag.ca.gov/system/files/7884921_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -768,7 +768,7 @@ unauthorized individual between July 27 and July 30, 2018.
 </details>
 ## Applied Data Finance, LLC d/b/a Personify Financial
 <p class="hidden"></p>
-[July 21, 2018](https://oag.ca.gov/system/files/ADF%20-%20%20Data%20Breach%20Notification%20Letter%20Sample_0.PDF) | Email Compromise
+[July 21, 2018](https://oag.ca.gov/system/files/ADF%20-%20%20Data%20Breach%20Notification%20Letter%20Sample_0.PDF) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -783,7 +783,7 @@ of our email servers into the rest of our IT system.
 </details>
 ## Animoto Inc.
 <p class="hidden"></p>
-[July 10, 2018](https://oag.ca.gov/system/files/CA-%20Notice%20of%20Data%20Event_0.pdf) | Unauthorized Access
+[July 10, 2018](https://oag.ca.gov/system/files/CA-%20Notice%20of%20Data%20Event_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -793,7 +793,7 @@ information was affected, we wanted to let you know about this incident out of a
 </details>
 ## American Express Travel Related Services Company, Inc.
 <p class="hidden"></p>
-[July 05, 2018](https://oag.ca.gov/system/files/Customer%20Notification%20C1807014816_1.pdf) | IT Provider 
+[July 05, 2018](https://oag.ca.gov/system/files/Customer%20Notification%20C1807014816_1.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -804,7 +804,7 @@ may be at risk. Expedia has also told us it has taken remediation steps to preve
 
 </details>
 <p class="hidden"></p>
-[October 01, 2017](https://oag.ca.gov/system/files/Sample%20of%20Notification_0.pdf) | IT Provider
+[October 01, 2017](https://oag.ca.gov/system/files/Sample%20of%20Notification_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -818,7 +818,7 @@ your American Express®
 </details>
 ## Aetrex Worldwide, Inc.
 <p class="hidden"></p>
-[June 22, 2018](https://oag.ca.gov/system/files/Aetrex-%20Notice%20of%20Data%20Event-%20CA_0%20%28notice%29_0.pdf) | Malware
+[June 22, 2018](https://oag.ca.gov/system/files/Aetrex-%20Notice%20of%20Data%20Event-%20CA_0%20%28notice%29_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -832,7 +832,7 @@ confirmed the identities of the individuals whose payment card information may h
 </details>
 ## Aimbridge Hospitality Holdings, LLC
 <p class="hidden"></p>
-[June 07, 2018](https://oag.ca.gov/system/files/Aimbridge%20Hospitality%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA_8.pdf) | Email Compromise
+[June 07, 2018](https://oag.ca.gov/system/files/Aimbridge%20Hospitality%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA_8.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -848,7 +848,7 @@ or attempted misuse of your personal information, we are notifying you in an abu
 information was present in the impacted email accounts.
 </details>
 <p class="hidden"></p>
-[January 08, 2018](https://oag.ca.gov/system/files/Aimbridge%20Hospitality%20Holdings%2C%20LLC%20-%20Notice%20of%20Data%20Event%20-%20Exhitbit%201%20-%20CA_0.pdf) | Email Compromise
+[January 08, 2018](https://oag.ca.gov/system/files/Aimbridge%20Hospitality%20Holdings%2C%20LLC%20-%20Notice%20of%20Data%20Event%20-%20Exhitbit%201%20-%20CA_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -859,7 +859,7 @@ email accountswere subject to unauthorized access and certain emailswere accessi
 </details>
 ## Authentic Recovery Center, LLC
 <p class="hidden"></p>
-[June 07, 2018](https://oag.ca.gov/system/files/Adult%20Notification%20Letters%20submitted%20with%20CA%20Online%20Data%20Security%20Breach_0.pdf) | Email Compromise
+[June 07, 2018](https://oag.ca.gov/system/files/Adult%20Notification%20Letters%20submitted%20with%20CA%20Online%20Data%20Security%20Breach_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -870,7 +870,7 @@ terminated any unauthorized access to the email account.
 </details>
 ## Advocate Sherman Hospital ("Sherman")
 <p class="hidden"></p>
-[May 08, 2018](https://oag.ca.gov/system/files/March%202019%20Consumer%20Mailing_0.pdf) | IT Provider
+[May 08, 2018](https://oag.ca.gov/system/files/March%202019%20Consumer%20Mailing_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -882,7 +882,7 @@ that law enforcement is aware of the incident, but this notification was not del
 </details>
 ## Amarin Pharma, Inc.
 <p class="hidden"></p>
-[May 02, 2018](https://oag.ca.gov/system/files/Data%20Issue%20-%20Individual%20Notification.pdf) | IT Provider
+[May 02, 2018](https://oag.ca.gov/system/files/Data%20Issue%20-%20Individual%20Notification.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -894,7 +894,7 @@ database was taken offline on June 20, 2019.
 </details>
 ## Art.sy, Inc. d/b/a Artsy
 <p class="hidden"></p>
-[April 30, 2018](https://oag.ca.gov/system/files/Artsy%20-%20CA%20AG%20-%20Exhibit%201_0%20%28notification%29_0.pdf) | Breach
+[April 30, 2018](https://oag.ca.gov/system/files/Artsy%20-%20CA%20AG%20-%20Exhibit%201_0%20%28notification%29_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -903,7 +903,7 @@ the incident, and together with our engineering team, we are working with a lead
 </details>
 ## Another Planet Entertainment
 <p class="hidden"></p>
-[April 09, 2018](https://oag.ca.gov/system/files/APE%20-%20Notice%20Letter%20CA%20AG_0.pdf) | Email Compromise
+[April 09, 2018](https://oag.ca.gov/system/files/APE%20-%20Notice%20Letter%20CA%20AG_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -911,7 +911,7 @@ On April 9, 2018, APE became aware of unusual activity within its email system. 
 </details>
 ## AAA Business Supplies
 <p class="hidden"></p>
-[April 08, 2018](https://oag.ca.gov/system/files/Confidential%20Security%20Alert_0.pdf) | Email Compromise
+[April 08, 2018](https://oag.ca.gov/system/files/Confidential%20Security%20Alert_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -921,7 +921,7 @@ customers and our vendors to misdirect payments.
 </details>
 ## AccessLex Institute d/b/a Access Group
 <p class="hidden"></p>
-[March 23, 2018](https://oag.ca.gov/system/files/CA%20notification%20letter_0.pdf) | User Error
+[March 23, 2018](https://oag.ca.gov/system/files/CA%20notification%20letter_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -933,7 +933,7 @@ sign a sworn statement confirming it had deleted the files and retained no copie
 </details>
 ## Autism Learning Partners Holdings, LLC
 <p class="hidden"></p>
-[March 15, 2018](https://oag.ca.gov/system/files/ALP-AisforApple_Sample_Notice_04-03-18_1.pdf) | User Error 
+[March 15, 2018](https://oag.ca.gov/system/files/ALP-AisforApple_Sample_Notice_04-03-18_1.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -944,7 +944,7 @@ error to us and stated that she immediately deleted the file from her account.
 </details>
 ## Amgen, Inc.
 <p class="hidden"></p>
-[February 21, 2018](https://oag.ca.gov/system/files/Amgen%20Data%20Subject%20Notice%20FINAL_0.pdf) | Phishing
+[February 21, 2018](https://oag.ca.gov/system/files/Amgen%20Data%20Subject%20Notice%20FINAL_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -956,7 +956,7 @@ information that was maintained by WTW and could have been disclosed in this inc
 </details>
 ## Applied Plan Administrators ("APA"), a division of The Retirement Advantage, Inc. ("TRA")
 <p class="hidden"></p>
-[February 10, 2018](https://oag.ca.gov/system/files/CORR%20A.%20Schlidt%20Letter%20to%20CA%20AG%20Data%20Incident%20Notification_0.pdf) | Phishing
+[February 10, 2018](https://oag.ca.gov/system/files/CORR%20A.%20Schlidt%20Letter%20to%20CA%20AG%20Data%20Incident%20Notification_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -964,7 +964,7 @@ Applied Plan Administrators ("APA"), a division of TRA, recently fell victim to 
 </details>
 ## American Stock Transfer & Trust Company, LLC
 <p class="hidden"></p>
-[February 01, 2018](https://oag.ca.gov/system/files/Sample%20Notice_21.pdf) | User Error
+[February 01, 2018](https://oag.ca.gov/system/files/Sample%20Notice_21.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -977,7 +977,7 @@ advisors could manipulate the file to access information relating to shareholder
 </details>
 ## Ascensus, LLC
 <p class="hidden"></p>
-[January 31, 2018](https://oag.ca.gov/system/files/221725%20Red%20Hawk%20Casino%20-%20Individual%20Letter_1.pdf) | User Error
+[January 31, 2018](https://oag.ca.gov/system/files/221725%20Red%20Hawk%20Casino%20-%20Individual%20Letter_1.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -991,14 +991,14 @@ individuals at her company viewed or had access to the report
 </details>
 ## ABM Industries Incorporated
 <p class="hidden"></p>
-[January 08, 2018](undefined) | Unknown
+[January 08, 2018](undefined) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 TBDB
 </details>
 <p class="hidden"></p>
-[July 07, 2017](https://oag.ca.gov/system/files/ABM%20-%20Notice%20only%200_0.pdf) | Phishing 
+[July 07, 2017](https://oag.ca.gov/system/files/ABM%20-%20Notice%20only%200_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1012,7 +1012,7 @@ was accessed or acquired.
 </details>
 ## American Golf Corporation
 <p class="hidden"></p>
-[December 12, 2017](https://oag.ca.gov/system/files/Sample%20Notice_20.pdf) | Malware
+[December 12, 2017](https://oag.ca.gov/system/files/Sample%20Notice_20.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1022,17 +1022,15 @@ install	malicious	software	on	the	website	servers	designed	to	capture	payment	ca
 </details>
 ## Academy of Art Unversity dba Stephens Institute
 <p class="hidden"></p>
-[November 08, 2017](https://oag.ca.gov/system/files/TEMPLATE%20Notice%20to%20Employees%20%28All%20except%20Mass%20Oregon%29_0.pdf) | User Error
+[November 08, 2017](https://oag.ca.gov/system/files/TEMPLATE%20Notice%20to%20Employees%20%28All%20except%20Mass%20Oregon%29_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-The Academy of Art University is committed to safeguarding the personal information of our employees.  
-
-On November 8, 2017, an Academy employee mistakenly sent an internal e-mail with an attachment (subject of email: Reminder! 2017 Difference Card Reimbursement Claims), and one of the spreadsheet tabs included in the attachment contained your personal information. The file containing your personal information was originally on a working document that was stored in a secured drive. The employee needed the information contained on the working spreadsheet document to prepare the email distribution list. The employee failed to remove the spreadsheet attachment before the email was sent
+The Academy of Art University is committed to safeguarding the personal information of our employees. 
 </details>
 ## Aflac
 <p class="hidden"></p>
-[September 08, 2017](https://oag.ca.gov/system/files/CALIFORNIA%20HIPPA%20%26%20CM%20ONLY_0.pdf) | IT Provider
+[September 08, 2017](https://oag.ca.gov/system/files/CALIFORNIA%20HIPPA%20%26%20CM%20ONLY_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1046,7 +1044,7 @@ limited number of sales agents.
 </details>
 ## ABB, Inc.
 <p class="hidden"></p>
-[August 25, 2017](https://oag.ca.gov/system/files/ABB%20Sample%20Notification%20Letter%20to%20Individuals_0.pdf) | Email Compromise
+[August 25, 2017](https://oag.ca.gov/system/files/ABB%20Sample%20Notification%20Letter%20to%20Individuals_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1057,7 +1055,7 @@ affected individuals.
 </details>
 ## Avanti Markets Inc.
 <p class="hidden"></p>
-[July 04, 2017](https://oag.ca.gov/system/files/Avanti%20%28update%29_0.pdf) | Malware
+[July 04, 2017](https://oag.ca.gov/system/files/Avanti%20%28update%29_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1066,7 +1064,7 @@ confirmed the root cause of the intrusion, it appears the attackers utilized the
 Because not all of our kiosks are configured or used the same way, personal information on some kiosks may have been adversely affected, while other kiosks may not have been affected.
 </details>
 <p class="hidden"></p>
-[July 02, 2017](https://oag.ca.gov/system/files/Notice%20and%20FAQs_0.pdf) | IT Provider
+[July 02, 2017](https://oag.ca.gov/system/files/Notice%20and%20FAQs_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1076,7 +1074,7 @@ Our team acted swiftly to contain the intrusion. We believe we were successful i
 </details>
 ## Andrea Yaley, DDS
 <p class="hidden"></p>
-[May 19, 2017](https://oag.ca.gov/system/files/Breach%20notification_0.pdf) | Ransomware
+[May 19, 2017](https://oag.ca.gov/system/files/Breach%20notification_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1088,7 +1086,7 @@ to restore our health records from our backup systems
 </details>
 ## Advanced Graphic Products, Inc. /dba/ "Advanced-Online"
 <p class="hidden"></p>
-[April 29, 2017](https://oag.ca.gov/system/files/Sample_Notice_0.PDF) | Unauthorized Access
+[April 29, 2017](https://oag.ca.gov/system/files/Sample_Notice_0.PDF) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1100,7 +1098,7 @@ engaged a nationally recognized cybersecurity and forensics firm to assess and a
 </details>
 ## ALLIANCE FOR COLLEGE-READY PUBLIC SCHOOLS
 <p class="hidden"></p>
-[April 04, 2017](https://oag.ca.gov/system/files/Alliance_for_College_Ready_Public_Schools_-_AG_Notice__0.PDF) | Vulnerability
+[April 04, 2017](https://oag.ca.gov/system/files/Alliance_for_College_Ready_Public_Schools_-_AG_Notice__0.PDF) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1112,7 +1110,7 @@ discovered and alerted them to this vulnerability, permanently and securely dele
 </details>
 ## Alamo Capital
 <p class="hidden"></p>
-[March 14, 2017](https://oag.ca.gov/system/files/Alamo%20Capital%20-%20consumer%20notification%20letter%20-%2004132017_0.pdf) | Breach
+[March 14, 2017](https://oag.ca.gov/system/files/Alamo%20Capital%20-%20consumer%20notification%20letter%20-%2004132017_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1124,7 +1122,7 @@ measures to secure all client information.
 </details>
 ## American Tire Distributors Holdings Inc.
 <p class="hidden"></p>
-[March 03, 2017](https://oag.ca.gov/system/files/American%20Tire%20Security%20Breach%20Notification%20-%20NOTICE%20ONLYCA%20Agency%20Letter%20March%2016%202017_0%20%281%29_0.pdf) | Breach
+[March 03, 2017](https://oag.ca.gov/system/files/American%20Tire%20Security%20Breach%20Notification%20-%20NOTICE%20ONLYCA%20Agency%20Letter%20March%2016%202017_0%20%281%29_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1134,7 +1132,7 @@ commenced. We believe the incident has been contained and did not involve an int
 </details>
 ## Auto Pride Car Wash
 <p class="hidden"></p>
-[February 11, 2017](https://oag.ca.gov/system/files/Substitute-Notice%20RC_0.pdf) | IT Provider
+[February 11, 2017](https://oag.ca.gov/system/files/Substitute-Notice%20RC_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1144,7 +1142,7 @@ To date, the investigation indicates that the intruder placed malware on the poi
 </details>
 ## Acme Car Wash and Clearwater Express
 <p class="hidden"></p>
-[February 06, 2017](https://oag.ca.gov/system/files/Substitute%20Notice_0.pdf) | Malware
+[February 06, 2017](https://oag.ca.gov/system/files/Substitute%20Notice_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1154,7 +1152,7 @@ To date, the investigation indicates that the intruder placed malware on the poi
 </details>
 ## ASI Computer Systems
 <p class="hidden"></p>
-[December 01, 2016](https://oag.ca.gov/system/files/Californina%20Exhibit%201_0.pdf) | Website Compromise
+[December 01, 2016](https://oag.ca.gov/system/files/Californina%20Exhibit%201_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1162,7 +1160,7 @@ On or about November 1, 2018, ASI became aware that certain usernames and passwo
 </details>
 ## Agri Beef Co.
 <p class="hidden"></p>
-[November 22, 2016](https://oag.ca.gov/system/files/Agri%20Beef%20California%20Sample%20Data%20Breach%20Notice%20_0.pdf) |  Unauthorized Access
+[November 22, 2016](https://oag.ca.gov/system/files/Agri%20Beef%20California%20Sample%20Data%20Breach%20Notice%20_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1174,7 +1172,7 @@ the intent to obtain certain PII.
 </details>
 ## Anchor Loans LP
 <p class="hidden"></p>
-[November 07, 2016](https://oag.ca.gov/system/files/Anchor%20Loans%20Sample%20Notice_0.pdf) | Database Compromise
+[November 07, 2016](https://oag.ca.gov/system/files/Anchor%20Loans%20Sample%20Notice_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1184,7 +1182,7 @@ researcher had access to this database, your personal information may have been 
 </details>
 ## Akira
 <p class="hidden"></p>
-[November 01, 2016](https://oag.ca.gov/system/files/Akira%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201_0.pdf) | Malware
+[November 01, 2016](https://oag.ca.gov/system/files/Akira%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1197,7 +1195,7 @@ from our website.
 </details>
 ## Anaheim Majestic Garden Hotel
 <p class="hidden"></p>
-[August 10, 2016](https://oag.ca.gov/system/files/Notice%20Letter_0.pdf) | IT Provider
+[August 10, 2016](https://oag.ca.gov/system/files/Notice%20Letter_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1207,7 +1205,7 @@ SHS Reservation System is a leading online reservations systems used throughout 
 </details>
 ## Aimbridge Hospitality Holdings LLC
 <p class="hidden"></p>
-[August 10, 2016](https://oag.ca.gov/system/files/Aimbridge%20II%20-Notice%20Only%20%20_0_0.pdf) | IT Provider
+[August 10, 2016](https://oag.ca.gov/system/files/Aimbridge%20II%20-Notice%20Only%20%20_0_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1222,7 +1220,7 @@ payment card information was on March 9, 2017
 </details>
 ## Aqua-Aston Hospitality LLC
 <p class="hidden"></p>
-[August 10, 2016](https://oag.ca.gov/system/files/Breach%20Notification%20Letter%2062217%20US_0.pdf) | IT Provider
+[August 10, 2016](https://oag.ca.gov/system/files/Breach%20Notification%20Letter%2062217%20US_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1235,7 +1233,7 @@ reservations processed through the CRS, including some reservations made by Aqua
 </details>
 ## Apria Healthcare
 <p class="hidden"></p>
-[August 05, 2016](https://oag.ca.gov/system/files/Apria%20-%20Notice%20of%20Data%20Event%20-%20CA%20Exhibit%201_0.pdf) | Email Compromise
+[August 05, 2016](https://oag.ca.gov/system/files/Apria%20-%20Notice%20of%20Data%20Event%20-%20CA%20Exhibit%201_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1248,7 +1246,7 @@ documents within the email accounts to determine all affected individuals and da
 </details>
 ## Anne M. Cummings, M.D., F.A.C.P.
 <p class="hidden"></p>
-[July 26, 2016](https://oag.ca.gov/system/files/Cummings%20Notice%20A_0.pdf) | Malware
+[July 26, 2016](https://oag.ca.gov/system/files/Cummings%20Notice%20A_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1258,7 +1256,7 @@ am informed that they promptly took action to secure their systems.
 </details>
 ## A&A Ready Mixed Concrete, Inc.
 <p class="hidden"></p>
-[May 16, 2016](https://oag.ca.gov/system/files/A%26A%20Concrete%20redacted%205_24_16_0.pdf) | Breach
+[May 16, 2016](https://oag.ca.gov/system/files/A%26A%20Concrete%20redacted%205_24_16_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -1266,7 +1264,7 @@ We are contacting you regarding a data security incident that occurred on Monday
 </details>
 ## Ascensus, Inc.
 <p class="hidden"></p>
-[April 29, 2016](https://oag.ca.gov/system/files/211253%20MENZIES%20AVIATION%20-%20%20PPT%20Letter%20-%20General_0.pdf) | Misconfiguration 
+[April 29, 2016](https://oag.ca.gov/system/files/211253%20MENZIES%20AVIATION%20-%20%20PPT%20Letter%20-%20General_0.pdf) | CAUSE
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
