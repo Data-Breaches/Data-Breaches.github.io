@@ -15,6 +15,7 @@ Phishing
 Programming Error
 Ransomware
 Server Stolen
+Service Compromise
 Skimming
 Unauthorized Access
 Unknown

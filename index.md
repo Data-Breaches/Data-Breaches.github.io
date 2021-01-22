@@ -2725,7 +2725,7 @@ engaged in transactions with the Air District.
 </details>
 ## Bakersfield City School District
 <p class="hidden"></p>
-[November 09, 2017](https://oag.ca.gov/system/files/Employee%20Letter%20regarding%20Data%20Breach_0.pdf) | CAUSE
+[November 09, 2017](https://oag.ca.gov/system/files/Employee%20Letter%20regarding%20Data%20Breach_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2738,7 +2738,7 @@ minutes.
 </details>
 ## Brinderson, L.P.
 <p class="hidden"></p>
-[October 24, 2017](https://oag.ca.gov/system/files/T425_v01%20-%20CA%20Notice_0.pdf) | CAUSE
+[October 24, 2017](https://oag.ca.gov/system/files/T425_v01%20-%20CA%20Notice_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2749,8 +2749,8 @@ to assist in our investigation.
 </details>
 ## Best Buy Co., Inc.
 <p class="hidden"></p>
-[September 26, 2017](https://oag.ca.gov/system/files/Best%20Buy%20-%20Individual%20Notification%20Letter_0.pdf) | CAUSE
-{: .fs-4 .fw-700 .lh-0  }
+[September 26, 2017](https://oag.ca.gov/system/files/Best%20Buy%20-%20Individual%20Notification%20Letter_0.pdf) | Malware
+{: .fs-4 .fw-700 .lh-0  
 <details>
   <summary>Abstract</summary>
 Based on an internal investigation, [24]7.ai found that malicious code was inserted in its software
@@ -2762,7 +2762,7 @@ Buy stores.
 </details>
 ## Bronson Nutritionals LLC
 <p class="hidden"></p>
-[May 15, 2017](https://oag.ca.gov/system/files/Bronson%20Nutritionals%20-%20Template%20Individual%20Notification%20Letter%20%28U.S.%20Residents%29_0.pdf) | CAUSE
+[May 15, 2017](https://oag.ca.gov/system/files/Bronson%20Nutritionals%20-%20Template%20Individual%20Notification%20Letter%20%28U.S.%20Residents%29_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2773,7 +2773,7 @@ May 15, 2017 and January 30, 2018, you may be affected by this matter.
 </details>
 ## BMO Harris Bank N.A.
 <p class="hidden"></p>
-[May 15, 2017](https://oag.ca.gov/system/files/BMO%20Harris%20Customer%20Notice%20Template_0.pdf) | CAUSE
+[May 15, 2017](https://oag.ca.gov/system/files/BMO%20Harris%20Customer%20Notice%20Template_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2781,7 +2781,7 @@ This letter is to inform you about a matter involving some of your personal info
 </details>
 ## Bridger Insurance Services
 <p class="hidden"></p>
-[May 07, 2017](https://oag.ca.gov/system/files/Bridger%20-%20Website%20Notice%20of%20Data%20Breach%20--%203.22.19_0.pdf) | CAUSE
+[May 07, 2017](https://oag.ca.gov/system/files/Bridger%20-%20Website%20Notice%20of%20Data%20Breach%20--%203.22.19_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2792,7 +2792,7 @@ potential access, and on September 14, 2018, Bridger shutdown the potentially af
 </details>
 ## Bluestem Brands, Inc.
 <p class="hidden"></p>
-[April 07, 2017](https://oag.ca.gov/system/files/72494_California_0.pdf) | CAUSE
+[April 07, 2017](https://oag.ca.gov/system/files/72494_California_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2801,7 +2801,7 @@ to your Fingerhut account between March 24, 2017 and April 7, 2017.
 </details>
 ## Bombas LLC
 <p class="hidden"></p>
-[November 11, 2016](https://oag.ca.gov/system/files/Sample%20Individual%20Notice_1.pdf) | CAUSE
+[November 11, 2016](https://oag.ca.gov/system/files/Sample%20Individual%20Notice_1.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2811,7 +2811,7 @@ launched a thorough investigation to determine whether personal information of o
 
 </details>
 <p class="hidden"></p>
-[September 27, 2014](https://oag.ca.gov/system/files/Bombas%20-%20Sample%20Notice_1.pdf) | CAUSE
+[September 27, 2014](https://oag.ca.gov/system/files/Bombas%20-%20Sample%20Notice_1.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2822,7 +2822,7 @@ security of our website.
 </details>
 ## Bulletproof 360, Inc.
 <p class="hidden"></p>
-[October 26, 2016](https://oag.ca.gov/system/files/Bulletproof%20Notice_0.PDF) | CAUSE
+[October 26, 2016](https://oag.ca.gov/system/files/Bulletproof%20Notice_0.PDF) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2834,7 +2834,7 @@ that indicates that payment card information used on Bulletproof’s e-commerce 
 2016 through May 30, 2017 may have been compromised. 
 </details>
 <p class="hidden"></p>
-[October 13, 2016](https://oag.ca.gov/system/files/BP3%20first-time%20recipient%20CA%20notification%20letter%20sample_0.pdf) | CAUSE
+[October 13, 2016](https://oag.ca.gov/system/files/BP3%20first-time%20recipient%20CA%20notification%20letter%20sample_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2849,7 +2849,7 @@ entered on the checkout page during this time period.
 </details>
 ## Baxter Credit Union
 <p class="hidden"></p>
-[October 03, 2016](https://oag.ca.gov/system/files/BCU_-_SSN_Plus_Notice_0.PDF) | CAUSE
+[October 03, 2016](https://oag.ca.gov/system/files/BCU_-_SSN_Plus_Notice_0.PDF) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2861,7 +2861,7 @@ unsolicited email.
 </details>
 ## BraceAbility
 <p class="hidden"></p>
-[September 24, 2016](https://oag.ca.gov/system/files/BraceAbility%20notice%20only%20_1.pdf) | CAUSE
+[September 24, 2016](https://oag.ca.gov/system/files/BraceAbility%20notice%20only%20_1.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2874,7 +2874,7 @@ online purchase.
 </details>
 ## BEYOND YOGA
 <p class="hidden"></p>
-[August 01, 2016](https://oag.ca.gov/system/files/password-reset-email_V3_0.pdf) | CAUSE
+[August 01, 2016](https://oag.ca.gov/system/files/password-reset-email_V3_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2882,7 +2882,7 @@ We recently discovered that your personal information may have been exposed in J
 </details>
 ## Broadview Mortgage
 <p class="hidden"></p>
-[July 28, 2016](https://oag.ca.gov/system/files/Broadview%20Adult_0.pdf) | CAUSE
+[July 28, 2016](https://oag.ca.gov/system/files/Broadview%20Adult_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2892,7 +2892,7 @@ and promptly disabled the unauthorized accounts.
 </details>
 ## Brian Goldman, MD A Medical Corporation
 <p class="hidden"></p>
-[July 19, 2016](https://oag.ca.gov/system/files/breach%20%20letter%20pdf_0.pdf) | CAUSE
+[July 19, 2016](https://oag.ca.gov/system/files/breach%20%20letter%20pdf_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2903,7 +2903,7 @@ themselves and not the information they contained were the target of the thief.
 </details>
 ## Banner Health
 <p class="hidden"></p>
-[June 17, 2016](https://oag.ca.gov/system/files/Banner%20Patient%20letter%20%28CA%29_0.pdf) | CAUSE
+[June 17, 2016](https://oag.ca.gov/system/files/Banner%20Patient%20letter%20%28CA%29_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2915,7 +2915,7 @@ that the attack was initiated on June 17, 2016.
 </details>
 ## Berkeley Endocrine Clinic
 <p class="hidden"></p>
-[April 22, 2016](https://oag.ca.gov/system/files/Berkeley%20Endocrine%20Notice_0.pdf) | CAUSE
+[April 22, 2016](https://oag.ca.gov/system/files/Berkeley%20Endocrine%20Notice_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2926,7 +2926,7 @@ informing them of the spam. Inadvertently, the recipient list for the notificati
 </details>
 ## Bon Secours Health System, Inc.
 <p class="hidden"></p>
-[April 18, 2016](https://oag.ca.gov/system/files/Combined%20General_0.pdf) | CAUSE
+[April 18, 2016](https://oag.ca.gov/system/files/Combined%20General_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2934,7 +2934,7 @@ On June 14, 2016, Bon Secours discovered that files containing patient informati
 </details>
 ## Berkeley Unified School District
 <p class="hidden"></p>
-[April 11, 2016](https://oag.ca.gov/system/files/BerkeleyUSD-NotificationBANG-sample_0.pdf) | CAUSE
+[April 11, 2016](https://oag.ca.gov/system/files/BerkeleyUSD-NotificationBANG-sample_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2951,7 +2951,7 @@ confidential data.
 </details>
 ## Brooks Brothers
 <p class="hidden"></p>
-[April 04, 2016](https://oag.ca.gov/system/files/Sample%20Notice_9.pdf) | CAUSE
+[April 04, 2016](https://oag.ca.gov/system/files/Sample%20Notice_9.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2963,15 +2963,15 @@ this incident did not affect any purchases made on the BrooksBrothers.com websit
 </details>
 ## Bristol Farms, Inc.
 <p class="hidden"></p>
-[March 30, 2016](https://oag.ca.gov/system/files/Sample%20Notice_6.pdf) | CAUSE
+[March 30, 2016](https://oag.ca.gov/system/files/Sample%20Notice_6.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-On March 30, 2016, an unauthorized individual, impersonating a Bristol Farms/Lazy Acres executive, conatacted Bristol Farms/Lazy Acres requesting certain information for Bristol Farms/Lazy Acres employees. Before it was determined that the request was fraudulent, an electronic file was provided, which contained information about the affected employees.
+On March 30, 2016, an unauthorized individual, impersonating a Bristol Farms/Lazy Acres executive, contacted Bristol Farms/Lazy Acres requesting certain information for Bristol Farms/Lazy Acres employees. Before it was determined that the request was fraudulent, an electronic file was provided, which contained information about the affected employees.
 </details>
 ## Billy Casper Golf
 <p class="hidden"></p>
-[February 26, 2016](https://oag.ca.gov/system/files/B7655_ADULT_NOTIFICATION_PROOF_0.PDF) | CAUSE
+[February 26, 2016](https://oag.ca.gov/system/files/B7655_ADULT_NOTIFICATION_PROOF_0.PDF) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2980,7 +2980,7 @@ Unfortunately, this information was provided before it was discovered that the r
 </details>
 ## BMP/Pennant Holdings, LLC
 <p class="hidden"></p>
-[January 13, 2016](https://oag.ca.gov/system/files/Website%20Notification_7.pdf) | CAUSE
+[January 13, 2016](https://oag.ca.gov/system/files/Website%20Notification_7.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -2994,7 +2994,7 @@ some Wendy’s franchisee systems starting in late fall 2015.
 </details>
 ## Baja Bound Insurance Services, Inc.
 <p class="hidden"></p>
-[December 16, 2015](https://oag.ca.gov/system/files/BajaBound_notice%20only%20_0.pdf) | CAUSE
+[December 16, 2015](https://oag.ca.gov/system/files/BajaBound_notice%20only%20_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3008,7 +3008,7 @@ know about this event out of an abundance of caution.
 </details>
 ## Blucora, Inc.
 <p class="hidden"></p>
-[November 10, 2015](https://oag.ca.gov/system/files/20160111%20Account%20accessed%20CA_clean%20version_0.PDF) | CAUSE
+[November 10, 2015](https://oag.ca.gov/system/files/20160111%20Account%20accessed%20CA_clean%20version_0.PDF) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3019,21 +3019,21 @@ related to your TaxAct account.
 </details>
 ## Blue Shield of California
 <p class="hidden"></p>
-[September 15, 2015](https://oag.ca.gov/system/files/Member%20Adult_0.pdf) | CAUSE
+[September 15, 2015](https://oag.ca.gov/system/files/Member%20Adult_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 In December of 2015, Blue Shield was notified by our vendor that data about you may have been accessed by an unauthorized user who gained access to the vendor’s data systems without permission. We believe that the unauthorized access happened between September and December of 2015 and was the result of log-in credentials for certain Blue Shield customer service representatives being misused. No data systems at Blue Shield were impacted.  We take this issue seriously and regret the concern it may cause. 
 </details>
 <p class="hidden"></p>
-[December 20, 2013](https://oag.ca.gov/system/files/98368-PROOF2_0.pdf) | CAUSE
+[December 20, 2013](https://oag.ca.gov/system/files/98368-PROOF2_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 I am writing on behalf of Blue Shield California ("Blue Shield") to advise you of a recent incident that resulted in our disclosure of your Blue Shield ID number to one or more of your clients who may have attempted to pay for their Individual and  Family Plan policy through our online payment system. The Agent ID number is your Tax Identification Number which, in your case, is your Social Security Number ("SSN"). We have no reason to believe that your personal information has been misused, but we apologize for this incident and regret the concern or inconvenience it may cause you. 
 </details>
 <p class="hidden"></p>
-[February 28, 2013](https://oag.ca.gov/system/files/Template%20Notification%20Letter%20070314_0.pdf) | CAUSE
+[February 28, 2013](https://oag.ca.gov/system/files/Template%20Notification%20Letter%20070314_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3041,7 +3041,7 @@ On May 16, 2014, the DMHC discovered that Blue Shield of California had inadvert
 </details>
 ## Buyers Protection Group
 <p class="hidden"></p>
-[July 19, 2015](https://oag.ca.gov/system/files/BPG%20incident_Customer%20Notification_0.pdf) | CAUSE
+[July 19, 2015](https://oag.ca.gov/system/files/BPG%20incident_Customer%20Notification_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3049,7 +3049,7 @@ On July 19, 2015, a company laptop was stolen from an employee's car during a la
 </details>
 ## Bank of Manhattan—Mortgage Lending
 <p class="hidden"></p>
-[June 12, 2015](https://oag.ca.gov/system/files/Bank%20of%20Manhattan%20Customer%20Notification_0.pdf) | CAUSE
+[June 12, 2015](https://oag.ca.gov/system/files/Bank%20of%20Manhattan%20Customer%20Notification_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3057,7 +3057,7 @@ We believe in acting quickly to protect our customers’ best interests. Thus, w
 </details>
 ## Bonita Unified School District
 <p class="hidden"></p>
-[June 02, 2015](https://oag.ca.gov/system/files/BONITAUSD_B1194_BONITA_USD_%20NOTIFICATION_LETTER_STUDENT_ADULT.DOCX_AUDIT_0.pdf) | CAUSE
+[June 02, 2015](https://oag.ca.gov/system/files/BONITAUSD_B1194_BONITA_USD_%20NOTIFICATION_LETTER_STUDENT_ADULT.DOCX_AUDIT_0.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3067,7 +3067,7 @@ enforcement in its investigation of this incident. The information that was chan
 </details>
 ## B. Lane, Inc., a Delaware corporation d/b/a Fashion to Figure
 <p class="hidden"></p>
-[May 19, 2015](https://oag.ca.gov/system/files/FTF%20-%20Sample%20Notification%20Letter_0.pdf) | CAUSE
+[May 19, 2015](https://oag.ca.gov/system/files/FTF%20-%20Sample%20Notification%20Letter_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3075,7 +3075,7 @@ On October 16, 2015, we noticed that a page on our website, which was managed by
 </details>
 ## Blue Spring Partners, LLC
 <p class="hidden"></p>
-[April 25, 2015](https://oag.ca.gov/system/files/Blue%20Spring%20Partners%20Ad%20r1prf_0.pdf) | CAUSE
+[April 25, 2015](https://oag.ca.gov/system/files/Blue%20Spring%20Partners%20Ad%20r1prf_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3085,7 +3085,7 @@ procedures to protect all data and prevent unauthorized access and requested an 
 </details>
 ## Bay Area Children's Association
 <p class="hidden"></p>
-[January 15, 2015](https://oag.ca.gov/system/files/BACA%20Notification_0.pdf) | CAUSE
+[January 15, 2015](https://oag.ca.gov/system/files/BACA%20Notification_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3103,7 +3103,7 @@ medical record system.
 </details>
 ## bebe stores, inc.
 <p class="hidden"></p>
-[November 08, 2014](https://oag.ca.gov/system/files/bebe%20website%20notice%20for%20AG%20attachment_1.PDF) | CAUSE
+[November 08, 2014](https://oag.ca.gov/system/files/bebe%20website%20notice%20for%20AG%20attachment_1.PDF) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3111,7 +3111,7 @@ bebe stores, inc. recognizes the importance of protecting the payment card infor
 </details>
 ## Bistro Burger, Inc.
 <p class="hidden"></p>
-[October 02, 2014](https://oag.ca.gov/system/files/BistroBurger_LA%20Times%20Print%20Notice%20%2803.09.15%29_0.pdf) | CAUSE
+[October 02, 2014](https://oag.ca.gov/system/files/BistroBurger_LA%20Times%20Print%20Notice%20%2803.09.15%29_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3119,7 +3119,7 @@ We recently confirmed that unauthorized individuals or entities installed malici
 </details>
 ## Bulk Reef Supply
 <p class="hidden"></p>
-[July 30, 2014](https://oag.ca.gov/system/files/BULKREEFSUP_1.%20BULK%20REEF%20NOTIFICAITON%20LETTER.DOCX_WPP_1.pdf) | CAUSE
+[July 30, 2014](https://oag.ca.gov/system/files/BULKREEFSUP_1.%20BULK%20REEF%20NOTIFICAITON%20LETTER.DOCX_WPP_1.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3127,7 +3127,7 @@ We are contacting you about a data security incident that occurred at BulkReefSu
 </details>
 ## Black Mountain Software
 <p class="hidden"></p>
-[May 30, 2014](https://oag.ca.gov/system/files/BMS%20notification%20letters_0.pdf) | CAUSE
+[May 30, 2014](https://oag.ca.gov/system/files/BMS%20notification%20letters_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3135,7 +3135,7 @@ The city which produces your water bills, The Town of Jamestown, uses Black Moun
 </details>
 ## Benjamin F. Edwards & Co.
 <p class="hidden"></p>
-[May 24, 2014](https://oag.ca.gov/system/files/Notification%20Letter%20Sample_0.PDF) | CAUSE
+[May 24, 2014](https://oag.ca.gov/system/files/Notification%20Letter%20Sample_0.PDF) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3143,7 +3143,7 @@ On May 27, 2014, BFE discovered, like many other businesses and financial instit
 </details>
 ## Bay Area Pain Medical Associates
 <p class="hidden"></p>
-[May 19, 2014](https://oag.ca.gov/system/files/BayArea_proof_0.pdf) | CAUSE
+[May 19, 2014](https://oag.ca.gov/system/files/BayArea_proof_0.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3151,7 +3151,7 @@ We hope this letter finds you well. We are writing to inform you that on May 19,
 </details>
 ## Backcountry Gear
 <p class="hidden"></p>
-[April 27, 2014](https://oag.ca.gov/system/files/Data%20Breach%20Notification%20Backcountry%20Gear_0.pdf) | CAUSE
+[April 27, 2014](https://oag.ca.gov/system/files/Data%20Breach%20Notification%20Backcountry%20Gear_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3159,7 +3159,7 @@ Our company was founded on a commitment to absolute customer service and satisfa
 </details>
 ## Bartell Hotels
 <p class="hidden"></p>
-[February 16, 2014](https://oag.ca.gov/system/files/Website%20posting_0.pdf) | CAUSE
+[February 16, 2014](https://oag.ca.gov/system/files/Website%20posting_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3167,7 +3167,7 @@ We deeply value your business. The security of your personal information is our 
 </details>
 ## Barbecue Renew Inc.
 <p class="hidden"></p>
-[January 19, 2014](https://oag.ca.gov/system/files/Barbecue%20Renew%20Consumer%20Notification%20Sample_0.pdf) | CAUSE
+[January 19, 2014](https://oag.ca.gov/system/files/Barbecue%20Renew%20Consumer%20Notification%20Sample_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3175,7 +3175,7 @@ Barbecue Renew, Inc., (“Barbecue Renew” or “us” or “we”), is an e-co
 </details>
 ## Bring it To Me, LLC
 <p class="hidden"></p>
-[January 13, 2014](https://oag.ca.gov/system/files/Bring%20It%20to%20Me%20-%20Notificaton%20Letter_0.pdf) | CAUSE
+[January 13, 2014](https://oag.ca.gov/system/files/Bring%20It%20to%20Me%20-%20Notificaton%20Letter_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3183,7 +3183,7 @@ We value your business and respect the privacy of your information, which is why
 </details>
 ## Beacon Health System
 <p class="hidden"></p>
-[November 19, 2013](https://oag.ca.gov/system/files/Standard%20Letter%20Template%20with%20Notation%20%283%29_0.pdf) | CAUSE
+[November 19, 2013](https://oag.ca.gov/system/files/Standard%20Letter%20Template%20with%20Notation%20%283%29_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3191,7 +3191,7 @@ Beacon Health System is writing to notify you of data security event that may af
 </details>
 ## B&G Foods, Inc.
 <p class="hidden"></p>
-[November 16, 2013](https://oag.ca.gov/system/files/B%26G%20Foods%20Consumer%20Letter_0.pdf) | CAUSE
+[November 16, 2013](https://oag.ca.gov/system/files/B%26G%20Foods%20Consumer%20Letter_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3199,7 +3199,7 @@ On November 16, 2013, B&G Foods North America, Inc. discovered that an unauthori
 </details>
 ## Butler University
 <p class="hidden"></p>
-[November 01, 2013](https://oag.ca.gov/system/files/L01_NONMASS_ALLSTATES_AG2_1.pdf) | CAUSE
+[November 01, 2013](https://oag.ca.gov/system/files/L01_NONMASS_ALLSTATES_AG2_1.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3207,7 +3207,7 @@ On May 28, 2014, Butler University was contacted by California law enforcement a
 </details>
 ## Board of Barbering and Cosmetology
 <p class="hidden"></p>
-[August 23, 2013](https://oag.ca.gov/system/files/BBC_Sample_Letter_0.pdf) | CAUSE
+[August 23, 2013](https://oag.ca.gov/system/files/BBC_Sample_Letter_0.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3215,7 +3215,7 @@ On August 23, 2013, the Board's Fairfield Office was burglarized and a desktop c
 </details>
 ## Boomerang Tags
 <p class="hidden"></p>
-[July 04, 2013](https://oag.ca.gov/system/files/Sample%20Individual%20Breach%20Notification%20Letter_0.pdf) | CAUSE
+[July 04, 2013](https://oag.ca.gov/system/files/Sample%20Individual%20Breach%20Notification%20Letter_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3223,7 +3223,7 @@ We recently learned that unauthorized individuals or entities installed maliciou
 </details>
 ## BEL USA LLC
 <p class="hidden"></p>
-[March 01, 2013](https://oag.ca.gov/system/files/Security%20Breach%20Notification%20Sample_0.pdf) | CAUSE
+[March 01, 2013](https://oag.ca.gov/system/files/Security%20Breach%20Notification%20Sample_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3231,7 +3231,7 @@ We wanted to notify you of a security incident involving the [[insert name of we
 </details>
 ## Beachbody, LLC
 <p class="hidden"></p>
-[March 01, 2013](https://oag.ca.gov/system/files/Beachbody%20Notice%20Template_0.pdf) | CAUSE
+[March 01, 2013](https://oag.ca.gov/system/files/Beachbody%20Notice%20Template_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3239,7 +3239,7 @@ On April 17, 2013, Beachbody became aware that an unknown unauthorized individua
 </details>
 ## Bailey's Inc
 <p class="hidden"></p>
-[January 01, 2013](https://oag.ca.gov/system/files/Bailey%27s%20Notice%203%207%2016%20v%20%202%20FINAL%20%284%29_0.pdf) | CAUSE
+[January 01, 2013](https://oag.ca.gov/system/files/Bailey%27s%20Notice%203%207%2016%20v%20%202%20FINAL%20%284%29_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3249,7 +3249,7 @@ In that notice, we informed our customers that the compromise event began on Sep
 </details>
 ## Bellacor.com, Inc.
 <p class="hidden"></p>
-[July 26, 2012](https://oag.ca.gov/system/files/Bellacor%20Data%20Breach%20Notice_0.pdf) | CAUSE
+[July 26, 2012](https://oag.ca.gov/system/files/Bellacor%20Data%20Breach%20Notice_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3265,7 +3265,7 @@ precautionary measures to protect your financial security and alleviate concerns
 </details>
 ## Bank of America Merchant Services, LLC
 <p class="hidden"></p>
-[January 02, 2012](https://oag.ca.gov/system/files/BAMS_Notification_Letter_Final_5_14_12%5B1%5D_0.pdf) | CAUSE
+[January 02, 2012](https://oag.ca.gov/system/files/BAMS_Notification_Letter_Final_5_14_12%5B1%5D_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3273,7 +3273,7 @@ It has recently been brought to our attention that personal information about me
 </details>
 ## Belden Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Breach%20Notification%20Template%20-%20%28Belden%29%20%28US%29.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Breach%20Notification%20Template%20-%20%28Belden%29%20%28US%29.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3286,7 +3286,7 @@ servers that contained personal information of some current and former employees
 </details>
 ## Backcountry Edge, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach%20-%2012%20month%20generic.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach%20-%2012%20month%20generic.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3296,7 +3296,7 @@ unauthorized access of your personal information by hackers.
 </details>
 ## Bank of Hope
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Sample%20Notice_24.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Sample%20Notice_24.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
