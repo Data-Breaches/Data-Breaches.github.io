@@ -3310,7 +3310,7 @@ internal computer systems or network, or that any other customer information was
 </details>
 ## Bombas, LLC
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Bombas%20Ad%20r4prf%20%28002%29_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Bombas%20Ad%20r4prf%20%28002%29_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3321,7 +3321,7 @@ removed from our website on January 15, 2015, and then finally removed on Februa
 </details>
 ## Big Fish Games
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/BFG%20-%20MULTI-STATE%20NOTIFICATION%20LETTER_Proof_1.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/BFG%20-%20MULTI-STATE%20NOTIFICATION%20LETTER_Proof_1.pdf) | Malware 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3329,7 +3329,7 @@ I am writing to inform you of an incident we self-discovered on January 12, 2015
 </details>
 ## Bay Area Bioscience Association
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/BayBio_CreditAlert_9-26-2014_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/BayBio_CreditAlert_9-26-2014_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3337,7 +3337,7 @@ It has come to our attention that sometime within the past two weeks the securit
 </details>
 ## Buckeye Check Cashing of California LLC
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Notice%20of%20Breach%20to%20BCCCA%20customers_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Notice%20of%20Breach%20to%20BCCCA%20customers_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3345,7 +3345,7 @@ On June 27, 2013, a laptop that may have contained your personal information was
 </details>
 ## Bureau of Automotive Repair
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Notification_Letter_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Notification_Letter_0.pdf) | Service Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3353,7 +3353,7 @@ We recently learned that an unauthorized individual accessed the network of one 
 </details>
 ## Barnes & Noble Booksellers, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Customer%20Notice%20with%20Press%20Release_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Customer%20Notice%20with%20Press%20Release_0.pdf) | Skimming
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3369,7 +3369,7 @@ We have detected a sophisticated criminal effort to steal credit and debit card 
 The Center for Autism and Related Disorders (“CARD”) recently discovered a data security incident that may have affected files containing limited sensitive information. There is no evidence that your personal information was accessed or misused in any way. However, because we are unable to determine with certainty what files may have been compromised, we are sending this advisory so you can take steps to minimize the possibility of misuse of your information.
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Notice%20of%20Breach%20-%20CARD%20%28patients%29_PROOF.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Notice%20of%20Breach%20-%20CARD%20%28patients%29_PROOF.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3396,7 +3396,7 @@ On September 2, 2020 the CCPOA Benefit Trust Fund’s IT Department discovered u
 </details>
 ## CCPOA Benefit Trust Fund
 <p class="hidden"></p>
-[September 02, 2020](https://oag.ca.gov/system/files/Experian%20Letter%202020.pdf) | CAUSE
+[September 02, 2020](https://oag.ca.gov/system/files/Experian%20Letter%202020.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3418,7 +3418,7 @@ We are contacting you regarding a data security incident that has occurred on Au
 </details>
 ## Cantella & Co., Inc.
 <p class="hidden"></p>
-[August 25, 2020](https://oag.ca.gov/system/files/Client%20Breach%20Notification%20Letter.pdf) | CAUSE
+[August 25, 2020](https://oag.ca.gov/system/files/Client%20Breach%20Notification%20Letter.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3433,7 +3433,7 @@ We are contacting you regarding a data security incident that has occurred on Au
 On August 12, 2020, the confidentiality of one of our employee's mailboxes was compromised. In this mailbox, there were possibly usernames and passwords of active members of the Construction BidBoard platform.
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach_5.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach_5.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3464,7 +3464,7 @@ We identified a security incident involving ransomware on August 4, 2020. We imm
 On August 3, 2020, the FBI notified us that it had arrested an individual who was in possession of some CDMS documents. We subsequently received a copy of the information and determined that the documents contained the personal information of some of our employees are currently cooperating with the law enforcement investigation and have hired a forensic firm to assist with our investigation into the matter. Although those investigations are ongoing, we wanted to notify you of the incident as soon as possible.
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/CDMS%20-%20Template%20Notification%20Letter.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/CDMS%20-%20Template%20Notification%20Letter.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3477,7 +3477,7 @@ you of the incident as soon as possible.
 </details>
 ## Capital Lumber Company
 <p class="hidden"></p>
-[July 27, 2020](https://oag.ca.gov/system/files/Capital%20Lumber%20-%20Sample%20Consumer%20Notification%20Letter%20%28CA%29.pdf) | CAUSE
+[July 27, 2020](https://oag.ca.gov/system/files/Capital%20Lumber%20-%20Sample%20Consumer%20Notification%20Letter%20%28CA%29.pdf) | Service Compromise 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3491,7 +3491,7 @@ address information to notify you.
 </details>
 ## Canon U.S.A., Inc.
 <p class="hidden"></p>
-[July 20, 2020](https://oag.ca.gov/system/files/Canon%20-%20California%20Notification%20Material.pdf) | CAUSE
+[July 20, 2020](https://oag.ca.gov/system/files/Canon%20-%20California%20Notification%20Material.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3508,7 +3508,7 @@ law enforcement and worked to support the investigation.
 A third party vendor, Blackbaud, Inc. (the company that stores our fundraising data and services thousands of non-profits globally) notified us of a ransomware attack on its hosting system.  Blackbaud informed us of the incident on July 16, 2020. Our internal data storage systems were not affected by the security incident.
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Sample%20Notice%20of%20Data%20Breach%20-%20Blackbaud%20July%202020%20CWSL.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Sample%20Notice%20of%20Data%20Breach%20-%20Blackbaud%20July%202020%20CWSL.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3558,28 +3558,28 @@ On May 7, 2020, the Alliance found that many Alliance employees’ email account
 We are writing to you because of a recent security incident that was discovered May 7, 2020 in an Office of Peace Officer Selection SharePoint site. A domain group for all CDCR staff with intranet access was inadvertently given “read only” access to the SharePoint site that contained personal identifying information.
 </details>
 <p class="hidden"></p>
-[March 03, 2014](https://oag.ca.gov/system/files/CCI%20Breach%20Letter.pdf.doc__0.pdf) | CAUSE
+[March 03, 2014](https://oag.ca.gov/system/files/CCI%20Breach%20Letter.pdf.doc__0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 On March 9, 2014, an employee roster was discovered within an unsecure desk drawer of Facility E Visiting, Custody Podium. This roster, which included your full name and the last 6-digits of your Social Security number, was used during the week March 3, 2014 thru March 7, 2014 for TB testing. 
 </details>
 <p class="hidden"></p>
-[July 26, 2013](https://oag.ca.gov/system/files/CEN%20Breach%20Letter_0.pdf) | CAUSE
+[July 26, 2013](https://oag.ca.gov/system/files/CEN%20Breach%20Letter_0.pdf) | Misconfiguration 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 On July 28, 2013, it was discovered that a file containing your name, date of birth, and Social Security number was saved to a location on our CEN server which is accessible to all CEN staff. This file was on the server between July 26, 2013 and July 29, 2013 before being removed.
 </details>
 <p class="hidden"></p>
-[September 26, 2012](https://oag.ca.gov/system/files/SVSP%20Notification%20Letter_0.pdf) | CAUSE
+[September 26, 2012](https://oag.ca.gov/system/files/SVSP%20Notification%20Letter_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 On September 26, 2012 it was discovered that a database file containing personal information for custody staff, which was located on the institutional server, was accessible to all SVSP staff. The database file contained your first and last name, Social Security number, personal phone number, address, and institutional-position information.
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/CDCR%20MCSP%20-%20Privacy%20Breach_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/CDCR%20MCSP%20-%20Privacy%20Breach_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3604,7 +3604,7 @@ Combe Incorporated (“Combe”) values and respects your privacy and is committ
 We recently learned that an unauthorized third party placed computer code that was capable of collecting information on the checkout page of our website from March 2, 2020 until April 10, 2020. Upon learning of the incident, we promptly removed the malicious code and conducted an internal investigation with the help of a leading computer forensic firm.
 </details>
 <p class="hidden"></p>
-[March 02, 2020](https://oag.ca.gov/system/files/A%20-%20California%20Notification%20Letter%20-%20Redacted.pdf) | CAUSE
+[March 02, 2020](https://oag.ca.gov/system/files/A%20-%20California%20Notification%20Letter%20-%20Redacted.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3616,7 +3616,7 @@ your personal information.
 </details>
 ## CodeMetro
 <p class="hidden"></p>
-[April 21, 2020](https://oag.ca.gov/system/files/CodeMetro%20California%20Notice%20Letter%20Templates_1.PDF) | CAUSE
+[April 21, 2020](https://oag.ca.gov/system/files/CodeMetro%20California%20Notice%20Letter%20Templates_1.PDF) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3635,7 +3635,7 @@ On April 17, 2020, we were notified by Coalinga Police Department that an employ
 </details>
 ## Cognizant Technology Solutions Corporation
 <p class="hidden"></p>
-[April 09, 2020](https://oag.ca.gov/system/files/Letter%201.pdf) | CAUSE
+[April 09, 2020](https://oag.ca.gov/system/files/Letter%201.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3646,7 +3646,7 @@ between April 9 and 11.
 </details>
 ## Chegg, Inc.
 <p class="hidden"></p>
-[April 09, 2020](https://oag.ca.gov/system/files/EXPERIAN_F4996_Chegg%20Individual%20Notice%20-%20All%20States%20-%20to%20be%20sent%2020200427%20With%20Sig_gordonio_chegg.com_SAS_PROOF.pdf) | CAUSE
+[April 09, 2020](https://oag.ca.gov/system/files/EXPERIAN_F4996_Chegg%20Individual%20Notice%20-%20All%20States%20-%20to%20be%20sent%2020200427%20With%20Sig_gordonio_chegg.com_SAS_PROOF.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3656,7 +3656,7 @@ limited amount of data from Cognizant’s systems. Based on our investigation, w
 between April 9 and 11. 
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/California%20-%20Notice%20Letter%20to%20Consumers_0.PDF) | CAUSE
+[](https://oag.ca.gov/system/files/California%20-%20Notice%20Letter%20to%20Consumers_0.PDF) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3683,7 +3683,7 @@ On April 6, 2020, an unauthorized person accessed an employee’s email account.
 </details>
 ## CBD Industries, LLC
 <p class="hidden"></p>
-[March 30, 2020](https://oag.ca.gov/system/files/CA%20Notice%20%28B%26W%29.pdf) | CAUSE
+[March 30, 2020](https://oag.ca.gov/system/files/CA%20Notice%20%28B%26W%29.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3694,7 +3694,7 @@ we notified federal law enforcement and have been cooperating with their investi
 </details>
 ## Catholic Charities, Diocese of San Diego
 <p class="hidden"></p>
-[March 27, 2020](https://oag.ca.gov/system/files/Catholic%20Charities_Client.pdf) | CAUSE
+[March 27, 2020](https://oag.ca.gov/system/files/Catholic%20Charities_Client.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3717,7 +3717,7 @@ On March 1, 2020, the City announced that it had experienced a cybersecurity inc
 </details>
 ## City of Torrance
 <p class="hidden"></p>
-[March 01, 2020](https://oag.ca.gov/system/files/EXPERIAN_F5301_DRAFT_Employee_Breach%20Notification_050120%20%28004%29.docx_SAS_PROOF_Rev4.pdf) | CAUSE
+[March 01, 2020](https://oag.ca.gov/system/files/EXPERIAN_F5301_DRAFT_Employee_Breach%20Notification_050120%20%28004%29.docx_SAS_PROOF_Rev4.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3739,7 +3739,7 @@ The investigation determined that beginning sometime in late February, our syste
 </details>
 ## Community Memorial Health System
 <p class="hidden"></p>
-[February 18, 2020](https://oag.ca.gov/system/files/%28CMHS%29%20Sample%20Notification%20Letter.pdf) | CAUSE
+[February 18, 2020](https://oag.ca.gov/system/files/%28CMHS%29%20Sample%20Notification%20Letter.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3754,7 +3754,7 @@ unauthorized access. During this time, CMHS and its employees experienced an
 interruption in service for a short amount of time while their servers were offline.
 </details>
 <p class="hidden"></p>
-[June 22, 2017](https://oag.ca.gov/system/files/CMHS%20Breach%20Notice%20to%20CA%20AG_0.pdf) | CAUSE
+[June 22, 2017](https://oag.ca.gov/system/files/CMHS%20Breach%20Notice%20to%20CA%20AG_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3786,7 +3786,7 @@ n/a
 </details>
 ## Chino Valley Unified School District
 <p class="hidden"></p>
-[November 04, 2019](https://oag.ca.gov/system/files/001.pdf) | CAUSE
+[November 04, 2019](https://oag.ca.gov/system/files/001.pdf) | Vulnerability
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3796,7 +3796,7 @@ investigation, and on May 1,2020, determined that the individual did access pare
 </details>
 ## Corning Union High School District
 <p class="hidden"></p>
-[November 04, 2019](https://oag.ca.gov/system/files/CUHSD%20Parent%20Notification.pdf) | CAUSE
+[November 04, 2019](https://oag.ca.gov/system/files/CUHSD%20Parent%20Notification.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3810,7 +3810,7 @@ reveal any compromise of the Aeries SIS or data.
 </details>
 ## Central School District
 <p class="hidden"></p>
-[November 04, 2019](https://oag.ca.gov/system/files/Data%20Breach%20Notification.pdf) | CAUSE
+[November 04, 2019](https://oag.ca.gov/system/files/Data%20Breach%20Notification.pdf) | Vulnerability
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3819,7 +3819,7 @@ Aeries system hosted by Aeries software. This incident did not involve District 
 </details>
 ## Cadence Aerospace
 <p class="hidden"></p>
-[October 24, 2019](https://oag.ca.gov/system/files/CA%20Notice%20Letter_1.pdf) | CAUSE
+[October 24, 2019](https://oag.ca.gov/system/files/CA%20Notice%20Letter_1.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3829,7 +3829,7 @@ files and demand payment to release them.
 </details>
 ## Community Action Partnership of Kern
 <p class="hidden"></p>
-[October 11, 2019](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach.pdf) | CAUSE
+[October 11, 2019](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3837,7 +3837,7 @@ Between October 2019 and December 2019 two authorized users of the tax preparati
 </details>
 ## Concorde Investment Services
 <p class="hidden"></p>
-[September 17, 2019](https://oag.ca.gov/system/files/Concorde%20California%20Ad%20SSN%20Variable%20%5Bredacted%5D%20%288897773x7AB84%29.PDF) | CAUSE
+[September 17, 2019](https://oag.ca.gov/system/files/Concorde%20California%20Ad%20SSN%20Variable%20%5Bredacted%5D%20%288897773x7AB84%29.PDF) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3846,7 +3846,7 @@ phishing attack resulting in unauthorized access to these email boxes.
 </details>
 ## Cucamonga Valley Water Ditrict
 <p class="hidden"></p>
-[August 26, 2019](https://oag.ca.gov/system/files/CVWD%20C2G%20Incident%20Notification%20Letter.pdf) | CAUSE
+[August 26, 2019](https://oag.ca.gov/system/files/CVWD%20C2G%20Incident%20Notification%20Letter.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3867,7 +3867,7 @@ On August 13, 2020, Camrosa Water District discovered a criminal cyber-attack th
 </details>
 ## Capital Planning Advisors, LLC
 <p class="hidden"></p>
-[July 30, 2019](https://oag.ca.gov/system/files/CA%20-%20Exhibit%201%20-%20CPA%20%28notification%29.pdf) | CAUSE
+[July 30, 2019](https://oag.ca.gov/system/files/CA%20-%20Exhibit%201%20-%20CPA%20%28notification%29.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3882,7 +3882,7 @@ of this information as a result of this incident.
 </details>
 ## City of Bakersfield
 <p class="hidden"></p>
-[July 30, 2019](https://oag.ca.gov/system/files/Bakersfield%20CA%20Individual%20Notice%20Letter.pdf) | CAUSE
+[July 30, 2019](https://oag.ca.gov/system/files/Bakersfield%20CA%20Individual%20Notice%20Letter.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3897,7 +3897,7 @@ computer systems to protect against future insertion of the unauthorized code. W
 a payment on Bakersfield’s Click2Gov online payment system during this time period.
 </details>
 <p class="hidden"></p>
-[August 11, 2018](https://oag.ca.gov/system/files/Sample_CA_City_of_Bakersfield_Notice_Letter_0.pdf) | CAUSE
+[August 11, 2018](https://oag.ca.gov/system/files/Sample_CA_City_of_Bakersfield_Notice_Letter_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3912,7 +3912,7 @@ notifying you because you made a payment on The City’s Click2Gov online paymen
 </details>
 ## Central Valley Regional Center
 <p class="hidden"></p>
-[July 25, 2019](https://oag.ca.gov/system/files/Central%20Valley%20--%20California%20Attorney%20General%20Notification%20Letter%20--%202019.10.24.pdf) | CAUSE
+[July 25, 2019](https://oag.ca.gov/system/files/Central%20Valley%20--%20California%20Attorney%20General%20Notification%20Letter%20--%202019.10.24.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3920,7 +3920,7 @@ On July 29, 2019, CVRC learned that an unauthorized third party may have gained 
 </details>
 ## Coyuchi
 <p class="hidden"></p>
-[June 20, 2019](https://oag.ca.gov/system/files/Coyuchi%20Customer%20Letter.pdf) | CAUSE
+[June 20, 2019](https://oag.ca.gov/system/files/Coyuchi%20Customer%20Letter.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3932,7 +3932,7 @@ it was discovered.
 </details>
 ## C&S Wholesale Grocers, Inc.
 <p class="hidden"></p>
-[June 18, 2019](https://oag.ca.gov/system/files/Experian_E7574_L01_SAS_Proof.PDF) | CAUSE
+[June 18, 2019](https://oag.ca.gov/system/files/Experian_E7574_L01_SAS_Proof.PDF) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3940,7 +3940,7 @@ On June 18, 2019, a Company-issued laptop was stolen in a car burglary. A police
 </details>
 ## California Department of Food and Agriculture
 <p class="hidden"></p>
-[May 14, 2019](https://oag.ca.gov/system/files/2019_0529_Final%20DraftLtr_CCTT%20Interface%20Record_Inadvertent%20Data%20Release_CDFA_BCC_MM_Admin%20ver.pdf) | CAUSE
+[May 14, 2019](https://oag.ca.gov/system/files/2019_0529_Final%20DraftLtr_CCTT%20Interface%20Record_Inadvertent%20Data%20Release_CDFA_BCC_MM_Admin%20ver.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3948,7 +3948,7 @@ I am writing to you because of a recent security incident that occurred on May 1
 </details>
 ## Collie Accountancy
 <p class="hidden"></p>
-[April 18, 2019](https://oag.ca.gov/system/files/Collie%20Accountancy%20AG%20Submission_0.pdf) | CAUSE
+[April 18, 2019](https://oag.ca.gov/system/files/Collie%20Accountancy%20AG%20Submission_0.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3957,7 +3957,7 @@ It does not appear that was the intent, but the possibility exists.
 </details>
 ## Carnival Corporation & PLC
 <p class="hidden"></p>
-[April 11, 2019](https://oag.ca.gov/system/files/Exhibit%20B%20-%20Sample%20Consumer%20Notification%20US.pdf) | CAUSE
+[April 11, 2019](https://oag.ca.gov/system/files/Exhibit%20B%20-%20Sample%20Consumer%20Notification%20US.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3969,7 +3969,7 @@ some employee email accounts that contained personal information regarding our g
 </details>
 ## Capistrano Unified School District
 <p class="hidden"></p>
-[April 11, 2019](https://oag.ca.gov/system/files/Total%20Registration%20Parent%20Letter%20LH%20%285%29_0.pdf) | CAUSE
+[April 11, 2019](https://oag.ca.gov/system/files/Total%20Registration%20Parent%20Letter%20LH%20%285%29_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3982,7 +3982,7 @@ that Total Registration’s information was not improperly accessed or misused.
 </details>
 ## Cornerstone Building Brands, Inc.
 <p class="hidden"></p>
-[April 01, 2019](https://oag.ca.gov/system/files/Cornerstone_CA_Sample_Notices.pdf) | CAUSE
+[April 01, 2019](https://oag.ca.gov/system/files/Cornerstone_CA_Sample_Notices.pdf) | Email Compromise 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -3995,7 +3995,7 @@ attachments in the email accounts.
 </details>
 ## Carl's Golfland, Inc.
 <p class="hidden"></p>
-[March 25, 2019](https://oag.ca.gov/system/files/Carl%27s%20Golfland%20Notification%20California%20Letter%20Master3%204832-8611-8562%20v.2.pdf) | CAUSE
+[March 25, 2019](https://oag.ca.gov/system/files/Carl%27s%20Golfland%20Notification%20California%20Letter%20Master3%204832-8611-8562%20v.2.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4005,21 +4005,21 @@ authorities.
 </details>
 ## Capital One
 <p class="hidden"></p>
-[March 22, 2019](https://oag.ca.gov/system/files/California%20AG%20Redacted-UPDATED%20Sept%202019.pdf) | CAUSE
+[March 22, 2019](https://oag.ca.gov/system/files/California%20AG%20Redacted-UPDATED%20Sept%202019.pdf) | 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 TBD
 </details>
 <p class="hidden"></p>
-[January 27, 2017](https://oag.ca.gov/system/files/CA%20AG%20Notice%20Remediation%20Letter%2041952117_0.pdf) | CAUSE
+[January 27, 2017](https://oag.ca.gov/system/files/CA%20AG%20Notice%20Remediation%20Letter%2041952117_0.pdf) | Insider Threat 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 Capital One takes compliance with all states’ individual security breach laws seriously, and we periodically conduct testing of our performance against these requirements. It has come to our attention that we inadvertently neglected to notify your office of a recent security incident that involved personal information of our customers who are California residents. The details of the incident are included in the attached documents. 
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Capital%20One%20-%20CA%20Letter%201_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Capital%20One%20-%20CA%20Letter%201_0.pdf) | Service Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4030,7 +4030,7 @@ your questions have been addressed.
 </details>
 ## California Natural Products
 <p class="hidden"></p>
-[March 21, 2019](https://oag.ca.gov/system/files/CNP%20-%20Notice%20Letter%20%5BCA%5D_0.pdf) | CAUSE
+[March 21, 2019](https://oag.ca.gov/system/files/CNP%20-%20Notice%20Letter%20%5BCA%5D_0.pdf) | Phishing 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4045,7 +4045,7 @@ disclose your information. Federal law enforcement has also been notified.
 </details>
 ## Calibre CPA Group
 <p class="hidden"></p>
-[March 11, 2019](https://oag.ca.gov/system/files/Calibre%20CPA%20Group%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201.pdf) | CAUSE
+[March 11, 2019](https://oag.ca.gov/system/files/Calibre%20CPA%20Group%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4058,7 +4058,7 @@ authorization between March 11, 2019 and May 7, 2019.
 </details>
 ## CafePress Inc.
 <p class="hidden"></p>
-[February 19, 2019](https://oag.ca.gov/system/files/CafePress%20-%20California%20Notices.pdf) | CAUSE
+[February 19, 2019](https://oag.ca.gov/system/files/CafePress%20-%20California%20Notices.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4068,7 +4068,7 @@ occurred on or about February 19, 2019.
 </details>
 ## CorVel Enterprise Comp Inc.
 <p class="hidden"></p>
-[February 14, 2019](https://oag.ca.gov/system/files/LR%20-%20CECI%20-%20Individual%20Notification%20Letter%2002%2014%2019%20FINAL%20PROOF%20%281%29_0.pdf) | CAUSE
+[February 14, 2019](https://oag.ca.gov/system/files/LR%20-%20CECI%20-%20Individual%20Notification%20Letter%2002%2014%2019%20FINAL%20PROOF%20%281%29_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4080,7 +4080,7 @@ information.
 </details>
 ## City College of San Francisco
 <p class="hidden"></p>
-[February 11, 2019](https://oag.ca.gov/system/files/CCSF%20CA%20CM%20Adult%20Notice.pdf) | CAUSE
+[February 11, 2019](https://oag.ca.gov/system/files/CCSF%20CA%20CM%20Adult%20Notice.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4092,7 +4092,7 @@ was impacted and what information may have been affected. We wanted to let you k
 you we take it very seriously. 
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Adult%20CA%20Notice_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Adult%20CA%20Notice_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4103,7 +4103,7 @@ investigation of the incident.
 </details>
 ## Centinela Valley Union High School District
 <p class="hidden"></p>
-[January 29, 2019](https://oag.ca.gov/system/files/Centinela%20Adult%20Notification%20Letter%20Sample_0.pdf) | CAUSE
+[January 29, 2019](https://oag.ca.gov/system/files/Centinela%20Adult%20Notification%20Letter%20Sample_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4115,7 +4115,7 @@ federal law enforcement authorities, and we are cooperating with their ongoing i
 </details>
 ## Covenant Care California, LLC, on behalf of relevant affiliated nursing facilities
 <p class="hidden"></p>
-[January 22, 2019](https://oag.ca.gov/system/files/Covenant%20Care%20-%20CA%20Notice%20of%20Data%20Event_0.pdf) | CAUSE
+[January 22, 2019](https://oag.ca.gov/system/files/Covenant%20Care%20-%20CA%20Notice%20of%20Data%20Event_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4133,7 +4133,7 @@ information potentially affected by this incident, we are providing you this not
 </details>
 ## CJGO Fulfillment, Inc. DBA CoffeeAM
 <p class="hidden"></p>
-[January 16, 2019](https://oag.ca.gov/system/files/Notice%20Letter%20Sample.pdf) | CAUSE
+[January 16, 2019](https://oag.ca.gov/system/files/Notice%20Letter%20Sample.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4145,7 +4145,7 @@ systems.
 </details>
 ## Centrelake Medical Group, Inc.
 <p class="hidden"></p>
-[January 09, 2019](https://oag.ca.gov/system/files/Centrelake%20Medical%20Group%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201_0.pdf) | CAUSE
+[January 09, 2019](https://oag.ca.gov/system/files/Centrelake%20Medical%20Group%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4161,7 +4161,7 @@ on its network on January 9, 2019, lasting until the virus infection on February
 </details>
 ## Carmel Unified School District
 <p class="hidden"></p>
-[January 05, 2019](https://oag.ca.gov/system/files/Carmel%20Unified%20Phishing%20Incident%20-%20CA%20Attorney%20General%20Sample_0.pdf) | CAUSE
+[January 05, 2019](https://oag.ca.gov/system/files/Carmel%20Unified%20Phishing%20Incident%20-%20CA%20Attorney%20General%20Sample_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4175,7 +4175,7 @@ an abundance of caution.
 </details>
 ## Cherrydale Fundraising
 <p class="hidden"></p>
-[October 28, 2018](undefined) | CAUSE
+[October 28, 2018](undefined) | Unknown
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4183,7 +4183,7 @@ TBDB
 </details>
 ## Citrix Systems, Inc.
 <p class="hidden"></p>
-[October 13, 2018](https://oag.ca.gov/system/files/CX1%20US%20LTR%20%28no%20MA%20or%20CT%29_0.pdf) | CAUSE
+[October 13, 2018](https://oag.ca.gov/system/files/CX1%20US%20LTR%20%28no%20MA%20or%20CT%29_0.pdf) |Network Compromise 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4197,7 +4197,7 @@ employees of Citrix to alert them of this incident. We will notify you if your b
 </details>
 ## Clinical Pathology Laboratories, Inc.
 <p class="hidden"></p>
-[August 01, 2018](https://oag.ca.gov/system/files/Clinical%20Path%20Labs%20-%20Letter%20Enclosure%20-%20Sample%20Notification%20Letter.pdf) | CAUSE
+[August 01, 2018](https://oag.ca.gov/system/files/Clinical%20Path%20Labs%20-%20Letter%20Enclosure%20-%20Sample%20Notification%20Letter.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4212,7 +4212,7 @@ take to protect your personal information.
 </details>
 ## CBLPath, Inc.
 <p class="hidden"></p>
-[August 01, 2018](https://oag.ca.gov/system/files/CBLPath%20-%20Notification%20Letters%20-%20Enclosure.pdf) | CAUSE
+[August 01, 2018](https://oag.ca.gov/system/files/CBLPath%20-%20Notification%20Letters%20-%20Enclosure.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4227,7 +4227,7 @@ you can take to protect your personal information.
 </details>
 ## CNG Financial Corporation, Inc. and its administrative services entity Axcess Financial Services, Inc
 <p class="hidden"></p>
-[July 11, 2018](https://oag.ca.gov/system/files/CNG-Notice%20of%20Data%20Event-%20CA%20Exhibit%201_0.pdf) | CAUSE
+[July 11, 2018](https://oag.ca.gov/system/files/CNG-Notice%20of%20Data%20Event-%20CA%20Exhibit%201_0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4240,7 +4240,7 @@ information. Based on our investigation to date, we have not yet located the mis
 </details>
 ## Centerstone Insurance and Financial Services d/b/a BenefitMall
 <p class="hidden"></p>
-[June 13, 2018](https://oag.ca.gov/system/files/BMC%20-%20FINAL%20CONSUMER%20NOTICE_0.pdf) | CAUSE
+[June 13, 2018](https://oag.ca.gov/system/files/BMC%20-%20FINAL%20CONSUMER%20NOTICE_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4253,18 +4253,17 @@ discovery date.
 </details>
 ## California Physicians' Service d/b/a Blue Shield of California
 <p class="hidden"></p>
-[May 22, 2018](https://oag.ca.gov/system/files/BS%20No%20SSN%20Notice_0.pdf) | CAUSE
+[May 22, 2018](https://oag.ca.gov/system/files/BS%20No%20SSN%20Notice_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-Sharecare Health Data Services (“Sharecare”), formerly known as “BACTES”, provides medical records management
-services to one or more of your doctors or other health care professionals. At times, Blue Shield needs to obtain
-information contained in your medical records to pay claims related to your treatment or for other healthcare
-operations purposes. Your doctor requires that Blue Shield obtain copies of these medical records from Sharecare. 
+Sharecare Health Data Services (“Sharecare”), formerly known as “BACTES”, provides medical records management services to one or more of your doctors or other health care professionals. At times, Blue Shield needs to obtain information contained in your medical records to pay claims related to your treatment or for other healthcare operations purposes. Your doctor requires that Blue Shield obtain copies of these medical records from Sharecare.   
+
+On December 31, 2018, Sharecare notified Blue Shield that between May 21, 2018 and June 26, 2018, an unknown third party was able to access its servers which contained your personal information and transfer that data to locations outside of the United States. Sharecare discovered the problem on June 26, 2018 and took immediate steps to prevent further access to your information and increase the security of its servers.
 </details>
 ## Citrus Valley Health Partners
 <p class="hidden"></p>
-[May 08, 2018](https://oag.ca.gov/system/files/CVHP%20Notice%20of%20Data%20Breach%20Template_0.pdf) | CAUSE
+[May 08, 2018](https://oag.ca.gov/system/files/CVHP%20Notice%20of%20Data%20Breach%20Template_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4277,7 +4276,7 @@ result of a law enforcement investigation.
 </details>
 ## Cancer Treatment Centers of America at Western Regional Medical Center
 <p class="hidden"></p>
-[May 02, 2018](undefined) | CAUSE
+[May 02, 2018](undefined) | Unknown
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4285,7 +4284,7 @@ TBDB
 </details>
 ## ComplyRight, Inc.
 <p class="hidden"></p>
-[April 20, 2018](https://oag.ca.gov/system/files/ComplyRight%2C%20Inc.%20-%20Notice%20Letter%20%5Bredacted%5D%20CA%20%287524586x7AB84%29_0.pdf) | CAUSE
+[April 20, 2018](https://oag.ca.gov/system/files/ComplyRight%2C%20Inc.%20-%20Notice%20Letter%20%5Bredacted%5D%20CA%20%287524586x7AB84%29_0.pdf) | Vulnerability
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4295,7 +4294,7 @@ potential issue, we disabled the platform and remediated the issue on the websit
 </details>
 ## Colorado Bankers Life Insurance Company
 <p class="hidden"></p>
-[March 28, 2018](https://oag.ca.gov/system/files/Sample_CBLife_CA_Resident_Individual_Notice_Letter_0.pdf) | CAUSE
+[March 28, 2018](https://oag.ca.gov/system/files/Sample_CBLife_CA_Resident_Individual_Notice_Letter_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4308,7 +4307,7 @@ CBLife’s internal network and systems were not affected.
 </details>
 ## City of Oxnard
 <p class="hidden"></p>
-[March 25, 2018](https://oag.ca.gov/system/files/City%20of%20Oxnard%20-%20CA%20Notice%20%287511034x7AB84%29_0.pdf) | CAUSE
+[March 25, 2018](https://oag.ca.gov/system/files/City%20of%20Oxnard%20-%20CA%20Notice%20%287511034x7AB84%29_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4318,7 +4317,7 @@ utility bills with its Click2Gov (Superion) online payment system.
 </details>
 ## California Department of Public Health
 <p class="hidden"></p>
-[March 12, 2018](https://oag.ca.gov/system/files/Sample%20CDPH%20Breach%20Notification%20Letter_5_23_18_0.pdf) | CAUSE
+[March 12, 2018](https://oag.ca.gov/system/files/Sample%20CDPH%20Breach%20Notification%20Letter_5_23_18_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4330,21 +4329,21 @@ surveys/inspections, was stolen from the contractor’s vehicle.
 
 </details>
 <p class="hidden"></p>
-[August 20, 2013](https://oag.ca.gov/system/files/Notification%20Letter%20Madera%20County%20WIC_0.pdf) | CAUSE
+[August 20, 2013](https://oag.ca.gov/system/files/Notification%20Letter%20Madera%20County%20WIC_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 On August 20, 2013, a contracted Madera County WIC employee mistakenly gave WIC paper records about you to another participant. Upon discovering the mistake, the participant immediately notified the Madera County WIC office and returned your records.
 </details>
 <p class="hidden"></p>
-[May 08, 2012](https://oag.ca.gov/system/files/BR2012-014%20Breach%20Notification%20Letter_0.pdf) | CAUSE
+[May 08, 2012](https://oag.ca.gov/system/files/BR2012-014%20Breach%20Notification%20Letter_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 On or about May 7-8, 2012, after conducting a survey at the Bakersfield Memorial Hospital, an L&C employee mistakenly left the survey binder in an unattended vehicle. Later, the vehicle was broken into and the survey binder was stolen. As of today, the documents have not been recovered.
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Frequently%20Asked%20Questions%20Fact%20Sheet%205-6-13_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Frequently%20Asked%20Questions%20Fact%20Sheet%205-6-13_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4362,7 +4361,7 @@ seen by anyone.
 </details>
 ## Center for Orthopaedic Specialists
 <p class="hidden"></p>
-[February 18, 2018](https://oag.ca.gov/system/files/Providence%20COS%20Patient%20Notification%20Letter_0.pdf) | CAUSE
+[February 18, 2018](https://oag.ca.gov/system/files/Providence%20COS%20Patient%20Notification%20Letter_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4375,7 +4374,7 @@ was permanently taken offline before any patient information could be removed by
 </details>
 ## CA Dept. Developmental Services
 <p class="hidden"></p>
-[February 11, 2018](https://oag.ca.gov/system/files/ddsBreachNoticePII_English_0.pdf) | CAUSE
+[February 11, 2018](https://oag.ca.gov/system/files/ddsBreachNoticePII_English_0.pdf) | Physical Intrusion
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4387,7 +4386,7 @@ the incident.
 </details>
 ## Creation Entertainment, Inc.
 <p class="hidden"></p>
-[February 01, 2018](https://oag.ca.gov/system/files/Customer-Notice.pdf) | CAUSE
+[February 01, 2018](https://oag.ca.gov/system/files/Customer-Notice.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4400,7 +4399,7 @@ to notify customers whose payment card information was potentially compromised.
 </details>
 ## California College of the Arts
 <p class="hidden"></p>
-[January 19, 2018](https://oag.ca.gov/system/files/CCA%20-%20Regulator%20Notice%20-%20CA%20-%20FINAL_0.pdf) | CAUSE
+[January 19, 2018](https://oag.ca.gov/system/files/CCA%20-%20Regulator%20Notice%20-%20CA%20-%20FINAL_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4418,7 +4417,7 @@ incident.
 </details>
 ## Coty, Inc.
 <p class="hidden"></p>
-[January 12, 2018](https://oag.ca.gov/system/files/Template%20Notification_0.pdf) | CAUSE
+[January 12, 2018](https://oag.ca.gov/system/files/Template%20Notification_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4433,7 +4432,7 @@ implemented will help guard against similar incidents in the future.
 </details>
 ## Capitol Administrators, Inc.
 <p class="hidden"></p>
-[January 07, 2018](https://oag.ca.gov/system/files/Sample_Capitol_Individual_Notice_Letter_0.pdf) | CAUSE
+[January 07, 2018](https://oag.ca.gov/system/files/Sample_Capitol_Individual_Notice_Letter_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4446,7 +4445,7 @@ accounts.
 </details>
 ## City of Thousand Oaks
 <p class="hidden"></p>
-[January 04, 2018](https://oag.ca.gov/system/files/CA%20Letter_City%20of%20Thousand%20Oaks_0.pdf) | CAUSE
+[January 04, 2018](https://oag.ca.gov/system/files/CA%20Letter_City%20of%20Thousand%20Oaks_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4457,7 +4456,7 @@ third-party forensic firm to determine what happened and what information may
 have been affected. 
 </details>
 <p class="hidden"></p>
-[November 21, 2017](https://oag.ca.gov/system/files/CA_U811_v02_0.pdf) | CAUSE
+[November 21, 2017](https://oag.ca.gov/system/files/CA_U811_v02_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4469,7 +4468,7 @@ though our own investigation did not confirm this conclusion, we decided to noti
 </details>
 ## Compass Bank
 <p class="hidden"></p>
-[January 01, 2018](https://oag.ca.gov/system/files/Sample%20Notification%20Letter_3.pdf) | CAUSE
+[January 01, 2018](https://oag.ca.gov/system/files/Sample%20Notification%20Letter_3.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4479,7 +4478,7 @@ you know of this incident as soon as it was practical to do so. we sincerely apo
 </details>
 ## CBS Interactive, Inc.
 <p class="hidden"></p>
-[January 01, 2018](https://oag.ca.gov/system/files/Sample%20Notice%20of%20Security%20Breach_0.pdf) | CAUSE
+[January 01, 2018](https://oag.ca.gov/system/files/Sample%20Notice%20of%20Security%20Breach_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4487,7 +4486,7 @@ On May 21, 2018, we determined that between January and May 2018, an unauthorize
 </details>
 ## California State University, Fresno
 <p class="hidden"></p>
-[December 22, 2017](https://oag.ca.gov/system/files/Adult%20CM%20Notice_0.pdf) | CAUSE
+[December 22, 2017](https://oag.ca.gov/system/files/Adult%20CM%20Notice_0.pdf) | Physical Intrusion
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4499,7 +4498,7 @@ was initiated to determine what, if any, personal information may have been stor
 </details>
 ## CareMeridian, LLC
 <p class="hidden"></p>
-[December 21, 2017](https://oag.ca.gov/system/files/CareMeridian%20LLC%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA_0.PDF) | CAUSE
+[December 21, 2017](https://oag.ca.gov/system/files/CareMeridian%20LLC%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA_0.PDF) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4513,7 +4512,7 @@ incident.
 </details>
 ## CPT Group, Inc.
 <p class="hidden"></p>
-[December 08, 2017](https://oag.ca.gov/system/files/CPT_CA_NotificationFinal_0.pdf) | CAUSE
+[December 08, 2017](https://oag.ca.gov/system/files/CPT_CA_NotificationFinal_0.pdf) | Phishing 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4523,7 +4522,7 @@ data about class members, including certain types of personal information.
 </details>
 ## Corporation Service Company
 <p class="hidden"></p>
-[November 25, 2017](https://oag.ca.gov/system/files/CSC-%20California%20Notice%20of%20Data%20Event_0.pdf) | CAUSE
+[November 25, 2017](https://oag.ca.gov/system/files/CSC-%20California%20Notice%20of%20Data%20Event_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4535,7 +4534,7 @@ contained certain information relating to you.
 </details>
 ## Cruzstar LLC.
 <p class="hidden"></p>
-[November 05, 2017](https://oag.ca.gov/system/files/Notification_0.pdf) | CAUSE
+[November 05, 2017](https://oag.ca.gov/system/files/Notification_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4548,7 +4547,7 @@ other	MenuDrive	versions.
 </details>
 ## Cheddar's Scratch Kitchen (a concept acquired by Darden Restaurants in 2017)
 <p class="hidden"></p>
-[November 03, 2017](https://oag.ca.gov/system/files/Cheddar%E2%80%99s%20Web%20Notification_0.pdf) | CAUSE
+[November 03, 2017](https://oag.ca.gov/system/files/Cheddar%E2%80%99s%20Web%20Notification_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4563,22 +4562,32 @@ Texas, Virginia, and Wisconsin.
 </details>
 ## California Physicians’ Service, d/b/a Blue Shield of California
 <p class="hidden"></p>
-[November 01, 2017](https://oag.ca.gov/system/files/Notice%20Letter%20Template%20Final_0.pdf) | CAUSE
+[November 01, 2017](https://oag.ca.gov/system/files/Notice%20Letter%20Template%20Final_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 On March 23, 2018, the Blue Shield of California (Blue Shield) Privacy Office received confirmation that your Protected Health Information had been shared with an insurance broker who was not authorized to receive it. The disclosure occurred in November 2017, during the 2018 Medicare Annual Enrollment Period, when a Blue Shield employee emailed a document containing your PHI to an insurance broker in violation of Blue Shield policies.  We sincerely apologize for this incident and regret any inconvenience it may cause you.
 </details>
 <p class="hidden"></p>
-[May 09, 2015](https://oag.ca.gov/system/files/Sample%20Member%20Notification%20Letter_0.pdf) | CAUSE
+[May 09, 2015](https://oag.ca.gov/system/files/Sample%20Member%20Notification%20Letter_0.pdf) | Programming Error 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-Between May 9, 2015 and May 18, 2015, your PHI may have been disclosed to an otherwise authorized user of the secure website that Blue Shield maintains for use by our group health benefit plan administrators and brokers. Authorized users may access the website (the “Website”) to manage information about their own health benefit plan members.
+Between May 9, 2015 and May 18, 2015, your PHI may have been disclosed to an otherwise authorized user of the secure website that Blue Shield maintains for use by our group health benefit plan administrators and brokers. Authorized users may access the website (the “Website”) to manage information about their own health benefit plan members.  
+
+As the (unintended) result of a computer code update Blue Shield made to the Website on May 9,
+three users who logged into their own Website accounts simultaneously with (at the exact same
+time as) another user were able to view member information associated with the other user’s
+Website account. This issue was reported to the Blue Shield Privacy Office on May 18. The
+Website was promptly taken off line to identify and correct the problem. The Website’s faulty
+code was identified and corrected and the Website was returned to service on May 19. Our
+investigation revealed that this was the result of human error on the part of Blue Shield staff
+members, and the matter was not reported to law enforcement authorities for further
+investigation.
 </details>
 ## Chapman University
 <p class="hidden"></p>
-[October 17, 2017](https://oag.ca.gov/system/files/Form%20of%20Notice%20Letter%20Regarding%20Breach_0.pdf) | CAUSE
+[October 17, 2017](https://oag.ca.gov/system/files/Form%20of%20Notice%20Letter%20Regarding%20Breach_0.pdf) | 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4589,7 +4598,7 @@ treating the entire content of all drives that the assigned employee had access 
 missing external drive.
 </details>
 <p class="hidden"></p>
-[February 27, 2013](https://oag.ca.gov/system/files/Sample%20Version%20%28SENT%204-11-13%29_0.pdf) | CAUSE
+[February 27, 2013](https://oag.ca.gov/system/files/Sample%20Version%20%28SENT%204-11-13%29_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4597,7 +4606,7 @@ On February 27, 2013 Chapman University officials learned that certain electroni
 </details>
 ## Corovan Corporation
 <p class="hidden"></p>
-[September 14, 2017](https://oag.ca.gov/system/files/Corovan%20-%20CA%20Exhibit%201_0.pdf) | CAUSE
+[September 14, 2017](https://oag.ca.gov/system/files/Corovan%20-%20CA%20Exhibit%201_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4607,7 +4616,7 @@ Google search engine
 </details>
 ## Cabrillo Community College District
 <p class="hidden"></p>
-[September 04, 2017](https://oag.ca.gov/system/files/CA%20Cabrillo%20attach_0.pdf) | CAUSE
+[September 04, 2017](https://oag.ca.gov/system/files/CA%20Cabrillo%20attach_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4615,7 +4624,7 @@ On September 5, 2017, we learned that an unauthorized person gained accessed to 
 </details>
 ## CJ Products Inc.
 <p class="hidden"></p>
-[August 30, 2017](https://oag.ca.gov/system/files/Pillow%20Pets%20-%20General%20Master%20%281%29_0.pdf) | CAUSE
+[August 30, 2017](https://oag.ca.gov/system/files/Pillow%20Pets%20-%20General%20Master%20%281%29_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4628,7 +4637,7 @@ everyone whose information passed through our system out of an abundance of caut
 </details>
 ## ClubSport San Ramon and Oakwood Athletic Club
 <p class="hidden"></p>
-[July 31, 2017](https://oag.ca.gov/system/files/SFDOCS01-%231811613-v1-ClubSport---Notice-to-Employees-Final_0.pdf) | CAUSE
+[July 31, 2017](https://oag.ca.gov/system/files/SFDOCS01-%231811613-v1-ClubSport---Notice-to-Employees-Final_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4642,7 +4651,7 @@ and the IRS have been notified of this incident and we are cooperating with thei
 </details>
 ## Cohn Handler Sturm
 <p class="hidden"></p>
-[July 29, 2017](https://oag.ca.gov/system/files/CHS%20Notification_0.pdf) | CAUSE
+[July 29, 2017](https://oag.ca.gov/system/files/CHS%20Notification_0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4652,7 +4661,7 @@ immediately when connecting to the internet.
 </details>
 ## Cheddar’s Casual Café, Inc. d/b/a Cheddar’s Scratch Kitchen
 <p class="hidden"></p>
-[July 21, 2017](https://oag.ca.gov/system/files/Cheddars%20Notification%20Letter_0.pdf) | CAUSE
+[July 21, 2017](https://oag.ca.gov/system/files/Cheddars%20Notification%20Letter_0.pdf) | Physical Intrusion
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4662,7 +4671,7 @@ very limited guest information. The incident was promptly reported to the police
 </details>
 ## CoreLogic Credco
 <p class="hidden"></p>
-[July 21, 2017](https://oag.ca.gov/system/files/CA%20CLCR%20Cnsmr%20Notification%20Lttr%20-%20AllClearID%20Identity%20Protection%20Service_0.pdf) | CAUSE
+[July 21, 2017](https://oag.ca.gov/system/files/CA%20CLCR%20Cnsmr%20Notification%20Lttr%20-%20AllClearID%20Identity%20Protection%20Service_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4673,7 +4682,7 @@ prevent a recurrence.
 </details>
 ## CBS Consolidated Inc.
 <p class="hidden"></p>
-[July 10, 2017](https://oag.ca.gov/system/files/201708281102_0.pdf) | CAUSE
+[July 10, 2017](https://oag.ca.gov/system/files/201708281102_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4681,7 +4690,7 @@ On July 10, 2017, during our routine review of our system logs, we discovered an
 </details>
 ## Chiorini, Hunt & Jacobs
 <p class="hidden"></p>
-[July 01, 2017](https://oag.ca.gov/system/files/CHJ%20Notification%20Letter%20FINAL_0.pdf) | CAUSE
+[July 01, 2017](https://oag.ca.gov/system/files/CHJ%20Notification%20Letter%20FINAL_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4696,7 +4705,7 @@ network, servers, or the data within those systems.
 </details>
 ## City of Hope
 <p class="hidden"></p>
-[May 31, 2017](https://oag.ca.gov/system/files/Patient%20Notification%20Letter_2.pdf) | CAUSE
+[May 31, 2017](https://oag.ca.gov/system/files/Patient%20Notification%20Letter_2.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4709,7 +4718,7 @@ the email accounts of four staff members.
 </details>
 ## Campbell Union High School District
 <p class="hidden"></p>
-[April 03, 2017](https://oag.ca.gov/system/files/CUHSD%20Sample%20Letter_0.PDF) | CAUSE
+[April 03, 2017](https://oag.ca.gov/system/files/CUHSD%20Sample%20Letter_0.PDF) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4717,7 +4726,7 @@ Sometime between 03/30/2017 and 4/6/2017 district computers were tampered with a
 </details>
 ## Canyon Bakehouse LLC
 <p class="hidden"></p>
-[March 29, 2017](https://oag.ca.gov/system/files/CA%20Sample_0.pdf) | CAUSE
+[March 29, 2017](https://oag.ca.gov/system/files/CA%20Sample_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4727,7 +4736,7 @@ may have been obtained without authorization.
 </details>
 ## California State University East Bay
 <p class="hidden"></p>
-[March 27, 2017](https://oag.ca.gov/system/files/California%20State%20University%20East%20Bay%20CA%20Notification%20Letter_0_1.pdf) | CAUSE
+[March 27, 2017](https://oag.ca.gov/system/files/California%20State%20University%20East%20Bay%20CA%20Notification%20Letter_0_1.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4741,7 +4750,7 @@ applicants. The compromised application has been removed from our server and vul
 </details>
 ## Char-Broil, LLC
 <p class="hidden"></p>
-[March 22, 2017](https://oag.ca.gov/system/files/R612_v02.pdf_Adult_0.pdf) | CAUSE
+[March 22, 2017](https://oag.ca.gov/system/files/R612_v02.pdf_Adult_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4756,7 +4765,7 @@ made a payment card purchase during that time.
 </details>
 ## Campbell Taylor & Company
 <p class="hidden"></p>
-[January 27, 2017](https://oag.ca.gov/system/files/Campbell%20EBP%20Notification%20Letter_0.pdf) | CAUSE
+[January 27, 2017](https://oag.ca.gov/system/files/Campbell%20EBP%20Notification%20Letter_0.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4769,7 +4778,7 @@ caution.
 </details>
 ## CCHCS
 <p class="hidden"></p>
-[January 23, 2017](https://oag.ca.gov/system/files/Breach%20notice_0.pdf) | CAUSE
+[January 23, 2017](https://oag.ca.gov/system/files/Breach%20notice_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4780,7 +4789,7 @@ State department.
 </details>
 ## Caliber Home Loans, Inc.
 <p class="hidden"></p>
-[January 18, 2017](https://oag.ca.gov/system/files/Sample%20Notice_11.pdf) | CAUSE
+[January 18, 2017](https://oag.ca.gov/system/files/Sample%20Notice_11.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4789,7 +4798,7 @@ In addition, the unauthorized individuals may have had access to sufficient info
 </details>
 ## Castro Valley Health, Inc.
 <p class="hidden"></p>
-[January 01, 2017](https://oag.ca.gov/system/files/Customer%20Notification_4.pdf) | CAUSE
+[January 01, 2017](https://oag.ca.gov/system/files/Customer%20Notification_4.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4802,7 +4811,7 @@ decoding.
 </details>
 ## City of Indio/Indio Water Authority
 <p class="hidden"></p>
-[January 01, 2017](https://oag.ca.gov/system/files/City%20of%20Indio_CA%20Notification%20Letter_1.pdf) | CAUSE
+[January 01, 2017](https://oag.ca.gov/system/files/City%20of%20Indio_CA%20Notification%20Letter_1.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4812,7 +4821,7 @@ worked with a third-party forensic firm to determine what information may have b
 </details>
 ## Claremont University Consortium
 <p class="hidden"></p>
-[November 15, 2016](https://oag.ca.gov/system/files/Claremont%20Notice_0.pdf) | CAUSE
+[November 15, 2016](https://oag.ca.gov/system/files/Claremont%20Notice_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4823,7 +4832,7 @@ been unable to locate the suspects or the stolen items.
 </details>
 ## Catholic United Financial
 <p class="hidden"></p>
-[November 12, 2016](https://oag.ca.gov/system/files/Catholic%20United%20Financial%20Template%20Consumer%20Notice_0.pdf) | CAUSE
+[November 12, 2016](https://oag.ca.gov/system/files/Catholic%20United%20Financial%20Template%20Consumer%20Notice_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4837,7 +4846,7 @@ server from any possible further intrusion.
 </details>
 ## Children's Hospital Los Angeles
 <p class="hidden"></p>
-[October 18, 2016](https://oag.ca.gov/system/files/CHLA.Minor_.PHI_.011317.SAMPLE_0.pdf) | CAUSE
+[October 18, 2016](https://oag.ca.gov/system/files/CHLA.Minor_.PHI_.011317.SAMPLE_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4846,7 +4855,7 @@ Children’s Hospital Los Angeles Medical Group physician who practices at Child
 Los Angeles was unencrypted.
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/CHLA.Letter.Child__0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/CHLA.Letter.Child__0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4855,7 +4864,7 @@ was inadvertently transmitted to the wrong insurance payor.
 </details>
 ## California Community Colleges Chancellor's Office (submitted c/o Pearson VUE)
 <p class="hidden"></p>
-[October 01, 2016](https://oag.ca.gov/system/files/EXPERIAN_E5564_L01.docx_SAS_PROOF%20%281%29_0.pdf) | CAUSE
+[October 01, 2016](https://oag.ca.gov/system/files/EXPERIAN_E5564_L01.docx_SAS_PROOF%20%281%29_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4864,7 +4873,7 @@ unauthorized account due to email phishing of an account related to our provisio
 </details>
 ## Christian Louboutin LLC
 <p class="hidden"></p>
-[August 28, 2016](https://oag.ca.gov/system/files/Louboutin%20CA%20first%20Data%20Breach%20Customer%20Notification-c_0.pdf) | CAUSE
+[August 28, 2016](https://oag.ca.gov/system/files/Louboutin%20CA%20first%20Data%20Breach%20Customer%20Notification-c_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4882,16 +4891,17 @@ information affecting approximately 549 California customers.
 </details>
 ## Cisco Systems, Inc.
 <p class="hidden"></p>
-[August 18, 2016](https://oag.ca.gov/system/files/%28US%29%20Data%20Incident%20-%20Notice%20to%20Consumers_0.pdf) | CAUSE
+[August 18, 2016](https://oag.ca.gov/system/files/%28US%29%20Data%20Incident%20-%20Notice%20to%20Consumers_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-As part of Cisco’s commitment to trust and transparency, we are writing to inform you about an incident
-potentially involving your personal information. 
+As part of Cisco’s commitment to trust and transparency, we are writing to inform you about an incident potentially involving your personal information.   
+
+An independent security researcher discovered that a limited set of job application related information from the Cisco Professional Careers mobile website was accessible. Cisco’s investigation found this to be the result of an incorrect security setting following system maintenance. The issue was immediately fixed and passwords to the site have been disabled. Because Cisco takes its responsibility to protect information seriously, and since many people use the same passwords on multiple websites, we wanted to alert you to this incident.
 </details>
 ## CalOptima
 <p class="hidden"></p>
-[August 17, 2016](https://oag.ca.gov/system/files/CalOptima%20Security%20Incident%20Notification%20Letter%20-%20Minor%20SSN_0.pdf) | CAUSE
+[August 17, 2016](https://oag.ca.gov/system/files/CalOptima%20Security%20Incident%20Notification%20Letter%20-%20Minor%20SSN_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4903,7 +4913,7 @@ the contents of the flash drive, we do not believe the information was shared.
 </details>
 ## Club Quarters Hotels
 <p class="hidden"></p>
-[August 10, 2016](https://oag.ca.gov/system/files/CQ%20Hotels%20%28Notice%20Template%29_0.pdf) | CAUSE
+[August 10, 2016](https://oag.ca.gov/system/files/CQ%20Hotels%20%28Notice%20Template%29_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4914,7 +4924,7 @@ when the unauthorized access terminated.
 </details>
 ## Curtis F. Robinson, M.D. Inc.
 <p class="hidden"></p>
-[July 26, 2016](https://oag.ca.gov/system/files/Robinson%20Notice_0.pdf) | CAUSE
+[July 26, 2016](https://oag.ca.gov/system/files/Robinson%20Notice_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4924,7 +4934,7 @@ we are informed that they promptly took action to secure their systems.
 </details>
 ## County of Los Angeles
 <p class="hidden"></p>
-[May 13, 2016](https://oag.ca.gov/system/files/LA%20County%20Ad%20CEO%20r16prf_0.pdf) | CAUSE
+[May 13, 2016](https://oag.ca.gov/system/files/LA%20County%20Ad%20CEO%20r16prf_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4937,7 +4947,7 @@ been compromised. Due to the ongoing investigation by law enforcement, we were a
 incident until now, as public notice may have hindered their investigation. 
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/cms1_227482_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/cms1_227482_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4945,7 +4955,7 @@ On April 3, 2015, during the execution of a search warrant served at the home of
 </details>
 ## City of Vallejo
 <p class="hidden"></p>
-[May 09, 2016](https://oag.ca.gov/system/files/Vallejo%20-%20Employee%20Notification%20Letter%20-%20Proof%20-%209-29-16_0.pdf) | CAUSE
+[May 09, 2016](https://oag.ca.gov/system/files/Vallejo%20-%20Employee%20Notification%20Letter%20-%20Proof%20-%209-29-16_0.pdf) | Accident
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4956,7 +4966,7 @@ are taking actions to ensure a similar disclosure does not happen in the future.
 </details>
 ## CDCR - California Health Care Facility
 <p class="hidden"></p>
-[May 02, 2016](https://oag.ca.gov/system/files/CHCF%20Privacy%20Breach%20Letter_0.pdf) | CAUSE
+[May 02, 2016](https://oag.ca.gov/system/files/CHCF%20Privacy%20Breach%20Letter_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4964,7 +4974,7 @@ We are writing to you because of a security incident that occurred on May 2, 201
 </details>
 ## Community Family Care Medical Group IPA, Inc
 <p class="hidden"></p>
-[February 29, 2016](https://oag.ca.gov/system/files/Breach%20Letter%20-%20Clean09132017_0.pdf) | CAUSE
+[February 29, 2016](https://oag.ca.gov/system/files/Breach%20Letter%20-%20Clean09132017_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4979,7 +4989,7 @@ of it, we suspect that the incident may have occurred sometime in July 2016.
 </details>
 ## California Correctional Health Care Services
 <p class="hidden"></p>
-[February 25, 2016](https://oag.ca.gov/system/files/CCHCS%20Breach%20Notification_0.pdf) | CAUSE
+[February 25, 2016](https://oag.ca.gov/system/files/CCHCS%20Breach%20Notification_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -4990,14 +5000,14 @@ from a CCHCS workforce member’s personal vehicle. The laptop was password
 protected in accordance with state protocol. 
 </details>
 <p class="hidden"></p>
-[June 19, 2013](https://oag.ca.gov/system/files/Incident%2013-0613%20Breach%20Notice%20Final_0.pdf) | CAUSE
+[June 19, 2013](https://oag.ca.gov/system/files/Incident%2013-0613%20Breach%20Notice%20Final_0.pdf) | Files Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 On June 19, 2013, dental records were reported missing from a California Correctional Health Care Services (CCHCS) staff member’s possession while off the premises of a correctional institution. The missing documents contained information such as patient name, CDCR number, date of birth, and dental treatment plan. It is possible that your dental record may have been included in the missing documents.  CCHCS has conducted an investigation of this incident and is taking steps to locate the missing documents.
 </details>
 <p class="hidden"></p>
-[June 20, 2012](https://oag.ca.gov/system/files/Fresno%20related%20uploaded%20to%20CalAG_0.pdf) | CAUSE
+[June 20, 2012](https://oag.ca.gov/system/files/Fresno%20related%20uploaded%20to%20CalAG_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5005,7 +5015,7 @@ On June 20, 2012, a staff member at California Correctional Health Care Services
 </details>
 ## Central Concrete Supply Co. Inc.
 <p class="hidden"></p>
-[February 23, 2016](https://oag.ca.gov/system/files/Central%20Concrete%20Ad%20r1fin_0.pdf) | CAUSE
+[February 23, 2016](https://oag.ca.gov/system/files/Central%20Concrete%20Ad%20r1fin_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5018,7 +5028,7 @@ through any breach of the Company’s information technology systems.
 </details>
 ## Calpine Corporation
 <p class="hidden"></p>
-[February 09, 2016](https://oag.ca.gov/system/files/CPN%20Employee%20Notification%20-%20Template_0.pdf) | CAUSE
+[February 09, 2016](https://oag.ca.gov/system/files/CPN%20Employee%20Notification%20-%20Template_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5032,7 +5042,7 @@ the laptop was maintained in a format that would make it difficult for a bad act
 </details>
 ## CertifiKid LLC
 <p class="hidden"></p>
-[January 25, 2016](https://oag.ca.gov/system/files/CertifiKid%20Sample%20Consumer%20Notice_0.pdf) | CAUSE
+[January 25, 2016](https://oag.ca.gov/system/files/CertifiKid%20Sample%20Consumer%20Notice_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5044,7 +5054,7 @@ information may be at risk.
 </details>
 ## County of San Diego
 <p class="hidden"></p>
-[December 17, 2015](https://oag.ca.gov/system/files/ag_hsa_1_26_16_0.pdf) | CAUSE
+[December 17, 2015](https://oag.ca.gov/system/files/ag_hsa_1_26_16_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5052,7 +5062,7 @@ The County of San Diego's Benefits Division became aware of an issue involving W
 </details>
 ## California Virtual Academies
 <p class="hidden"></p>
-[December 09, 2015](https://oag.ca.gov/system/files/CAVA%20Notice%20of%20Data%20Breach_Teacher%20Notice_0.pdf) | CAUSE
+[December 09, 2015](https://oag.ca.gov/system/files/CAVA%20Notice%20of%20Data%20Breach_Teacher%20Notice_0.pdf) | Vulnerability
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5064,7 +5074,7 @@ Inc. or the CAVA schools.
 </details>
 ## Cotti Foods California, Inc.
 <p class="hidden"></p>
-[December 02, 2015](https://oag.ca.gov/system/files/Website%20Notification_8.pdf) | CAUSE
+[December 02, 2015](https://oag.ca.gov/system/files/Website%20Notification_8.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5079,7 +5089,7 @@ some Wendy’s franchisee systems starting in late fall 2015.
 </details>
 ## Cottage Health
 <p class="hidden"></p>
-[October 26, 2015](https://oag.ca.gov/system/files/Cottage%20Health%20Patient%20Notification_0.pdf) | CAUSE
+[October 26, 2015](https://oag.ca.gov/system/files/Cottage%20Health%20Patient%20Notification_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5087,7 +5097,7 @@ We are writing to let you know of a security incident that resulted in the expos
 </details>
 ## California Department of Motor Vehicle (CA DMV)
 <p class="hidden"></p>
-[September 28, 2015](https://oag.ca.gov/system/files/Notice%201_0.pdf) | CAUSE
+[September 28, 2015](https://oag.ca.gov/system/files/Notice%201_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5098,7 +5108,7 @@ driver safety through the ongoing review of driver records.
 </details>
 ## CSAC-EXCESS INSURANCE AUTHORITY
 <p class="hidden"></p>
-[September 03, 2015](https://oag.ca.gov/system/files/33242%20Blank%20Atmtd%20Chng%20Smpl%20nogrid%20IBCD%20011156%20rev4_0.pdf) | CAUSE
+[September 03, 2015](https://oag.ca.gov/system/files/33242%20Blank%20Atmtd%20Chng%20Smpl%20nogrid%20IBCD%20011156%20rev4_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5106,7 +5116,7 @@ CSAC-Excess Insurance Authority (CSAC-EIA) is an insurance risk sharing program 
 </details>
 ## Community Catalysts of California
 <p class="hidden"></p>
-[August 31, 2015](https://oag.ca.gov/system/files/Comm%20Catlysts%20NOTICE%20ONLY_2_0.pdf) | CAUSE
+[August 31, 2015](https://oag.ca.gov/system/files/Comm%20Catlysts%20NOTICE%20ONLY_2_0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5114,7 +5124,7 @@ We are writing to inform you of a data security incident that may have resulted 
 </details>
 ## CM Ebar LLC
 <p class="hidden"></p>
-[August 12, 2015](https://oag.ca.gov/system/files/Sample%20Notice_4.pdf) | CAUSE
+[August 12, 2015](https://oag.ca.gov/system/files/Sample%20Notice_4.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5122,7 +5132,7 @@ On November 3, 2015, Elephant Bar was alerted to a potential security incident b
 </details>
 ## County of Sacramento
 <p class="hidden"></p>
-[August 08, 2015](https://oag.ca.gov/system/files/Updated%20Sac%20Co%20Notice_0.pdf) | CAUSE
+[August 08, 2015](https://oag.ca.gov/system/files/Updated%20Sac%20Co%20Notice_0.pdf) | Programming Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5131,7 +5141,7 @@ affect you, and to share the steps we’ve taken to address it.
 </details>
 ## Combat Brands, LLC
 <p class="hidden"></p>
-[July 01, 2015](https://oag.ca.gov/system/files/Combat%20-%20Notice%20only_0_0.pdf) | CAUSE
+[July 01, 2015](https://oag.ca.gov/system/files/Combat%20-%20Notice%20only_0_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5143,7 +5153,7 @@ October 6, 2017.
 </details>
 ## CiCi Enterprises, LP
 <p class="hidden"></p>
-[June 30, 2015](https://oag.ca.gov/system/files/CiCis%20-%20Sample%20Website%20Notification_1.pdf) | CAUSE
+[June 30, 2015](https://oag.ca.gov/system/files/CiCis%20-%20Sample%20Website%20Notification_1.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5161,7 +5171,7 @@ to our restaurants has been eliminated
 </details>
 ## Choice Hotels International, Inc.
 <p class="hidden"></p>
-[June 01, 2015](https://oag.ca.gov/system/files/California%20Notice_2%20%28notification%29.pdf) | CAUSE
+[June 01, 2015](https://oag.ca.gov/system/files/California%20Notice_2%20%28notification%29.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>

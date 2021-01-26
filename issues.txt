@@ -5,6 +5,7 @@ Cloud Storage Compromise
 Database Compromise
 Device Lost
 Email Compromise
+Files Lost
 Insider Threat
 IT Provider
 Laptop Stolen
@@ -12,9 +13,11 @@ Malware
 Misconfiguration
 Network Compromise
 Phishing
+Physical Intrusion
 Programming Error
 Ransomware
 Server Stolen
+Server Compromise
 Service Compromise
 Skimming
 Unauthorized Access
