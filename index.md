@@ -5189,7 +5189,7 @@ specific issue occurred approximately 88,000 times from June 2015 through Novemb
 </details>
 ## Consolidated Tribal Health Project, Inc.
 <p class="hidden"></p>
-[April 28, 2015](https://oag.ca.gov/system/files/CTHP%20Exhibits_0.pdf) | CAUSE
+[April 28, 2015](https://oag.ca.gov/system/files/CTHP%20Exhibits_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5199,7 +5199,7 @@ CTHP has become aware of a data security event involving unauthorized access by 
 </details>
 ## Clif Bar Family Winery & Farm, LLC
 <p class="hidden"></p>
-[April 01, 2015](https://oag.ca.gov/system/files/Clif%20Family%20Consumer%20Notification%20Letter_0.pdf) | CAUSE
+[April 01, 2015](https://oag.ca.gov/system/files/Clif%20Family%20Consumer%20Notification%20Letter_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5207,7 +5207,7 @@ We are writing to inform you that Missing Link Networks, Inc. (MLN), Clif Family
 </details>
 ## Copart Inc.
 <p class="hidden"></p>
-[March 31, 2015](https://oag.ca.gov/system/files/Copart%20Notice_0.pdf) | CAUSE
+[March 31, 2015](https://oag.ca.gov/system/files/Copart%20Notice_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5215,7 +5215,7 @@ We are writing to inform you of an incident that may have affected information y
 </details>
 ## Charles Komar & Sons, Inc.
 <p class="hidden"></p>
-[March 01, 2015](https://oag.ca.gov/system/files/Komar%20-%20Notice%20only%20-%20CA%20Exhibit%201_0_0.pdf) | CAUSE
+[March 01, 2015](https://oag.ca.gov/system/files/Komar%20-%20Notice%20only%20-%20CA%20Exhibit%201_0_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5233,7 +5233,7 @@ information provided by customers on the checkout page of Cuddl Duds.
 </details>
 ## Compass Group USA, Inc.
 <p class="hidden"></p>
-[February 02, 2015](https://oag.ca.gov/system/files/Compass_Proof%20Copy%20Media%20Notice_0.pdf) | CAUSE
+[February 02, 2015](https://oag.ca.gov/system/files/Compass_Proof%20Copy%20Media%20Notice_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5241,7 +5241,7 @@ Based upon an extensive forensic investigation, it appears that unauthorized ind
 </details>
 ## CP Franchising, LLC
 <p class="hidden"></p>
-[January 30, 2015](https://oag.ca.gov/system/files/CP%20Franchising%20-%20client%20notice_0.pdf) | CAUSE
+[January 30, 2015](https://oag.ca.gov/system/files/CP%20Franchising%20-%20client%20notice_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5253,7 +5253,7 @@ code, may have obtained information stored by CP Franchising in an encrypted fas
 </details>
 ## California Department of Business Oversight
 <p class="hidden"></p>
-[January 05, 2015](https://oag.ca.gov/system/files/SDD%20Breach%20Notification%20Letter%20for%20DOJ_0.pdf) | CAUSE
+[January 05, 2015](https://oag.ca.gov/system/files/SDD%20Breach%20Notification%20Letter%20for%20DOJ_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5261,7 +5261,7 @@ The California Public Records Act (PRA) requires the Department of Business Over
 </details>
 ## Cathrine Steinborn DDS
 <p class="hidden"></p>
-[January 05, 2015](https://oag.ca.gov/system/files/Steinborn%20February%2018%20notice_0.pdf) | CAUSE
+[January 05, 2015](https://oag.ca.gov/system/files/Steinborn%20February%2018%20notice_0.pdf) | Server Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5275,7 +5275,7 @@ we do not store this information.
 </details>
 ## Contra Costa Health Plan
 <p class="hidden"></p>
-[December 01, 2014](https://oag.ca.gov/system/files/CCHP%20CA%20AG%20Breach_0.pdf) | CAUSE
+[December 01, 2014](https://oag.ca.gov/system/files/CCHP%20CA%20AG%20Breach_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5293,7 +5293,7 @@ of the current investigation.
 </details>
 ## County of Napa, Health and Human Services Agency, Comprehensive Services for Older Adults
 <p class="hidden"></p>
-[August 27, 2014](https://oag.ca.gov/system/files/Redacted%20copy%20of%20standerd%20IHSS%20notification%20letter%20sent%20to%20all%20affected%20IHSS%20clients_0.pdf) | CAUSE
+[August 27, 2014](https://oag.ca.gov/system/files/Redacted%20copy%20of%20standerd%20IHSS%20notification%20letter%20sent%20to%20all%20affected%20IHSS%20clients_0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5301,7 +5301,7 @@ We are contacting you to inform you of a privacy incident related to the In Home
 </details>
 ## Community Technology Alliance
 <p class="hidden"></p>
-[July 28, 2014](https://oag.ca.gov/system/files/FINAL%20Santa%20Cruz%20client%20notification%20letter_1.pdf) | CAUSE
+[July 28, 2014](https://oag.ca.gov/system/files/FINAL%20Santa%20Cruz%20client%20notification%20letter_1.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5309,7 +5309,7 @@ You are receiving this letter because your personal information was on a laptop 
 </details>
 ## Cedars-Sinai Health System
 <p class="hidden"></p>
-[June 23, 2014](https://oag.ca.gov/system/files/Cedars%20Notice%20Letter_0.pdf) | CAUSE
+[June 23, 2014](https://oag.ca.gov/system/files/Cedars%20Notice%20Letter_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5317,7 +5317,7 @@ Although there is no indication of any actual or attempted unauthorized access t
 </details>
 ## Costco Photo Center
 <p class="hidden"></p>
-[June 19, 2014](https://oag.ca.gov/system/files/Costco%20General%20Notice%20Sample_0.pdf) | CAUSE
+[June 19, 2014](https://oag.ca.gov/system/files/Costco%20General%20Notice%20Sample_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5325,7 +5325,7 @@ As you may be aware, the company that hosts the online Costco Photo Center suffe
 </details>
 ## CVS Pharmacy, Inc.
 <p class="hidden"></p>
-[June 19, 2014](https://oag.ca.gov/system/files/Payment%20Card%20Customer%20Notification%20Letter_0.pdf) | CAUSE
+[June 19, 2014](https://oag.ca.gov/system/files/Payment%20Card%20Customer%20Notification%20Letter_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5333,7 +5333,7 @@ In July 2015, CVS Pharmacy, Inc. (“CVS”) learned of reports of unusual activ
 </details>
 ## CareFirst BlueCross Blueshield
 <p class="hidden"></p>
-[June 19, 2014](https://oag.ca.gov/system/files/broker%26member%20notification_0.pdf) | CAUSE
+[June 19, 2014](https://oag.ca.gov/system/files/broker%26member%20notification_0.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5341,7 +5341,7 @@ I am writing to inform you that we have discovered that CareFirst has experience
 </details>
 ## College of the Desert
 <p class="hidden"></p>
-[June 05, 2014](https://oag.ca.gov/system/files/College%20of%20the%20Desert%20Data%20Security%20Breach%20Notification_0.pdf) | CAUSE
+[June 05, 2014](https://oag.ca.gov/system/files/College%20of%20the%20Desert%20Data%20Security%20Breach%20Notification_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5349,7 +5349,7 @@ The College of the Desert, located at 43-5-- Monterey Avenue, Palm Desert, CA 92
 </details>
 ## City of Encinitas 7 San Dieguito Water District
 <p class="hidden"></p>
-[May 13, 2014](https://oag.ca.gov/system/files/Notice%20Letter%20Living_0.pdf) | CAUSE
+[May 13, 2014](https://oag.ca.gov/system/files/Notice%20Letter%20Living_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5357,7 +5357,7 @@ Regrettably, I am writing to inform you that the City of Encinitas and San Diegu
 </details>
 ## Cyberswim, Inc.
 <p class="hidden"></p>
-[May 12, 2014](https://oag.ca.gov/system/files/Sample%20Notice%20Letter%20%28Cyberswim%29_0.pdf) | CAUSE
+[May 12, 2014](https://oag.ca.gov/system/files/Sample%20Notice%20Letter%20%28Cyberswim%29_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5365,7 +5365,7 @@ On September 24, 2014 we confirmed that unauthorized individuals or entities ins
 </details>
 ## Community Health Systems Professional Services Corporation
 <p class="hidden"></p>
-[April 10, 2014](https://oag.ca.gov/system/files/Sample%20letter%20to%20patients_0.pdf) | CAUSE
+[April 10, 2014](https://oag.ca.gov/system/files/Sample%20letter%20to%20patients_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5373,7 +5373,7 @@ In July 2014, CHSPSC confirmed that its computer network was the target of an ex
 </details>
 ## Chipotle Mexican Grill, Inc.
 <p class="hidden"></p>
-[March 24, 2014](https://oag.ca.gov/system/files/Chipotle%20-%20Substitute%20Notice%20and%20Press%20Release_0.pdf) | CAUSE
+[March 24, 2014](https://oag.ca.gov/system/files/Chipotle%20-%20Substitute%20Notice%20and%20Press%20Release_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5381,7 +5381,7 @@ The investigation identified the operation of malware designed to access payment
 </details>
 ## Craftsman Book Company
 <p class="hidden"></p>
-[March 09, 2014](https://oag.ca.gov/system/files/Craftsman%206_2014%20Attorney%20General%20Sample%20Letter_0.pdf) | CAUSE
+[March 09, 2014](https://oag.ca.gov/system/files/Craftsman%206_2014%20Attorney%20General%20Sample%20Letter_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5389,7 +5389,7 @@ On Tuesday, May 27, we discovered unauthorized activity on a website maintained 
 </details>
 ## Cole Taylor Bank
 <p class="hidden"></p>
-[February 07, 2014](https://oag.ca.gov/system/files/Template%20Letter%20for%20California%20Submission_1.pdf) | CAUSE
+[February 07, 2014](https://oag.ca.gov/system/files/Template%20Letter%20for%20California%20Submission_1.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5397,7 +5397,7 @@ Protecting the privacy and security of your personal information is extremely im
 </details>
 ## California Pacific Medical Center
 <p class="hidden"></p>
-[October 15, 2013](https://oag.ca.gov/system/files/CPMC%20PI%20Press%20Release_1%2023%2015_0.pdf) | CAUSE
+[October 15, 2013](https://oag.ca.gov/system/files/CPMC%20PI%20Press%20Release_1%2023%2015_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5405,7 +5405,7 @@ California Pacific Medical Center (CPMC) recently notified 844 patients of its d
 </details>
 ## CITGO Petroleum Corporation
 <p class="hidden"></p>
-[October 09, 2013](https://oag.ca.gov/system/files/Sample%20California%20Notification%20Letter_0.pdf) | CAUSE
+[October 09, 2013](https://oag.ca.gov/system/files/Sample%20California%20Notification%20Letter_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5413,7 +5413,7 @@ On Oct. 9, 2013, we discovered a folder on one of CITGO's computer networks cont
 </details>
 ## California State University, East Bay
 <p class="hidden"></p>
-[August 23, 2013](https://oag.ca.gov/system/files/California%20State%20University%20East%20Bay%20-%20Sample%20Notice%20Letter%20to%20CA%20Residents%20%285089625x7AB84%29_1.pdf) | CAUSE
+[August 23, 2013](https://oag.ca.gov/system/files/California%20State%20University%20East%20Bay%20-%20Sample%20Notice%20Letter%20to%20CA%20Residents%20%285089625x7AB84%29_1.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5421,7 +5421,7 @@ On August 11, 2014, the University discovered that unauthorized access to your p
 </details>
 ## Citi Prepaid Services
 <p class="hidden"></p>
-[June 02, 2013](https://oag.ca.gov/system/files/Cardholder%20Letter%20Sample_CA_062713_0.pdf) | CAUSE
+[June 02, 2013](https://oag.ca.gov/system/files/Cardholder%20Letter%20Sample_CA_062713_0.pdf) | Programming Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5429,7 +5429,7 @@ On behalf of Citi Prepaid Services, I am writing to inform you about a recent in
 </details>
 ## California Department of State Hospitals
 <p class="hidden"></p>
-[May 08, 2013](https://oag.ca.gov/system/files/DSH%20SSN%20Breach%20Template%20Notification%20Letter_0.pdf) | CAUSE
+[May 08, 2013](https://oag.ca.gov/system/files/DSH%20SSN%20Breach%20Template%20Notification%20Letter_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5437,7 +5437,7 @@ DSH discovered that an employee roster containing confidential personal informat
 </details>
 ## Cogent Healthcare, Inc.
 <p class="hidden"></p>
-[May 05, 2013](https://oag.ca.gov/system/files/FINAL%20Cogent%20Corporate%20Material%20-%20Patient%20Notification%20Template_0.pdf) | CAUSE
+[May 05, 2013](https://oag.ca.gov/system/files/FINAL%20Cogent%20Corporate%20Material%20-%20Patient%20Notification%20Template_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5445,7 +5445,7 @@ Cogent Healthcare, Inc. manages various physician groups across the United State
 </details>
 ## Crescent Health Inc. - A Walgreen Company
 <p class="hidden"></p>
-[December 28, 2012](https://oag.ca.gov/system/files/WalgreenPatient%20letter.PROOF__1.pdf) | CAUSE
+[December 28, 2012](https://oag.ca.gov/system/files/WalgreenPatient%20letter.PROOF__1.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5453,7 +5453,7 @@ I am writing to notify you of a theft that occurred at our Anaheim Billing Cente
 </details>
 ## Crafts Americana Group
 <p class="hidden"></p>
-[December 21, 2012](https://oag.ca.gov/system/files/Multi-state%20notification%20letter%20-%20Crafts%20Americana%20-%20letterhead_0.PDF) | CAUSE
+[December 21, 2012](https://oag.ca.gov/system/files/Multi-state%20notification%20letter%20-%20Crafts%20Americana%20-%20letterhead_0.PDF) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5465,7 +5465,7 @@ was used on Knitpicks.com, ArtistsClub.com, or ConnectingThreads.com.
 </details>
 ## Calif. Department of Health Care Services
 <p class="hidden"></p>
-[December 10, 2012](https://oag.ca.gov/system/files/Notification%20letter%2012-21-12_0.pdf) | CAUSE
+[December 10, 2012](https://oag.ca.gov/system/files/Notification%20letter%2012-21-12_0.pdf) | Programming Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5473,7 +5473,7 @@ We are writing to you because of recent information security incident at the Dep
 </details>
 ## California Department of Healthcare Services
 <p class="hidden"></p>
-[November 05, 2012](https://oag.ca.gov/system/files/DHCS_PrivacyIncident_0.pdf) | CAUSE
+[November 05, 2012](https://oag.ca.gov/system/files/DHCS_PrivacyIncident_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5481,7 +5481,7 @@ This is to inform you that the Department of Health Care Services (DHCS) receive
 </details>
 ## Calvin Schuster, M.D.
 <p class="hidden"></p>
-[November 04, 2012](https://oag.ca.gov/system/files/Calvin%20Schuster%20Breach%20Notice%20_0.pdf) | CAUSE
+[November 04, 2012](https://oag.ca.gov/system/files/Calvin%20Schuster%20Breach%20Notice%20_0.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5489,7 +5489,7 @@ The security, confidentiality, integrity and privacy of patient personal informa
 </details>
 ## Churchill Downs Technology Initiatives Company dba TwinSpires
 <p class="hidden"></p>
-[August 03, 2012](https://oag.ca.gov/system/files/TS%20Letter%20%283%29_0.pdf) | CAUSE
+[August 03, 2012](https://oag.ca.gov/system/files/TS%20Letter%20%283%29_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5497,7 +5497,7 @@ We value our customers and respect the privacy of your information, which is why
 </details>
 ## California Correctional Health Care Services (CCHCS)
 <p class="hidden"></p>
-[June 11, 2012](https://oag.ca.gov/system/files/Fresno%20Mail%20Theft%20Incident%20Breach%20Notice%20%28incident%2012-0510%29%20%28Legal%20Office%20Approved%29_0.pdf) | CAUSE
+[June 11, 2012](https://oag.ca.gov/system/files/Fresno%20Mail%20Theft%20Incident%20Breach%20Notice%20%28incident%2012-0510%29%20%28Legal%20Office%20Approved%29_0.pdf) | Physical Intrusion
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5505,7 +5505,7 @@ On June 11, 2012, a kiosk mail box located at the California Correctional Health
 </details>
 ## Cigna Dental
 <p class="hidden"></p>
-[March 23, 2012](https://oag.ca.gov/system/files/Email%20Customer%20Letter%20final%20approved.pdf) | CAUSE
+[March 23, 2012](https://oag.ca.gov/system/files/Email%20Customer%20Letter%20final%20approved.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5513,7 +5513,7 @@ I am writing to inform you of a matter that the Cigna Enterprise Privacy Office 
 </details>
 ## CMI Marketing, Inc. d/b/a Cafe Media
 <p class="hidden"></p>
-[January 01, 2011](https://oag.ca.gov/system/files/CafeMom%20Email%2011-6-17_0.pdf) | CAUSE
+[January 01, 2011](https://oag.ca.gov/system/files/CafeMom%20Email%2011-6-17_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5521,7 +5521,7 @@ Our investigation showed that email addresses and passwords for CafeMom accounts
 </details>
 ## Centric Group LLC
 <p class="hidden"></p>
-[August 01, 2010](https://oag.ca.gov/system/files/Centric_Consumer_Notification_Letter_0.pdf) | CAUSE
+[August 01, 2010](https://oag.ca.gov/system/files/Centric_Consumer_Notification_Letter_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5529,7 +5529,7 @@ On approximately December 13, 2012, Centric Group, L.L.C. learned that certain [
 </details>
 ## City of Fullerton
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/City%20of%20Fullerton.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/City%20of%20Fullerton.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5547,7 +5547,7 @@ and were unable to be reviewed.
 </details>
 ## Checkers Drive-In Restaurants, Inc. (“Checkers”)
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Checkers%20Drive-In%20Restaurants%20Inc%20-%20Substitute%20Notice%20FINAL_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Checkers%20Drive-In%20Restaurants%20Inc%20-%20Substitute%20Notice%20FINAL_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5558,7 +5558,7 @@ enabled an unauthorized party to obtain the payment card data of some guests.
 </details>
 ## California Department of Fish and Wildlife
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/CDFW%20Breach%20Notification-Final_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/CDFW%20Breach%20Notification-Final_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5570,7 +5570,7 @@ the data outside of CDFW’s secure network.
 </details>
 ## County of Humboldt
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Humboldt%20-%20FINAL%20PROOF%20-%20CA%20SSN%20%5Bredacted%5D%20%287101397x7AB84%29_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Humboldt%20-%20FINAL%20PROOF%20-%20CA%20SSN%20%5Bredacted%5D%20%287101397x7AB84%29_0.pdf) | Files Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5581,7 +5581,7 @@ in conjunction with the Sheriff’s Office.
 </details>
 ## City of Oceanside
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach%20%28Final%209-6-17%29_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach%20%28Final%209-6-17%29_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5595,7 +5595,7 @@ payment system.
 </details>
 ## CoPilot Provider Support Services, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Enclosure%201%20-%20CoPilot%20Ad%20No%20SSN%20r4prf_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Enclosure%201%20-%20CoPilot%20Ad%20No%20SSN%20r4prf_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5609,7 +5609,7 @@ leading cybersecurity consulting firm to assist in its investigation of what occ
 </details>
 ## California State University Northridge
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/CSU_Adult_Notice_0.PDF) | CAUSE
+[](https://oag.ca.gov/system/files/CSU_Adult_Notice_0.PDF) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5623,7 +5623,7 @@ suggest that this incident was the result of a malicious act or “hacking” at
 </details>
 ## Charles Schwab & Co., Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Charles%20Schwab%20resubmitted%20May%204_2016_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Charles%20Schwab%20resubmitted%20May%204_2016_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5634,7 +5634,7 @@ account access can occur when you use the same username and password on multiple
 </details>
 ## CBC Restaurant Corporation
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/CBC_-_Sample_Notification_Letter_0.PDF) | CAUSE
+[](https://oag.ca.gov/system/files/CBC_-_Sample_Notification_Letter_0.PDF) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5648,7 +5648,7 @@ that information for purposes of identity theft.
 </details>
 ## Charles Krug Winery (C. Mondavi & Family)
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Charles%20Krug%20Winery_notification%20letter_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Charles%20Krug%20Winery_notification%20letter_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5656,7 +5656,7 @@ We greatly value your business and respect the privacy of your information, whic
 </details>
 ## Corison Winery
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Corison%20Breach%20Notice_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Corison%20Breach%20Notice_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5664,7 +5664,7 @@ Missing Link has advised us that during the window of April 1, 2015 to April 30,
 </details>
 ## Cain Vineyard and Winery
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Cain%20Breach%20Notification%20Letter_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Cain%20Breach%20Notification%20Letter_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5672,7 +5672,7 @@ We are writing to tell you that our eCommerce provider, Missing Link Networks, I
 </details>
 ## Cement Masons Southern California Health and Welfare Trust Fund
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/March%2018%2C%202015%20Data%20Breach%20Notice_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/March%2018%2C%202015%20Data%20Breach%20Notice_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5680,7 +5680,7 @@ We have been notified by Anthem, Inc. ("Anthem") that , on January 29, 2015, it 
 </details>
 ## CICS Employment Services, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Notice_N095_v01_0.PDF) | CAUSE
+[](https://oag.ca.gov/system/files/Notice_N095_v01_0.PDF) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5688,7 +5688,7 @@ I am writing to inform you of an incident that may affect the security of your p
 </details>
 ## Corday Productions, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Security%20Breach%20Notification%20Sent%20to%20CA%20Residents%20%286583414%29_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Security%20Breach%20Notification%20Sent%20to%20CA%20Residents%20%286583414%29_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5696,7 +5696,7 @@ As you are most likely aware, Sony Pictures Entertainment (“Sony”) recently 
 </details>
 ## ClamCase LLC
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/California_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/California_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5709,7 +5709,7 @@ notifying you of this matter.
 </details>
 ## Castle Creek Properties, Inc., dba Rosenthal the Malibu Estates
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Rosenthal%20Sample%20Notice_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Rosenthal%20Sample%20Notice_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5717,7 +5717,7 @@ We recently learned that unauthorized individuals or entities installed maliciou
 </details>
 ## Cottage Health System
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Cottage%20notice%20only%201-%231636861-v1-AG_Notification_CHS_-_CA_0_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Cottage%20notice%20only%201-%231636861-v1-AG_Notification_CHS_-_CA_0_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5725,7 +5725,7 @@ On December 2, 2013, Cottage Health System received a voicemail message informin
 </details>
 ## Computer Sciences Corporation
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Form%20Individual%20Notification%20Letter_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Form%20Individual%20Notification%20Letter_0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5733,7 +5733,7 @@ CSC is a contractor for the State of North Carolina. In the course of performing
 </details>
 ## Citi
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/BK%20Redaction%20Fully%20Remediated%20Consumer%20Notice%20%282%29_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/BK%20Redaction%20Fully%20Remediated%20Consumer%20Notice%20%282%29_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5741,7 +5741,7 @@ This letter is to inform you of a matter involving your personal information.  Y
 </details>
 ## CARMICHAEL COMPANY
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Sample%20Copy%20Letter%20for%20Attoreny%20General%20UP-load%20%281%29_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Sample%20Copy%20Letter%20for%20Attoreny%20General%20UP-load%20%281%29_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5749,7 +5749,7 @@ I am writing because of an incident that has occurred. I was informed by the U.S
 </details>
 ## Comerica Bank
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Global%20Payments-Comerica%20Merchant%20Application%20Server%20Breach%20Letter%20Final_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Global%20Payments-Comerica%20Merchant%20Application%20Server%20Breach%20Letter%20Final_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5757,7 +5757,7 @@ Specifically, Global Payments informed Comerica in June that their ongoing inves
 </details>
 ## California Department of Social Services
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/CDSSsecurityltr-provider_6.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/CDSSsecurityltr-provider_6.pdf) | Files Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5765,7 +5765,7 @@ We are writing to inform you of a security incident involving your personal info
 </details>
 ## California Department of Justice / CATCH
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Notification_Letter_FINAL_SSNs_04-25-12_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Notification_Letter_FINAL_SSNs_04-25-12_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5773,7 +5773,7 @@ In November 2011, hackers affiliated with the group Anonymous accessed and relea
 </details>
 ## Choice Hotels International
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Choice%20Individual%20Notification%20%28Master%29_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Choice%20Individual%20Notification%20%28Master%29_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5782,7 +5782,7 @@ Choice Hotels maintains a database that facilitates guest reservations and other
 # D
 ## DJO Global, Inc.
 <p class="hidden"></p>
-[November 08, 2020](https://oag.ca.gov/system/files/DJO%20-%20Notification%20Letter%20%28General%20Template%29.pdf) | CAUSE
+[November 08, 2020](https://oag.ca.gov/system/files/DJO%20-%20Notification%20Letter%20%28General%20Template%29.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5823,7 +5823,7 @@ The breach occurred on May 25, 2020, when an individual gained unauthorized acce
 </details>
 ## Dr. Ann Hale, D.D.S. / also known as Hutton & Hale, D.D.S.
 <p class="hidden"></p>
-[May 24, 2020](https://oag.ca.gov/system/files/Letter%20A%20-%20Ann%20Hale%20Breach%20Notification%20Letter%20-%20SSN%20Compromised.pdf) | CAUSE
+[May 24, 2020](https://oag.ca.gov/system/files/Letter%20A%20-%20Ann%20Hale%20Breach%20Notification%20Letter%20-%20SSN%20Compromised.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5858,7 +5858,7 @@ Our ongoing investigation into a phishing email incident recently determined tha
 </details>
 ## Diocese of Charlotte
 <p class="hidden"></p>
-[February 20, 2020](https://oag.ca.gov/system/files/CSE%20CCHS%20Blackbaud%20Exposure%20Letter%20SSN%20V2%20Print%20Proof.pdf) | CAUSE
+[February 20, 2020](https://oag.ca.gov/system/files/CSE%20CCHS%20Blackbaud%20Exposure%20Letter%20SSN%20V2%20Print%20Proof.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5873,7 +5873,7 @@ Blackbaud Inc. is an international provider of fundraising and financial softwar
 </details>
 ## Duben & Associates, Inc.
 <p class="hidden"></p>
-[February 11, 2020](https://oag.ca.gov/system/files/8861373.PDF) | CAUSE
+[February 11, 2020](https://oag.ca.gov/system/files/8861373.PDF) | Service Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5890,7 +5890,7 @@ As a result of a phishing incident, we have learned that an unauthorized party m
 </details>
 ## DoorDash, Inc.
 <p class="hidden"></p>
-[May 04, 2019](https://oag.ca.gov/system/files/California%20Notice.pdf) | CAUSE
+[May 04, 2019](https://oag.ca.gov/system/files/California%20Notice.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5902,7 +5902,7 @@ steps to block further access by the unauthorized third party and to enhance sec
 </details>
 ## Decron Properties Corporation
 <p class="hidden"></p>
-[April 28, 2019](https://oag.ca.gov/system/files/Decron%20Properties%20Corporation%20-%20Notice%20of%20Data%20Event%20_1.pdf) | CAUSE
+[April 28, 2019](https://oag.ca.gov/system/files/Decron%20Properties%20Corporation%20-%20Notice%20of%20Data%20Event%20_1.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5921,7 +5921,7 @@ December 24, 2019.
 </details>
 ## Dr. T.Y. Steven Ip M.D. F.A.C.S.
 <p class="hidden"></p>
-[February 06, 2019](https://oag.ca.gov/system/files/Dr%20Ip%20Ad%20SSN%201%20Year%20r4fin_0.pdf) | CAUSE
+[February 06, 2019](https://oag.ca.gov/system/files/Dr%20Ip%20Ad%20SSN%201%20Year%20r4fin_0.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5934,7 +5934,7 @@ firm to investigate the incident.
 </details>
 ## Department of Rehabilitation
 <p class="hidden"></p>
-[January 09, 2019](https://oag.ca.gov/system/files/DOR%20Notice%20of%20Data%20Breach%20Letter%20January%202019_OAG_0.pdf) | CAUSE
+[January 09, 2019](https://oag.ca.gov/system/files/DOR%20Notice%20of%20Data%20Breach%20Letter%20January%202019_OAG_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5948,7 +5948,7 @@ spreadsheet was deleted and access to the folder on the G drive was restricted.
 </details>
 ## David B. Cheatham, CPA
 <p class="hidden"></p>
-[December 08, 2018](https://oag.ca.gov/system/files/Cheatham%20Notice_0.pdf) | CAUSE
+[December 08, 2018](https://oag.ca.gov/system/files/Cheatham%20Notice_0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5959,7 +5959,7 @@ have been able to access the data on the hard drive if he or she was able to cir
 </details>
 ## Don Best Corporation, a subsidiary of Scientific Games Corporation
 <p class="hidden"></p>
-[October 12, 2018](https://oag.ca.gov/system/files/Don%20Best%20-%20Multistate%20Notice%20Draft_0.pdf) | CAUSE
+[October 12, 2018](https://oag.ca.gov/system/files/Don%20Best%20-%20Multistate%20Notice%20Draft_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -5970,126 +5970,126 @@ between October 12, 2018 and October 28, 2018 Don Best suffered a malware attack
 </details>
 ## Discover Financial Services
 <p class="hidden"></p>
-[August 13, 2018](https://oag.ca.gov/system/files/sample-notification-1_29.pdf) | CAUSE
+[August 13, 2018](https://oag.ca.gov/system/files/sample-notification-1_29.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems.
 </details>
 <p class="hidden"></p>
-[January 02, 2018](https://oag.ca.gov/system/files/sample-notification-1_28.pdf) | CAUSE
+[January 02, 2018](https://oag.ca.gov/system/files/sample-notification-1_28.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems.
 </details>
 <p class="hidden"></p>
-[July 16, 2017](https://oag.ca.gov/system/files/sample-notification-1_26.pdf) | CAUSE
+[July 16, 2017](https://oag.ca.gov/system/files/sample-notification-1_26.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems. 
 </details>
 <p class="hidden"></p>
-[April 27, 2017](https://oag.ca.gov/system/files/sample-notification_8.pdf) | CAUSE
+[April 27, 2017](https://oag.ca.gov/system/files/sample-notification_8.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems.
 </details>
 <p class="hidden"></p>
-[September 04, 2016](https://oag.ca.gov/system/files/sample-notification_5.pdf) | CAUSE
+[September 04, 2016](https://oag.ca.gov/system/files/sample-notification_5.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems.
 </details>
 <p class="hidden"></p>
-[August 10, 2016](https://oag.ca.gov/system/files/sample-notification_4.pdf) | CAUSE
+[August 10, 2016](https://oag.ca.gov/system/files/sample-notification_4.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[June 04, 2016](https://oag.ca.gov/system/files/sample-notification_7.pdf) | CAUSE
+[June 04, 2016](https://oag.ca.gov/system/files/sample-notification_7.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[June 02, 2016](https://oag.ca.gov/system/files/sample-notification_11.pdf) | CAUSE
+[June 02, 2016](https://oag.ca.gov/system/files/sample-notification_11.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[June 01, 2016](https://oag.ca.gov/system/files/sample-notification.pdf) | CAUSE
+[June 01, 2016](https://oag.ca.gov/system/files/sample-notification.pdf) | Breach
+{: .fs-4 .fw-700 .lh-0  
+<details>
+  <summary>Abstract</summary>
+We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
+</details>
+<p class="hidden"></p>
+[April 05, 2016](https://oag.ca.gov/system/files/sample-notification_3.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[April 05, 2016](https://oag.ca.gov/system/files/sample-notification_3.pdf) | CAUSE
+[February 26, 2016](https://oag.ca.gov/system/files/sample-notification-1_27.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[February 26, 2016](https://oag.ca.gov/system/files/sample-notification-1_27.pdf) | CAUSE
+[January 31, 2016](https://oag.ca.gov/system/files/sample-notification-1_8.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[January 31, 2016](https://oag.ca.gov/system/files/sample-notification-1_8.pdf) | CAUSE
+[January 02, 2016](https://oag.ca.gov/system/files/sample-notification-1_10.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[January 02, 2016](https://oag.ca.gov/system/files/sample-notification-1_10.pdf) | CAUSE
+[November 29, 2015](https://oag.ca.gov/system/files/sample-notification-1_9.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[November 29, 2015](https://oag.ca.gov/system/files/sample-notification-1_9.pdf) | CAUSE
+[November 24, 2015](https://oag.ca.gov/system/files/sample-notification_2.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[November 24, 2015](https://oag.ca.gov/system/files/sample-notification_2.pdf) | CAUSE
+[October 27, 2015](https://oag.ca.gov/system/files/sample-notification-1_0.pdf) | Breach
+{: .fs-4 .fw-700 .lh-0  
+<details>
+  <summary>Abstract</summary>
+We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
+</details>
+<p class="hidden"></p>
+[October 25, 2015](https://oag.ca.gov/system/files/sample-notification-1_3.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[October 27, 2015](https://oag.ca.gov/system/files/sample-notification-1_0.pdf) | CAUSE
-{: .fs-4 .fw-700 .lh-0  }
-<details>
-  <summary>Abstract</summary>
-We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
-</details>
-<p class="hidden"></p>
-[October 25, 2015](https://oag.ca.gov/system/files/sample-notification-1_3.pdf) | CAUSE
-{: .fs-4 .fw-700 .lh-0  }
-<details>
-  <summary>Abstract</summary>
-We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
-</details>
-<p class="hidden"></p>
-[August 02, 2015](https://oag.ca.gov/system/files/sample-communication_1.pdf) | CAUSE
+[August 02, 2015](https://oag.ca.gov/system/files/sample-communication_1.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6098,105 +6098,105 @@ breach. Please know, this breach did not involve Discover card systems.
 
 </details>
 <p class="hidden"></p>
-[July 31, 2015](https://oag.ca.gov/system/files/sample-notification-2_2.pdf) | CAUSE
+[July 31, 2015](https://oag.ca.gov/system/files/sample-notification-2_2.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[June 21, 2015](https://oag.ca.gov/system/files/sample-notification-1_2.pdf) | CAUSE
+[June 21, 2015](https://oag.ca.gov/system/files/sample-notification-1_2.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[May 01, 2015](https://oag.ca.gov/system/files/sample-notification_10.pdf) | CAUSE
+[May 01, 2015](https://oag.ca.gov/system/files/sample-notification_10.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[March 08, 2015](https://oag.ca.gov/system/files/sample-notification-1_6.pdf) | CAUSE
+[March 08, 2015](https://oag.ca.gov/system/files/sample-notification-1_6.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[March 02, 2015](https://oag.ca.gov/system/files/sample-notification-1_4.pdf) | CAUSE
+[March 02, 2015](https://oag.ca.gov/system/files/sample-notification-1_4.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[December 06, 2014](https://oag.ca.gov/system/files/sample-notification-1_25.pdf) | CAUSE
+[December 06, 2014](https://oag.ca.gov/system/files/sample-notification-1_25.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[November 18, 2014](https://oag.ca.gov/system/files/sample-notification-1_7.pdf) | CAUSE
+[November 18, 2014](https://oag.ca.gov/system/files/sample-notification-1_7.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[November 02, 2014](https://oag.ca.gov/system/files/sample-notification-1_11.pdf) | CAUSE
+[November 02, 2014](https://oag.ca.gov/system/files/sample-notification-1_11.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[October 22, 2014](https://oag.ca.gov/system/files/sample-notification_6.pdf) | CAUSE
+[October 22, 2014](https://oag.ca.gov/system/files/sample-notification_6.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[September 11, 2014](https://oag.ca.gov/system/files/sample-notification-1.pdf) | CAUSE
+[September 11, 2014](https://oag.ca.gov/system/files/sample-notification-1.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[July 01, 2014](https://oag.ca.gov/system/files/sample-notification-1_15.pdf) | CAUSE
+[July 01, 2014](https://oag.ca.gov/system/files/sample-notification-1_15.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[June 19, 2014](https://oag.ca.gov/system/files/sample-notification-1_1.pdf) | CAUSE
+[June 19, 2014](https://oag.ca.gov/system/files/sample-notification-1_1.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[May 04, 2014](https://oag.ca.gov/system/files/sample-notification-1_5.pdf) | CAUSE
+[May 04, 2014](https://oag.ca.gov/system/files/sample-notification-1_5.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[April 10, 2014](https://oag.ca.gov/system/files/sample-CA_0.PDF) | CAUSE
+[April 10, 2014](https://oag.ca.gov/system/files/sample-CA_0.PDF) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We have been advised that your Discover card account information may have been compromised. This incident did not involve any Discover card systems, and there is no evidence that an unauthorized individual is using this account numner.
 </details>
 <p class="hidden"></p>
-[February 19, 2014](https://oag.ca.gov/system/files/sample-communication_0.pdf) | CAUSE
+[February 19, 2014](https://oag.ca.gov/system/files/sample-communication_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6204,14 +6204,14 @@ We recently learned your Discover card account might have been part of a data
 breach. Please know, this breach did not involve Discover card systems.
 </details>
 <p class="hidden"></p>
-[January 01, 2014](https://oag.ca.gov/system/files/sample-notification_0.pdf) | CAUSE
+[January 01, 2014](https://oag.ca.gov/system/files/sample-notification_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We recently learned your Discover card account might have been part of a data breach. Please know, this breach did not involve Discover card systems
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Acct%20number%20reissue%20notice_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Acct%20number%20reissue%20notice_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6219,7 +6219,7 @@ We have been advised that your current Discover card account information may hav
 </details>
 ## DC International
 <p class="hidden"></p>
-[July 20, 2018](https://oag.ca.gov/system/files/DC%20International%20Breach%20Letter%20California_DH%20with%20experian_0.pdf) | CAUSE
+[July 20, 2018](https://oag.ca.gov/system/files/DC%20International%20Breach%20Letter%20California_DH%20with%20experian_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6232,7 +6232,7 @@ transaction and never stored on our servers.
 </details>
 ## Denise M. Bowden, LAc
 <p class="hidden"></p>
-[April 28, 2018](https://oag.ca.gov/system/files/NYDOCS01-%239077761-v1-Denise-Bowden---AG-Notification-Letter---CA_0.PDF) | CAUSE
+[April 28, 2018](https://oag.ca.gov/system/files/NYDOCS01-%239077761-v1-Denise-Bowden---AG-Notification-Letter---CA_0.PDF) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6240,7 +6240,7 @@ Over the weekend of April 28, 2018, my office was burglarized and a computer use
 </details>
 ## Delicato Vineyards
 <p class="hidden"></p>
-[April 26, 2018](https://oag.ca.gov/system/files/Letter%20re%20Notice%20of%20Data%20Breach_final_0.pdf) | CAUSE
+[April 26, 2018](https://oag.ca.gov/system/files/Letter%20re%20Notice%20of%20Data%20Breach_final_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6252,7 +6252,7 @@ information.
 </details>
 ## Dollar Shave Club, Inc.
 <p class="hidden"></p>
-[March 21, 2018](https://oag.ca.gov/system/files/California%20-%20Data%20Incident%20Consumer%20Notification_0.pdf) | CAUSE
+[March 21, 2018](https://oag.ca.gov/system/files/California%20-%20Data%20Incident%20Consumer%20Notification_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6268,7 +6268,7 @@ improperly used on our website.
 </details>
 ## Deephaven Mortgage LLC
 <p class="hidden"></p>
-[January 10, 2018](https://oag.ca.gov/system/files/Deephavensample%20050818_0.pdf) | CAUSE
+[January 10, 2018](https://oag.ca.gov/system/files/Deephavensample%20050818_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6282,7 +6282,7 @@ personal information of some consumers, including you.
 </details>
 ## Drury Hotels Company, LLC
 <p class="hidden"></p>
-[December 28, 2017](https://oag.ca.gov/system/files/Notice_-_CA.pdf) | CAUSE
+[December 28, 2017](https://oag.ca.gov/system/files/Notice_-_CA.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6298,7 +6298,7 @@ provider to get updates on its investigation.
 </details>
 ## Dameron Hospital
 <p class="hidden"></p>
-[November 17, 2017](undefined) | CAUSE
+[November 17, 2017](undefined) | Unknown
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6306,7 +6306,7 @@ TBDB
 </details>
 ## Delta Air Lines, Inc.
 <p class="hidden"></p>
-[September 26, 2017](https://oag.ca.gov/system/files/California_3.pdf) | CAUSE
+[September 26, 2017](https://oag.ca.gov/system/files/California_3.pdf) | Vulnerability
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6314,7 +6314,7 @@ On March 28, 2018, [24]7.ai notified Delta that [27]7.ai had been involved in a 
 </details>
 ## Droege Computing Servi ces
 <p class="hidden"></p>
-[September 26, 2017](https://oag.ca.gov/system/files/DROEGE%20redacted_0.pdf) | CAUSE
+[September 26, 2017](https://oag.ca.gov/system/files/DROEGE%20redacted_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6328,7 +6328,7 @@ card information.
 </details>
 ## Dignity Health - Mercy San Juan Medical Center
 <p class="hidden"></p>
-[September 08, 2017](https://oag.ca.gov/system/files/Dignity%20Health%20sample%20notice%20ESS%20Incident%20Individual%20Notif%20Template_0.pdf) | CAUSE
+[September 08, 2017](https://oag.ca.gov/system/files/Dignity%20Health%20sample%20notice%20ESS%20Incident%20Individual%20Notif%20Template_0.pdf) | Programming Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6336,7 +6336,7 @@ From September 8 to 12, 2017, a software error in the ESS system exposed some em
 </details>
 ## Driscoll’s, Inc.
 <p class="hidden"></p>
-[July 17, 2017](https://oag.ca.gov/system/files/Driscoll%27s%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201_0.pdf) | CAUSE
+[July 17, 2017](https://oag.ca.gov/system/files/Driscoll%27s%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6353,7 +6353,7 @@ August 18, 2017.
 </details>
 ## Deli Management, Inc. (d/b/a Jason's Deli, Inc.)
 <p class="hidden"></p>
-[June 08, 2017](https://oag.ca.gov/system/files/California%20OAG%20-%20Notice%20of%20a%20Data%20Security%20Breach%20dated%201-11-2018_0.pdf) | CAUSE
+[June 08, 2017](https://oag.ca.gov/system/files/California%20OAG%20-%20Notice%20of%20a%20Data%20Security%20Breach%20dated%201-11-2018_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6361,7 +6361,7 @@ On December 22, 2017, Jason’s Deli was notified by payment processors that cre
 </details>
 ## Da Vinci Schools
 <p class="hidden"></p>
-[April 04, 2017](https://oag.ca.gov/system/files/Final%20Notice%20of%20Data-Breach%20DV-052517%20%282%29_0.pdf) | CAUSE
+[April 04, 2017](https://oag.ca.gov/system/files/Final%20Notice%20of%20Data-Breach%20DV-052517%20%282%29_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6372,7 +6372,7 @@ what happened as follows:
 </details>
 ## D'Angelo & Associates, APC
 <p class="hidden"></p>
-[March 25, 2017](https://oag.ca.gov/system/files/D%27Angelo%20Notice_0.pdf) | CAUSE
+[March 25, 2017](https://oag.ca.gov/system/files/D%27Angelo%20Notice_0.pdf) | Vulnerability 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6384,7 +6384,7 @@ forensic IT firm for additional investigation.
 </details>
 ## DLD Accountancy, LLP
 <p class="hidden"></p>
-[March 03, 2017](https://oag.ca.gov/system/files/Sample%20Consumer%20Notification%20letter%20Non-CT%20%28110082750_1%29_0.pdf) | CAUSE
+[March 03, 2017](https://oag.ca.gov/system/files/Sample%20Consumer%20Notification%20letter%20Non-CT%20%28110082750_1%29_0.pdf) | Service Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6392,7 +6392,7 @@ We are contacting you regarding a data security incident that occurred on or abo
 </details>
 ## Delta Career Education Corporation
 <p class="hidden"></p>
-[February 13, 2017](https://oag.ca.gov/system/files/Employee%20CA_1.pdf) | CAUSE
+[February 13, 2017](https://oag.ca.gov/system/files/Employee%20CA_1.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6404,7 +6404,7 @@ to some of our current and former employees.
 </details>
 ## DBM Global, Inc.
 <p class="hidden"></p>
-[January 07, 2017](https://oag.ca.gov/system/files/DBM%20Global%20Data%20Breach%20Notice%20Letter_0.pdf) | CAUSE
+[January 07, 2017](https://oag.ca.gov/system/files/DBM%20Global%20Data%20Breach%20Notice%20Letter_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6413,7 +6413,7 @@ law enforcement and conducted an investigation.
 </details>
 ## Department of Justice
 <p class="hidden"></p>
-[October 14, 2016](https://oag.ca.gov/system/files/FINAL%20BOF%20NOTICE%20%20LETTER%20DEC-2016_0.pdf) | CAUSE
+[October 14, 2016](https://oag.ca.gov/system/files/FINAL%20BOF%20NOTICE%20%20LETTER%20DEC-2016_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6421,7 +6421,7 @@ On October 14, 2016, during the course of responding to California Public Record
 </details>
 ## Darwin’s Natural Pet Products
 <p class="hidden"></p>
-[September 27, 2016](https://oag.ca.gov/system/files/Darwin%E2%80%99s%20Natural%20Pet%20Products%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA_0.pdf) | CAUSE
+[September 27, 2016](https://oag.ca.gov/system/files/Darwin%E2%80%99s%20Natural%20Pet%20Products%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA_0.pdf) | Service Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6437,7 +6437,7 @@ may be affected.
 </details>
 ## Dover Federal Credit Union
 <p class="hidden"></p>
-[September 20, 2016](https://oag.ca.gov/system/files/DFCU%20CA%20Adult%20Letter%20Sample_1.pdf) | CAUSE
+[September 20, 2016](https://oag.ca.gov/system/files/DFCU%20CA%20Adult%20Letter%20Sample_1.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6452,7 +6452,7 @@ transferred to the employee’s Dropbox account included personal information of
 </details>
 ## Denihan Hospitality
 <p class="hidden"></p>
-[August 10, 2016](https://oag.ca.gov/system/files/Sample%20Notice_19.pdf) | CAUSE
+[August 10, 2016](https://oag.ca.gov/system/files/Sample%20Notice_19.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6466,7 +6466,7 @@ reservations processed through Sabre’s CRS.
 </details>
 ## Disney Consumer Products and Interactive Media (DCPI)
 <p class="hidden"></p>
-[July 09, 2016](https://oag.ca.gov/system/files/DCPI%20Notice.FINAL__1.pdf) | CAUSE
+[July 09, 2016](https://oag.ca.gov/system/files/DCPI%20Notice.FINAL__1.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6478,7 +6478,7 @@ concluded that no other Disney websites or apps have been affected in any way.
 </details>
 ## Dutch, LLC
 <p class="hidden"></p>
-[June 09, 2016](https://oag.ca.gov/system/files/Dutch%20-%20Notice%20only-%20CA%20-%20Exhibit%201_0_0.pdf) | CAUSE
+[June 09, 2016](https://oag.ca.gov/system/files/Dutch%20-%20Notice%20only-%20CA%20-%20Exhibit%201_0_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6492,7 +6492,7 @@ Joie locations.
 </details>
 ## Desmond Foods, L.P.
 <p class="hidden"></p>
-[December 02, 2015](https://oag.ca.gov/system/files/Website%20Notification_10.pdf) | CAUSE
+[December 02, 2015](https://oag.ca.gov/system/files/Website%20Notification_10.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6506,7 +6506,7 @@ some Wendy’s franchisee systems starting in late fall 2015.
 </details>
 ## Dependable Foods
 <p class="hidden"></p>
-[December 02, 2015](https://oag.ca.gov/system/files/Website%20Notification_9.pdf) | CAUSE
+[December 02, 2015](https://oag.ca.gov/system/files/Website%20Notification_9.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6520,14 +6520,14 @@ some Wendy’s franchisee systems starting in late fall 2015.
 </details>
 ## Dungarees, LLC
 <p class="hidden"></p>
-[October 15, 2015](https://oag.ca.gov/system/files/Notice%201-1_0.pdf) | CAUSE
+[October 15, 2015](https://oag.ca.gov/system/files/Notice%201-1_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 On November 20, 2015, we first became aware of a possible breach when we discovered that our website had been manipulated by hackers. After this discovery, we took immediate action to secure our website, and we engaged a forensic IT firm to assist us in determining how this occurred. 
 </details>
 <p class="hidden"></p>
-[March 26, 2015](https://oag.ca.gov/system/files/DOCS-%231545590-v3-Generic_Consumer_Notice_0.pdf) | CAUSE
+[March 26, 2015](https://oag.ca.gov/system/files/DOCS-%231545590-v3-Generic_Consumer_Notice_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6535,7 +6535,7 @@ On May 15, 2015, we first became aware of a possible breach when we discovered t
 </details>
 ## Dominican Hospital
 <p class="hidden"></p>
-[July 16, 2015](https://oag.ca.gov/system/files/Patient%20Notifications%20-%20Scanned_0.pdf) | CAUSE
+[July 16, 2015](https://oag.ca.gov/system/files/Patient%20Notifications%20-%20Scanned_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6543,7 +6543,7 @@ Dominican Hospital regularly meets with community providers and health plans for
 </details>
 ## Digital Theatre, LLC
 <p class="hidden"></p>
-[April 19, 2015](https://oag.ca.gov/system/files/Sample%20Notice_2.pdf) | CAUSE
+[April 19, 2015](https://oag.ca.gov/system/files/Sample%20Notice_2.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6557,7 +6557,7 @@ purchases through the Website.
 </details>
 ## DutchWear
 <p class="hidden"></p>
-[November 07, 2014](https://oag.ca.gov/system/files/Dutch%20Indiv_0.pdf) | CAUSE
+[November 07, 2014](https://oag.ca.gov/system/files/Dutch%20Indiv_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6565,7 +6565,7 @@ On Saturday, December 6th, 2014, we received information that raised suspicion o
 </details>
 ## Department of Social Services
 <p class="hidden"></p>
-[July 16, 2014](https://oag.ca.gov/system/files/14-101%2C%20SISO%2014-0826%2C%20Sample%20Notification%20Letter_0.pdf) | CAUSE
+[July 16, 2014](https://oag.ca.gov/system/files/14-101%2C%20SISO%2014-0826%2C%20Sample%20Notification%20Letter_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6573,7 +6573,7 @@ We are writing to inform you of a security incident involving your personal info
 </details>
 ## Department of Managed Health Care
 <p class="hidden"></p>
-[May 16, 2014](https://oag.ca.gov/system/files/Notification%20Letter%20070314_0%20-%20BSC%20notified%20AG_0.pdf) | CAUSE
+[May 16, 2014](https://oag.ca.gov/system/files/Notification%20Letter%20070314_0%20-%20BSC%20notified%20AG_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6581,7 +6581,7 @@ On May 16, 2014, the DMHC discovered that Blue Shield of California had inadvert
 </details>
 ## Department of Child Support Services
 <p class="hidden"></p>
-[April 07, 2014](https://oag.ca.gov/system/files/Solano%20Security%20Incident%2005-2014_0.pdf) | CAUSE
+[April 07, 2014](https://oag.ca.gov/system/files/Solano%20Security%20Incident%2005-2014_0.pdf) | User Error 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
