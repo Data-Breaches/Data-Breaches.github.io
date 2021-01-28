@@ -6589,7 +6589,7 @@ We are writing to you because of a situation that occurred which may have result
 </details>
 ## Department of Resources Recycling and Recovery
 <p class="hidden"></p>
-[January 24, 2014](https://oag.ca.gov/system/files/EE%20Notification%20Letter_Security%20Breech_0.pdf) | CAUSE
+[January 24, 2014](https://oag.ca.gov/system/files/EE%20Notification%20Letter_Security%20Breech_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6597,7 +6597,7 @@ On January 23, 2014, the Human Resources Office (HR) was notified that the Leave
 </details>
 ## DecisionDesk, Inc.
 <p class="hidden"></p>
-[October 28, 2013](https://oag.ca.gov/system/files/California%20-%20Consumer%20Notice%20Sample_1.pdf) | CAUSE
+[October 28, 2013](https://oag.ca.gov/system/files/California%20-%20Consumer%20Notice%20Sample_1.pdf) | Unknown 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6605,7 +6605,7 @@ TBDB
 </details>
 ## DaVita, a division of DaVita HealthCare Partners Inc.
 <p class="hidden"></p>
-[September 06, 2013](https://oag.ca.gov/system/files/Samples%20Notices_0.pdf) | CAUSE
+[September 06, 2013](https://oag.ca.gov/system/files/Samples%20Notices_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6613,7 +6613,7 @@ We regret to inform you that on September 6, 2013 a laptop was stolen from a tea
 </details>
 ## Deltek Inc.
 <p class="hidden"></p>
-[July 13, 2013](https://oag.ca.gov/system/files/California%20Notice%20Letter_0.pdf) | CAUSE
+[July 13, 2013](https://oag.ca.gov/system/files/California%20Notice%20Letter_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6631,7 +6631,7 @@ information that we believe was accessed includes:
 </details>
 ## Dun & Bradstreet
 <p class="hidden"></p>
-[April 02, 2013](https://oag.ca.gov/system/files/California%20Individual%20Notification_0.pdf) | CAUSE
+[April 02, 2013](https://oag.ca.gov/system/files/California%20Individual%20Notification_0.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6641,7 +6641,7 @@ Based on our investigation of the incident to date, we believe the attack primar
 </details>
 ## Datapak Services Corporation
 <p class="hidden"></p>
-[March 05, 2013](https://oag.ca.gov/system/files/Datapak_Domestic_Non-MA_PrintersProof_2_0.pdf) | CAUSE
+[March 05, 2013](https://oag.ca.gov/system/files/Datapak_Domestic_Non-MA_PrintersProof_2_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6649,7 +6649,7 @@ Datapak recently learned that malware was placed on our systems on March 5, 2013
 </details>
 ## Desert AIDS Project
 <p class="hidden"></p>
-[April 12, 2012](https://oag.ca.gov/system/files/Final%20DAP%20Notice%20to%20Clients.pdf) | CAUSE
+[April 12, 2012](https://oag.ca.gov/system/files/Final%20DAP%20Notice%20to%20Clients.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6657,7 +6657,7 @@ On Thursday, April 12, 2012, a thief gained unauthorized access to D.A.P.’s of
 </details>
 ## DHI Mortgage Company, Ltd., LP
 <p class="hidden"></p>
-[February 10, 2012](https://oag.ca.gov/system/files/02162012.pdf) | CAUSE
+[February 10, 2012](https://oag.ca.gov/system/files/02162012.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6665,7 +6665,7 @@ We have reason to believe that the integrity of your personal information may ha
 </details>
 ## Dominion Dental Services, Inc., Dominion National Insurance Company, and Dominion Dental Services USA, Inc. (hereinafter referred to collectively as “Dominion National”).
 <p class="hidden"></p>
-[August 25, 2010](https://oag.ca.gov/system/files/Dominion%20National%20CA%20Individual%20Notices.pdf) | CAUSE
+[August 25, 2010](https://oag.ca.gov/system/files/Dominion%20National%20CA%20Individual%20Notices.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6673,7 +6673,7 @@ On April 24, 2019, through our investigation of an internal alert, with the assi
 </details>
 ## Delta Health Systems
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/APPROVED%20LETTER%20TEMPLATE%20-%20Experian_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/APPROVED%20LETTER%20TEMPLATE%20-%20Experian_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6683,7 +6683,7 @@ to the document. This conflict resulted in the billing statement, and your perso
 </details>
 ## Dawn Food Products, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/CA%20Notice_5.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/CA%20Notice_5.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6694,7 +6694,7 @@ other individuals.
 </details>
 ## Del Taco LLC
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/L01_Del%20Taco_Cal_%20FINAL_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/L01_Del%20Taco_Cal_%20FINAL_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6706,7 +6706,7 @@ and implemented additional security measures.
 </details>
 ## Dunkin' Brands Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/CA%20Letter%20Proof_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/CA%20Letter%20Proof_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6720,7 +6720,7 @@ accounts unrelated to Dunkin’.
 </details>
 ## DecisionHR Holdings, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/DecisionHR%20Consumer%20Notification%20Letter_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/DecisionHR%20Consumer%20Notification%20Letter_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6731,7 +6731,7 @@ employment forms, and insurance documentation.
 </details>
 ## Dorian Business Systems, LLC
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/70706835_1_Active%20-%20Dorian%20Breach%20Notice%20Letter%20-%20Sample%20Notification%20Letter%20-%20Credit%20Monitoring%20-%20August%2024%2C%202018_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/70706835_1_Active%20-%20Dorian%20Breach%20Notice%20Letter%20-%20Sample%20Notification%20Letter%20-%20Credit%20Monitoring%20-%20August%2024%2C%202018_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6744,7 +6744,7 @@ are cooperating in their investigation.
 </details>
 ## Delaware North Companies, LLC.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Sample%20Letter_4.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Sample%20Letter_4.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6757,7 +6757,7 @@ individuals were impacted from your state.
 </details>
 ## DEBOER INCOME TAX
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/client%20notice%20letter%20DAVE%20EDIT_1.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/client%20notice%20letter%20DAVE%20EDIT_1.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6765,7 +6765,7 @@ We are notifying you that our data system may have been breached. We have observ
 </details>
 ## dōTERRA International, LLC
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/doTERRA%20-%20Individual%20Notification%20Letter%20%28California%29_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/doTERRA%20-%20Individual%20Notification%20Letter%20%28California%29_0.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6784,7 +6784,7 @@ Based on our investigation, it looks like an unauthorized user illegally acquire
 </details>
 ## Etz Hayim Holdings, SPC. d/b/a Lazarus Naturals
 <p class="hidden"></p>
-[September 05, 2020](https://oag.ca.gov/system/files/Lazarus%20Naturals-%20Notice%20of%20Data%20Event.pdf) | CAUSE
+[September 05, 2020](https://oag.ca.gov/system/files/Lazarus%20Naturals-%20Notice%20of%20Data%20Event.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6820,7 +6820,7 @@ Blackbaud reported that, in May 2020, it experienced a ransomware incident that 
 </details>
 ## Eagle Community Credit Union
 <p class="hidden"></p>
-[February 24, 2020](https://oag.ca.gov/system/files/Eagle%20CCU%20Ad%20CA%20r1prf.pdf) | CAUSE
+[February 24, 2020](https://oag.ca.gov/system/files/Eagle%20CCU%20Ad%20CA%20r1prf.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6866,7 +6866,7 @@ But before locking the cybercriminal out, the cybercriminal removed a copy of a 
 </details>
 ## Electrical Training Institute
 <p class="hidden"></p>
-[December 23, 2019](https://oag.ca.gov/system/files/ETI%20-%20California%20Notice.pdf) | CAUSE
+[December 23, 2019](https://oag.ca.gov/system/files/ETI%20-%20California%20Notice.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6875,7 +6875,7 @@ we secured the affected email account and launched an investigation, and a cyber
 </details>
 ## eImprovement, LLC
 <p class="hidden"></p>
-[December 14, 2019](https://oag.ca.gov/system/files/California%20Individual%20Notice.pdf) | CAUSE
+[December 14, 2019](https://oag.ca.gov/system/files/California%20Individual%20Notice.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6897,7 +6897,7 @@ The District uses the Aeries Student Information System to provide students and 
 </details>
 ## Evolucion Innovations Inc.
 <p class="hidden"></p>
-[November 08, 2019](https://oag.ca.gov/system/files/CA%20Attachment%20%28Notice%20Only%29.pdf) | CAUSE
+[November 08, 2019](https://oag.ca.gov/system/files/CA%20Attachment%20%28Notice%20Only%29.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6909,7 +6909,7 @@ Nov. 8 – 21, 2019; Nov. 27 – Dec. 3, 2019; and for a brief period on Dec. 5,
 </details>
 ## El Dorado County Office of Education
 <p class="hidden"></p>
-[November 06, 2019](https://oag.ca.gov/system/files/Aeries%20Data%20Breach%20Notification%20to%20Parents.pdf) | CAUSE
+[November 06, 2019](https://oag.ca.gov/system/files/Aeries%20Data%20Breach%20Notification%20to%20Parents.pdf) | Service Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6917,7 +6917,7 @@ On May 6th, 2020, we were informed that there may have been unauthorized access 
 </details>
 ## EmployBridge
 <p class="hidden"></p>
-[September 03, 2019](https://oag.ca.gov/system/files/EmployBridge%20Individual%20Template%20Notice%20Letter.pdf) | CAUSE
+[September 03, 2019](https://oag.ca.gov/system/files/EmployBridge%20Individual%20Template%20Notice%20Letter.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6930,7 +6930,7 @@ that	your	personal	information	was	found	within	the	imaged	garnishment	documents
 </details>
 ## Entercom Communications Corporation
 <p class="hidden"></p>
-[August 04, 2019](https://oag.ca.gov/system/files/Entercom%20-%20CA%20Notice%20of%20Data%20Event.pdf) | CAUSE
+[August 04, 2019](https://oag.ca.gov/system/files/Entercom%20-%20CA%20Notice%20of%20Data%20Event.pdf) | IT Provider
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6941,7 +6941,7 @@ third-party cloud hosting services, which we use to store information relating t
 </details>
 ## EatStreet, Inc.
 <p class="hidden"></p>
-[May 03, 2019](https://oag.ca.gov/system/files/EatStreet%20Delivery%20r3prf.pdf) | CAUSE
+[May 03, 2019](https://oag.ca.gov/system/files/EatStreet%20Delivery%20r3prf.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6953,7 +6953,7 @@ contained, among other things, information about our delivery partners.
 </details>
 ## Eversana Life Sciences Services, LLC
 <p class="hidden"></p>
-[April 01, 2019](https://oag.ca.gov/system/files/Eversana%20-%20CA.pdf) | CAUSE
+[April 01, 2019](https://oag.ca.gov/system/files/Eversana%20-%20CA.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6975,7 +6975,7 @@ Eshel, Aminov & Partners LLP was the victim of a business email compromise incid
 </details>
 ## Evite, Inc.
 <p class="hidden"></p>
-[February 22, 2019](https://oag.ca.gov/system/files/Customer%20Notice_1.pdf) | CAUSE
+[February 22, 2019](https://oag.ca.gov/system/files/Customer%20Notice_1.pdf) | Service Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -6987,7 +6987,7 @@ unauthorized party had acquired an inactive data storage file associated with Ev
 </details>
 ## EmCare, Inc., Sheridan Healthcorp, Inc. and their affiliates
 <p class="hidden"></p>
-[September 24, 2018](https://oag.ca.gov/system/files/%23%2068374406%20v%202%20%28Envision%20-%20ProviderEmployee%20CA%20SSN%20and%20DL%20%28Epiq%20Final%29%29-c_0.pdf) | CAUSE
+[September 24, 2018](https://oag.ca.gov/system/files/%23%2068374406%20v%202%20%28Envision%20-%20ProviderEmployee%20CA%20SSN%20and%20DL%20%28Epiq%20Final%29%29-c_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
