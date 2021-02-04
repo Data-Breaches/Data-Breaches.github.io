@@ -1,5 +1,7 @@
 Accident
+Attempt
 Breach
+Computer Compromise
 Computer Stolen
 Cloud Storage Compromise
 Database Compromise
@@ -19,6 +21,7 @@ Ransomware
 Server Stolen
 Server Compromise
 Service Compromise
+System Compromise
 Skimming
 Unauthorized Access
 Unknown
