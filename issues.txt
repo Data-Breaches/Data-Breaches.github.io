@@ -9,7 +9,6 @@ Device Lost
 Email Compromise
 Files Lost
 Insider Threat
-IT Provider
 Laptop Stolen
 Malware
 Misconfiguration
@@ -23,6 +22,7 @@ Server Compromise
 Service Compromise
 System Compromise
 Skimming
+Third Party
 Unauthorized Access
 Unknown
 User Error
