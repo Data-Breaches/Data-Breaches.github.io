@@ -10122,7 +10122,7 @@ International Diary Queen, Inc. recently learned of a possible malware intrusion
 </details>
 ## ITHAKA
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/User%20Notice%20MyJSTOR_03.28_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/User%20Notice%20MyJSTOR_03.28_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10130,7 +10130,7 @@ We are writing to let you know that your MyJSTOR account was recently accessed w
 </details>
 ## IndyMac Resources, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/IndyMac%20Resources%2C%20Inc.%2C%20Notification.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/IndyMac%20Resources%2C%20Inc.%2C%20Notification.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10147,7 +10147,7 @@ Blackbaud reported that, in May 2020, two months before notifying Joslin, it dis
 </details>
 ## JPMorgan Chase Bank, N.A.
 <p class="hidden"></p>
-[April 06, 2020](https://oag.ca.gov/system/files/2020_12_23_CCB_customer_notice_CA_.pdf) | CAUSE
+[April 06, 2020](https://oag.ca.gov/system/files/2020_12_23_CCB_customer_notice_CA_.pdf) | Insider Threat 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10158,7 +10158,7 @@ screen.
 
 </details>
 <p class="hidden"></p>
-[June 28, 2018](https://oag.ca.gov/system/files/2018_8_10_CCB_customer_notice_CA_0.pdf) | CAUSE
+[June 28, 2018](https://oag.ca.gov/system/files/2018_8_10_CCB_customer_notice_CA_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10169,7 +10169,7 @@ was authorized to access and download the information, but should have only used
 company-approved computers and sites
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/12.5.13%20Letter%20to%20Cardholders%20CALIFORNIA_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/12.5.13%20Letter%20to%20Cardholders%20CALIFORNIA_0.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10185,7 +10185,7 @@ On July 6, 2020, JM Bullion was alerted to suspicious activity on its website. J
 </details>
 ## J.D. England Management, Inc.
 <p class="hidden"></p>
-[August 31, 2019](https://oag.ca.gov/system/files/J.D.%20England%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201%20-%20Cover%20letter%20deleted.pdf) | CAUSE
+[August 31, 2019](https://oag.ca.gov/system/files/J.D.%20England%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201%20-%20Cover%20letter%20deleted.pdf) | Computer Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10198,7 +10198,7 @@ the folder viewed by the unauthorized actor contained information related to you
 </details>
 ## Jal Berry Farms LLC
 <p class="hidden"></p>
-[August 12, 2019](https://oag.ca.gov/system/files/Reiter%20Affiliated%20Companies%20-%20Notice%20of%20Data%20Event%20-%20Ex.%20A_3.pdf) | CAUSE
+[August 12, 2019](https://oag.ca.gov/system/files/Reiter%20Affiliated%20Companies%20-%20Notice%20of%20Data%20Event%20-%20Ex.%20A_3.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10206,7 +10206,7 @@ the folder viewed by the unauthorized actor contained information related to you
 </details>
 ## Jackson National Life Insurance Company
 <p class="hidden"></p>
-[April 01, 2019](https://oag.ca.gov/system/files/CA%20Consumer%20Notice_Mediant_Sample_0.pdf) | CAUSE
+[April 01, 2019](https://oag.ca.gov/system/files/CA%20Consumer%20Notice_Mediant_Sample_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10216,7 +10216,7 @@ information from Jackson to prepare and process proxy materials to be mailed to 
 </details>
 ## Jofit, LLC
 <p class="hidden"></p>
-[January 18, 2019](https://oag.ca.gov/system/files/Jofit_Ad_CA_r3prf.pdf) | CAUSE
+[January 18, 2019](https://oag.ca.gov/system/files/Jofit_Ad_CA_r3prf.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10226,7 +10226,7 @@ unauthorized access to payment card data.
 </details>
 ## JAND Inc. d/b/a Warby Parker
 <p class="hidden"></p>
-[September 25, 2018](https://oag.ca.gov/system/files/Sample%20Notification_1.pdf) | CAUSE
+[September 25, 2018](https://oag.ca.gov/system/files/Sample%20Notification_1.pdf) | Service Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10238,7 +10238,7 @@ limited number of Warby Parker accounts from late September to late November 201
 </details>
 ## Jewish Community Federation
 <p class="hidden"></p>
-[September 18, 2018](https://oag.ca.gov/system/files/JCF%20-%20CA%20-%20Notice%20of%20Data%20Event.pdf) | CAUSE
+[September 18, 2018](https://oag.ca.gov/system/files/JCF%20-%20CA%20-%20Notice%20of%20Data%20Event.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10252,7 +10252,7 @@ individual had accessed certain Federation employees’ email accounts as early 
 </details>
 ## Jensen Enterprises, Inc. d/b/a Jensen Precast
 <p class="hidden"></p>
-[August 23, 2018](https://oag.ca.gov/system/files/Jensen%20-%20CA%20Regulatory%20Notification%20Letter_0%20%28notice%29_0.pdf) | CAUSE
+[August 23, 2018](https://oag.ca.gov/system/files/Jensen%20-%20CA%20Regulatory%20Notification%20Letter_0%20%28notice%29_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10265,7 +10265,7 @@ information. Finally, we reported the matter to the Federal Bureau of Investigat
 </details>
 ## Jobscience, Inc.
 <p class="hidden"></p>
-[May 11, 2018](https://oag.ca.gov/system/files/Jobscience%20--%20Individual%20Notice%20Template%20--%20DEFAULT_0.pdf) | CAUSE
+[May 11, 2018](https://oag.ca.gov/system/files/Jobscience%20--%20Individual%20Notice%20Template%20--%20DEFAULT_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10278,7 +10278,7 @@ enforcement investigation.
 </details>
 ## Jeffrey Born, CPA, Inc.
 <p class="hidden"></p>
-[December 31, 2017](https://oag.ca.gov/system/files/Born%20Notification_0.pdf) | CAUSE
+[December 31, 2017](https://oag.ca.gov/system/files/Born%20Notification_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10291,7 +10291,7 @@ abundance of caution.
 </details>
 ## John D. Williamson, Certified Public Accountant
 <p class="hidden"></p>
-[February 09, 2017](https://oag.ca.gov/system/files/JWCPA%20-%20Notice%20of%20Data%20Event%20-%20Notice%20Only%201_0_0.pdf) | CAUSE
+[February 09, 2017](https://oag.ca.gov/system/files/JWCPA%20-%20Notice%20of%20Data%20Event%20-%20Notice%20Only%201_0_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10307,7 +10307,7 @@ stored on the laptops at the time they were stolen was accessed or acquired by a
 </details>
 ## Jack Anthony Industries, Inc
 <p class="hidden"></p>
-[February 06, 2017](https://oag.ca.gov/system/files/DRB%20Substitute%20Notice-Post_0.pdf) | CAUSE
+[February 06, 2017](https://oag.ca.gov/system/files/DRB%20Substitute%20Notice-Post_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10317,7 +10317,7 @@ To date, the investigation indicates that the intruder placed malware on the poi
 </details>
 ## Jewelry.com, a division of Richline Group, Inc.
 <p class="hidden"></p>
-[November 16, 2016](https://oag.ca.gov/system/files/CA%20Notice_2.pdf) | CAUSE
+[November 16, 2016](https://oag.ca.gov/system/files/CA%20Notice_2.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10338,7 +10338,7 @@ approximately 619 California customers.
 </details>
 ## John E. Gonzalez DDS
 <p class="hidden"></p>
-[July 25, 2016](https://oag.ca.gov/system/files/GONZALEZ%20breach%20letter_0.pdf) | CAUSE
+[July 25, 2016](https://oag.ca.gov/system/files/GONZALEZ%20breach%20letter_0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10346,7 +10346,7 @@ On the late afternoon of Monday July 25, 2016, my car window was broken out and 
 </details>
 ## JAM Paper & Envelope
 <p class="hidden"></p>
-[June 15, 2016](https://oag.ca.gov/system/files/JAM%20Notification%20Letter%20CA%206.15.16%20-%2011.6.17%20Template_0.PDF) | CAUSE
+[June 15, 2016](https://oag.ca.gov/system/files/JAM%20Notification%20Letter%20CA%206.15.16%20-%2011.6.17%20Template_0.PDF) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10358,7 +10358,7 @@ www.jampaper.com during this time period using a payment card ending in [xxxx].
 </details>
 ## Jerry's Artarama N.C. Inc.
 <p class="hidden"></p>
-[May 03, 2016](https://oag.ca.gov/system/files/Form%20of%20Customer%20Notice%20Letter%20re%20Breach%20-%20Jerrys%20Artarama_0.pdf) | CAUSE
+[May 03, 2016](https://oag.ca.gov/system/files/Form%20of%20Customer%20Notice%20Letter%20re%20Breach%20-%20Jerrys%20Artarama_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10366,7 +10366,7 @@ You may have read about similar data security breaches in the news recently. Unf
 </details>
 ## JB Autosports, Inc.
 <p class="hidden"></p>
-[August 01, 2015](https://oag.ca.gov/system/files/00631462_0.PDF) | CAUSE
+[August 01, 2015](https://oag.ca.gov/system/files/00631462_0.PDF) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10374,7 +10374,7 @@ From approximately August 1, 2015 through November 9, 2015, the websites’ chec
 </details>
 ## James R. Glidewell, Dental Ceramics, Inc. and its subsidiaries
 <p class="hidden"></p>
-[February 28, 2015](https://oag.ca.gov/system/files/Glidewell_Proof%20Copy_0.pdf) | CAUSE
+[February 28, 2015](https://oag.ca.gov/system/files/Glidewell_Proof%20Copy_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10382,7 +10382,7 @@ Glidewell recently learned that an unauthorized individual may have taken certai
 </details>
 ## Jimmy John's Franchises LLC
 <p class="hidden"></p>
-[June 16, 2014](https://oag.ca.gov/system/files/AG_CA_Notification_Letter_Jimmy_Johns_0_1.pdf) | CAUSE
+[June 16, 2014](https://oag.ca.gov/system/files/AG_CA_Notification_Letter_Jimmy_Johns_0_1.pdf) | System Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10390,7 +10390,7 @@ CHAMPAIGN,	Ill.  (September 24,	2014) – On July 30,	2014, Jimmy John’s learn
 </details>
 ## Jetro/Restaurant Depot
 <p class="hidden"></p>
-[November 07, 2012](https://oag.ca.gov/system/files/Customer%20notice%20letter%20template_0.pdf) | CAUSE
+[November 07, 2012](https://oag.ca.gov/system/files/Customer%20notice%20letter%20template_0.pdf) | System Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10398,7 +10398,7 @@ We very recently determined that unauthorized individuals stole credit and debit
 </details>
 ## J.Crew Group, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/2.7.2020%20Incident%20-%20Multi-state%20notification%20short%20form%202.20.2020%20FINAL.PDF) | CAUSE
+[](https://oag.ca.gov/system/files/2.7.2020%20Incident%20-%20Multi-state%20notification%20short%20form%202.20.2020%20FINAL.PDF) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10410,7 +10410,7 @@ jcrew.com account.
 </details>
 ## Jambav, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Sample%20Individual%20Notification%20of%20ToonDoo%20Data%20Breach.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Sample%20Individual%20Notification%20of%20ToonDoo%20Data%20Breach.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10419,7 +10419,7 @@ Toondoo.com. We immediately shut down the Toondoo website.
 </details>
 ## Jewish Family & Children's Services ("JFCS")
 <p class="hidden"></p>
-[](undefined) | CAUSE
+[](undefined) | Unknown
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10427,7 +10427,7 @@ TBDB
 </details>
 ## JoFit
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/JoFit-__Adult_Notice_Form_1.PDF) | CAUSE
+[](https://oag.ca.gov/system/files/JoFit-__Adult_Notice_Form_1.PDF) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10441,7 +10441,7 @@ have been compromised, and what additional steps are needed.
 </details>
 ## Jive Software
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/2016-09-23%20All%20User%20Email%20Notice_0.PDF) | CAUSE
+[](https://oag.ca.gov/system/files/2016-09-23%20All%20User%20Email%20Notice_0.PDF) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10453,7 +10453,7 @@ notifying you so that you may take protective action.
 </details>
 ## Jessup Cellars dba The Good Life Wine Collective
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/The%20Good%20Life%20Wine%20Collective%20Credit%20Card%20Breach%20Notification%20Letter_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/The%20Good%20Life%20Wine%20Collective%20Credit%20Card%20Breach%20Notification%20Letter_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10461,7 +10461,7 @@ We greatly value your business and respect the privacy of your information, whic
 </details>
 ## J.P. Morgan Corporate Challenge
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/JP%20Morgan%20Corporate%20Challenge%20Notice_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/JP%20Morgan%20Corporate%20Challenge%20Notice_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10469,7 +10469,7 @@ We are contacting you because we learned on August 7 that your site password and
 </details>
 ## JCM Partners, LLC
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/JCM%20Next%20of%20Kin%20Notice%20Letter%20Template_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/JCM%20Next%20of%20Kin%20Notice%20Letter%20Template_0.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10494,7 +10494,7 @@ On August 31, 2020, we learned that an unknown party gained access to our websit
 </details>
 ## Kroto Inc. d/b/a iCanvas
 <p class="hidden"></p>
-[May 10, 2020](https://oag.ca.gov/system/files/Version%201%20-%20Notice%20of%20Data%20Breach.pdf) | CAUSE
+[May 10, 2020](https://oag.ca.gov/system/files/Version%201%20-%20Notice%20of%20Data%20Breach.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10507,7 +10507,7 @@ about May 10, 2020.
 </details>
 ## Kingsburg Elementary Charter School District
 <p class="hidden"></p>
-[November 04, 2019](https://oag.ca.gov/system/files/KECSD_Notice_of_Data_Breach_5_14_20.pdf) | CAUSE
+[November 04, 2019](https://oag.ca.gov/system/files/KECSD_Notice_of_Data_Breach_5_14_20.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10516,7 +10516,7 @@ unauthorized access involving your Parent and Student Data.
 </details>
 ## Kaiser Health Plan, Southern California
 <p class="hidden"></p>
-[October 06, 2019](https://oag.ca.gov/system/files/Member%20Notification%20Letter.pdf) | CAUSE
+[October 06, 2019](https://oag.ca.gov/system/files/Member%20Notification%20Letter.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10529,7 +10529,7 @@ appointment reminders, care reminders, surveys, referral letters, and Explanatio
 </details>
 ## KIPP SoCal Public Schools
 <p class="hidden"></p>
-[October 03, 2019](https://oag.ca.gov/system/files/KIPP%20SoCal%20Public%20Schools%20GitHub%20Data%20Breach%20Notification%20Letter%20to%20Families%206.11.20.pdf) | CAUSE
+[October 03, 2019](https://oag.ca.gov/system/files/KIPP%20SoCal%20Public%20Schools%20GitHub%20Data%20Breach%20Notification%20Letter%20to%20Families%206.11.20.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10544,7 +10544,7 @@ that were accessed without authorization.
 </details>
 ## Kaiser Permanente
 <p class="hidden"></p>
-[August 12, 2019](https://oag.ca.gov/system/files/Member%20Letter%20Template_NCal%20email%20incident_092619_FINAL.pdf) | CAUSE
+[August 12, 2019](https://oag.ca.gov/system/files/Member%20Letter%20Template_NCal%20email%20incident_092619_FINAL.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10563,7 +10563,7 @@ We are writing to let you know of an incident involving the unauthorized transmi
 </details>
 ## Kalisepell Regional Healthcare
 <p class="hidden"></p>
-[May 24, 2019](https://oag.ca.gov/system/files/KRH%20-%20Consumer%20Notification%20Letter.pdf) | CAUSE
+[May 24, 2019](https://oag.ca.gov/system/files/KRH%20-%20Consumer%20Notification%20Letter.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10576,7 +10576,7 @@ your personal information may have been accessed as early as May 24, 2019.
 </details>
 ## KPRS Construction Services, Inc.
 <p class="hidden"></p>
-[March 14, 2019](https://oag.ca.gov/system/files/KPRS%20--%20Consumer%20notification%20letter%20%28California%20version%29_PRINT%20PROOF.pdf) | CAUSE
+[March 14, 2019](https://oag.ca.gov/system/files/KPRS%20--%20Consumer%20notification%20letter%20%28California%20version%29_PRINT%20PROOF.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10590,7 +10590,7 @@ March and April 2019, and individuals’ personal information stored in the acco
 </details>
 ## KandyPens, Inc.
 <p class="hidden"></p>
-[March 07, 2019](https://oag.ca.gov/system/files/KandyPens%20-%20Breach%20Letter.pdf) | CAUSE
+[March 07, 2019](https://oag.ca.gov/system/files/KandyPens%20-%20Breach%20Letter.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10602,7 +10602,7 @@ February 13, 2020 may have been at risk.
 </details>
 ## Kennedy High School
 <p class="hidden"></p>
-[October 02, 2018](https://oag.ca.gov/system/files/LTR%20to%20Parents%20re%20Data%20Security%20Breach%20100318%20ANW_0.pdf) | CAUSE
+[October 02, 2018](https://oag.ca.gov/system/files/LTR%20to%20Parents%20re%20Data%20Security%20Breach%20100318%20ANW_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10614,7 +10614,7 @@ to only those parents/guardians of students at Kennedy High School.
 </details>
 ## Key West Hotels, LLC
 <p class="hidden"></p>
-[February 07, 2018](https://oag.ca.gov/system/files/WEBSITE%20NOTIFICATION%20%28J2477810x7AD79%29_0.pdf) | CAUSE
+[February 07, 2018](https://oag.ca.gov/system/files/WEBSITE%20NOTIFICATION%20%28J2477810x7AD79%29_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10629,7 +10629,7 @@ system restored so that it could be used safely.
 </details>
 ## Kaiser Foundation Health Plan, Inc.
 <p class="hidden"></p>
-[November 02, 2017](https://oag.ca.gov/system/files/Kaiser%20Permanente%20breach%20notification%20letter_Fontana%20incident_120517_0.pdf) | CAUSE
+[November 02, 2017](https://oag.ca.gov/system/files/Kaiser%20Permanente%20breach%20notification%20letter_Fontana%20incident_120517_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10638,7 +10638,7 @@ information was compromised.
 
 </details>
 <p class="hidden"></p>
-[October 09, 2017](https://oag.ca.gov/system/files/West%20LA%20breach-%20Adult%20PDF_0.pdf) | CAUSE
+[October 09, 2017](https://oag.ca.gov/system/files/West%20LA%20breach-%20Adult%20PDF_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10646,7 +10646,7 @@ On or about October 9, 2017, a letter containing your protected health informati
 another Kaiser Permanente member.
 </details>
 <p class="hidden"></p>
-[May 16, 2013](https://oag.ca.gov/system/files/Member%20Notification%20Letter%20Sample%20FINAL%202013_07496_9.10.2013_0.pdf) | CAUSE
+[May 16, 2013](https://oag.ca.gov/system/files/Member%20Notification%20Letter%20Sample%20FINAL%202013_07496_9.10.2013_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10654,7 +10654,7 @@ An electronic file with information pertaining to a pilot Wellness Screening com
 </details>
 ## Kimberly-Clark Corporation
 <p class="hidden"></p>
-[October 18, 2017](https://oag.ca.gov/system/files/Kimberly-Clark%20Cyber%20Event%20Letter%20-%20Oct%202017%20-%20US_0.pdf) | CAUSE
+[October 18, 2017](https://oag.ca.gov/system/files/Kimberly-Clark%20Cyber%20Event%20Letter%20-%20Oct%202017%20-%20US_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10662,7 +10662,7 @@ We have extensive measures in place to protect the information that you provide 
 </details>
 ## Kaiser Permanente Health Plan
 <p class="hidden"></p>
-[September 18, 2017](https://oag.ca.gov/system/files/FINAL%20Member%20Notification%20Letter_10.10.17_0.pdf) | CAUSE
+[September 18, 2017](https://oag.ca.gov/system/files/FINAL%20Member%20Notification%20Letter_10.10.17_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10672,7 +10672,7 @@ KP member.
 </details>
 ## Klinger Moving Company
 <p class="hidden"></p>
-[September 14, 2017](https://oag.ca.gov/system/files/Corovan%20-%20notice%20onlyL_0_0.pdf) | CAUSE
+[September 14, 2017](https://oag.ca.gov/system/files/Corovan%20-%20notice%20onlyL_0_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10682,7 +10682,7 @@ Google search engine.
 </details>
 ## Kaiser Foundation Health Plan
 <p class="hidden"></p>
-[August 09, 2017](https://oag.ca.gov/system/files/Breach%20Notification%20Letter.Final_._0.pdf) | CAUSE
+[August 09, 2017](https://oag.ca.gov/system/files/Breach%20Notification%20Letter.Final_._0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10691,7 +10691,7 @@ a Kaiser Permanente facility to an external email address. The owner of the emai
 this letter.
 </details>
 <p class="hidden"></p>
-[September 26, 2011](https://oag.ca.gov/system/files/Sample%20Notification%20Letter.pdf) | CAUSE
+[September 26, 2011](https://oag.ca.gov/system/files/Sample%20Notification%20Letter.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
