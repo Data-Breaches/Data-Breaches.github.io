@@ -10555,7 +10555,7 @@ copied. However, because Kaiser Permanente takes the protection of our member da
 we are obliged to notify you of this matter. 
 </details>
 <p class="hidden"></p>
-[August 24, 2012](https://oag.ca.gov/system/files/KP%20Privacy%20Incident%20Sample%20Letter%20082412_0.pdf) | CAUSE
+[August 24, 2012](https://oag.ca.gov/system/files/KP%20Privacy%20Incident%20Sample%20Letter%20082412_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10699,7 +10699,7 @@ The data, which was found on a non‐Kaiser Permanente external hard drive that 
 </details>
 ## Kayser-Roth Corporation
 <p class="hidden"></p>
-[July 01, 2017](https://oag.ca.gov/system/files/T126_v03%20-%20Hue%20General%20Notice%20%283%29_0.pdf) | CAUSE
+[July 01, 2017](https://oag.ca.gov/system/files/T126_v03%20-%20Hue%20General%20Notice%20%283%29_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10707,7 +10707,7 @@ To give you the context, we use software provided by a third party vendor, Aptos
 </details>
 ## Kevin J Palmer & Co, CPA
 <p class="hidden"></p>
-[May 21, 2017](https://oag.ca.gov/system/files/California%20Notice%20Templates_1.pdf) | CAUSE
+[May 21, 2017](https://oag.ca.gov/system/files/California%20Notice%20Templates_1.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10718,7 +10718,7 @@ and files, including the use of what appears to be one staff’s credentials.
 </details>
 ## Keller Williams Realty, Inc.
 <p class="hidden"></p>
-[May 06, 2017](https://oag.ca.gov/system/files/Sample%20Notice_14.pdf) | CAUSE
+[May 06, 2017](https://oag.ca.gov/system/files/Sample%20Notice_14.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10726,7 +10726,7 @@ We recently learned that an unauthorized third party was able to gain access to 
 </details>
 ## Keith M. Southwood, CPA, Inc.
 <p class="hidden"></p>
-[March 29, 2017](https://oag.ca.gov/system/files/Adult%20Notification%20Sample_0.pdf) | CAUSE
+[March 29, 2017](https://oag.ca.gov/system/files/Adult%20Notification%20Sample_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10737,7 +10737,7 @@ third party.
 </details>
 ## KURU Footwear
 <p class="hidden"></p>
-[December 20, 2016](https://oag.ca.gov/system/files/Kuru%20-Notice%20ONLY-%20CA%20Exhibit%201_0_0.pdf) | CAUSE
+[December 20, 2016](https://oag.ca.gov/system/files/Kuru%20-Notice%20ONLY-%20CA%20Exhibit%201_0_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10749,7 +10749,7 @@ used at www.kurufootwear.com between December 20, 2016 and March 3, 2017.
 </details>
 ## Kaiser Foundation Hospitals
 <p class="hidden"></p>
-[November 16, 2016](https://oag.ca.gov/system/files/Patient%20Notification%20Letter%20-%20DRAFT%2012-20-16_0.pdf) | CAUSE
+[November 16, 2016](https://oag.ca.gov/system/files/Patient%20Notification%20Letter%20-%20DRAFT%2012-20-16_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10760,7 +10760,7 @@ you’ve spent on health care this year may have been seen by another kp.org use
 </details>
 ## Kaiser Permanente Health Plan, Inc of Northern California
 <p class="hidden"></p>
-[October 12, 2016](https://oag.ca.gov/system/files/Privacy_Incident_Oct_2016_Template_Member_Letter_Standard_Custom_0.pdf) | CAUSE
+[October 12, 2016](https://oag.ca.gov/system/files/Privacy_Incident_Oct_2016_Template_Member_Letter_Standard_Custom_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10771,7 +10771,7 @@ seriously and sincerely apologize that this occurred.
 </details>
 ## Kimpton Hotels & Restaurants
 <p class="hidden"></p>
-[August 10, 2016](https://oag.ca.gov/system/files/Kimpton%20Hotels%20%26%20Restaurants%20Consumer%20Notification%20Letter_0.pdf) | CAUSE
+[August 10, 2016](https://oag.ca.gov/system/files/Kimpton%20Hotels%20%26%20Restaurants%20Consumer%20Notification%20Letter_0.pdf) | System Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10784,7 +10784,7 @@ of its parent company, IHG.
 </details>
 ## K Partners Hotel Management
 <p class="hidden"></p>
-[April 02, 2016](https://oag.ca.gov/system/files/K%20Partners%20-%20Notice%20Letter%20%5BRedacted%5D%20%286490516x7AB84%29_1.pdf) | CAUSE
+[April 02, 2016](https://oag.ca.gov/system/files/K%20Partners%20-%20Notice%20Letter%20%5BRedacted%5D%20%286490516x7AB84%29_1.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10798,7 +10798,7 @@ enhance the security of our network.
 </details>
 ## Ken Waterman CPA, PC
 <p class="hidden"></p>
-[March 27, 2016](https://oag.ca.gov/system/files/Ken%20Waterman%20CPA%20Notice%20Only_0.pdf) | CAUSE
+[March 27, 2016](https://oag.ca.gov/system/files/Ken%20Waterman%20CPA%20Notice%20Only_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10810,7 +10810,7 @@ address, Social Security number, wage information, and in some instances bank ac
 </details>
 ## Katherman Kitts & Co. LLP
 <p class="hidden"></p>
-[February 25, 2016](https://oag.ca.gov/system/files/Katherman.CA__0.pdf) | CAUSE
+[February 25, 2016](https://oag.ca.gov/system/files/Katherman.CA__0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10822,7 +10822,7 @@ the stolen hard drives.
 </details>
 ## Kimpton Hotels & Restaurants Group, LLC
 <p class="hidden"></p>
-[February 16, 2016](https://oag.ca.gov/system/files/Kimpton%20resubmit%209_26_16_0.pdf) | CAUSE
+[February 16, 2016](https://oag.ca.gov/system/files/Kimpton%20resubmit%209_26_16_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10836,7 +10836,7 @@ affected server.
 </details>
 ## Kool Kids Model & Talent Management
 <p class="hidden"></p>
-[February 16, 2016](https://oag.ca.gov/system/files/Security%20Breach%20Filed_0.pdf) | CAUSE
+[February 16, 2016](https://oag.ca.gov/system/files/Security%20Breach%20Filed_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10844,7 +10844,7 @@ APPLE Store -- Topanga, CA referred us to ACS Computer Services -- Tarzana, CA t
 </details>
 ## Kayser-Roth Inc.
 <p class="hidden"></p>
-[February 01, 2016](https://oag.ca.gov/system/files/GREENSBORO-_1300995-v1-Kayser-Roth__Consumer_Notification_Example_Nononsense_0.pdf) | CAUSE
+[February 01, 2016](https://oag.ca.gov/system/files/GREENSBORO-_1300995-v1-Kayser-Roth__Consumer_Notification_Example_Nononsense_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10852,7 +10852,7 @@ No Nonsense, and our parent company Kayser-Roth, value the relationship we have 
 </details>
 ## Keenan & Associates
 <p class="hidden"></p>
-[October 09, 2015](https://oag.ca.gov/system/files/Keenan%20Associates%20Ad%20r3fin_0.pdf) | CAUSE
+[October 09, 2015](https://oag.ca.gov/system/files/Keenan%20Associates%20Ad%20r3fin_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10864,7 +10864,7 @@ reconfigured and the documents are no longer searchable on the Internet.
 </details>
 ## Kindred Transitional Care and Rehabilitation – Lawton
 <p class="hidden"></p>
-[August 31, 2015](https://oag.ca.gov/system/files/Lawton%20notice%20-%20deidentified_0.pdf) | CAUSE
+[August 31, 2015](https://oag.ca.gov/system/files/Lawton%20notice%20-%20deidentified_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10872,7 +10872,7 @@ To give you the context, we use software provided by a third party vendor, Aptos
 </details>
 ## Kicky Pants, Inc.
 <p class="hidden"></p>
-[August 26, 2015](https://oag.ca.gov/system/files/KickyPants%20General%20Notice_0.pdf) | CAUSE
+[August 26, 2015](https://oag.ca.gov/system/files/KickyPants%20General%20Notice_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10883,7 +10883,7 @@ have been any actual attempts to misuse any of the acquired information.
 </details>
 ## Kaiser Foundation Hospital Orange County, Anaheim Medical Center
 <p class="hidden"></p>
-[September 25, 2013](https://oag.ca.gov/system/files/2013-09078%20Patient%20Notification%20Letter_0.pdf) | CAUSE
+[September 25, 2013](https://oag.ca.gov/system/files/2013-09078%20Patient%20Notification%20Letter_0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10891,7 +10891,7 @@ I am writing to inform you about a health information privacy matter. Kaiser Per
 </details>
 ## K. Min Yi, M.D. General Surgery
 <p class="hidden"></p>
-[May 28, 2013](https://oag.ca.gov/system/files/Sample%20Yi%20Letter_0.pdf) | CAUSE
+[May 28, 2013](https://oag.ca.gov/system/files/Sample%20Yi%20Letter_0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10899,7 +10899,7 @@ I regret to inform you that my office was broken into this Memorial Day weekend 
 </details>
 ## KAISER PERMANENTE
 <p class="hidden"></p>
-[April 06, 2012](https://oag.ca.gov/system/files/SSFO%20Periop%20Missent%20Email%20Patient%20Notify%20Letter%20FINAL%20nonMedicare.pdf) | CAUSE
+[April 06, 2012](https://oag.ca.gov/system/files/SSFO%20Periop%20Missent%20Email%20Patient%20Notify%20Letter%20FINAL%20nonMedicare.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10907,15 +10907,15 @@ We have learned that on April 6, 2012, a Kaiser Permanente South San Francisco P
 </details>
 ## Kern Medical Center
 <p class="hidden"></p>
-[February 25, 2012](https://oag.ca.gov/system/files/English%20Letter.pdf) | CAUSE
+[February 25, 2012](https://oag.ca.gov/system/files/English%20Letter.pdf) | Files Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-On February 25, 1012, a theft occurred at the home of a KMC resident. The resident had placed confidential research documents in her car and her car was subsequently burglarized in the carport of her apartment complex. These research documents contained confidential patient information.
+On February 25, 2012, a theft occurred at the home of a KMC resident. The resident had placed confidential research documents in her car and her car was subsequently burglarized in the carport of her apartment complex. These research documents contained confidential patient information.
 </details>
 ## Kaiser Permanente Northern CA Department of Research
 <p class="hidden"></p>
-[October 18, 2011](https://oag.ca.gov/system/files/DOR%20Incident%20Sample%20Pt%20Notice%20Ltr_0.pdf) | CAUSE
+[October 18, 2011](https://oag.ca.gov/system/files/DOR%20Incident%20Sample%20Pt%20Notice%20Ltr_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10923,7 +10923,7 @@ On February 12, 2014, we discovered that a computer (also known as a server) was
 </details>
 ## Kaiser Permanente Northern California
 <p class="hidden"></p>
-[June 06, 2010](https://oag.ca.gov/system/files/Member%20Notification%20letter%20for%20ClinTech%20theft%207.12.16%20-%20generic%20template%20-%20letterhead_0.pdf) | CAUSE
+[June 06, 2010](https://oag.ca.gov/system/files/Member%20Notification%20letter%20for%20ClinTech%20theft%207.12.16%20-%20generic%20template%20-%20letterhead_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10937,7 +10937,7 @@ other criminal activity.
 </details>
 ## Kevin Harrington, CPA
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Consumer%20Notification%20Letter%20%28Kevin%20Harrington%29_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Consumer%20Notification%20Letter%20%28Kevin%20Harrington%29_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10952,7 +10952,7 @@ personal information.
 </details>
 ## KontrolFreek, LLC
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/California%20Individual%20Notification%20Letter_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/California%20Individual%20Notification%20Letter_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10963,7 +10963,7 @@ expert to conduct a forensic investigation.
 </details>
 ## Kellogg & Andelson Global Management
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/K-A%20Notification%20Letter%20K-A%20Version_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/K-A%20Notification%20Letter%20K-A%20Version_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10971,7 +10971,7 @@ Kellogg & Andelson Global Management ("K & A") recently was the victim of a crim
 </details>
 ## Kings County Office of Education
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Anthem%20Security%20Breach%202-09-2015_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Anthem%20Security%20Breach%202-09-2015_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10979,7 +10979,7 @@ Anthem has reported a security breach of personal information that may affect yo
 </details>
 ## Kroll Background America, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/California%20-%20State%20Notice_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/California%20-%20State%20Notice_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10987,7 +10987,7 @@ I am writing to you on behalf of Kroll Background America, Inc. to notify you of
 </details>
 ## Kathleen E. Whisman MD
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Breach%20Notification_2.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Breach%20Notification_2.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -10995,7 +10995,7 @@ On or about April 11, 2013, Dr. Whisman received a telephone call from the San R
 </details>
 ## KEARNY MESA INFINITI
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Final%20Version%20of%20Notice%20Letter_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Final%20Version%20of%20Notice%20Letter_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11003,7 +11003,7 @@ One Kearny Mesa Infiniti Customer alleges that a former employee of Kearny Mesa 
 </details>
 ## Korn/Ferry
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Notification%20Letter_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Notification%20Letter_0.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11069,7 +11069,7 @@ On June 11, 2020, a financial institution alerted LACBA that there was malicious
 </details>
 ## Lincoln Financial Advisors Corporation
 <p class="hidden"></p>
-[March 19, 2020](https://oag.ca.gov/system/files/Lincoln%20Financial%2013%20Ad%20r3prf%20-.pdf) | CAUSE
+[March 19, 2020](https://oag.ca.gov/system/files/Lincoln%20Financial%2013%20Ad%20r3prf%20-.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11087,7 +11087,7 @@ Blackbaud is a cloud-based software company that provides services to thousands 
 </details>
 ## Lassen Union High School Distirict
 <p class="hidden"></p>
-[November 06, 2019](https://oag.ca.gov/system/files/Notice-Data-Breach-Incident-05282020.pdf) | CAUSE
+[November 06, 2019](https://oag.ca.gov/system/files/Notice-Data-Breach-Incident-05282020.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11103,7 +11103,7 @@ LUHSD uses the Aeries Student Information System to provide students and their p
 </details>
 ## Laguna Beach Unified School District
 <p class="hidden"></p>
-[November 04, 2019](https://oag.ca.gov/system/files/Parent%20Letter%20-%20Security%20Breach%20-%20LBUSD%20v6%20%281%29.pdf) | CAUSE
+[November 04, 2019](https://oag.ca.gov/system/files/Parent%20Letter%20-%20Security%20Breach%20-%20LBUSD%20v6%20%281%29.pdf) | Vulnerability
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11119,7 +11119,7 @@ Aeries System.
 </details>
 ## Le Duff America, Inc.
 <p class="hidden"></p>
-[August 28, 2019](https://oag.ca.gov/system/files/Le%20Duff%20America%2C%20Inc.%20-%20CA.pdf) | CAUSE
+[August 28, 2019](https://oag.ca.gov/system/files/Le%20Duff%20America%2C%20Inc.%20-%20CA.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11135,18 +11135,18 @@ misuse of your personal information as a result of this incident.
 </details>
 ## LifeMark Securities, Corp.
 <p class="hidden"></p>
-[August 27, 2019](https://oag.ca.gov/system/files/CA%20AG%20Notification%20%28notification%29.pdf) | CAUSE
+[August 27, 2019](https://oag.ca.gov/system/files/CA%20AG%20Notification%20%28notification%29.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-On september 4, 2019, we identified suspicious activity involving a limited number of LifeMark email accounts. In response to the asuspicious activity, we immediately changed all email passwords and hired independent computer forensic experts to help us investigate. Our investigation
+On september 4, 2019, we identified suspicious activity involving a limited number of LifeMark email accounts. In response to the suspicious activity, we immediately changed all email passwords and hired independent computer forensic experts to help us investigate. Our investigation
  recently concluded, and we have determined there were successful unauthorized connections to a limited number of LifeMark email accounts as a result of a phishing attack. We were unable to identify with certainty whether any emails or attachments were vieweb as a result of the incident 
 but wanted to let you know as your information may have been stored in one of the email accounts. if you sent sensitive information or documents containing your name, address, social security number, or financial account information to LifeMark via email, then that information may be at risk.
 Any information sent via a socure file share website remains unaffected and secure. This incident was limited to email accounts, other LifeMark systems were not impacted and remain secure.
 </details>
 ## Los Angeles Police Federal Credit Union
 <p class="hidden"></p>
-[July 17, 2019](https://oag.ca.gov/system/files/Member%20Notice%20of%20Data%20Breach.pdf) | CAUSE
+[July 17, 2019](https://oag.ca.gov/system/files/Member%20Notice%20of%20Data%20Breach.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11160,17 +11160,17 @@ credit union immediately after determining it was received in error.
 </details>
 ## Landry’s, Inc.
 <p class="hidden"></p>
-[January 18, 2019](https://oag.ca.gov/system/files/CA%20AG%20Attachment%20%28Notice%20Only%29.pdf) | CAUSE
+[January 18, 2019](https://oag.ca.gov/system/files/CA%20AG%20Attachment%20%28Notice%20Only%29.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-Landry's recently detected unauthorized access to the network that supports our payment processing systems for restaurants and food and beverage outlets. We immediately launched an investigation, and a leading cybersecurity firm was engaged to assist. Although the investigation identified the operation of malware designed to access payment card data from cards used in person on system at our restaurants and food and beverage outlets, the end-to-end encryption tchnology on point-of-sale terminals, which makes card 
+Landry's recently detected unauthorized access to the network that supports our payment processing systems for restaurants and food and beverage outlets. We immediately launched an investigation, and a leading cybersecurity firm was engaged to assist. Although the investigation identified the operation of malware designed to access payment card data from cards used in person on system at our restaurants and food and beverage outlets, the end-to-end encryption technology on point-of-sale terminals, which makes card 
 data unreadable, was working as designed and prevented the malware from accessing payment card data when cards were used on these encryption devices. Besides the encryption devices used to process payment cards, our restaurants and food and beverage outlets also have order-entry system with a card reader attached for waitstaff to enter kitchen and bar orders and to swipe landry's select club reward cards. in rare circumstances, it appears waitstaff may have mistakenly swiped payment cards on the order-entry systems. The payment
 cards potentially involved in this incident are the cards mistakenly swiped on the order-entry systems. Landry's select club rewards cards were not involved.
 </details>
 ## L.D. Evans, CPA
 <p class="hidden"></p>
-[November 23, 2018](https://oag.ca.gov/system/files/LD-Evans-Notification-letter-CA_0.pdf) | CAUSE
+[November 23, 2018](https://oag.ca.gov/system/files/LD-Evans-Notification-letter-CA_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11183,7 +11183,7 @@ notifying you of this incident.
 </details>
 ## LPL Financial LLC
 <p class="hidden"></p>
-[November 01, 2018](https://oag.ca.gov/system/files/CA%20Adult_Redacted_0.pdf) | CAUSE
+[November 01, 2018](https://oag.ca.gov/system/files/CA%20Adult_Redacted_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11199,7 +11199,7 @@ ensure that the LPL data, including client information, was removed from that fi
 </details>
 ## Loungefly, LLC
 <p class="hidden"></p>
-[September 19, 2018](https://oag.ca.gov/system/files/Sample%20California%20Consumer%20Notice_0.pdf) | CAUSE
+[September 19, 2018](https://oag.ca.gov/system/files/Sample%20California%20Consumer%20Notice_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11215,7 +11215,7 @@ and December 17, 2018 may have been affected. We have reported the matter to law
 notice has not been delayed because of law enforcement investigation. 
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Loungefly%20California%20Notice.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Loungefly%20California%20Notice.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11234,7 +11234,7 @@ been delayed because of law enforcement investigation.
 </details>
 ## Laboratory Medicine Consultants, Ltd.
 <p class="hidden"></p>
-[August 01, 2018](https://oag.ca.gov/system/files/Lab%20Medicine%20Consultants%20Sample%20Notification%20Letter.pdf) | CAUSE
+[August 01, 2018](https://oag.ca.gov/system/files/Lab%20Medicine%20Consultants%20Sample%20Notification%20Letter.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11250,7 +11250,7 @@ you can take to protect your personal information.
 </details>
 ## Laboratory Corporation of America Holdings
 <p class="hidden"></p>
-[August 01, 2018](https://oag.ca.gov/system/files/Notification%20Template.pdf) | CAUSE
+[August 01, 2018](https://oag.ca.gov/system/files/Notification%20Template.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11258,7 +11258,7 @@ We are writing to let you know that our vendor American Medical Collection Agenc
 </details>
 ## Lancaster Archery Supply, Inc.
 <p class="hidden"></p>
-[July 04, 2018](https://oag.ca.gov/system/files/Lancaster%20Archery%20-%20Regulator%20Letter%20-%20CA%20_0.pdf) | CAUSE
+[July 04, 2018](https://oag.ca.gov/system/files/Lancaster%20Archery%20-%20Regulator%20Letter%20-%20CA%20_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11271,7 +11271,7 @@ compromised from July 4, 2018 and February 16, 2019.
 </details>
 ## Local Initiative Health Authority of Los Angeles County, doing business as L.A. Care Health Plan
 <p class="hidden"></p>
-[March 01, 2018](https://oag.ca.gov/system/files/20190201-LAC-01_Letter_EN_Final_1.pdf) | CAUSE
+[March 01, 2018](https://oag.ca.gov/system/files/20190201-LAC-01_Letter_EN_Final_1.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11284,7 +11284,7 @@ have received your ID card as well as another member’s ID card.
 </details>
 ## Los Angeles Philharmonic
 <p class="hidden"></p>
-[February 14, 2018](https://oag.ca.gov/system/files/LA%20Philharmonic%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Ex%201_0.pdf) | CAUSE
+[February 14, 2018](https://oag.ca.gov/system/files/LA%20Philharmonic%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Ex%201_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11292,7 +11292,7 @@ The Los Angeles Philharmonic was the victim of an email spoofing attack on Febru
 </details>
 ## Legalinc Corporate Services, Inc. (as data maintainer) on behalf of Rocket Lawyer Incorporated (as data owner)
 <p class="hidden"></p>
-[October 25, 2017](https://oag.ca.gov/system/files/Sample%20Notice_31.pdf) | CAUSE
+[October 25, 2017](https://oag.ca.gov/system/files/Sample%20Notice_31.pdf) | Vulnerability
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11303,7 +11303,7 @@ personal information about certain individuals.
 </details>
 ## Legalinc Corporate Services, Inc. (as data maintainer) on behalf of Stripe GEP, Inc. (as data owner)
 <p class="hidden"></p>
-[October 25, 2017](https://oag.ca.gov/system/files/Sample%20Notice.pdf) | CAUSE
+[October 25, 2017](https://oag.ca.gov/system/files/Sample%20Notice.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11315,7 +11315,7 @@ accessed or has been misused, but out of an abundance of caution we are providin
 </details>
 ## Los Angeles County Department of Mental Health (LACDMH)
 <p class="hidden"></p>
-[October 24, 2017](https://oag.ca.gov/system/files/NOTICE%20OF%20DATA%20BREACH%20LETTER%20-%20LACDMH_0.pdf) | CAUSE
+[October 24, 2017](https://oag.ca.gov/system/files/NOTICE%20OF%20DATA%20BREACH%20LETTER%20-%20LACDMH_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
