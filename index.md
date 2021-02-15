@@ -11939,11 +11939,11 @@ impacted before we were notified of the attack.
 </details>
 ## McKissock Investment Holdings, LLC
 <p class="hidden"></p>
-[November 16, 2019](https://oag.ca.gov/system/files/McKissock%20Investment%20Holdings%2C%20LLC.pdf) | CAUSE
+[November 16, 2019](https://oag.ca.gov/system/files/McKissock%20Investment%20Holdings%2C%20LLC.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBDB
+McKissock became aware of unusual activity relating to certain McKissock systems and immediately began an investigation with the assistance of third-party forensic investigators. The investigation determined that a certain legacy virtual server was accessed without authorization between November 16, 2019 and March 4, 2020. While the investigation did not determine that personal information had been viewed by an unauthorized actor, McKissock could not rule out the possibility of such activity. Therefore, McKissock immediately began a thorough review of the contents of the server to determine whether sensitive information was present at the time of the incident.
 </details>
 ## Mt. Diablo Unified School District
 <p class="hidden"></p>
