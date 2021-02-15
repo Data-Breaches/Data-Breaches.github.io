@@ -11326,7 +11326,7 @@ email was a spreadsheet that contained the PII of candidates, including you.
 </details>
 ## LiveGlam Inc.
 <p class="hidden"></p>
-[April 25, 2017](https://oag.ca.gov/system/files/US%20-%20General%20Letters_0.pdf) | CAUSE
+[April 25, 2017](https://oag.ca.gov/system/files/US%20-%20General%20Letters_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11339,7 +11339,7 @@ Also, we contacted law enforcement to investigate this matter.
 </details>
 ## Los Angeles City Employees Retirement System
 <p class="hidden"></p>
-[April 05, 2017](https://oag.ca.gov/system/files/DataBreachLetter%20040517%20-%20Final_0.pdf) | CAUSE
+[April 05, 2017](https://oag.ca.gov/system/files/DataBreachLetter%20040517%20-%20Final_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11352,7 +11352,7 @@ instructions.
 </details>
 ## Logic Supply, Inc.
 <p class="hidden"></p>
-[February 06, 2017](https://oag.ca.gov/system/files/LS%20Notice%20of%20DB%20-%20EU%202-7-17_0.pdf) | CAUSE
+[February 06, 2017](https://oag.ca.gov/system/files/LS%20Notice%20of%20DB%20-%20EU%202-7-17_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11365,7 +11365,7 @@ other internal applications, resources or ERP system.
 </details>
 ## LYFE Kitchen Companies, LLC
 <p class="hidden"></p>
-[November 03, 2016](https://oag.ca.gov/system/files/LYFE%20Kitchen%20Notice%20of%20Data%20Breach_0.pdf) | CAUSE
+[November 03, 2016](https://oag.ca.gov/system/files/LYFE%20Kitchen%20Notice%20of%20Data%20Breach_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11381,7 +11381,7 @@ from customers or the banks that issued payment cards.
 </details>
 ## LifeBridge Health
 <p class="hidden"></p>
-[September 27, 2016](https://oag.ca.gov/system/files/CA_Sample_Notification_Letters_0.pdf) | CAUSE
+[September 27, 2016](https://oag.ca.gov/system/files/CA_Sample_Notification_Letters_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11389,7 +11389,7 @@ On March 18, 2018, we discovered that malware infected the servers that host Lif
 </details>
 ## Legal Aid Society of Orange County
 <p class="hidden"></p>
-[September 25, 2016](https://oag.ca.gov/system/files/Legal%20Aid%20Orange%20County%20NOTICE_0.pdf) | CAUSE
+[September 25, 2016](https://oag.ca.gov/system/files/Legal%20Aid%20Orange%20County%20NOTICE_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11403,7 +11403,7 @@ within the tax forms that were temporarily accessible on the internet as a resul
 </details>
 ## Loews Hotels & Co.
 <p class="hidden"></p>
-[August 29, 2016](https://oag.ca.gov/system/files/Loews%20Hotels%20-%20Notification%20Materials_0.pdf) | CAUSE
+[August 29, 2016](https://oag.ca.gov/system/files/Loews%20Hotels%20-%20Notification%20Materials_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11411,7 +11411,7 @@ The Sabre SynXis Central Reservations system (CRS) facilitates the booking of ho
 </details>
 ## La Quinta Center for Cosmetic Dentistry
 <p class="hidden"></p>
-[August 26, 2016](https://oag.ca.gov/system/files/La%20%20Quinta%20Center%20for%20Cosmetic_0.pdf) | CAUSE
+[August 26, 2016](https://oag.ca.gov/system/files/La%20%20Quinta%20Center%20for%20Cosmetic_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11419,7 +11419,7 @@ The FBI contacted us on June 15, 2017 to inform us of a security breach by a cri
 </details>
 ## Lulu's Fashion Lounge
 <p class="hidden"></p>
-[August 11, 2016](https://oag.ca.gov/system/files/Lulus%20Consumer%20Notice_1.pdf) | CAUSE
+[August 11, 2016](https://oag.ca.gov/system/files/Lulus%20Consumer%20Notice_1.pdf) | System Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11432,7 +11432,7 @@ affected, out of an abundance of caution, we are notifying you of this incident.
 </details>
 ## LÍLLÉbaby
 <p class="hidden"></p>
-[June 01, 2016](https://oag.ca.gov/system/files/Lillebaby%20--%20Notification%20--%20CA%20AG_0.pdf) | CAUSE
+[June 01, 2016](https://oag.ca.gov/system/files/Lillebaby%20--%20Notification%20--%20CA%20AG_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11444,7 +11444,7 @@ accessed or acquired without authorization.
 </details>
 ## LinkedIn Corporation
 <p class="hidden"></p>
-[May 17, 2016](https://oag.ca.gov/system/files/2016.05.25%20Email%20Notification_Important%20information%20about%20your%20LinkedIn%20account_0.pdf) | CAUSE
+[May 17, 2016](https://oag.ca.gov/system/files/2016.05.25%20Email%20Notification_Important%20information%20about%20your%20LinkedIn%20account_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11457,7 +11457,7 @@ breach that had not reset their passwords since that breach.
 </details>
 ## Luque Chiropractic, Inc.
 <p class="hidden"></p>
-[May 01, 2016](https://oag.ca.gov/system/files/Luque%20--%20Press%20Release_1.pdf) | CAUSE
+[May 01, 2016](https://oag.ca.gov/system/files/Luque%20--%20Press%20Release_1.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11465,7 +11465,7 @@ On September 18, 2016, Luque was notified by its billing software company that i
 </details>
 ## Lynn N. Talbott, Jr., CPA, CVA
 <p class="hidden"></p>
-[April 19, 2016](https://oag.ca.gov/system/files/Talbott%20Notification_0.pdf) | CAUSE
+[April 19, 2016](https://oag.ca.gov/system/files/Talbott%20Notification_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11479,7 +11479,7 @@ and security protections were properly functioning.
 </details>
 ## Lafler Moore Connerty & Webb, LLC
 <p class="hidden"></p>
-[March 11, 2016](https://oag.ca.gov/system/files/Lafler%20AllClear%20letter%20Proof_1.pdf) | CAUSE
+[March 11, 2016](https://oag.ca.gov/system/files/Lafler%20AllClear%20letter%20Proof_1.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11494,7 +11494,7 @@ network was breached by an unauthorized individual starting on or about January 
 </details>
 ## Laz Karp Associates, LLC
 <p class="hidden"></p>
-[February 17, 2016](https://oag.ca.gov/system/files/Regulator%20Insert%20-%20CA_0.pdf) | CAUSE
+[February 17, 2016](https://oag.ca.gov/system/files/Regulator%20Insert%20-%20CA_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11506,7 +11506,7 @@ reply correspondence had already been sent, it was determined that the request w
 </details>
 ## Laborers Funds Administrative Office of Northern California, Inc.
 <p class="hidden"></p>
-[February 17, 2016](https://oag.ca.gov/system/files/Laborers%20Notice%20of%20Data%20Breach%20-%20Sample_0.pdf) | CAUSE
+[February 17, 2016](https://oag.ca.gov/system/files/Laborers%20Notice%20of%20Data%20Breach%20-%20Sample_0.pdf) | Programming Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11518,7 +11518,7 @@ your health plan.
 </details>
 ## Lamps Plus and Pacific Coast Lighting
 <p class="hidden"></p>
-[February 11, 2016](https://oag.ca.gov/system/files/Lamps%20Plus%20Notification_0.pdf) | CAUSE
+[February 11, 2016](https://oag.ca.gov/system/files/Lamps%20Plus%20Notification_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11530,7 +11530,7 @@ in question had been sent to an unauthorized recipient.
 </details>
 ## LuckyPet, Inc.
 <p class="hidden"></p>
-[October 15, 2015](https://oag.ca.gov/system/files/%23130774091%2C%20v1%20_LEGAL_%20-%20LuckyPet%20Multistate%20Notification%20%20%20-%20WorkSite%20Acrobat%20Integration_Redacted_0.pdf) | CAUSE
+[October 15, 2015](https://oag.ca.gov/system/files/%23130774091%2C%20v1%20_LEGAL_%20-%20LuckyPet%20Multistate%20Notification%20%20%20-%20WorkSite%20Acrobat%20Integration_Redacted_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11538,7 +11538,7 @@ On approximately October 12, 2015, an unknown and unauthorized party exploited a
 </details>
 ## Longwood Management Corporation
 <p class="hidden"></p>
-[February 11, 2015](https://oag.ca.gov/system/files/Longwood%20Notice%20Template_0.PDF) | CAUSE
+[February 11, 2015](https://oag.ca.gov/system/files/Longwood%20Notice%20Template_0.PDF) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11548,7 +11548,7 @@ enforcement, is ongoing. On april 28, 2015, we learned that encryption software 
 </details>
 ## Liberty Tax Service
 <p class="hidden"></p>
-[February 01, 2015](https://oag.ca.gov/system/files/Letter%20to%20Customers%20on%20Data%20Breach%20%283%29_0.pdf) | CAUSE
+[February 01, 2015](https://oag.ca.gov/system/files/Letter%20to%20Customers%20on%20Data%20Breach%20%283%29_0.pdf) | Files Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11556,7 +11556,7 @@ We are contacting you to inform you that on February 1, 2015, a burglary occurre
 </details>
 ## Law Offices of David A. Krausz, P.C.
 <p class="hidden"></p>
-[January 05, 2015](https://oag.ca.gov/system/files/Security%20Breach%20Notice_0.pdf) | CAUSE
+[January 05, 2015](https://oag.ca.gov/system/files/Security%20Breach%20Notice_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11564,7 +11564,7 @@ On January 6, 2015, Law Offices of David A. Krausz, P.C. experienced the theft o
 </details>
 ## La Jolla Group
 <p class="hidden"></p>
-[November 30, 2014](https://oag.ca.gov/system/files/CA%20Exhibit%20A%20revised_0.pdf) | CAUSE
+[November 30, 2014](https://oag.ca.gov/system/files/CA%20Exhibit%20A%20revised_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11574,7 +11574,7 @@ This incident did not compromise the security of your Social Security number, wh
 </details>
 ## Lime Crime, Inc.
 <p class="hidden"></p>
-[October 04, 2014](https://oag.ca.gov/system/files/LC%20CredCard%20Notice_0.pdf) | CAUSE
+[October 04, 2014](https://oag.ca.gov/system/files/LC%20CredCard%20Notice_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11582,7 +11582,7 @@ On February 11, 2015, after an extensive forensic investigation, we learned that
 </details>
 ## Lokai Holdings LLC
 <p class="hidden"></p>
-[June 27, 2014](https://oag.ca.gov/system/files/Notice_M978_v01_0.pdf) | CAUSE
+[June 27, 2014](https://oag.ca.gov/system/files/Notice_M978_v01_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11590,26 +11590,22 @@ After we were informed of reports of fraudulent charges appearing on payment car
 </details>
 ## Landry’s, Inc., Golden Nugget Atlantic City, LLC, Golden Nugget Lake Charles, LLC, GNL Corp., GNLV Corp., and Riverboat Corporation of Mississippi
 <p class="hidden"></p>
-[May 04, 2014](https://oag.ca.gov/system/files/Landry%27s%20CA%20substitute%20notice%20and%20press%20release_0_0.pdf) | CAUSE
+[May 04, 2014](https://oag.ca.gov/system/files/Landry%27s%20CA%20substitute%20notice%20and%20press%20release_0_0.pdf) | Malware 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-Theinvestigation began immediately after wereceived areport in earlyDecember ofsuspiciousactivity regarding cards that had been legitimately used in
-some of our locations. We hired aleading cyber security firmto examine our paymentcard systems, implemented advanced payment processing
-solutions,and have beenworkingwith the paymentcard networksand lawenforcement. Findings fromtheinvestigation showthatcriminalattackers
-wereableto installa programon paymentcard processing devicesatcertain of our restaurants, food and beverage outlets, spas,entertainment
-destinations,and managed properties
+The investigation began immediately after we received a report in early December of suspicious activity regarding cards that had been legitimately used in some of our locations. We hired aleading cyber security firm to examine our payment card systems, implemented advanced payment processing solutions,and have been working with the payment card networks and law enforcement. Findings from the investigation show that criminal attackers were able to install a program on payment card processing devices at certain of our restaurants, food and beverage outlets, spas,entertainment destinations,and managed properties
 </details>
 ## L.A. Care Health Plan
 <p class="hidden"></p>
-[January 22, 2014](https://oag.ca.gov/system/files/Member%20Notice%20FINAL%20220_0.pdf) | CAUSE
+[January 22, 2014](https://oag.ca.gov/system/files/Member%20Notice%20FINAL%20220_0.pdf) | Programming Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 We are sending you this letter to inform you of an information processing error that may have involved accidental disclosure of your information. On January 24, 2014, we became aware that some L.A. Care Covered members who logged onto our payment portal were able to see another member’s name, address and member identification number.
 </details>
 <p class="hidden"></p>
-[September 17, 2012](https://oag.ca.gov/system/files/Incident%20Notification%20Letter%20_Final%2010022012__0.pdf) | CAUSE
+[September 17, 2012](https://oag.ca.gov/system/files/Incident%20Notification%20Letter%20_Final%2010022012__0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11617,7 +11613,7 @@ L.A. Care is serious about member privacy. We are sending you this letter to mak
 </details>
 ## Lincoln Credit Center
 <p class="hidden"></p>
-[October 20, 2013](https://oag.ca.gov/system/files/LCC%20-%20Client%20Notification%20Letter_0.pdf) | CAUSE
+[October 20, 2013](https://oag.ca.gov/system/files/LCC%20-%20Client%20Notification%20Letter_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11625,7 +11621,7 @@ At Lincoln Credit Center we take your account security very seriously. We have l
 </details>
 ## Los Angeles Gay and Lesbian Community Services Center
 <p class="hidden"></p>
-[September 17, 2013](https://oag.ca.gov/system/files/LAGLC%20Individual%20Notice_0.pdf) | CAUSE
+[September 17, 2013](https://oag.ca.gov/system/files/LAGLC%20Individual%20Notice_0.pdf) | System Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11633,7 +11629,7 @@ The L.A. Gay & Lesbian Center recently learned that the security of certain of o
 </details>
 ## Legal Aid Society of San Mateo County
 <p class="hidden"></p>
-[August 12, 2013](https://oag.ca.gov/system/files/breach_notification_100813_1.pdf) | CAUSE
+[August 12, 2013](https://oag.ca.gov/system/files/breach_notification_100813_1.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11641,15 +11637,15 @@ On the night of August 12, 2013, our office was burglarized and ten of our lapto
 </details>
 ## Lowe's Companies, Inc.
 <p class="hidden"></p>
-[July 01, 2013](https://oag.ca.gov/system/files/Lowes%205-19-14%20Notice%20Letter_1.pdf) | CAUSE
+[July 01, 2013](https://oag.ca.gov/system/files/Lowes%205-19-14%20Notice%20Letter_1.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-We are writing to inform you that certain personal information that Lowe’s maintains about you may have been subject to unauthorized access. Lowe’s contracts with a third-party vendor to provide a computer system (E-DriverFile) that stores compliance documentation and information relatedto current andformer drivers of Lowe’s vehicles as well as information about certain current andformer employees who access andadminister the system.
+We are writing to inform you that certain personal information that Lowe’s maintains about you may have been subject to unauthorized access. Lowe’s contracts with a third-party vendor to provide a computer system (E-DriverFile) that stores compliance documentation and information relatedto current and former drivers of Lowe’s vehicles as well as information about certain current and former employees who access and administer the system.
 </details>
 ## LivingSocial, Inc.
 <p class="hidden"></p>
-[April 05, 2013](https://oag.ca.gov/system/files/Consumer%20Notice%20Security%20Emails%20FINAL_0.pdf) | CAUSE
+[April 05, 2013](https://oag.ca.gov/system/files/Consumer%20Notice%20Security%20Emails%20FINAL_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11657,7 +11653,7 @@ LivingSocial recently experienced a cyber-attack on our computer systems that re
 </details>
 ## LaCie USA
 <p class="hidden"></p>
-[March 27, 2013](https://oag.ca.gov/system/files/La%20Brienotice_only%204_14_14_0.pdf) | CAUSE
+[March 27, 2013](https://oag.ca.gov/system/files/La%20Brienotice_only%204_14_14_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11665,7 +11661,7 @@ On March 19, 2014, the FBI informed LaCie USA, that it found indications that an
 </details>
 ## Library Systems & Services, LLC
 <p class="hidden"></p>
-[October 31, 2012](https://oag.ca.gov/system/files/Breach%20Notice%20-%20Final_0.pdf) | CAUSE
+[October 31, 2012](https://oag.ca.gov/system/files/Breach%20Notice%20-%20Final_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11673,7 +11669,7 @@ On November 05, 2013, we learned of the presumed theft of a company laptop compu
 </details>
 ## Local 2/Hospitality Industry Child & Elder Care Plan
 <p class="hidden"></p>
-[August 13, 2012](https://oag.ca.gov/system/files/Final%20Notice%20%28C%26E%29_0.pdf) | CAUSE
+[August 13, 2012](https://oag.ca.gov/system/files/Final%20Notice%20%28C%26E%29_0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11681,7 +11677,7 @@ On August 13, 2012, following an investigation of a missing portable device (USB
 </details>
 ## LPL Financial
 <p class="hidden"></p>
-[February 06, 2012](https://oag.ca.gov/system/files/Redacted%20LPL%20client%20letter%2002.06.12_0.pdf) | CAUSE
+[February 06, 2012](https://oag.ca.gov/system/files/Redacted%20LPL%20client%20letter%2002.06.12_0.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11689,7 +11685,7 @@ On February 6, we were notified that Mr. Patrick's desktop computer was stolen f
 </details>
 ## Lasko Group, Inc.
 <p class="hidden"></p>
-[December 27, 2011](https://oag.ca.gov/system/files/Lasko%20-%20notice%20template_0.pdf) | CAUSE
+[December 27, 2011](https://oag.ca.gov/system/files/Lasko%20-%20notice%20template_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11697,7 +11693,7 @@ On July 2, 2014, Lasko Group, Inc. became aware of the fact that certain custome
 </details>
 ## Law Office of Robert  T. Bledsoe
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Bledshoe.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Bledshoe.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11711,7 +11707,7 @@ underlying systems, and we are providing this notice to you as a precautionary m
 </details>
 ## Larkmead Vineyards Vinter and Grower
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Larkmead_eCellars%20Breach%20Notification%20Letter%20LMV_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Larkmead_eCellars%20Breach%20Notification%20Letter%20LMV_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11728,7 +11724,7 @@ The District's systems were compromised by ransomeware on November 23, 2020. Una
 </details>
 ## Monterey  Bay Air Resources District
 <p class="hidden"></p>
-[November 23, 2020](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach_8.pdf) | CAUSE
+[November 23, 2020](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach_8.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11759,7 +11755,7 @@ On Monday, September 14, 2020, the District was informed that when certain paren
 We are writing to you about an incident concerning your personal information. On July 24, 2020, MetLife inadvertently sent an email with a report to a benefits department at a company you do not and have not worked for. This report contained some of your information. The recipient forwarded the report to one of their benefits consultants who then immediately notified MetLife of the issue on July 27, 2020.
 </details>
 <p class="hidden"></p>
-[October 18, 2018](https://oag.ca.gov/system/files/12568%20-%20CA%20notification%20letter_0.pdf) | CAUSE
+[October 18, 2018](https://oag.ca.gov/system/files/12568%20-%20CA%20notification%20letter_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11771,7 +11767,7 @@ handles sensitive information and we do not believe your information is at risk.
 </details>
 ## MEDNAX Services, Inc.
 <p class="hidden"></p>
-[July 02, 2020](https://oag.ca.gov/system/files/Attachment%20-%20CA%20Individual%20Notice%20Letters%2012-23-20.pdf) | CAUSE
+[July 02, 2020](https://oag.ca.gov/system/files/Attachment%20-%20CA%20Individual%20Notice%20Letters%2012-23-20.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11806,7 +11802,7 @@ On or about June 4, 2020, we learned that an unauthorized third party had gained
 </details>
 ## Minted, LLC
 <p class="hidden"></p>
-[May 06, 2020](https://oag.ca.gov/system/files/Template%20Notice.pdf) | CAUSE
+[May 06, 2020](https://oag.ca.gov/system/files/Template%20Notice.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11820,7 +11816,7 @@ identify and notify affected users.
 </details>
 ## MaxLinear, Inc.
 <p class="hidden"></p>
-[April 15, 2020](https://oag.ca.gov/system/files/Consumer_Letter%20%2820200610%29.pdf) | CAUSE
+[April 15, 2020](https://oag.ca.gov/system/files/Consumer_Letter%20%2820200610%29.pdf) | System Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11839,7 +11835,7 @@ The incident leading to the potential breach of your protected health informatio
 </details>
 ## Magellan Health, Inc.
 <p class="hidden"></p>
-[April 06, 2020](https://oag.ca.gov/system/files/SAMPLE%20NOTICE%20LETTER%20-%20SSN.pdf) | CAUSE
+[April 06, 2020](https://oag.ca.gov/system/files/SAMPLE%20NOTICE%20LETTER%20-%20SSN.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11853,7 +11849,7 @@ your personal information as a result of this incident, but we are notifying you
 </details>
 ## McKinney & Company
 <p class="hidden"></p>
-[April 01, 2020](https://oag.ca.gov/system/files/8878948.PDF) | CAUSE
+[April 01, 2020](https://oag.ca.gov/system/files/8878948.PDF) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11879,11 +11875,11 @@ On June 19, 2020, MCCKC determined that your information may have been available
 </details>
 ## Merchant One, Inc.
 <p class="hidden"></p>
-[February 24, 2020](https://oag.ca.gov/system/files/Merchant%20One%20Inc%20Breach%20Letter.pdf) | CAUSE
+[February 24, 2020](https://oag.ca.gov/system/files/Merchant%20One%20Inc%20Breach%20Letter.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-On or about February 24, 2020, Merchant One became aware of suspicious activity related to a thirdparty IT provider. Upon discovery, we immediately launched an investigation, which included working with third-party
+On or about February 24, 2020, Merchant One became aware of suspicious activity related to a third party IT provider. Upon discovery, we immediately launched an investigation, which included working with third-party
 forensic specialists to determine the full nature and scope of this incident. The investigation determined that an unknown
 individual may have accessed specific files in Merchant One’s system. Therefore, we began a comprehensive review of
 the files identified as potentially impacted to determine what information was contained therein and to whom it relates.
@@ -11896,12 +11892,12 @@ impacted files.
 </details>
 ## Marshall Medical Center
 <p class="hidden"></p>
-[February 18, 2020](https://oag.ca.gov/system/files/Breach%20notification%20letter%20-%20April%202020%20-%20template%20for%20AG.pdf) | CAUSE
+[February 18, 2020](https://oag.ca.gov/system/files/Breach%20notification%20letter%20-%20April%202020%20-%20template%20for%20AG.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 Through these investigations, PaperlessPay confirmed that an unknown person (the “Hacker”)
-on February 18, 2020accessed PaperlessPay’s database where MMC employees’ data was
+on February 18, 2020 accessed PaperlessPay’s database where MMC employees’ data was
 stored. The available evidence has not, however, allowed DHS, the FBI, or Ankura to
 determine what data the Hacker may have accessed or viewed while connected to the database.
 It is possible the Hacker only used access to determine the size of the database and to stage it
@@ -11951,14 +11947,14 @@ TBDB
 </details>
 ## Mt. Diablo Unified School District
 <p class="hidden"></p>
-[November 04, 2019](https://oag.ca.gov/system/files/Amended%20Notice%20of%20Data%20Breach.6.10.2020.pdf) | CAUSE
+[November 04, 2019](https://oag.ca.gov/system/files/Amended%20Notice%20of%20Data%20Breach.6.10.2020.pdf) | Vulnerability
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-MDUSD uses the Aeries Student information system to provide students and their parents access ot information on school events, schedules, etc. Aeries learned in late November of 2019 that an unauthorized individual exploited a vulnerability in the Aeries software that would allow access to private student and parent information. Once discovered, Aeires notified law enforcement and together launched an investigation. As of today, the indiviual resposible ofr this breach is in custody.
+MDUSD uses the Aeries Student information system to provide students and their parents access to information on school events, schedules, etc. Aeries learned in late November of 2019 that an unauthorized individual exploited a vulnerability in the Aeries software that would allow access to private student and parent information. Once discovered, Aeires notified law enforcement and together launched an investigation. As of today, the indiviual resposible ofr this breach is in custody.
 </details>
 <p class="hidden"></p>
-[August 08, 2018](https://oag.ca.gov/system/files/WAES%20breach%20notification%20letter_2018-08-29_07-57-07_0.pdf) | CAUSE
+[August 08, 2018](https://oag.ca.gov/system/files/WAES%20breach%20notification%20letter_2018-08-29_07-57-07_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
