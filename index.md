@@ -11961,7 +11961,7 @@ MDUSD uses the Aeries Student information system to provide students and their p
 On Wednesday, August 8, 2018, Walnut Acres Elementary School intended to send out emails to 650 families. About 200 had been delivered when we realized that the emails included personal information about students other than those of the respective individual families.
 </details>
 <p class="hidden"></p>
-[April 27, 2017](https://oag.ca.gov/system/files/Revised%20Data%20Breach%20Letter%205-12-17_0.pdf) | CAUSE
+[April 27, 2017](https://oag.ca.gov/system/files/Revised%20Data%20Breach%20Letter%205-12-17_0.pdf) | Vulnerability
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11977,7 +11977,7 @@ occurred due to a software malfunction that was outside of the District’s cont
 </details>
 ## Marks & Associates
 <p class="hidden"></p>
-[November 01, 2019](https://oag.ca.gov/system/files/Business%20Client%20Notification.pdf) | CAUSE
+[November 01, 2019](https://oag.ca.gov/system/files/Business%20Client%20Notification.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -11993,7 +11993,7 @@ regret that this incident has occurred.
 </details>
 ## Moss Adams LLP
 <p class="hidden"></p>
-[October 08, 2019](https://oag.ca.gov/system/files/Moss%20Adams%20-%20Sample%20Consumer%20Notification%20Letter%20%28CA%29_1.pdf) | CAUSE
+[October 08, 2019](https://oag.ca.gov/system/files/Moss%20Adams%20-%20Sample%20Consumer%20Notification%20Letter%20%28CA%29_1.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12006,7 +12006,7 @@ information transmitted via email and did not affect any other information syste
 </details>
 ## macys.com
 <p class="hidden"></p>
-[October 07, 2019](https://oag.ca.gov/system/files/All%20State%20MCOM%20Consumer%20Notice%20Proof%20111419.pdf) | CAUSE
+[October 07, 2019](https://oag.ca.gov/system/files/All%20State%20MCOM%20Consumer%20Notice%20Proof%20111419.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12020,7 +12020,7 @@ teams successfully removed the unauthorized code on October 15, 2019.
 </details>
 ## Metabolic Maintenance Products, Inc.
 <p class="hidden"></p>
-[October 01, 2019](https://oag.ca.gov/system/files/Metabolic%20Maintenance%20Ad%20No%20SSN%20r3prf.pdf) | CAUSE
+[October 01, 2019](https://oag.ca.gov/system/files/Metabolic%20Maintenance%20Ad%20No%20SSN%20r3prf.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12029,7 +12029,7 @@ access to certain names and payment card numbers used on our website.
 </details>
 ## Myron Corp. d/b/a Pen Factory (“Pen Factory”)
 <p class="hidden"></p>
-[September 01, 2019](https://oag.ca.gov/system/files/California%20Notification%20Letter%20-%20Redacted.pdf) | CAUSE
+[September 01, 2019](https://oag.ca.gov/system/files/California%20Notification%20Letter%20-%20Redacted.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12049,7 +12049,7 @@ The email address and date of birth (when present) of the user who wrote the lat
 </details>
 ## MetaBrainz Foundation Inc.
 <p class="hidden"></p>
-[April 26, 2019](https://oag.ca.gov/system/files/Data%20breach%20report%20-%20for%20submission.pdf) | CAUSE
+[April 26, 2019](https://oag.ca.gov/system/files/Data%20breach%20report%20-%20for%20submission.pdf) | Programming Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12064,7 +12064,7 @@ your web browser.
 </details>
 ## McAlister’s Corporation, Moe’s Stores LLC, Schlotzsky’s Stores LLC, as well as entities that are franchisees
 <p class="hidden"></p>
-[April 11, 2019](https://oag.ca.gov/system/files/California%20Notice_1.pdf) | CAUSE
+[April 11, 2019](https://oag.ca.gov/system/files/California%20Notice_1.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12077,7 +12077,7 @@ vary by location, is available here.
 </details>
 ## Mediant Communications Inc.
 <p class="hidden"></p>
-[April 01, 2019](https://oag.ca.gov/system/files/L01_Mediant_%20General_0.pdf) | CAUSE
+[April 01, 2019](https://oag.ca.gov/system/files/L01_Mediant_%20General_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12091,7 +12091,7 @@ including: [securities list].
 </details>
 ## Miller Kaplan Arase LLP
 <p class="hidden"></p>
-[March 22, 2019](https://oag.ca.gov/system/files/Miller%20Kaplan%20--%20Consumer%20Notification%20Letter%20--%20ID%20Experts%202019.08.20%20Proof.pdf) | CAUSE
+[March 22, 2019](https://oag.ca.gov/system/files/Miller%20Kaplan%20--%20Consumer%20Notification%20Letter%20--%20ID%20Experts%202019.08.20%20Proof.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12101,7 +12101,7 @@ MKA email accounts and began an investigation
 </details>
 ## Mikhail Education Corporation
 <p class="hidden"></p>
-[March 20, 2019](https://oag.ca.gov/system/files/CA%20AG%20Notice_0.pdf) | CAUSE
+[March 20, 2019](https://oag.ca.gov/system/files/CA%20AG%20Notice_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12109,7 +12109,7 @@ TBDB
 </details>
 ## Micro-Mom Scooters LLC d/b/a Micro Kickboard
 <p class="hidden"></p>
-[March 14, 2019](https://oag.ca.gov/system/files/CA%20-%20Exhibit%201%20%28Notice%20Only%29.pdf) | CAUSE
+[March 14, 2019](https://oag.ca.gov/system/files/CA%20-%20Exhibit%201%20%28Notice%20Only%29.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12121,7 +12121,7 @@ information on our website. You can safely and securely use your payment card on
 </details>
 ## Martin, Hutchison and Hohman, CPAs
 <p class="hidden"></p>
-[February 15, 2019](https://oag.ca.gov/system/files/MHH%20Security%20Breach_0.pdf) | CAUSE
+[February 15, 2019](https://oag.ca.gov/system/files/MHH%20Security%20Breach_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12139,7 +12139,7 @@ and turned the computer off. This entire interaction lasted less than eight minu
 </details>
 ## Michael Koch, dba Lockhart, Britton & Koch
 <p class="hidden"></p>
-[November 25, 2018](https://oag.ca.gov/system/files/SamDataBreach_0.pdf) | CAUSE
+[November 25, 2018](https://oag.ca.gov/system/files/SamDataBreach_0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12147,7 +12147,7 @@ My car, parked in the driveway of my residence was broken into. My briefcase tha
 </details>
 ## MUFG Union Bank, N.A.
 <p class="hidden"></p>
-[November 09, 2018](https://oag.ca.gov/system/files/MUFG%20-%20California%20Copy%20of%20Notice%20Materials_0.pdf) | CAUSE
+[November 09, 2018](https://oag.ca.gov/system/files/MUFG%20-%20California%20Copy%20of%20Notice%20Materials_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12161,7 +12161,7 @@ accountholders and are working with them to resolve the issue
 </details>
 ## MJ Insurance, Inc
 <p class="hidden"></p>
-[September 26, 2018](https://oag.ca.gov/system/files/CHDOCS01-%232634704-v1-AG-CA-Notification-Letter_0.PDF) | CAUSE
+[September 26, 2018](https://oag.ca.gov/system/files/CHDOCS01-%232634704-v1-AG-CA-Notification-Letter_0.PDF) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12176,7 +12176,7 @@ through one of the employers to whom we provide employee benefits consulting and
 </details>
 ## Marriott International, Inc.
 <p class="hidden"></p>
-[September 10, 2018](https://oag.ca.gov/system/files/Marriott%20Starwood%20Guest%20Reservation%20Database%20Incident%20Email%20Notice%20%28002%29_0.pdf) | CAUSE
+[September 10, 2018](https://oag.ca.gov/system/files/Marriott%20Starwood%20Guest%20Reservation%20Database%20Incident%20Email%20Notice%20%28002%29_0.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12184,7 +12184,7 @@ On September 8, 2018, Marriott received an alert from an internal security tool 
 </details>
 ## Mark’s International Wines
 <p class="hidden"></p>
-[July 22, 2018](https://oag.ca.gov/system/files/ID%20Experts%20Breach%20Notification%20Letter%20FINAL_0.pdf) | CAUSE
+[July 22, 2018](https://oag.ca.gov/system/files/ID%20Experts%20Breach%20Notification%20Letter%20FINAL_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12197,7 +12197,7 @@ Account was compromised by a 3rd party and allowed malware to be added to the we
 </details>
 ## MSK Group, P.C.
 <p class="hidden"></p>
-[May 07, 2018](https://oag.ca.gov/system/files/Exhibit%201%20-%20Letter2_0.pdf) | CAUSE
+[May 07, 2018](https://oag.ca.gov/system/files/Exhibit%201%20-%20Letter2_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12206,7 +12206,7 @@ consultants to investigate, mitigate, and assess the extent of this event and to
 </details>
 ## MASON LAW OFFICE, P.C.
 <p class="hidden"></p>
-[May 05, 2018](https://oag.ca.gov/system/files/NOTICE%20TO%20CLS%20RE%20MYCASE%20DATA%20BREACH_0.pdf) | CAUSE
+[May 05, 2018](https://oag.ca.gov/system/files/NOTICE%20TO%20CLS%20RE%20MYCASE%20DATA%20BREACH_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12220,7 +12220,7 @@ your case.
 </details>
 ## Macy's, Inc
 <p class="hidden"></p>
-[April 26, 2018](https://oag.ca.gov/system/files/A1%20MCOM%20All%20State%20Consumer%20Notice_0.pdf) | CAUSE
+[April 26, 2018](https://oag.ca.gov/system/files/A1%20MCOM%20All%20State%20Consumer%20Notice_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12233,7 +12233,7 @@ party obtained these customer usernames and passwords from a source other than M
 </details>
 ## MedEvolve
 <p class="hidden"></p>
-[March 29, 2018](https://oag.ca.gov/system/files/SSN%20Notice_0.pdf) | CAUSE
+[March 29, 2018](https://oag.ca.gov/system/files/SSN%20Notice_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12249,7 +12249,7 @@ did not include patients’ last names or street addresses.
 </details>
 ## Mise En Place Restaurant Services, Inc.
 <p class="hidden"></p>
-[March 06, 2018](https://oag.ca.gov/system/files/MEP%20Notification_0.pdf) | CAUSE
+[March 06, 2018](https://oag.ca.gov/system/files/MEP%20Notification_0.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12261,7 +12261,7 @@ March 15, 2018.
 </details>
 ## Milligan Chiropractic Group, Inc. d/b/a Del Mar Chiropractic Sports Group
 <p class="hidden"></p>
-[January 31, 2018](https://oag.ca.gov/system/files/CA%20Letter_0.pdf) | CAUSE
+[January 31, 2018](https://oag.ca.gov/system/files/CA%20Letter_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12273,7 +12273,7 @@ be at risk. No Social Security numbers, financial transaction or payment informa
 </details>
 ## Mendes & Haney, LLP
 <p class="hidden"></p>
-[January 23, 2018](https://oag.ca.gov/system/files/M%26H%20notification_0.pdf) | CAUSE
+[January 23, 2018](https://oag.ca.gov/system/files/M%26H%20notification_0.pdf) | Computer Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12284,7 +12284,7 @@ address between January 23, 2018 and February 26, 2018 through Remote Desktop Pr
 </details>
 ## Mindlance, Inc.
 <p class="hidden"></p>
-[December 28, 2017](https://oag.ca.gov/system/files/California%20Template%20Notification%20%28152381521_1%29_0.PDF) | CAUSE
+[December 28, 2017](https://oag.ca.gov/system/files/California%20Template%20Notification%20%28152381521_1%29_0.PDF) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12293,7 +12293,7 @@ Certain Mindlance confidential and proprietary information was stolen on or abou
 </details>
 ## Muir Medical Group, IPA. Inc.
 <p class="hidden"></p>
-[December 07, 2017](https://oag.ca.gov/system/files/Patient%20Notice%20Template%20%28002%29_0.PDF) | CAUSE
+[December 07, 2017](https://oag.ca.gov/system/files/Patient%20Notice%20Template%20%28002%29_0.PDF) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12304,7 +12304,7 @@ services it provided to your doctor.
 </details>
 ## MetLife
 <p class="hidden"></p>
-[November 09, 2017](https://oag.ca.gov/system/files/CA%20Notification%20Letter%20%2810721%29_0.pdf) | CAUSE
+[November 09, 2017](https://oag.ca.gov/system/files/CA%20Notification%20Letter%20%2810721%29_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12314,7 +12314,7 @@ employed.
 </details>
 ## MyHeritage Ltd.
 <p class="hidden"></p>
-[October 26, 2017](https://oag.ca.gov/system/files/Consumer%20Notification_2.pdf) | CAUSE
+[October 26, 2017](https://oag.ca.gov/system/files/Consumer%20Notification_2.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12324,7 +12324,7 @@ MyHeritage users.
 </details>
 ## Movement Mortgage LLC
 <p class="hidden"></p>
-[October 09, 2017](https://oag.ca.gov/system/files/MM-%20CA-%20Exhibit%201_0.pdf) | CAUSE
+[October 09, 2017](https://oag.ca.gov/system/files/MM-%20CA-%20Exhibit%201_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12338,7 +12338,7 @@ information of certain loan applicants, including you.
 </details>
 ## Mcdavid, Inc.
 <p class="hidden"></p>
-[September 05, 2017](https://oag.ca.gov/system/files/McDavid%20CA%20Sample_0.pdf) | CAUSE
+[September 05, 2017](https://oag.ca.gov/system/files/McDavid%20CA%20Sample_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12352,7 +12352,7 @@ purchases via the McDavid webservers between September 5, 2016 and November 11, 
 </details>
 ## Massachusetts Mutual Life Insurance Company
 <p class="hidden"></p>
-[August 17, 2017](https://oag.ca.gov/system/files/DRAFT%20-%20General%20Client%20notification_0.pdf) | CAUSE
+[August 17, 2017](https://oag.ca.gov/system/files/DRAFT%20-%20General%20Client%20notification_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12371,21 +12371,21 @@ nonpublic personally identifiable information associated with each agents’ cli
 
 </details>
 <p class="hidden"></p>
-[December 03, 2013](https://oag.ca.gov/system/files/RS%20RMD%20Incident%20121313%20notification%20letter_0.pdf) | CAUSE
+[December 03, 2013](https://oag.ca.gov/system/files/RS%20RMD%20Incident%20121313%20notification%20letter_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 On December 3, 2013, a MassMutual retirement services account manager sent a secure email to an individual at a MassMutual retirement services client. However, the account manager inadvertently included information about you and your retirement plan in that message to the other MassMutual client.  The individual who received the information in error was contacted by MassMutual and confirmed to MassMutual both verbally and in writing that the email and the information received in error was deleted. 
 </details>
 <p class="hidden"></p>
-[September 13, 2013](https://oag.ca.gov/system/files/ca%20ag%20crl%20client%20ssn_001_0.pdf) | CAUSE
+[September 13, 2013](https://oag.ca.gov/system/files/ca%20ag%20crl%20client%20ssn_001_0.pdf) | Files Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 On or about September 6, 2013, CRL sent an invoice via United States Postal Service (USPS) mail to MassMutual for services performed relating to your recent insurance application with MassMutual. Upon arrival at MassMutual on September 17, 2013, it was noted that the package was damaged and was accompanied by a letter from the USPS stating that the mailing was damaged during processing at the USPS facility in Springfield, Massachusetts and some pages may be missing. 
 </details>
 <p class="hidden"></p>
-[May 08, 2013](https://oag.ca.gov/system/files/CA%20notification%2060413_0.pdf) | CAUSE
+[May 08, 2013](https://oag.ca.gov/system/files/CA%20notification%2060413_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12394,14 +12394,14 @@ information about you and your retirement plan to a third party retirement plan 
 not associated with MassMutual.
 </details>
 <p class="hidden"></p>
-[January 30, 2013](https://oag.ca.gov/system/files/3-4-13%20MassMutual%20CA%20Client%20Notification%20Letter_0.pdf) | CAUSE
+[January 30, 2013](https://oag.ca.gov/system/files/3-4-13%20MassMutual%20CA%20Client%20Notification%20Letter_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 MassMutual has an established business relationship with Convey Compliance Systems, Inc. (“Convey”) to provide print and mailing services for MassMutual’s annual IRS Form 1099 mailing. On February 1, 2013, Convey notified us of an incident that resulted in the Forms 1099 for a number of MassMutual clients being mailed to an incorrect mailing address. Unfortunately, your Form 1099 was in the affected group.
 </details>
 <p class="hidden"></p>
-[July 13, 2012](https://oag.ca.gov/system/files/Earthbound%20Farm%20-%20Notification%20Letter%20%28California%29_0.pdf) | CAUSE
+[July 13, 2012](https://oag.ca.gov/system/files/Earthbound%20Farm%20-%20Notification%20Letter%20%28California%29_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12409,7 +12409,7 @@ This letter is to inform you that on July 13, 2012 MassMutual inadvertently sent
 </details>
 ## Mr. Cooper
 <p class="hidden"></p>
-[July 05, 2017](https://oag.ca.gov/system/files/Breach%20Notification%20Template_0.pdf) | CAUSE
+[July 05, 2017](https://oag.ca.gov/system/files/Breach%20Notification%20Template_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12419,7 +12419,7 @@ letter.
 </details>
 ## Michael T. Blevins, Inc.
 <p class="hidden"></p>
-[March 26, 2017](https://oag.ca.gov/system/files/Sample%20Notice_10.pdf) | CAUSE
+[March 26, 2017](https://oag.ca.gov/system/files/Sample%20Notice_10.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12433,7 +12433,7 @@ access certain client files stored in our systems.
 </details>
 ## Meepos & Company
 <p class="hidden"></p>
-[February 24, 2017](https://oag.ca.gov/system/files/Meepos%20-%20notice%20only_0.pdf) | CAUSE
+[February 24, 2017](https://oag.ca.gov/system/files/Meepos%20-%20notice%20only_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12452,7 +12452,7 @@ access to tax information and fraudulent filings did not occur until May 2017.
 </details>
 ## Manduka
 <p class="hidden"></p>
-[February 22, 2017](https://oag.ca.gov/system/files/Manduka%20--%20CA%20AG%20--%20Update_1.pdf) | CAUSE
+[February 22, 2017](https://oag.ca.gov/system/files/Manduka%20--%20CA%20AG%20--%20Update_1.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12468,7 +12468,7 @@ Merani Hospitality, Inc. ("Merani") is committed to protecting the privacy of th
 </details>
 ## MJ Freeway Business Solutions
 <p class="hidden"></p>
-[November 19, 2016](https://oag.ca.gov/system/files/MJF%20--%20Notice%20for%20Harborside%20Mailing%20-%20All%20Exhibits_0.pdf) | CAUSE
+[November 19, 2016](https://oag.ca.gov/system/files/MJF%20--%20Notice%20for%20Harborside%20Mailing%20-%20All%20Exhibits_0.pdf) | System Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12476,7 +12476,7 @@ MJ Freeway provides business management software to cannabis dispensaries, inclu
 </details>
 ## Michigan State University
 <p class="hidden"></p>
-[November 13, 2016](https://oag.ca.gov/system/files/Sample%20Security%20Breach%20Notice%20Michigan%20State%20University_0.pdf) | CAUSE
+[November 13, 2016](https://oag.ca.gov/system/files/Sample%20Security%20Breach%20Notice%20Michigan%20State%20University_0.pdf) | Database Compromise 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12484,7 +12484,7 @@ TBDB
 </details>
 ## Movement Mortgage (“Movement”)
 <p class="hidden"></p>
-[August 01, 2016](https://oag.ca.gov/system/files/Movement%20Mortgage%20notice%20only5_0_0.pdf) | CAUSE
+[August 01, 2016](https://oag.ca.gov/system/files/Movement%20Mortgage%20notice%20only5_0_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12497,7 +12497,7 @@ account containing your personal information was subject to unauthorized log-ins
 </details>
 ## M Holdings Securities, Inc.
 <p class="hidden"></p>
-[July 29, 2016](https://oag.ca.gov/system/files/Sample%20Notice_8.pdf) | CAUSE
+[July 29, 2016](https://oag.ca.gov/system/files/Sample%20Notice_8.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12506,7 +12506,7 @@ The theft was reported to law enforcement, but, to date, the laptop has not been
 </details>
 ## Momentum for Mental Health
 <p class="hidden"></p>
-[June 03, 2016](https://oag.ca.gov/system/files/Crrnt%20Emply.MMH_.Data%20Breach%20Notice%20%283%29_0.pdf) | CAUSE
+[June 03, 2016](https://oag.ca.gov/system/files/Crrnt%20Emply.MMH_.Data%20Breach%20Notice%20%283%29_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12517,7 +12517,7 @@ personal information from your Form W-2 available to an unknown third party.
 </details>
 ## Mercy Medical Center Redding
 <p class="hidden"></p>
-[June 01, 2016](https://oag.ca.gov/system/files/patient%20letter%20-%20final_0.pdf) | CAUSE
+[June 01, 2016](https://oag.ca.gov/system/files/patient%20letter%20-%20final_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12525,14 +12525,14 @@ On June 6, 2016, Dignity Health learned your information was accessed inappropri
 </details>
 ## Multi-Color Corporation
 <p class="hidden"></p>
-[May 15, 2016](https://oag.ca.gov/system/files/Final%20Notice%20Letter_0.pdf) | CAUSE
+[May 15, 2016](https://oag.ca.gov/system/files/Final%20Notice%20Letter_0.pdf) | 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-An East Coast law firm was representing Multi-Color in litigation. As part of that representation, the law firm collected data from Multi-Color's system, which included HR records and information on all current US employees as of April 13, 2016; certain former employees and some employees of a predecessor. company; and application. The data was saced to an external hard drive and password protected. The hard drive was delivered to the law firm and the password was separately emailed to the law firm.
+An East Coast law firm was representing Multi-Color in litigation. As part of that representation, the law firm collected data from Multi-Color's system, which included HR records and information on all current US employees as of April 13, 2016; certain former employees and some employees of a predecessor. company; and application. The data was saved to an external hard drive and password protected. The hard drive was delivered to the law firm and the password was separately emailed to the law firm.
 </details>
 <p class="hidden"></p>
-[May 14, 2016](https://oag.ca.gov/system/files/FINAL%207-27-16%20Supplemental%20Notice_0.PDF) | CAUSE
+[May 14, 2016](https://oag.ca.gov/system/files/FINAL%207-27-16%20Supplemental%20Notice_0.PDF) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12545,7 +12545,7 @@ separately emailed to the law firm.
 </details>
 ## Mitchell International, Inc.
 <p class="hidden"></p>
-[February 24, 2016](https://oag.ca.gov/system/files/NoticeCA_0.pdf) | CAUSE
+[February 24, 2016](https://oag.ca.gov/system/files/NoticeCA_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12560,7 +12560,7 @@ computer systems or network. This disclosure was the result of an incredibly unf
 </details>
 ## Mercy Housing, Inc., Mercy Housing Management Group, Inc.
 <p class="hidden"></p>
-[February 19, 2016](https://oag.ca.gov/system/files/Employee%20Letter%202015%2002%2022_0.pdf) | CAUSE
+[February 19, 2016](https://oag.ca.gov/system/files/Employee%20Letter%202015%2002%2022_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12568,7 +12568,7 @@ Late in the afternoon of Friday February 19, 2016 there was an unauthorized rele
 </details>
 ## Magnolia Health Corporation
 <p class="hidden"></p>
-[February 03, 2016](https://oag.ca.gov/system/files/Breach%20Sample%20Letter_0.pdf) | CAUSE
+[February 03, 2016](https://oag.ca.gov/system/files/Breach%20Sample%20Letter_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -21457,7 +21457,7 @@ obtained, which is why you are receiving this notice.
 </details>
 ## Zinc Auto Finance, Inc
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Sample%20Notice%20of%20Breach%20uploaded%20to%20Secretary%20of%20State_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Sample%20Notice%20of%20Breach%20uploaded%20to%20Secretary%20of%20State_0.pdf) | Insider Threat 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
