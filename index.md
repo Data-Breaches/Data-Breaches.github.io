@@ -12745,7 +12745,7 @@ One of our offices was burglarized on Saturday, December 1, 2012 and a password 
 </details>
 ## Massive Media Match NV
 <p class="hidden"></p>
-[November 23, 2012](https://oag.ca.gov/system/files/Communication%20to%20Users%20-%20FINAL_0.pdf) | CAUSE
+[November 23, 2012](https://oag.ca.gov/system/files/Communication%20to%20Users%20-%20FINAL_0.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12753,7 +12753,7 @@ Through proactive data security monitoring, our security team recently discovere
 </details>
 ## Monterey Institute of International Studies
 <p class="hidden"></p>
-[September 14, 2012](https://oag.ca.gov/system/files/Sample%20Notification_0.pdf) | CAUSE
+[September 14, 2012](https://oag.ca.gov/system/files/Sample%20Notification_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12761,7 +12761,7 @@ As you know, we learned that an employee's home was burglarized on September 14,
 </details>
 ## Mission Linen Supply Company
 <p class="hidden"></p>
-[June 29, 2012](https://oag.ca.gov/system/files/Customer%20Notice%20Letter%20word%207%2020%2012_0.pdf) | CAUSE
+[June 29, 2012](https://oag.ca.gov/system/files/Customer%20Notice%20Letter%20word%207%2020%2012_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12769,7 +12769,7 @@ On or about June 29, 2012 we received word from one of our customers that severa
 </details>
 ## Manhattan Prep
 <p class="hidden"></p>
-[March 25, 2012](https://oag.ca.gov/system/files/CA%20customer%20notification%20letter.pdf) | CAUSE
+[March 25, 2012](https://oag.ca.gov/system/files/CA%20customer%20notification%20letter.pdf) | System Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12777,7 +12777,7 @@ With the help of data security experts, we are currently conducting a thorough i
 </details>
 ## Morgan Stanley
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/MS%20-%20Template%20CA%20Consumer%20Notice.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/MS%20-%20Template%20CA%20Consumer%20Notice.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12792,7 +12792,7 @@ and any potential risks.
 </details>
 ## Mathway LLC
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Mathway%20Breach%20Notice%20Email.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Mathway%20Breach%20Notice%20Email.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12801,7 +12801,7 @@ receiving a tip, we retained a leading data security firm to investigate and con
 </details>
 ## Marriott International
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/CA%20Notice.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/CA%20Notice.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12815,7 +12815,7 @@ incident. This incident did not impact the security of Marriott’s internal HR 
 </details>
 ## Moda Operandi Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Sample%20Notice%20Moda%20Operandi%20Inc._0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Sample%20Notice%20Moda%20Operandi%20Inc._0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12825,7 +12825,7 @@ encryption, we have determined it is in your best interest to assume that this i
 </details>
 ## MSA Accounting CPA, Professional Corp.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Ahluwalia%20Letter%20Version%201_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Ahluwalia%20Letter%20Version%201_0.pdf) | Unknown
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12838,7 +12838,7 @@ activity. As a further precautionary measure, we hired specialized forensic IT c
 </details>
 ## Mollie Stone's Markets
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/redacted_MSM_Letter%20to%20Adults_Redacted_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/redacted_MSM_Letter%20to%20Adults_Redacted_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12851,7 +12851,7 @@ restrictions to prevent further unauthorized access.
 </details>
 ## MetWest Terra Hospitality, LLC
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/redacted%20letter_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/redacted%20letter_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12859,7 +12859,7 @@ On February 9, 2017, we learned that a targeted "spear phishing" email message h
 </details>
 ## Myspace LLC
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Myspace%20user%20notification%20email_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Myspace%20user%20notification%20email_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12870,7 +12870,7 @@ platform.
 </details>
 ## Matson Navigation Company, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/ACID_PRINTERPROOFS_20151222_matson501_2_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/ACID_PRINTERPROOFS_20151222_matson501_2_0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12878,7 +12878,7 @@ I am writing to let you know that a device containing information regarding mari
 </details>
 ## MUJI U.S.A. LIMITED
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Muji%20USA%20notice%20only_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Muji%20USA%20notice%20only_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12887,7 +12887,7 @@ customers provided during the period of January 22, 2015 -- July 20, 2015 may ha
 </details>
 ## Martinelli Winery
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Martinelli_eCellars%20Breach%20Notification%20Letter%206_10_2015%20_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Martinelli_eCellars%20Breach%20Notification%20Letter%206_10_2015%20_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12895,7 +12895,7 @@ We greatly value your business and respect the privacy of your information, whic
 </details>
 ## Michaels Stores, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/CEO%20Letter%20-%20FINAL_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/CEO%20Letter%20-%20FINAL_0.pdf) | Unknown
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12903,7 +12903,7 @@ We are working closely with federal law enforcement and are conducting an invest
 </details>
 ## Maricopa County Community Colleges District
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Maricopa%20breach%20notice11_13_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Maricopa%20breach%20notice11_13_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12920,7 +12920,7 @@ personal health information.
 # N
 ## NetGalley, LLC
 <p class="hidden"></p>
-[December 21, 2020](https://oag.ca.gov/system/files/CCPA%20Data%20Breach%20Notification%202020-12-23.pdf) | CAUSE
+[December 21, 2020](https://oag.ca.gov/system/files/CCPA%20Data%20Breach%20Notification%202020-12-23.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12939,7 +12939,7 @@ unsecured, and the credentials became easily attainable by a hacker.
 On July 24, 2020, Amtrak detected that an unknown third party may have gained unauthorized access to certain Amtrak Guest Rewards accounts. Your account was not among these accounts. However, in responding, our security team identified some suspicious activity relating to other rewards accounts including your account. We reset the passwords for potentially affected accounts and implemented additional safeguards.
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Amtrak%20AGR%20Member%20Notification%20Letter_11.4.DF_.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Amtrak%20AGR%20Member%20Notification%20Letter_11.4.DF_.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12957,7 +12957,7 @@ reset the passwords for potentially affected accounts and implemented additional
 On July 16, 2020, we were contacted by Blackbaud, one of the world’s largest providers of customer relationship management systems for not-for-profit organizations and the higher education sector.  Company representatives informed us that a Blackbaud service provider had been the victim of a ransomware attack that culminated in May 2020. The cybercriminal was unsuccessful in blocking access to the database involved in the attack, however, the cybercriminal was able to remove a copy of a subset of data from several of Blackbaud’s clients including data of Northwest Foundation.
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Blackbaud%20Notification%20Letter.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Blackbaud%20Notification%20Letter.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12994,7 +12994,7 @@ On April 27, 2020, an unauthorized individual obtained access to the email accou
 </details>
 ## New Heights Ventures Inc.
 <p class="hidden"></p>
-[March 11, 2020](https://oag.ca.gov/system/files/Breach%20Letter.pdf) | CAUSE
+[March 11, 2020](https://oag.ca.gov/system/files/Breach%20Letter.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13010,7 +13010,7 @@ list.
 </details>
 ## National Institute for Automotive Service Excellence
 <p class="hidden"></p>
-[December 18, 2019](https://oag.ca.gov/system/files/Notice%20of%20Data%20Event%20-%20ASE.pdf) | CAUSE
+[December 18, 2019](https://oag.ca.gov/system/files/Notice%20of%20Data%20Event%20-%20ASE.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13026,7 +13026,7 @@ website.
 </details>
 ## New Media Trader Inc.
 <p class="hidden"></p>
-[October 01, 2019](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach_4.pdf) | CAUSE
+[October 01, 2019](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach_4.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13045,7 +13045,7 @@ On October 15, 2019, we learned that an unauthorized individual attempted to use
 </details>
 ## NYR Organic, Inc.
 <p class="hidden"></p>
-[August 21, 2019](https://oag.ca.gov/system/files/Neal%27s%20Yard%20Remedies%20-%20Notice%20of%20Data%20Event%20-%20CA%20.pdf) | CAUSE
+[August 21, 2019](https://oag.ca.gov/system/files/Neal%27s%20Yard%20Remedies%20-%20Notice%20of%20Data%20Event%20-%20CA%20.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13056,7 +13056,7 @@ accounts were accessed without authorization between August 21, 2019 and Septemb
 </details>
 ## Niche.com Inc.
 <p class="hidden"></p>
-[July 24, 2019](https://oag.ca.gov/system/files/Niche%20_%20Notice%20of%20Data%20Breach%20Letter.pdf) | CAUSE
+[July 24, 2019](https://oag.ca.gov/system/files/Niche%20_%20Notice%20of%20Data%20Breach%20Letter.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13074,7 +13074,7 @@ passwords out of an abundance of caution.
 </details>
 ## Northwood, Inc.
 <p class="hidden"></p>
-[May 03, 2019](https://oag.ca.gov/system/files/Northwood%20CA-Cover%20document%20deleted.pdf) | CAUSE
+[May 03, 2019](https://oag.ca.gov/system/files/Northwood%20CA-Cover%20document%20deleted.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13091,7 +13091,7 @@ Northwood systems were impacted by this incident.
 </details>
 ## Nutraceutical Wellness Inc. dba Nutrafol
 <p class="hidden"></p>
-[April 10, 2019](https://oag.ca.gov/system/files/Individual%20Notice%20Letter%20%28Nutrafol%20-%20CA%29.pdf) | CAUSE
+[April 10, 2019](https://oag.ca.gov/system/files/Individual%20Notice%20Letter%20%28Nutrafol%20-%20CA%29.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13103,7 +13103,7 @@ happening again.
 </details>
 ## Nemadji Research Corporation d/b/a California Reimbursement Enterprises
 <p class="hidden"></p>
-[March 28, 2019](https://oag.ca.gov/system/files/Nemadji%20CA%20AG%20-%20Exhibit%201-Cover%20document%20deleted_1.pdf) | CAUSE
+[March 28, 2019](https://oag.ca.gov/system/files/Nemadji%20CA%20AG%20-%20Exhibit%201-Cover%20document%20deleted_1.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13119,7 +13119,7 @@ Northgate Gonzalez discovered suspicious activity related to a certain Northgate
 </details>
 ## National Wildlife Federation
 <p class="hidden"></p>
-[January 03, 2019](https://oag.ca.gov/system/files/National%20Wildlife%20Federation%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA_0%20%28notification%29_0.pdf) | CAUSE
+[January 03, 2019](https://oag.ca.gov/system/files/National%20Wildlife%20Federation%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA_0%20%28notification%29_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13133,7 +13133,7 @@ to identify the types of information accessible and to whom this information may
 </details>
 ## North Country Business Products, Inc.
 <p class="hidden"></p>
-[January 03, 2019](https://oag.ca.gov/system/files/NCBP-%20Notice%20of%20Data%20Event-%20CA%20Exhibit%201_0.pdf) | CAUSE
+[January 03, 2019](https://oag.ca.gov/system/files/NCBP-%20Notice%20of%20Data%20Event-%20CA%20Exhibit%201_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13141,7 +13141,7 @@ On January 4, 2019, North Country learned of suspicious activity occurring withi
 </details>
 ## New Bit Ventures Ltd.
 <p class="hidden"></p>
-[December 09, 2018](https://oag.ca.gov/system/files/Coinmama%20Enclosure_0.pdf) | CAUSE
+[December 09, 2018](https://oag.ca.gov/system/files/Coinmama%20Enclosure_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13149,7 +13149,7 @@ In order to sell cryptocurrency, we ae required by regulation to collect certain
 </details>
 ## National Baseball Hall of Fame and Museum
 <p class="hidden"></p>
-[November 15, 2018](https://oag.ca.gov/system/files/National%20Baseball%20HoF%20Ad%20CA%20r5prf.pdf) | CAUSE
+[November 15, 2018](https://oag.ca.gov/system/files/National%20Baseball%20HoF%20Ad%20CA%20r5prf.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13165,7 +13165,7 @@ and May 14, 2019.
 </details>
 ## Nordstrom, Inc.
 <p class="hidden"></p>
-[October 09, 2018](https://oag.ca.gov/system/files/Nordstrom%20-%20Individual%20Notification%20Letter_0.pdf) | CAUSE
+[October 09, 2018](https://oag.ca.gov/system/files/Nordstrom%20-%20Individual%20Notification%20Letter_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13175,7 +13175,7 @@ enforcement and began a comprehensive investigation.
 </details>
 ## Net32, Inc.
 <p class="hidden"></p>
-[September 22, 2018](https://oag.ca.gov/system/files/Net32%20Sample%20Notice%20Letter_0.PDF) | CAUSE
+[September 22, 2018](https://oag.ca.gov/system/files/Net32%20Sample%20Notice%20Letter_0.PDF) | Third PartyThird Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13183,7 +13183,7 @@ Based on its ongoing forensic investigation, Net32 has discovered that one of Ne
 </details>
 ## Newegg Inc.
 <p class="hidden"></p>
-[August 13, 2018](https://oag.ca.gov/system/files/CA_Notice_W218_v02_0.pdf) | CAUSE
+[August 13, 2018](https://oag.ca.gov/system/files/CA_Notice_W218_v02_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13196,7 +13196,7 @@ what information may have been collected and the time period that the unauthoriz
 </details>
 ## NorthBay Healthcare Corporation
 <p class="hidden"></p>
-[May 08, 2018](https://oag.ca.gov/system/files/W026_v02.pdf_CA%20Notice_0.pdf) | CAUSE
+[May 08, 2018](https://oag.ca.gov/system/files/W026_v02.pdf_CA%20Notice_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13207,7 +13207,7 @@ with NorthBay between December 2012 and May 2018.
 </details>
 ## Notre Dame de Namur University
 <p class="hidden"></p>
-[April 23, 2018](https://oag.ca.gov/system/files/Adult%20CA%20Notice_1.pdf) | CAUSE
+[April 23, 2018](https://oag.ca.gov/system/files/Adult%20CA%20Notice_1.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13217,7 +13217,7 @@ what happened and what information may have been affected.
 </details>
 ## NC Financial Solutions of California, LLC d/b/a NetCredit ("NetCredit")
 <p class="hidden"></p>
-[February 19, 2018](https://oag.ca.gov/system/files/CA%20Account%20Holder%20Notification%20v1_0.pdf) | CAUSE
+[February 19, 2018](https://oag.ca.gov/system/files/CA%20Account%20Holder%20Notification%20v1_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13231,7 +13231,7 @@ with the account.
 </details>
 ## North American Risk Services, Inc.
 <p class="hidden"></p>
-[February 07, 2018](https://oag.ca.gov/system/files/NARS%20-%20CA%20Exhibit%201_0.pdf) | CAUSE
+[February 07, 2018](https://oag.ca.gov/system/files/NARS%20-%20CA%20Exhibit%201_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13249,7 +13249,7 @@ notice to affected individuals and businesses, including you.
 </details>
 ## North 40 Outfitters
 <p class="hidden"></p>
-[February 02, 2018](https://oag.ca.gov/system/files/North%2040%20-Regulation%20Letter%20-%20CA%20-%20FINAL_0.pdf) | CAUSE
+[February 02, 2018](https://oag.ca.gov/system/files/North%2040%20-Regulation%20Letter%20-%20CA%20-%20FINAL_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13263,7 +13263,7 @@ transaction on our website during the relevant time period, and your information
 
 </details>
 <p class="hidden"></p>
-[January 20, 2017](https://oag.ca.gov/system/files/North%2040-%20California%20Form%20Exhibit%201_0.pdf) | CAUSE
+[January 20, 2017](https://oag.ca.gov/system/files/North%2040-%20California%20Form%20Exhibit%201_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13277,7 +13277,7 @@ during the relevant time period, and your information may be affected.
 </details>
 ## NHS, INC.
 <p class="hidden"></p>
-[December 29, 2017](https://oag.ca.gov/system/files/Notice%20of%20Breach_0.pdf) | CAUSE
+[December 29, 2017](https://oag.ca.gov/system/files/Notice%20of%20Breach_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13286,7 +13286,7 @@ NHS immediately began to work to investigate and take appropriate corrective ste
 </details>
 ## NextGen Global Resources
 <p class="hidden"></p>
-[November 12, 2017](https://oag.ca.gov/system/files/NextGen%20Global%20Resources%20Breach%20Notice%204815-8586-3255%20v.2_0.pdf) | CAUSE
+[November 12, 2017](https://oag.ca.gov/system/files/NextGen%20Global%20Resources%20Breach%20Notice%204815-8586-3255%20v.2_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13303,7 +13303,7 @@ assigned to work for such customer.
 </details>
 ## Nevro Corporation
 <p class="hidden"></p>
-[November 11, 2017](https://oag.ca.gov/system/files/Notification%20Letter%20-%20%20Nevro_0.pdf) | CAUSE
+[November 11, 2017](https://oag.ca.gov/system/files/Notification%20Letter%20-%20%20Nevro_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13314,7 +13314,7 @@ to you has been stored.
 </details>
 ## National Capital Poison Center (“NCPC”)
 <p class="hidden"></p>
-[October 21, 2017](https://oag.ca.gov/system/files/NCPC%20Exhibit%201%20to%20CA%20Regulator%20Notice_0.pdf) | CAUSE
+[October 21, 2017](https://oag.ca.gov/system/files/NCPC%20Exhibit%201%20to%20CA%20Regulator%20Notice_0.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13329,7 +13329,7 @@ database contains information provided during calls made to or from the center b
 </details>
 ## Northwestern Mutual Life Insurance Company
 <p class="hidden"></p>
-[August 31, 2017](https://oag.ca.gov/system/files/%20Sample%20Client%20Notification%20Letter_0.pdf) | CAUSE
+[August 31, 2017](https://oag.ca.gov/system/files/%20Sample%20Client%20Notification%20Letter_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13341,7 +13341,7 @@ address this situation.
 </details>
 ## National Stores, Inc.
 <p class="hidden"></p>
-[July 16, 2017](https://oag.ca.gov/system/files/National%20Stores-Consumer%20Notification%20Letter_0.pdf) | CAUSE
+[July 16, 2017](https://oag.ca.gov/system/files/National%20Stores-Consumer%20Notification%20Letter_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13352,7 +13352,7 @@ brands in order to prevent fraudulent activity on payment cards that may have be
 </details>
 ## Northern Humboldt Union High School District
 <p class="hidden"></p>
-[April 17, 2017](https://oag.ca.gov/system/files/Northern%20Humboldt%20notice%20only%20SecurityBreach2017_0_0.pdf) | CAUSE
+[April 17, 2017](https://oag.ca.gov/system/files/Northern%20Humboldt%20notice%20only%20SecurityBreach2017_0_0.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13360,7 +13360,7 @@ On an unknown date, a person or persons accessed protected files within the NHUH
 </details>
 ## NEO Tech
 <p class="hidden"></p>
-[January 27, 2017](https://oag.ca.gov/system/files/NEO%20Tech%20Amended%20Notice%20of%20Data%20Breach%20-%20California_0.pdf) | CAUSE
+[January 27, 2017](https://oag.ca.gov/system/files/NEO%20Tech%20Amended%20Notice%20of%20Data%20Breach%20-%20California_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13371,7 +13371,7 @@ into our computer systems or network.
 </details>
 ## Nakawatase & Kaminsky, CPAs, LLP
 <p class="hidden"></p>
-[October 31, 2016](https://oag.ca.gov/system/files/ACL1000_L_PCIDFSSTAGE_109_20170131_001_archive_v2_IDX_001_PDF_001_8002010000_0.pdf) | CAUSE
+[October 31, 2016](https://oag.ca.gov/system/files/ACL1000_L_PCIDFSSTAGE_109_20170131_001_archive_v2_IDX_001_PDF_001_8002010000_0.pdf) | System Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13379,7 +13379,7 @@ In January 2017, we confirmed through the use of our forensic information techno
 </details>
 ## National Wholesale Incorporated
 <p class="hidden"></p>
-[September 01, 2016](https://oag.ca.gov/system/files/CA%20Consumer%20Notice_1.pdf) | CAUSE
+[September 01, 2016](https://oag.ca.gov/system/files/CA%20Consumer%20Notice_1.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13387,7 +13387,7 @@ On October 14, 2016, National Wholesale discovered that it had been the victim o
 </details>
 ## Napa Valley Dentistry
 <p class="hidden"></p>
-[August 11, 2016](https://oag.ca.gov/system/files/Napa%20Valley%20Dentistry%20NOTICE%20ONLY_0_0.pdf) | CAUSE
+[August 11, 2016](https://oag.ca.gov/system/files/Napa%20Valley%20Dentistry%20NOTICE%20ONLY_0_0.pdf) | Server Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13402,7 +13402,7 @@ authorization, we are notifying you out of an abundance of caution and offering 
 </details>
 ## Noble House Hotels & Resorts
 <p class="hidden"></p>
-[August 10, 2016](https://oag.ca.gov/system/files/Noble%20House%20-%20Consumer%20Notification%20Letter%20%28Non-Massachusetts%20residents%29_0.pdf) | CAUSE
+[August 10, 2016](https://oag.ca.gov/system/files/Noble%20House%20-%20Consumer%20Notification%20Letter%20%28Non-Massachusetts%20residents%29_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13415,7 +13415,7 @@ engaged a digital forensics firm to conduct an investigation. On June 6, 2017, S
 information may have been accessed between August 10, 2016 and March 9, 2017 without authorization. 
 </details>
 <p class="hidden"></p>
-[April 25, 2016](https://oag.ca.gov/system/files/Noble%20house%20%28all%20properties%29%20individual%20notification%20template%20-%20CA%20FINAL_0.pdf) | CAUSE
+[April 25, 2016](https://oag.ca.gov/system/files/Noble%20house%20%28all%20properties%29%20individual%20notification%20template%20-%20CA%20FINAL_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13428,7 +13428,7 @@ hotels, restaurants, and bars during the periods identified:
 </details>
 ## Newkirk Products, Inc.
 <p class="hidden"></p>
-[May 21, 2016](https://oag.ca.gov/system/files/CAexampleletter_0.pdf) | CAUSE
+[May 21, 2016](https://oag.ca.gov/system/files/CAexampleletter_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13437,7 +13437,7 @@ contained on the server may have been accessed, NewKirk has no evidence to date 
 </details>
 ## Northrop Grumman Systems Corporation
 <p class="hidden"></p>
-[April 18, 2016](https://oag.ca.gov/system/files/Northrop%20Grumman%20Individual%20Notification%20Letter_64772036_1_0.PDF) | CAUSE
+[April 18, 2016](https://oag.ca.gov/system/files/Northrop%20Grumman%20Individual%20Notification%20Letter_64772036_1_0.PDF) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13445,7 +13445,7 @@ Equifax Workforce solutions (aka TALX), our W-2 online portal provider, recently
 </details>
 ## Noodles & Company
 <p class="hidden"></p>
-[January 31, 2016](https://oag.ca.gov/system/files/Noodles%20Press%20Release%20-%2006%2028%202016%20Final-Final%20%282%29_0.pdf) | CAUSE
+[January 31, 2016](https://oag.ca.gov/system/files/Noodles%20Press%20Release%20-%2006%2028%202016%20Final-Final%20%282%29_0.pdf) | Computer Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13459,7 +13459,7 @@ locations.
 </details>
 ## Neiman Marcus Group LTD LLC
 <p class="hidden"></p>
-[December 26, 2015](https://oag.ca.gov/system/files/Neiman%20Marcus%20notice%20only%20_1-29-2016_0_0.pdf) | CAUSE
+[December 26, 2015](https://oag.ca.gov/system/files/Neiman%20Marcus%20notice%20only%20_1-29-2016_0_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13467,7 +13467,7 @@ On or around December 26, 2015, unauthorized individuals began an attempt to acc
 </details>
 ## Nationstar Mortgage LLC
 <p class="hidden"></p>
-[July 27, 2015](https://oag.ca.gov/system/files/Greenlight%20Incident_CA_%20Notification081015_0.pdf) | CAUSE
+[July 27, 2015](https://oag.ca.gov/system/files/Greenlight%20Incident_CA_%20Notification081015_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13475,7 +13475,7 @@ On July 27th.  an email with a copy of your W2 form was inadvertently sent to an
 </details>
 ## North East Medical Services
 <p class="hidden"></p>
-[July 11, 2015](https://oag.ca.gov/system/files/NEMS%20Letter_AllClearID_LONG_final_0.pdf) | CAUSE
+[July 11, 2015](https://oag.ca.gov/system/files/NEMS%20Letter_AllClearID_LONG_final_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13483,7 +13483,7 @@ However, on July 11, 2015, an employee's vehicle was broken into, and the employ
 </details>
 ## Native Canada Footwear
 <p class="hidden"></p>
-[April 28, 2015](https://oag.ca.gov/system/files/5789_Native%20Footwear_Notice_US_0.pdf) | CAUSE
+[April 28, 2015](https://oag.ca.gov/system/files/5789_Native%20Footwear_Notice_US_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13495,7 +13495,7 @@ payment information was indeed stolen, your information may be affected.
 </details>
 ## NLU Products, LLC
 <p class="hidden"></p>
-[April 20, 2015](https://oag.ca.gov/system/files/Customer%20Notification%20California_0.pdf) | CAUSE
+[April 20, 2015](https://oag.ca.gov/system/files/Customer%20Notification%20California_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13505,15 +13505,15 @@ outside party and compromised.
 </details>
 ## New Horizons Computer Learning Centers, Inc.
 <p class="hidden"></p>
-[April 04, 2015](https://oag.ca.gov/system/files/New%20Horizons%20notice%20only%207_10_15_0.pdf) | CAUSE
+[April 04, 2015](https://oag.ca.gov/system/files/New%20Horizons%20notice%20only%207_10_15_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-On May 28, 2015, we detected suspicious activity on a certain server within our network. We immediately launched an investigation into the activity and , on June 11, 2015, determined unauthorized access to certain employee and vendor information atored on our network had occureed. while our investigation is ongoing, we've determined the following information relating to your business was accessed without authorization: name, and bank account information. Again, we are unaware of any actual or attempted misuse of this information.
+On May 28, 2015, we detected suspicious activity on a certain server within our network. We immediately launched an investigation into the activity and , on June 11, 2015, determined unauthorized access to certain employee and vendor information stored on our network had occureed. while our investigation is ongoing, we've determined the following information relating to your business was accessed without authorization: name, and bank account information. Again, we are unaware of any actual or attempted misuse of this information.
 </details>
 ## Nite Ize, Inc.
 <p class="hidden"></p>
-[March 03, 2015](https://oag.ca.gov/system/files/Notification%20Letter%20Credit%20Cards%20and%20Database%20%28US%20incl%20PR%20Territories%20%29%20_0.pdf) | CAUSE
+[March 03, 2015](https://oag.ca.gov/system/files/Notification%20Letter%20Credit%20Cards%20and%20Database%20%28US%20incl%20PR%20Territories%20%29%20_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13521,7 +13521,7 @@ We recently learned from our service provider that our online store was subject 
 </details>
 ## Noble House Hotel and Resorts
 <p class="hidden"></p>
-[January 28, 2015](https://oag.ca.gov/system/files/General%20Notice_0.pdf) | CAUSE
+[January 28, 2015](https://oag.ca.gov/system/files/General%20Notice_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13529,7 +13529,7 @@ Noble House began an investigation after we received calls from some of our gues
 </details>
 ## Noble House Hotels and Resorts
 <p class="hidden"></p>
-[December 29, 2014](https://oag.ca.gov/system/files/General%20Notice_1.pdf) | CAUSE
+[December 29, 2014](https://oag.ca.gov/system/files/General%20Notice_1.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13537,7 +13537,7 @@ Noble House began an investigation after we received calls from some of our gues
 </details>
 ## Nvidia Corporation
 <p class="hidden"></p>
-[October 08, 2014](https://oag.ca.gov/system/files/Notice%2C%2012-17-2014_0.pdf) | CAUSE
+[October 08, 2014](https://oag.ca.gov/system/files/Notice%2C%2012-17-2014_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13545,7 +13545,7 @@ We recently learned during the week of December 1st that there was unauthorized 
 </details>
 ## Northern Trust
 <p class="hidden"></p>
-[May 17, 2014](https://oag.ca.gov/system/files/WASHINGTON_DC-%2379225-v1-NT_-_Attachment_A_-_General_Notification_Letter_0.PDF) | CAUSE
+[May 17, 2014](https://oag.ca.gov/system/files/WASHINGTON_DC-%2379225-v1-NT_-_Attachment_A_-_General_Notification_Letter_0.PDF) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13553,7 +13553,7 @@ Regrettably, we are writing to inform you about an inadvertent disclosure by Nor
 </details>
 ## NCO Financial Systems, Inc.
 <p class="hidden"></p>
-[March 29, 2014](https://oag.ca.gov/system/files/CA_SAMPLE-0-D_0.pdf) | CAUSE
+[March 29, 2014](https://oag.ca.gov/system/files/CA_SAMPLE-0-D_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13561,7 +13561,7 @@ On March 29, 2014 our communications vendor, RevSpring, Inc. sent an email to a 
 </details>
 ## NECA/IBEW Family Medical Care Plan
 <p class="hidden"></p>
-[December 28, 2012](https://oag.ca.gov/system/files/Sample%20Notice%20to%20Participants_0.pdf) | CAUSE
+[December 28, 2012](https://oag.ca.gov/system/files/Sample%20Notice%20to%20Participants_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13569,7 +13569,7 @@ We are contacting you as a precautionary measure because we have learned of a po
 </details>
 ## North Los Angeles County Regional Center
 <p class="hidden"></p>
-[November 10, 2012](https://oag.ca.gov/system/files/NLACRC%20Notice_0.pdf) | CAUSE
+[November 10, 2012](https://oag.ca.gov/system/files/NLACRC%20Notice_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13577,7 +13577,7 @@ We learned on November 13, 2012 that a NLACRC lap top was stolen that contained 
 </details>
 ## Nationwide Mutual Insurance Company
 <p class="hidden"></p>
-[October 03, 2012](https://oag.ca.gov/system/files/PE%2320121003-127_letter%20_Final%20Template__0.pdf) | CAUSE
+[October 03, 2012](https://oag.ca.gov/system/files/PE%2320121003-127_letter%20_Final%20Template__0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13585,7 +13585,7 @@ On October 3, 2012, a portion of our computer network that is used by Nationwide
 </details>
 ## Nordstrom fsb
 <p class="hidden"></p>
-[June 07, 2012](https://oag.ca.gov/system/files/Notification%20Sample%20%28Nordstrom%20fsb%29_0.pdf) | CAUSE
+[June 07, 2012](https://oag.ca.gov/system/files/Notification%20Sample%20%28Nordstrom%20fsb%29_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13593,7 +13593,7 @@ Due to an attempt to reformat addresses to U.S. Postal Service standards, a prev
 </details>
 ## Nebraska State College System
 <p class="hidden"></p>
-[May 23, 2012](https://oag.ca.gov/system/files/NSCS%20Notice%20to%20California%20Residents_0.pdf) | CAUSE
+[May 23, 2012](https://oag.ca.gov/system/files/NSCS%20Notice%20to%20California%20Residents_0.pdf) | System Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13601,7 +13601,7 @@ On May 23, 2012, there was unauthorized access into the Nebraska Student informa
 </details>
 ## New York State Electric & Gas (NYSEG) and Rochester Gas and Electric (RG&E) (subsidiaries of Iberdrola USA)
 <p class="hidden"></p>
-[January 05, 2012](https://oag.ca.gov/system/files/CA%20customer%20letter.pdf) | CAUSE
+[January 05, 2012](https://oag.ca.gov/system/files/CA%20customer%20letter.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13609,7 +13609,7 @@ We take our responsibility to protect your personal data very seriously. For thi
 </details>
 ## Next Glass, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/2020%200717%20Next%20Glass.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/2020%200717%20Next%20Glass.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
