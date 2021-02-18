@@ -13623,7 +13623,7 @@ information that is likely to lead to identity theft.
 </details>
 ## Nicopure Labs, LLC
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/NicoPure%20%20Notice_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/NicoPure%20%20Notice_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13633,7 +13633,7 @@ a cyber security firm to examine our website.
 </details>
 ## NSC Technologies, LLC
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/NSC%20Data%20Breach_CA%20Letter_030717_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/NSC%20Data%20Breach_CA%20Letter_030717_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13650,7 +13650,7 @@ potential for such misuse certainly exists.
 </details>
 ## Novation Settlement Solutions
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Novation%20Ad%20CA%20r2prf_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Novation%20Ad%20CA%20r2prf_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13663,7 +13663,7 @@ you can, if you choose, take steps to protect against the potential misuse of yo
 </details>
 ## NextBus, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/NextBus_ONLY%20Notification_Letter_CA_AG_0%20%281%29_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/NextBus_ONLY%20Notification_Letter_CA_AG_0%20%281%29_0.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13671,7 +13671,7 @@ On September 18th, 2015, NextBus detected suspicious activity from an account an
 </details>
 ## National Credit Adjusters, LLC
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/NCA%20Sample%202014-6-4_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/NCA%20Sample%202014-6-4_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13679,7 +13679,7 @@ National Credit Adjusters, LLC ("NCA") receives certain personal information abo
 </details>
 ## Neiman Marcus Group
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/neiman%20notice%20only%20CA%20AG%20PDF_0_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/neiman%20notice%20only%20CA%20AG%20PDF_0_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13687,7 +13687,7 @@ We deeply regret and are sorry that some of our customer's payment cards were us
 </details>
 ## National Processing Company, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Sample%20CA%20notice_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Sample%20CA%20notice_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13712,7 +13712,7 @@ On July 13, 2020, Osmose suffered a cyber attack against our computer systems, w
 </details>
 ## Optima Family Services, Inc.
 <p class="hidden"></p>
-[April 21, 2020](https://oag.ca.gov/system/files/TEMPLATE%20CodeMetro%20HIPAA%20Individual%20Notice_2_1.pdf) | CAUSE
+[April 21, 2020](https://oag.ca.gov/system/files/TEMPLATE%20CodeMetro%20HIPAA%20Individual%20Notice_2_1.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13723,7 +13723,7 @@ We also notified federal law enforcement authorities of the incident.
 </details>
 ## Orchard Medical Consulting
 <p class="hidden"></p>
-[January 16, 2020](https://oag.ca.gov/system/files/CA%20Notice_9.pdf) | CAUSE
+[January 16, 2020](https://oag.ca.gov/system/files/CA%20Notice_9.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13741,7 +13741,7 @@ We recently learned that an unauthorized person gained access to a limited numbe
 </details>
 ## Overlake Medical Center & Clinics
 <p class="hidden"></p>
-[December 06, 2019](https://oag.ca.gov/system/files/Overlake%20Hospital%20Notice.pdf) | CAUSE
+[December 06, 2019](https://oag.ca.gov/system/files/Overlake%20Hospital%20Notice.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13749,7 +13749,7 @@ On December 9, 2019, we learned that unidentified third parties obtained the log
 </details>
 ## Oklahoma Department of Securities
 <p class="hidden"></p>
-[November 29, 2018](https://oag.ca.gov/system/files/ODS%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA%20%28Notice%20Only%29.pdf) | CAUSE
+[November 29, 2018](https://oag.ca.gov/system/files/ODS%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA%20%28Notice%20Only%29.pdf) | Vulnerability
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13757,7 +13757,7 @@ On or about December 11, 2018, the Department received a report of a vulnerabili
 </details>
 ## OXO International, Ltd.
 <p class="hidden"></p>
-[July 01, 2018](https://oag.ca.gov/system/files/OXO%20International%202%20Ad%20r2fin_0.pdf) | CAUSE
+[July 01, 2018](https://oag.ca.gov/system/files/OXO%20International%202%20Ad%20r2fin_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13770,7 +13770,7 @@ payment information may have been ineffective, we are notifying you out of an ab
 </details>
 ## OXO
 <p class="hidden"></p>
-[July 01, 2018](https://oag.ca.gov/system/files/OXO%20International%20Ad%20r3prf_0.pdf) | CAUSE
+[July 01, 2018](https://oag.ca.gov/system/files/OXO%20International%20Ad%20r3prf_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13781,7 +13781,7 @@ pages on our website.
 </details>
 ## OnCourse Learning Corporation (“OCL”), a predecessor-in-interest to Relias LLC (“Relias”)
 <p class="hidden"></p>
-[June 11, 2018](https://oag.ca.gov/system/files/ACID_PRINTERPROOFS_20190305_relias501_1%20%282%29%20%5B48%5D_0.PDF) | CAUSE
+[June 11, 2018](https://oag.ca.gov/system/files/ACID_PRINTERPROOFS_20190305_relias501_1%20%282%29%20%5B48%5D_0.PDF) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13791,7 +13791,7 @@ and February 4, 2019.
 </details>
 ## Orbitz
 <p class="hidden"></p>
-[October 01, 2017](https://oag.ca.gov/system/files/Orbitz%20Sample%20Individual%20Notification_1.pdf) | CAUSE
+[October 01, 2017](https://oag.ca.gov/system/files/Orbitz%20Sample%20Individual%20Notification_1.pdf) | Service Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13806,7 +13806,7 @@ eliminate and prevent unauthorized access to the platform.
 </details>
 ## Occidental College
 <p class="hidden"></p>
-[June 01, 2017](https://oag.ca.gov/system/files/20170619%20Occidental%20College%20Sample%20Notice-CA_0.pdf) | CAUSE
+[June 01, 2017](https://oag.ca.gov/system/files/20170619%20Occidental%20College%20Sample%20Notice-CA_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13816,7 +13816,7 @@ information. The college has conducted a thorough investigation into what happen
 </details>
 ## OSIsoft, LLC
 <p class="hidden"></p>
-[March 23, 2017](https://oag.ca.gov/system/files/Memorandum-on-Credential-Theft-Incident-CA_0_1.pdf) | CAUSE
+[March 23, 2017](https://oag.ca.gov/system/files/Memorandum-on-Credential-Theft-Incident-CA_0_1.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13826,7 +13826,7 @@ remotely access OSIsoft computers.
 </details>
 ## Operating Engineers Local Union No. 3
 <p class="hidden"></p>
-[February 09, 2017](https://oag.ca.gov/system/files/OE3%20Notice%20of%20Data%20Breach%20Letter%20from%20RB_0.pdf) | CAUSE
+[February 09, 2017](https://oag.ca.gov/system/files/OE3%20Notice%20of%20Data%20Breach%20Letter%20from%20RB_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13834,7 +13834,7 @@ On or about February 9, 2017, OE3 learned that the security of user data stored 
 </details>
 ## Orange County Global Medical Center
 <p class="hidden"></p>
-[February 08, 2017](https://oag.ca.gov/system/files/Sample%20Notice_3.pdf) | CAUSE
+[February 08, 2017](https://oag.ca.gov/system/files/Sample%20Notice_3.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13845,7 +13845,7 @@ instructed him to permanently delete the information.
 </details>
 ## Ondracek & Company
 <p class="hidden"></p>
-[November 21, 2016](https://oag.ca.gov/system/files/Ondracek%20Version%201_0.pdf) | CAUSE
+[November 21, 2016](https://oag.ca.gov/system/files/Ondracek%20Version%201_0.pdf) | System Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13859,7 +13859,7 @@ additional investigation.
 </details>
 ## Oilandgasjobsearch.com Limited
 <p class="hidden"></p>
-[September 03, 2016](https://oag.ca.gov/system/files/OGJS%20-%20Security%20Breach%20Notification%20Sample_0.pdf) | CAUSE
+[September 03, 2016](https://oag.ca.gov/system/files/OGJS%20-%20Security%20Breach%20Notification%20Sample_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13868,7 +13868,7 @@ today to inform you of an incident in which we experienced unauthorized access t
 </details>
 ## Opes Advisors
 <p class="hidden"></p>
-[May 26, 2016](https://oag.ca.gov/system/files/Adult%20Notice_0.pdf) | CAUSE
+[May 26, 2016](https://oag.ca.gov/system/files/Adult%20Notice_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13878,7 +13878,7 @@ information so we wanted to let you know about this incident right away.
 </details>
 ## OptumRx
 <p class="hidden"></p>
-[March 16, 2016](https://oag.ca.gov/system/files/individual%20notification%20letter%20optumrx%20vendor%20laptop%20matter%20-%20final_0.pdf) | CAUSE
+[March 16, 2016](https://oag.ca.gov/system/files/individual%20notification%20letter%20optumrx%20vendor%20laptop%20matter%20-%20final_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13886,7 +13886,7 @@ On March 22, 2016, we were notified that an unencrypted laptop computer belongin
 </details>
 ## Omni Hotels & Resorts
 <p class="hidden"></p>
-[December 23, 2015](https://oag.ca.gov/system/files/NoticeofDataBreach070816_0.pdf) | CAUSE
+[December 23, 2015](https://oag.ca.gov/system/files/NoticeofDataBreach070816_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13896,7 +13896,7 @@ information, including cardholder name, credit/debit card number, security code 
 </details>
 ## Orange County Employees Association
 <p class="hidden"></p>
-[June 05, 2015](https://oag.ca.gov/system/files/AG%20Sample%20Notice%20073115_0.pdf) | CAUSE
+[June 05, 2015](https://oag.ca.gov/system/files/AG%20Sample%20Notice%20073115_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13904,7 +13904,7 @@ Regrettably, we recently learned that OCEA has been the victim of a cyber attack
 </details>
 ## orlantino dyoco, M.D.
 <p class="hidden"></p>
-[June 03, 2015](https://oag.ca.gov/system/files/dyoco%20notification_0.pdf) | CAUSE
+[June 03, 2015](https://oag.ca.gov/system/files/dyoco%20notification_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13912,7 +13912,7 @@ On July 23, 2015, we determined that one or more attackers had successfully pene
 </details>
 ## OneStopParking
 <p class="hidden"></p>
-[August 01, 2014](https://oag.ca.gov/system/files/OSP%20Notice%20Letter_1.pdf) | CAUSE
+[August 01, 2014](https://oag.ca.gov/system/files/OSP%20Notice%20Letter_1.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13927,7 +13927,7 @@ credit card expiration date and CVV code.
 </details>
 ## OppenheimerFunds
 <p class="hidden"></p>
-[April 24, 2014](https://oag.ca.gov/system/files/CA%20Security%20Breach%20Notification%20Sample_0.pdf) | CAUSE
+[April 24, 2014](https://oag.ca.gov/system/files/CA%20Security%20Breach%20Notification%20Sample_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13935,7 +13935,7 @@ On January 9, 2015, a brokerage firm (“Firm”) that has a business relationsh
 </details>
 ## OANDA Corporation
 <p class="hidden"></p>
-[March 03, 2014](https://oag.ca.gov/system/files/2014-03-03%20breach_0.pdf) | CAUSE
+[March 03, 2014](https://oag.ca.gov/system/files/2014-03-03%20breach_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13943,7 +13943,7 @@ We are writing to inform you of an unauthorized breach affecting some of our cli
 </details>
 ## OnCore Manufacturing Services
 <p class="hidden"></p>
-[July 05, 2013](https://oag.ca.gov/system/files/OnCore%20Notification%20Letter%20to%20Employees%20Final_0.pdf) | CAUSE
+[July 05, 2013](https://oag.ca.gov/system/files/OnCore%20Notification%20Letter%20to%20Employees%20Final_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13951,7 +13951,7 @@ On July 5, 2013, a Company laptop of an Oncore employee was stolen from the empl
 </details>
 ## Ouidad
 <p class="hidden"></p>
-[June 30, 2013](https://oag.ca.gov/system/files/Customer%20Notification_2.pdf) | CAUSE
+[June 30, 2013](https://oag.ca.gov/system/files/Customer%20Notification_2.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13959,7 +13959,7 @@ Regrettably, we are writing to inform you of an incident involving some of that 
 </details>
 ## OCS America, Inc.
 <p class="hidden"></p>
-[March 04, 2013](https://oag.ca.gov/system/files/CA%20OCS%20Employee%20Breach%20Notice%20Letter%20%2811%20March%202013%29%20v1_0.pdf) | CAUSE
+[March 04, 2013](https://oag.ca.gov/system/files/CA%20OCS%20Employee%20Breach%20Notice%20Letter%20%2811%20March%202013%29%20v1_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13967,7 +13967,7 @@ On March 4, 2013, OCS America, Inc. discovered that one of its computers may hav
 </details>
 ## Outdoor Network LLC
 <p class="hidden"></p>
-[December 14, 2012](https://oag.ca.gov/system/files/Outdoor%20Network%20Notification%20V1%20D_data%20audit%20proof_090613_0.pdf) | CAUSE
+[December 14, 2012](https://oag.ca.gov/system/files/Outdoor%20Network%20Notification%20V1%20D_data%20audit%20proof_090613_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13977,7 +13977,7 @@ We believe the incident occurred when unauthorized third parties compromised and
 </details>
 ## Opening Ceremony Online LLC
 <p class="hidden"></p>
-[February 14, 2012](https://oag.ca.gov/system/files/Opening%20Ceremony%20-%20Notice%20re%20Security%20Breach%20to%20Customer.pdf) | CAUSE
+[February 14, 2012](https://oag.ca.gov/system/files/Opening%20Ceremony%20-%20Notice%20re%20Security%20Breach%20to%20Customer.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13985,7 +13985,7 @@ Due to an inadvertent breach of security that occurred during the period from Fe
 </details>
 ## Oak River Insurance Company
 <p class="hidden"></p>
-[October 01, 2011](https://oag.ca.gov/system/files/Sample%20Letter_2.pdf) | CAUSE
+[October 01, 2011](https://oag.ca.gov/system/files/Sample%20Letter_2.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -13993,7 +13993,7 @@ The Company discovered that a former employee, while employed with the Company, 
 </details>
 ## OneWest Bank, FSB
 <p class="hidden"></p>
-[January 01, 2011](https://oag.ca.gov/system/files/Network%20Intrusion_Breach%20Notification%20on_0.pdf) | CAUSE
+[January 01, 2011](https://oag.ca.gov/system/files/Network%20Intrusion_Breach%20Notification%20on_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14001,7 +14001,7 @@ We recently learned that one of our service providers, was the victim of an ille
 </details>
 ## Outpost Vineyards
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Outpost%20Breach_Draft%20Notification%20Letter_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Outpost%20Breach_Draft%20Notification%20Letter_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14065,7 +14065,7 @@ On January 7, 2020 VBS discovered suspicious activity in a VBS employee’s emai
 </details>
 ## PCL Constructors, Inc.
 <p class="hidden"></p>
-[February 18, 2020](https://oag.ca.gov/system/files/PCL%20Constructors%20Ad%20Employee%201yr%20r5prf.pdf) | CAUSE
+[February 18, 2020](https://oag.ca.gov/system/files/PCL%20Constructors%20Ad%20Employee%201yr%20r5prf.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14093,7 +14093,7 @@ We were recently notified by one of our third-party service providers of a secur
 </details>
 ## Principal Life Insurance Company
 <p class="hidden"></p>
-[December 12, 2019](https://oag.ca.gov/system/files/Participant%20Notification%20Letter%20-%201%20year.pdf) | CAUSE
+[December 12, 2019](https://oag.ca.gov/system/files/Participant%20Notification%20Letter%20-%201%20year.pdf) | Programming Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14102,7 +14102,7 @@ that the misdirected wepage, if it was displayed at all, was only displayed for 
 </details>
 ## Prime Communications
 <p class="hidden"></p>
-[December 11, 2019](https://oag.ca.gov/system/files/Prime%20Communications.pdf) | CAUSE
+[December 11, 2019](https://oag.ca.gov/system/files/Prime%20Communications.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14115,7 +14115,7 @@ otherwise disclosed beyond this former employee or to the general public.
 </details>
 ## Pacific Guardian Life Insurance Co. Ltd.
 <p class="hidden"></p>
-[November 04, 2019](https://oag.ca.gov/system/files/Pacific%20Guardian%20Life%20-%20California%20Attorney%20General%20Notification.pdf) | CAUSE
+[November 04, 2019](https://oag.ca.gov/system/files/Pacific%20Guardian%20Life%20-%20California%20Attorney%20General%20Notification.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14123,7 +14123,7 @@ On November 4, 2019, Pacific Guardian Life became aware of suspicious activity w
 </details>
 ## PKF LLP
 <p class="hidden"></p>
-[August 17, 2019](https://oag.ca.gov/system/files/PKF%20LLP%20CA%20Template.pdf) | CAUSE
+[August 17, 2019](https://oag.ca.gov/system/files/PKF%20LLP%20CA%20Template.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14142,7 +14142,7 @@ We recently concluded an investigation and analysis of a data security incident 
 </details>
 ## Pacific Press Publishing Association
 <p class="hidden"></p>
-[June 22, 2019](https://oag.ca.gov/system/files/Pacific_Press_Breach%2004%2024%202020%20v2%5B2%5D.pdf) | CAUSE
+[June 22, 2019](https://oag.ca.gov/system/files/Pacific_Press_Breach%2004%2024%202020%20v2%5B2%5D.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14150,7 +14150,7 @@ In late October, 2019 unauthorized code was discovered on our adventistbookcente
 </details>
 ## PIH Health
 <p class="hidden"></p>
-[June 11, 2019](https://oag.ca.gov/system/files/PIH%20Health%20-%20Sample%20Notification%20Letter%20v2.pdf) | CAUSE
+[June 11, 2019](https://oag.ca.gov/system/files/PIH%20Health%20-%20Sample%20Notification%20Letter%20v2.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14158,7 +14158,7 @@ On June 18, 2019, PIH Health learned that certain PIH Health employee email acco
 </details>
 ## Paul Quinn College
 <p class="hidden"></p>
-[May 24, 2019](https://oag.ca.gov/system/files/California%20Sample%20Notification%20Letter%20PQC.pdf) | CAUSE
+[May 24, 2019](https://oag.ca.gov/system/files/California%20Sample%20Notification%20Letter%20PQC.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14173,7 +14173,7 @@ situation.
 </details>
 ## Presbyterian Healthcare Services
 <p class="hidden"></p>
-[May 09, 2019](https://oag.ca.gov/system/files/SSN%20Final%20Proof%20%28Updated%29-07-30-2019.pdf) | CAUSE
+[May 09, 2019](https://oag.ca.gov/system/files/SSN%20Final%20Proof%20%28Updated%29-07-30-2019.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14181,7 +14181,7 @@ On June 6, 2019, Presbyterian discovered anonymous, unauthorized access gained t
 </details>
 ## Pacific Specialty Insurance Company
 <p class="hidden"></p>
-[March 20, 2019](https://oag.ca.gov/system/files/PSIC%20-%20CA%20Notice%20of%20Data%20Event.pdf) | CAUSE
+[March 20, 2019](https://oag.ca.gov/system/files/PSIC%20-%20CA%20Notice%20of%20Data%20Event.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14197,7 +14197,7 @@ impacted individuals through January 14, 2020.
 </details>
 ## Princess Polly Group Pty Ltd
 <p class="hidden"></p>
-[November 01, 2018](https://oag.ca.gov/system/files/Princess%20Polly%20Group%20Pty%20Ltd%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA_0%28notice%29_2.pdf) | CAUSE
+[November 01, 2018](https://oag.ca.gov/system/files/Princess%20Polly%20Group%20Pty%20Ltd%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA_0%28notice%29_2.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14205,7 +14205,7 @@ On or around april 24, 2019, Princess Polly Online Pty Ltd ("Princess Polly") wa
 </details>
 ## Paylocity Corporation
 <p class="hidden"></p>
-[November 01, 2018](https://oag.ca.gov/system/files/ACID_PRINTERPROOFS_20181121_paylocity501_CA%20%28SAMPLE%29_0.pdf) | CAUSE
+[November 01, 2018](https://oag.ca.gov/system/files/ACID_PRINTERPROOFS_20181121_paylocity501_CA%20%28SAMPLE%29_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14218,7 +14218,7 @@ future.
 </details>
 ## Prosper Marketplace, Inc.
 <p class="hidden"></p>
-[October 03, 2018](undefined) | CAUSE
+[October 03, 2018](undefined) | Unknown
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14226,7 +14226,7 @@ TBDB
 </details>
 ## Pie Five Pizza
 <p class="hidden"></p>
-[September 07, 2018](https://oag.ca.gov/system/files/Sample%20Notice_29.pdf) | CAUSE
+[September 07, 2018](https://oag.ca.gov/system/files/Sample%20Notice_29.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14246,7 +14246,7 @@ purchases made on the PieFivePizza.com website.
 </details>
 ## Pharmaca Integrative Pharmacy Inc.
 <p class="hidden"></p>
-[July 19, 2018](https://oag.ca.gov/system/files/Pharmaca%20-%20Regulator%20Notice%20-%20CA%20-%20FINAL_0%20%28notice%29_0.pdf) | CAUSE
+[July 19, 2018](https://oag.ca.gov/system/files/Pharmaca%20-%20Regulator%20Notice%20-%20CA%20-%20FINAL_0%20%28notice%29_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14259,7 +14259,7 @@ at certain Pharmaca stores between July 19, 2018 and December 12, 2018.
 </details>
 ## Pharmacy Times Office of Continuing Professional Education ("PTCE")
 <p class="hidden"></p>
-[July 06, 2018](https://oag.ca.gov/system/files/CA%20-%20Exhibit%20A%20Packet_0_0.pdf) | CAUSE
+[July 06, 2018](https://oag.ca.gov/system/files/CA%20-%20Exhibit%20A%20Packet_0_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14283,7 +14283,7 @@ On November 6, 2020, through Merchant Services’* internal cybersecurity progra
 </details>
 ## Plant Therapy
 <p class="hidden"></p>
-[March 29, 2018](https://oag.ca.gov/system/files/Plant%20Therapy%20-%20California%20AG%20Notification%20Letter_0.pdf) | CAUSE
+[March 29, 2018](https://oag.ca.gov/system/files/Plant%20Therapy%20-%20California%20AG%20Notification%20Letter_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14296,7 +14296,7 @@ of the incident and to share with you steps that you can take to help protect yo
 </details>
 ## PLAE INC.
 <p class="hidden"></p>
-[March 15, 2018](https://oag.ca.gov/system/files/PLAE%20Notification%20Letter%20-%20052918%20FINAL_for%20state%20regulators_0.pdf) | CAUSE
+[March 15, 2018](https://oag.ca.gov/system/files/PLAE%20Notification%20Letter%20-%20052918%20FINAL_for%20state%20regulators_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14307,7 +14307,7 @@ were able thereafter to stop further unauthorized account access by this attacke
 </details>
 ## Phillip Capital Inc.
 <p class="hidden"></p>
-[February 28, 2018](https://oag.ca.gov/system/files/Phillip01_Multi%20States_0.pdf) | CAUSE
+[February 28, 2018](https://oag.ca.gov/system/files/Phillip01_Multi%20States_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14317,7 +14317,7 @@ of our employees’ email accounts before we discovered the incident and cut off
 </details>
 ## POPSUGAR Inc.
 <p class="hidden"></p>
-[February 22, 2018](https://oag.ca.gov/system/files/POPSUGAR%20Notice%20of%20Data%20Breach_0.pdf) | CAUSE
+[February 22, 2018](https://oag.ca.gov/system/files/POPSUGAR%20Notice%20of%20Data%20Breach_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14327,7 +14327,7 @@ accessed certain user information.
 </details>
 ## PF@-Com, Inc.
 <p class="hidden"></p>
-[February 20, 2018](https://oag.ca.gov/system/files/CA%20-%20Notification%20of%20Breach_0.pdf) | CAUSE
+[February 20, 2018](https://oag.ca.gov/system/files/CA%20-%20Notification%20of%20Breach_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14341,7 +14341,7 @@ have been exposed.
 </details>
 ## Paycor, Inc.
 <p class="hidden"></p>
-[February 16, 2018](https://oag.ca.gov/system/files/Supreme%20Corporation%20Notice%20Letter%20-%20CA_0.pdf) | CAUSE
+[February 16, 2018](https://oag.ca.gov/system/files/Supreme%20Corporation%20Notice%20Letter%20-%20CA_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14359,7 +14359,7 @@ from her company systems, and that the file had only been viewed by the single r
 </details>
 ## Peaceful Valley Farm & Garden Supply
 <p class="hidden"></p>
-[February 09, 2018](https://oag.ca.gov/system/files/Notification%20Letter_2.pdf) | CAUSE
+[February 09, 2018](https://oag.ca.gov/system/files/Notification%20Letter_2.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14371,7 +14371,7 @@ Farm	Supply	website	during	the	above	time	period.
 </details>
 ## PAR Electrical Contractors, Inc.
 <p class="hidden"></p>
-[December 22, 2017](https://oag.ca.gov/system/files/Sample%20Letters%20-%20General_0.pdf) | CAUSE
+[December 22, 2017](https://oag.ca.gov/system/files/Sample%20Letters%20-%20General_0.pdf) | Files Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14379,7 +14379,7 @@ On or about December 22, 2017, a thief stole a container holding daily backup ta
 </details>
 ## Pinterest
 <p class="hidden"></p>
-[November 24, 2017](https://oag.ca.gov/system/files/2017.12.08%20Pinterest%20User%20Notice_0.pdf) | CAUSE
+[November 24, 2017](https://oag.ca.gov/system/files/2017.12.08%20Pinterest%20User%20Notice_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
