@@ -12583,7 +12583,7 @@ person	whose	identity	is	presently	unknown.
 </details>
 ## M&M Automotive Group, Inc.
 <p class="hidden"></p>
-[July 27, 2015](https://oag.ca.gov/system/files/Security%20Breach%20Notice_1.pdf) | CAUSE
+[July 27, 2015](https://oag.ca.gov/system/files/Security%20Breach%20Notice_1.pdf) | Files Lost 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12591,7 +12591,7 @@ On July 27, 2015, the dealership property was broken into and vandalized. The va
 </details>
 ## Medical Informatics Engineering and NoMoreClipboard, a wholly owned subsidiary of Medical Informatics Engineering
 <p class="hidden"></p>
-[May 07, 2015](https://oag.ca.gov/system/files/Medical%20Informatics%20notice%20only6_26_15_0_0.pdf) | CAUSE
+[May 07, 2015](https://oag.ca.gov/system/files/Medical%20Informatics%20notice%20only6_26_15_0_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12599,7 +12599,7 @@ On May 26, 2015, the technical team at MIE discovered suspicious activity relati
 </details>
 ## Matador Recordings, LLC (d/b/a “Matador Direct”)
 <p class="hidden"></p>
-[April 28, 2015](https://oag.ca.gov/system/files/CA_Redacted_0.pdf) | CAUSE
+[April 28, 2015](https://oag.ca.gov/system/files/CA_Redacted_0.pdf) | Website Compromise 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12607,7 +12607,7 @@ On May 4, 2016, we were advised by our third-party website developer that it had
 </details>
 ## Mama Mio US, Inc.
 <p class="hidden"></p>
-[April 28, 2015](https://oag.ca.gov/system/files/MM%20US%20letter%20to%20customers%20-%20data%20breach_0.pdf) | CAUSE
+[April 28, 2015](https://oag.ca.gov/system/files/MM%20US%20letter%20to%20customers%20-%20data%20breach_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12615,7 +12615,7 @@ We are sorry to inform you that we have been the victim of a cyber-attack on our
 </details>
 ## Molina Healthcare of California, Inc.
 <p class="hidden"></p>
-[March 26, 2015](https://oag.ca.gov/system/files/SAMPLE%20Final%20Member%20Breach%20Notification%20DSNP%20CA%20WA%20091815_0.pdf) | CAUSE
+[March 26, 2015](https://oag.ca.gov/system/files/SAMPLE%20Final%20Member%20Breach%20Notification%20DSNP%20CA%20WA%20091815_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12623,7 +12623,7 @@ On or about 3/26/15, a former CVS employee took PHI from CVS’ computers and se
 </details>
 ## Mark Riley, Inc., abd E. K. and Company
 <p class="hidden"></p>
-[January 19, 2015](https://oag.ca.gov/system/files/Riley%2048865%20notice%20only%20_0_0.pdf) | CAUSE
+[January 19, 2015](https://oag.ca.gov/system/files/Riley%2048865%20notice%20only%20_0_0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12631,7 +12631,7 @@ Mark Riley, Inc. dba E. K. and Company (“E. K. and Company”) is an accountin
 </details>
 ## MEETME, INC.
 <p class="hidden"></p>
-[August 05, 2014](https://oag.ca.gov/system/files/MeetMe%20Announcement_0.pdf) | CAUSE
+[August 05, 2014](https://oag.ca.gov/system/files/MeetMe%20Announcement_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12639,7 +12639,7 @@ MeetMe, Inc. today announced that it has recently discovered a security breach w
 </details>
 ## Mandarin Oriental
 <p class="hidden"></p>
-[June 18, 2014](https://oag.ca.gov/system/files/CHI-%232933532-v1-Mandarin_State_Regulator_Breach_Notification_CA_x_0.pdf) | CAUSE
+[June 18, 2014](https://oag.ca.gov/system/files/CHI-%232933532-v1-Mandarin_State_Regulator_Breach_Notification_CA_x_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12647,7 +12647,7 @@ We are writing to advise you that investigations by Mandarin Oriental have regre
 </details>
 ## Mercy Medical Center Redding Oncology Clinic
 <p class="hidden"></p>
-[June 01, 2014](https://oag.ca.gov/system/files/14-4459%20Notification%20to%20Patient%201-%20MMCR%20Template%20with%20commentspb_0.pdf) | CAUSE
+[June 01, 2014](https://oag.ca.gov/system/files/14-4459%20Notification%20to%20Patient%201-%20MMCR%20Template%20with%20commentspb_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12655,7 +12655,7 @@ On December 13, 2014 Mercy Medical Center Redding Oncology Clinic discovered tha
 </details>
 ## Mount Olympus Mortgage Company
 <p class="hidden"></p>
-[April 28, 2014](https://oag.ca.gov/system/files/Data%20Breach%20Letter%20-%20for%20merge_0.pdf) | CAUSE
+[April 28, 2014](https://oag.ca.gov/system/files/Data%20Breach%20Letter%20-%20for%20merge_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12663,7 +12663,7 @@ Following up on our prior communication to you regarding the conduct of some of 
 </details>
 ## Marian Regional Medical Center
 <p class="hidden"></p>
-[March 02, 2014](https://oag.ca.gov/system/files/Final%20Patient%20letter%20with%20phone%20number_0.pdf) | CAUSE
+[March 02, 2014](https://oag.ca.gov/system/files/Final%20Patient%20letter%20with%20phone%20number_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12671,7 +12671,7 @@ A secured electronic file containing your limited patient information was sent t
 </details>
 ## MEI-GSR
 <p class="hidden"></p>
-[February 19, 2014](https://oag.ca.gov/system/files/MEI%20GSR%20NON_MA_NOTICE_0.pdf) | CAUSE
+[February 19, 2014](https://oag.ca.gov/system/files/MEI%20GSR%20NON_MA_NOTICE_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12681,7 +12681,7 @@ been compromised.
 </details>
 ## Marsh & McLennan Companies, Inc. and our affiliates
 <p class="hidden"></p>
-[June 13, 2013](https://oag.ca.gov/system/files/MMC%20Notification-Kroll%20Data%20Incident%20Individual%20Notification_0.pdf) | CAUSE
+[June 13, 2013](https://oag.ca.gov/system/files/MMC%20Notification-Kroll%20Data%20Incident%20Individual%20Notification_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12689,7 +12689,7 @@ On September 25, 2013, Kroll notified us that its systems were targeted by third
 </details>
 ## Midwest Supplies, LLC
 <p class="hidden"></p>
-[June 13, 2013](https://oag.ca.gov/system/files/Individual%20Notice_0.pdf) | CAUSE
+[June 13, 2013](https://oag.ca.gov/system/files/Individual%20Notice_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12697,15 +12697,15 @@ We’re writing to tell you that it’s possible that the credit card you used a
 </details>
 ## Millimaki Eggert, LLP
 <p class="hidden"></p>
-[April 27, 2013](https://oag.ca.gov/system/files/Millimaki%20Eggert%20CA%20Sample%20Notice%20Letters_0.pdf) | CAUSE
+[April 27, 2013](https://oag.ca.gov/system/files/Millimaki%20Eggert%20CA%20Sample%20Notice%20Letters_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-On April 27, 2013, an unknown individual(s) burglarized Millimaki Eggert's San Diego, California office and stile, among other things, two password-protected laptops containing sensitive information.
+On April 27, 2013, an unknown individual(s) burglarized Millimaki Eggert's San Diego, California office and stole, among other things, two password-protected laptops containing sensitive information.
 </details>
 ## Monterey County Department of Social Services
 <p class="hidden"></p>
-[March 17, 2013](https://oag.ca.gov/system/files/Public%20Assistance-English_0.pdf) | CAUSE
+[March 17, 2013](https://oag.ca.gov/system/files/Public%20Assistance-English_0.pdf) | Computer Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12713,7 +12713,7 @@ A Monterey County computer that was connected to the California State Network wa
 </details>
 ## Managed Med, A Psychological Corporation
 <p class="hidden"></p>
-[March 01, 2013](https://oag.ca.gov/system/files/071714SampleNotice_0.pdf) | CAUSE
+[March 01, 2013](https://oag.ca.gov/system/files/071714SampleNotice_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12721,7 +12721,7 @@ On May 13, 2014, ManagedMed learned that certain patient scheduling information 
 </details>
 ## Mercedes-Benz of Walnut Creek
 <p class="hidden"></p>
-[February 08, 2013](https://oag.ca.gov/system/files/MB%20sample%20letter%20proof%20v2_0.pdf) | CAUSE
+[February 08, 2013](https://oag.ca.gov/system/files/MB%20sample%20letter%20proof%20v2_0.pdf) | Files Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12729,7 +12729,7 @@ On Friday, February 8, 2013, around 7:00 am we discovered a forcible break-in at
 </details>
 ## Montefiore Health System, The University Hospital for Albert Einstein College of Medicine
 <p class="hidden"></p>
-[January 01, 2013](https://oag.ca.gov/system/files/Notice_0.pdf) | CAUSE
+[January 01, 2013](https://oag.ca.gov/system/files/Notice_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -12737,7 +12737,7 @@ On May 15, 2015, Montefiore was informed by law enforcement that an employee sto
 </details>
 ## MT. DIABLO UNIFIED SCHOOL DISTRICT
 <p class="hidden"></p>
-[December 01, 2012](https://oag.ca.gov/system/files/Mt%20Diablo%20notification%20letter_0.pdf) | CAUSE
+[December 01, 2012](https://oag.ca.gov/system/files/Mt%20Diablo%20notification%20letter_0.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
