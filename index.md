@@ -14387,7 +14387,7 @@ We take privacy and security very seriously at Pinterest and wanted to let you k
 </details>
 ## Providence Saint John's Health Center
 <p class="hidden"></p>
-[November 20, 2017](https://oag.ca.gov/system/files/Nuance%20PSJH%20Notification%20Letter_0.pdf) | CAUSE
+[November 20, 2017](https://oag.ca.gov/system/files/Nuance%20PSJH%20Notification%20Letter_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14398,7 +14398,7 @@ information.
 </details>
 ## Pedes Orange County
 <p class="hidden"></p>
-[November 14, 2017](https://oag.ca.gov/system/files/Pedes%20Adult%20CA%20Notice_0.pdf) | CAUSE
+[November 14, 2017](https://oag.ca.gov/system/files/Pedes%20Adult%20CA%20Notice_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14411,7 +14411,7 @@ information that was accessed without permission.
 </details>
 ## Pension Fund of the Christian Church (“Pension Fund”)
 <p class="hidden"></p>
-[November 09, 2017](https://oag.ca.gov/system/files/PFR%20Standard%20Notification%20Letter%20Sample%201_0.pdf) | CAUSE
+[November 09, 2017](https://oag.ca.gov/system/files/PFR%20Standard%20Notification%20Letter%20Sample%201_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14422,7 +14422,7 @@ with guidance on what you can do to protect yourself.
 </details>
 ## Pizza Hut, Inc.
 <p class="hidden"></p>
-[October 01, 2017](https://oag.ca.gov/system/files/Sample%20Customer%20Notice%20%28General%29_0.pdf) | CAUSE
+[October 01, 2017](https://oag.ca.gov/system/files/Sample%20Customer%20Notice%20%28General%29_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14434,14 +14434,14 @@ intrusion quickly and took immediate action to halt it.
 </details>
 ## Palomar Health
 <p class="hidden"></p>
-[September 27, 2017](https://oag.ca.gov/system/files/Palomar%20patient%20notification%20letter%20102017_0.pdf) | CAUSE
+[September 27, 2017](https://oag.ca.gov/system/files/Palomar%20patient%20notification%20letter%20102017_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 I regret to inform you that on September 27, 2017, an employee of Palomar Health unintentionally misdirected an email containing a worklist which included certain patient-related information about you to an unintended recipient. 
 </details>
 <p class="hidden"></p>
-[February 22, 2014](https://oag.ca.gov/system/files/Palomar%20Health%20Sample%20Letter%203.28.14_0.pdf) | CAUSE
+[February 22, 2014](https://oag.ca.gov/system/files/Palomar%20Health%20Sample%20Letter%203.28.14_0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14449,7 +14449,7 @@ On February 22, 2014, Palomar Health learned that two flash drives were stolen f
 </details>
 ## Preferred Hotel Group, Inc.
 <p class="hidden"></p>
-[August 10, 2017](https://oag.ca.gov/system/files/Historic%20Notification%20Letter%20SHORT_0.pdf) | CAUSE
+[August 10, 2017](https://oag.ca.gov/system/files/Historic%20Notification%20Letter%20SHORT_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14461,7 +14461,7 @@ as certain reservation information, for a subset of hotel reservations processed
 </details>
 ## Pacific Alliance Medical Center
 <p class="hidden"></p>
-[June 14, 2017](https://oag.ca.gov/system/files/Breach%20Notification%20Forms_0.pdf) | CAUSE
+[June 14, 2017](https://oag.ca.gov/system/files/Breach%20Notification%20Forms_0.pdf) | Computer Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14471,7 +14471,7 @@ the affected files and have taken, and are continuing to take, actions to restor
 </details>
 ## Professional Publications, Inc. (PPI)
 <p class="hidden"></p>
-[June 11, 2017](https://oag.ca.gov/system/files/Sample%20Individual%20Notification%20-%20PPI_0.pdf) | CAUSE
+[June 11, 2017](https://oag.ca.gov/system/files/Sample%20Individual%20Notification%20-%20PPI_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14484,7 +14484,7 @@ which may have included you.
 </details>
 ## Provo Craft & Novelty, Inc., d/b/a/ Cricut
 <p class="hidden"></p>
-[May 27, 2017](https://oag.ca.gov/system/files/Provo%20Craft%20Consumer%20Notification%20Letter_2.pdf) | CAUSE
+[May 27, 2017](https://oag.ca.gov/system/files/Provo%20Craft%20Consumer%20Notification%20Letter_2.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14495,7 +14495,7 @@ July 12, 2017.
 </details>
 ## Palo Alto Unified School District
 <p class="hidden"></p>
-[April 04, 2017](https://oag.ca.gov/system/files/data_breach_letter_0.pdf) | CAUSE
+[April 04, 2017](https://oag.ca.gov/system/files/data_breach_letter_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14508,7 +14508,7 @@ discovered and alerted us to this vulnerability permanently and securely deleted
 </details>
 ## Performant Financial Corporation
 <p class="hidden"></p>
-[January 27, 2017](https://oag.ca.gov/system/files/Sample%20Performant%20Notice%20to%20Individuals%20-%20CT%20Data%20Breach_0.pdf) | CAUSE
+[January 27, 2017](https://oag.ca.gov/system/files/Sample%20Performant%20Notice%20to%20Individuals%20-%20CT%20Data%20Breach_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14521,7 +14521,7 @@ files for certain years.
 </details>
 ## Platt College, Los Angeles LLC
 <p class="hidden"></p>
-[January 17, 2017](https://oag.ca.gov/system/files/Platt%20NOB_0.pdf) | CAUSE
+[January 17, 2017](https://oag.ca.gov/system/files/Platt%20NOB_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14532,7 +14532,7 @@ another student on January 13, 2017.
 </details>
 ## Pool Supply Unlimited
 <p class="hidden"></p>
-[January 09, 2017](https://oag.ca.gov/system/files/Pool%20Supply%20redacted_0.pdf) | CAUSE
+[January 09, 2017](https://oag.ca.gov/system/files/Pool%20Supply%20redacted_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14540,7 +14540,7 @@ On January 11, 2017 Pool Supply Unlimited learned that a third party computer se
 </details>
 ## Palomar Community College District
 <p class="hidden"></p>
-[January 05, 2017](https://oag.ca.gov/system/files/CA%20Notice_1.pdf) | CAUSE
+[January 05, 2017](https://oag.ca.gov/system/files/CA%20Notice_1.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14550,7 +14550,7 @@ contacted law enforcement.
 </details>
 ## prAna
 <p class="hidden"></p>
-[December 14, 2016](https://oag.ca.gov/system/files/CA%20AG%20notice%20attach.%20-%20prana_0.pdf) | CAUSE
+[December 14, 2016](https://oag.ca.gov/system/files/CA%20AG%20notice%20attach.%20-%20prana_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14558,7 +14558,7 @@ On February 6, 2017, we detected that an unauthorized third party may have obtai
 </details>
 ## Pacific Hospitality Group
 <p class="hidden"></p>
-[November 03, 2016](https://oag.ca.gov/system/files/MC%20Customer%20Notification%20Letter_Website%20Version_7.20.17v2_0.pdf) | CAUSE
+[November 03, 2016](https://oag.ca.gov/system/files/MC%20Customer%20Notification%20Letter_Website%20Version_7.20.17v2_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14573,7 +14573,7 @@ the impacted guest records on June 13, 2017.
 </details>
 ## Print EZ, Inc.
 <p class="hidden"></p>
-[September 01, 2016](https://oag.ca.gov/system/files/Print%20EZ%20-%20CA%20Exhibit%201_0.pdf) | CAUSE
+[September 01, 2016](https://oag.ca.gov/system/files/Print%20EZ%20-%20CA%20Exhibit%201_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14588,7 +14588,7 @@ moved to its new checkout process.
 </details>
 ## Pacifica Hotel Management, LLC
 <p class="hidden"></p>
-[August 10, 2016](https://oag.ca.gov/system/files/Sample%20Notice_18.pdf) | CAUSE
+[August 10, 2016](https://oag.ca.gov/system/files/Sample%20Notice_18.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14601,7 +14601,7 @@ reservations processed through the CRS.
 </details>
 ## Pratap S. Kurra, M.D.
 <p class="hidden"></p>
-[August 08, 2016](https://oag.ca.gov/system/files/Pratap%20Kurra%20MD_Notice_0.pdf) | CAUSE
+[August 08, 2016](https://oag.ca.gov/system/files/Pratap%20Kurra%20MD_Notice_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14613,7 +14613,7 @@ my practice were accidentally thrown away during my move. Fortunately, all known
 </details>
 ## Public Health Institute
 <p class="hidden"></p>
-[July 04, 2016](https://oag.ca.gov/system/files/1887.2%20Notice%20of%20Data%20Breach%20PHI%20CEHTP%20final%20100516_0.pdf) | CAUSE
+[July 04, 2016](https://oag.ca.gov/system/files/1887.2%20Notice%20of%20Data%20Breach%20PHI%20CEHTP%20final%20100516_0.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14625,8 +14625,8 @@ approximately 30 days. The accounts in question are:
 
 </details>
 ## Premier America Credit Union
-<p class="hidden"></p>
-[June 29, 2016](https://oag.ca.gov/system/files/FinalLetterPackage_0.pdf) | CAUSE
+<p class="hidden"></p
+[June 29, 2016](https://oag.ca.gov/system/files/FinalLetterPackage_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14638,7 +14638,7 @@ are at risk for identity theft.
 </details>
 ## PAX Labs, Inc.
 <p class="hidden"></p>
-[June 25, 2016](https://oag.ca.gov/system/files/PAX%20-%20Consumer%20Data%20Breach%20Notice_1.pdf) | CAUSE
+[June 25, 2016](https://oag.ca.gov/system/files/PAX%20-%20Consumer%20Data%20Breach%20Notice_1.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14651,7 +14651,7 @@ www.JUULvapor.com or www.PAXvapor.com between June 25, 2016, and July 22, 2016.
 </details>
 ## Preferred Hotel & Resorts
 <p class="hidden"></p>
-[June 01, 2016](https://oag.ca.gov/system/files/Sample%20Notice_22.pdf) | CAUSE
+[June 01, 2016](https://oag.ca.gov/system/files/Sample%20Notice_22.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14665,7 +14665,7 @@ computer or network systems were affected in any way by this incident.
 </details>
 ## Project Management Institute
 <p class="hidden"></p>
-[April 23, 2016](https://oag.ca.gov/system/files/Standard%20Notice%20%284%29_1.pdf) | CAUSE
+[April 23, 2016](https://oag.ca.gov/system/files/Standard%20Notice%20%284%29_1.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14680,7 +14680,7 @@ unauthorized access to or acquisition of data. Thus, PMI provides this notice ou
 </details>
 ## Pivotal Software, Inc.
 <p class="hidden"></p>
-[March 22, 2016](https://oag.ca.gov/system/files/Sample%20of%20Notice%20to%20California%20residents_0.pdf) | CAUSE
+[March 22, 2016](https://oag.ca.gov/system/files/Sample%20of%20Notice%20to%20California%20residents_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14692,7 +14692,7 @@ Mr. Mee.
 </details>
 ## PerkinElmer, Inc.
 <p class="hidden"></p>
-[February 24, 2016](https://oag.ca.gov/system/files/PerkinElmer%2003152016%20California%20notice%20redacted_0.pdf) | CAUSE
+[February 24, 2016](https://oag.ca.gov/system/files/PerkinElmer%2003152016%20California%20notice%20redacted_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14700,7 +14700,7 @@ We became aware of an incident in which an unauthorize third party was provided 
 </details>
 ## Pirthipal Dhillon
 <p class="hidden"></p>
-[December 02, 2015](https://oag.ca.gov/system/files/Website%20Notification_1.pdf) | CAUSE
+[December 02, 2015](https://oag.ca.gov/system/files/Website%20Notification_1.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14714,7 +14714,7 @@ some Wendy’s franchisee systems starting in late fall 2015.
 </details>
 ## Peninsula Foods, L.P.
 <p class="hidden"></p>
-[December 02, 2015](https://oag.ca.gov/system/files/Website%20Notification_0.pdf) | CAUSE
+[December 02, 2015](https://oag.ca.gov/system/files/Website%20Notification_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14728,7 +14728,7 @@ some Wendy’s franchisee systems starting in late fall 2015.
 </details>
 ## Peter Michael Winery
 <p class="hidden"></p>
-[April 12, 2015](https://oag.ca.gov/system/files/PMW%2C%20Notification%20Letter%2C%20%28US%20%2B%20PR%20-%20MA%29%20FINAL%20DRAFT%206-11-2015_1.pdf) | CAUSE
+[April 12, 2015](https://oag.ca.gov/system/files/PMW%2C%20Notification%20Letter%2C%20%28US%20%2B%20PR%20-%20MA%29%20FINAL%20DRAFT%206-11-2015_1.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14736,7 +14736,7 @@ Regretfully, we are writing to inform you that our third party e-commerce vendor
 </details>
 ## Packers Sanitation Services, Inc. Ltd.
 <p class="hidden"></p>
-[February 05, 2015](https://oag.ca.gov/system/files/NOTIFICATION%20OF%20BREACH%20%282%29_0.pdf) | CAUSE
+[February 05, 2015](https://oag.ca.gov/system/files/NOTIFICATION%20OF%20BREACH%20%282%29_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14744,7 +14744,7 @@ We are contacting you to advise you that we have learned of a serious data breac
 </details>
 ## Piedmont Advantage Credit Union
 <p class="hidden"></p>
-[January 31, 2015](https://oag.ca.gov/system/files/PACU%20-%20Master%20Proof_0.PDF) | CAUSE
+[January 31, 2015](https://oag.ca.gov/system/files/PACU%20-%20Master%20Proof_0.PDF) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14752,7 +14752,7 @@ On January 31, 2015, we discovered that there was a credit union owned laptop th
 </details>
 ## Phoenix House Foundation, Inc. and its affiliates
 <p class="hidden"></p>
-[December 19, 2014](https://oag.ca.gov/system/files/PHOENIX%20HOUSE_%20INDIVIDUAL%20NOTIFICATION%20VERSION%201_WPP-REVISED_0.PDF) | CAUSE
+[December 19, 2014](https://oag.ca.gov/system/files/PHOENIX%20HOUSE_%20INDIVIDUAL%20NOTIFICATION%20VERSION%201_WPP-REVISED_0.PDF) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14760,7 +14760,7 @@ On December 22, 2014 phoenix House learned that, on December 19, 2014, a consult
 </details>
 ## Piech Sales Company, LLC dba ValuePetSupplies.com
 <p class="hidden"></p>
-[November 25, 2014](https://oag.ca.gov/system/files/Sample%20Breach%20Letter_0.pdf) | CAUSE
+[November 25, 2014](https://oag.ca.gov/system/files/Sample%20Breach%20Letter_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14768,7 +14768,7 @@ On or about November 25, 2014, ValuePetSupplies.com was the victim of a cyberatt
 </details>
 ## Physicians Skin and Weight Centers, Inc.
 <p class="hidden"></p>
-[November 04, 2014](https://oag.ca.gov/system/files/Physicians%20Skin%20Notice_0.pdf) | CAUSE
+[November 04, 2014](https://oag.ca.gov/system/files/Physicians%20Skin%20Notice_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14776,7 +14776,7 @@ On November 4, 2014, an employee’s vehicle was broken into in Fresno, Californ
 </details>
 ## Providence Saint Joseph Medical Center
 <p class="hidden"></p>
-[November 01, 2014](https://oag.ca.gov/system/files/Providence%20Adult%20Notice_0.pdf) | CAUSE
+[November 01, 2014](https://oag.ca.gov/system/files/Providence%20Adult%20Notice_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14785,7 +14785,7 @@ February 18, 2015, Providence St. Joseph Medical Center discovered that a Provid
 </details>
 ## Palm Springs Federal Credit Union
 <p class="hidden"></p>
-[October 20, 2014](https://oag.ca.gov/system/files/final%20letter%20sent%20to%20members_0.pdf) | CAUSE
+[October 20, 2014](https://oag.ca.gov/system/files/final%20letter%20sent%20to%20members_0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14793,7 +14793,7 @@ Financial institutions are required to have their operations and records audited
 </details>
 ## Peppermill Casinos, Inc.
 <p class="hidden"></p>
-[October 12, 2014](https://oag.ca.gov/system/files/Breach%20Letter_3.pdf) | CAUSE
+[October 12, 2014](https://oag.ca.gov/system/files/Breach%20Letter_3.pdf) | Files Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
