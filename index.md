@@ -14801,7 +14801,7 @@ This security incident relates to the unauthorized and illegal acquisition, by c
 </details>
 ## Point Loma Nazarene University
 <p class="hidden"></p>
-[October 07, 2014](https://oag.ca.gov/system/files/PLNU%20Notice%20Updated%20M946_v01_0.pdf) | CAUSE
+[October 07, 2014](https://oag.ca.gov/system/files/PLNU%20Notice%20Updated%20M946_v01_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14814,15 +14814,15 @@ to unauthorized access:
 </details>
 ## Pacific Biosciences of California, Inc.
 <p class="hidden"></p>
-[September 16, 2014](https://oag.ca.gov/system/files/All%20Notices%20-%20CA_0.pdf) | CAUSE
+[September 16, 2014](https://oag.ca.gov/system/files/All%20Notices%20-%20CA_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBDB
+We write to inform you about the recent theft from an employee's home of a password-protected work laptop that occurred on or about September 16, 2014. The laptop may have contained files with some personal information about you, including your name ...
 </details>
 ## Perspectives
 <p class="hidden"></p>
-[September 08, 2014](https://oag.ca.gov/system/files/Notification%20of%20Perspectives%20Database%20Breach%202%20%2801075324%29_0.pdf) | CAUSE
+[September 08, 2014](https://oag.ca.gov/system/files/Notification%20of%20Perspectives%20Database%20Breach%202%20%2801075324%29_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14830,7 +14830,7 @@ In September 2014, the Perspectives class site experienced a criminal database a
 </details>
 ## Paytime Harrisburg Inc. d/b/a Paytime, Inc.
 <p class="hidden"></p>
-[April 07, 2014](https://oag.ca.gov/system/files/Notice%20Exhibits%20A%20%20B_0.pdf) | CAUSE
+[April 07, 2014](https://oag.ca.gov/system/files/Notice%20Exhibits%20A%20%20B_0.pdf) | 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14838,7 +14838,7 @@ On April 30, 2014, we learned that unauthorized individuals accessed usernames a
 </details>
 ## P.F. Chang's China Bistro
 <p class="hidden"></p>
-[October 19, 2013](https://oag.ca.gov/system/files/PFCB%20August%204%20Press%20Release_0.pdf) | CAUSE
+[October 19, 2013](https://oag.ca.gov/system/files/PFCB%20August%204%20Press%20Release_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14846,7 +14846,7 @@ On Tuesday, June 10, the United States Secret Service alerted P.F. Chang's to a 
 </details>
 ## Petrochem Insulation, Inc.
 <p class="hidden"></p>
-[July 18, 2013](https://oag.ca.gov/system/files/Petrochem%20Invdividual%20Notice%20Letter-SAMPLE_0.pdf) | CAUSE
+[July 18, 2013](https://oag.ca.gov/system/files/Petrochem%20Invdividual%20Notice%20Letter-SAMPLE_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14854,7 +14854,7 @@ On the evening of July 18, 2013, an unknown person broke into the locked car of 
 </details>
 ## Pinkerton Government Services, Inc.
 <p class="hidden"></p>
-[November 15, 2012](https://oag.ca.gov/system/files/Letter%20to%20Employees_0.pdf) | CAUSE
+[November 15, 2012](https://oag.ca.gov/system/files/Letter%20to%20Employees_0.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14862,7 +14862,7 @@ During the night of November 15, 2012, a number of computers were stolen from a 
 </details>
 ## Pepperdine University
 <p class="hidden"></p>
-[November 11, 2012](https://oag.ca.gov/system/files/Final%20Notification%20Letter%20Dec%2006%202012_0.pdf) | CAUSE
+[November 11, 2012](https://oag.ca.gov/system/files/Final%20Notification%20Letter%20Dec%2006%202012_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14870,7 +14870,7 @@ On November 12, 2012, we discovered that a University laptop computer was stolen
 </details>
 ## Philip P Corneliuson
 <p class="hidden"></p>
-[September 15, 2012](https://oag.ca.gov/system/files/PHILIP%20P%20BREACH%20%28Recovered%29_0.pdf) | CAUSE
+[September 15, 2012](https://oag.ca.gov/system/files/PHILIP%20P%20BREACH%20%28Recovered%29_0.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14878,7 +14878,7 @@ On the afternoon of Saturday , September 15th 2012, we discovered our office sui
 </details>
 ## Petco Animal Supplies, Inc.
 <p class="hidden"></p>
-[May 18, 2012](https://oag.ca.gov/system/files/Experian%20Final%20Proof%20-%20Base%20Version_0.pdf) | CAUSE
+[May 18, 2012](https://oag.ca.gov/system/files/Experian%20Final%20Proof%20-%20Base%20Version_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14886,7 +14886,7 @@ On Tuesday, July 3, 2012, the outside auditor of Petco's 401(k) Plan (the "Plan"
 </details>
 ## Perry Dental
 <p class="hidden"></p>
-[February 16, 2012](https://oag.ca.gov/system/files/Breach%20Notification.pdf) | CAUSE
+[February 16, 2012](https://oag.ca.gov/system/files/Breach%20Notification.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14894,7 +14894,7 @@ We are contacting you about a recent burglary in our office that may result in a
 </details>
 ## Pacifica-Coastside Credit Union / SF Fire Credit Union
 <p class="hidden"></p>
-[December 29, 2011](https://oag.ca.gov/system/files/pacifica_letter01_newmembers_6.pdf) | CAUSE
+[December 29, 2011](https://oag.ca.gov/system/files/pacifica_letter01_newmembers_6.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14902,7 +14902,7 @@ We are contacting you about a recent burglary in our office that may result in a
 </details>
 ## Pono Products, Inc. dba reuseit.com
 <p class="hidden"></p>
-[August 22, 2011](https://oag.ca.gov/system/files/Reuseit%20-%20Data%20Breach%20Notice%20-%20sample.pdf) | CAUSE
+[August 22, 2011](https://oag.ca.gov/system/files/Reuseit%20-%20Data%20Breach%20Notice%20-%20sample.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14910,7 +14910,7 @@ The data breach occurred from August 22 – September 28, 2011 and stemmed from 
 </details>
 ## Placer Union High School District
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/PUHSD%20Total%20Registration%20Data%20Vulnerability%20Parent%20Letter_%2005.17.19.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/PUHSD%20Total%20Registration%20Data%20Vulnerability%20Parent%20Letter_%2005.17.19.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14918,7 +14918,7 @@ We are writing to inform you of a student data vulnerability reported by Total R
 </details>
 ## Port City Operating Company, doing business as St. Joseph's Medical Center
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/CA%20Attorney%20General%20Patient%20Notification%20Letter_Adult%20Hospital%20Patient_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/CA%20Attorney%20General%20Patient%20Notification%20Letter_Adult%20Hospital%20Patient_0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14926,7 +14926,7 @@ On August 9, 2018, St. Joseph's discovered that two old laboratory machine analy
 </details>
 ## Paul Stuart, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Paul%20Stuart%20notice%20only_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Paul%20Stuart%20notice%20only_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14937,7 +14937,7 @@ customer payment card information, including name, address, telephone number, an
 </details>
 ## Praetorian Digital which operates PoliceOne.com
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Praetorian%20Digital%20notice%20only%20CA_0_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Praetorian%20Digital%20notice%20only%20CA_0_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14952,7 +14952,7 @@ past 17 years.
 </details>
 ## Pride Mountain Vineyards
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Pride%20Mountain%20Vineyards%20Customer%20Breach%20Notification%205.11.12_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Pride%20Mountain%20Vineyards%20Customer%20Breach%20Notification%205.11.12_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14960,7 +14960,7 @@ Our consumer direct sales systems provider, Missing Link Networks, Inc., (“Mis
 </details>
 ## Palmaz Vineyards
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Palmaz_eCellars%20Breach%20Notification%20Letter%206_10_2015_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Palmaz_eCellars%20Breach%20Notification%20Letter%206_10_2015_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14968,7 +14968,7 @@ Our consumer direct sales systems provider, Missing Link Networks, Inc., (“Mis
 </details>
 ## Premera Blue Cross, including Academe, Inc. (formerly known as LifeWise Health Plan of Arizona, Inc.), Connexion Insurance Solutions, Inc., Life Wise Health Plan of Washington, Life Wise Health Plan of Oregon, Inc., LifeWise Assurance Company, Vivacity
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/CA%20-%20Premera%20-%20Adult_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/CA%20-%20Premera%20-%20Adult_0.pdf) | System Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14976,7 +14976,7 @@ On January 29, 2015, we disvovered that cyberattackers had executed a sophistica
 </details>
 ## Park 'N Fly
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Park%20n%20Fly%201_13_2015%2048024%20_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Park%20n%20Fly%201_13_2015%2048024%20_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14984,7 +14984,7 @@ Park ‘N Fly (“PNF”) has become aware of a security compromise involving pa
 </details>
 ## Public Architecture
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Hacker%20announcement_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Hacker%20announcement_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -14992,7 +14992,7 @@ Last Monday, December 8th, we discovered that theonepercent.org had been hacked.
 </details>
 ## PLS Financial Services, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Master%20Notification_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Master%20Notification_0.pdf) | Programming Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15000,7 +15000,7 @@ We learned on July 26, 2013 from the company that operates our website that thei
 </details>
 ## PHH Corporation
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Letter%20Version%201_proof_PHH_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Letter%20Version%201_proof_PHH_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15008,7 +15008,7 @@ We are writing to let you know that, on April 3, 2013, we learned that a tempora
 </details>
 ## Postcard Press, Inc. d/b/a Next Day Flyers
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Individual%20Notification%20Letter_1.PDF) | CAUSE
+[](https://oag.ca.gov/system/files/Individual%20Notification%20Letter_1.PDF) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15017,7 +15017,7 @@ On April 2, 2012, we discovered an electronic file on our system that was storin
 # Q
 ## Quality-Care Pharmacy
 <p class="hidden"></p>
-[March 11, 2018](https://oag.ca.gov/system/files/Quality-Care%20-%20Sample_Redacted_0.pdf) | CAUSE
+[March 11, 2018](https://oag.ca.gov/system/files/Quality-Care%20-%20Sample_Redacted_0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15025,7 +15025,7 @@ This letter serves to follow-up with our previous letter of March 24, 2018. In o
 </details>
 ## Quest Nutrition
 <p class="hidden"></p>
-[November 10, 2017](https://oag.ca.gov/system/files/Sample%20Notice_25.pdf) | CAUSE
+[November 10, 2017](https://oag.ca.gov/system/files/Sample%20Notice_25.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15036,7 +15036,7 @@ number of our employees, influencers/partners, and other individuals.
 </details>
 ## Quench USA, Inc
 <p class="hidden"></p>
-[February 10, 2017](https://oag.ca.gov/system/files/Quench%20--%20notice%20only%201%20--%20California_0_0.pdf) | CAUSE
+[February 10, 2017](https://oag.ca.gov/system/files/Quench%20--%20notice%20only%201%20--%20California_0_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15048,14 +15048,14 @@ and confirmed this server contains information relating to Quench Coffee Service
 </details>
 ## Quest Diagnostics
 <p class="hidden"></p>
-[November 26, 2016](https://oag.ca.gov/system/files/Patient%20Notice%20FINAL_0.pdf) | CAUSE
+[November 26, 2016](https://oag.ca.gov/system/files/Patient%20Notice%20FINAL_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 On November 26th an unauthorized third party accessed the MyQuest by Care360® internet application and obtained PHI of approximately 34,000 patients. The data included name, date of birth, lab results, and, in some instances, telephone numbers. 
 </details>
 <p class="hidden"></p>
-[November 17, 2014](https://oag.ca.gov/system/files/Quest%20attachment%20to%20CA%20online%20submission_0.pdf) | CAUSE
+[November 17, 2014](https://oag.ca.gov/system/files/Quest%20attachment%20to%20CA%20online%20submission_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15063,7 +15063,7 @@ On November 17,2014, a Quest Diagnostics employee inadvertently sent a standard 
 </details>
 ## Qvale Auto Group, Inc.
 <p class="hidden"></p>
-[June 27, 2016](https://oag.ca.gov/system/files/Qvale%20Notification%20%2810-7-16%29_0.pdf) | CAUSE
+[June 27, 2016](https://oag.ca.gov/system/files/Qvale%20Notification%20%2810-7-16%29_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15073,17 +15073,17 @@ certain employees to potentially access that information. As soon as this error 
 </details>
 ## Quayside Publishing Group
 <p class="hidden"></p>
-[April 29, 2013](https://oag.ca.gov/system/files/Security%20Breach%20Notification_0.pdf) | CAUSE
+[April 29, 2013](https://oag.ca.gov/system/files/Security%20Breach%20Notification_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-We have extablished that malicious software planted by an outside source may have been able to access credit card information, names, and addresses during recent transactions with our ecommerce sites
+We have established that malicious software planted by an outside source may have been able to access credit card information, names, and addresses during recent transactions with our ecommerce sites
 Qbookshop.com, Qbookshop.net, Motorbooks.com and WalterFoster.com. The estimated time this may have occurred was between April 29, 2013 and June 17, 2013. There were 639 orders (affecting 552 customers) 
 Placed on our sites during this period from most of the states/provinces in the US and Canada and from countries overseas.
 </details>
 ## QVC, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Final%20CA%20Email%20Notice%20Proof_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Final%20CA%20Email%20Notice%20Proof_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15111,7 +15111,7 @@ On September 29, 2020, we discovered some unauthorized activity performed by a B
 On September 17, 2020 we were informed by Rocklin Unified Parent that there was a bug in the NutriLink software that may allow unauthorized access to the NutriKids-NutriLink system. The initial report was focused on NutriKids-NutriLink Databases where families can look up information on their student(s), which we do use and Link® to through our district website.
 </details>
 <p class="hidden"></p>
-[November 04, 2019](https://oag.ca.gov/system/files/RUSD%20-%20Aeries%20Breach%20Parent%20Notification.pdf) | CAUSE
+[November 04, 2019](https://oag.ca.gov/system/files/RUSD%20-%20Aeries%20Breach%20Parent%20Notification.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15120,7 +15120,7 @@ On April 27, 2020 we were informed there may have been unauthorized access to th
 On May 6, 2020 we learned that it may have also affected on-premise databases similar to ours. Following directions provided by Aeries, we immediately contacted Aeries and got confirmation on May 11, 2020 that our data was also accessed.
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/RUSD%20-%20NutriKids%20-%20NutriLink%20Breach%20Parent%20Notification.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/RUSD%20-%20NutriKids%20-%20NutriLink%20Breach%20Parent%20Notification.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15160,7 +15160,7 @@ Blackbaud recently informed us that it experienced a data security incident that
 </details>
 ## Rady Children’s Hospital – San Diego and Rady Children’s Hospital Foundation – San Diego
 <p class="hidden"></p>
-[February 07, 2020](https://oag.ca.gov/system/files/RCHSD-Blackbaud%20-%20Notification%20Letter%20%28Adult%20Identity%20Monitoring%20with%20Spanish%20Translation%29.pdf) | CAUSE
+[February 07, 2020](https://oag.ca.gov/system/files/RCHSD-Blackbaud%20-%20Notification%20Letter%20%28Adult%20Identity%20Monitoring%20with%20Spanish%20Translation%29.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15178,7 +15178,7 @@ and offer you complimentary identity monitoring services to help alleviate any c
 </details>
 ## RailWorks Corporation
 <p class="hidden"></p>
-[January 27, 2020](https://oag.ca.gov/system/files/Employee%20US%20Individual%20Notification.pdf) | CAUSE
+[January 27, 2020](https://oag.ca.gov/system/files/Employee%20US%20Individual%20Notification.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15188,7 +15188,7 @@ government issued ID, Social Security number, date of birth and date of hire/ter
 </details>
 ## Red Bluff Joint Union High School District
 <p class="hidden"></p>
-[November 04, 2019](https://oag.ca.gov/system/files/RBJUHSD_Notification.pdf) | CAUSE
+[November 04, 2019](https://oag.ca.gov/system/files/RBJUHSD_Notification.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15204,7 +15204,7 @@ parent and student data in the District’s Aeries System.
 </details>
 ## River Valley Farms LLC
 <p class="hidden"></p>
-[August 12, 2019](https://oag.ca.gov/system/files/Reiter%20Affiliated%20Companies%20-%20Notice%20of%20Data%20Event%20-%20Ex.%20A_4.pdf) | CAUSE
+[August 12, 2019](https://oag.ca.gov/system/files/Reiter%20Affiliated%20Companies%20-%20Notice%20of%20Data%20Event%20-%20Ex.%20A_4.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15212,7 +15212,7 @@ El 3 de octubre de 2019, o en una fecha cercana, tuvimos conocimiento de que un 
 </details>
 ## Reiter Brothers, Inc
 <p class="hidden"></p>
-[August 12, 2019](https://oag.ca.gov/system/files/Reiter%20Affiliated%20Companies%20-%20Notice%20of%20Data%20Event%20-%20Ex.%20A_2.pdf) | CAUSE
+[August 12, 2019](https://oag.ca.gov/system/files/Reiter%20Affiliated%20Companies%20-%20Notice%20of%20Data%20Event%20-%20Ex.%20A_2.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15220,7 +15220,7 @@ El 3 de octubre de 2019, o en una fecha cercana, tuvimos conocimiento de que un 
 </details>
 ## Reiter Berry Farms, Inc.
 <p class="hidden"></p>
-[August 12, 2019](https://oag.ca.gov/system/files/Reiter%20Affiliated%20Companies%20-%20Notice%20of%20Data%20Event%20-%20Ex.%20A.pdf) | CAUSE
+[August 12, 2019](https://oag.ca.gov/system/files/Reiter%20Affiliated%20Companies%20-%20Notice%20of%20Data%20Event%20-%20Ex.%20A.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15228,7 +15228,7 @@ El 3 de octubre de 2019, o en una fecha cercana, tuvimos conocimiento de que un 
 </details>
 ## Rady Children's Hospital San Diego
 <p class="hidden"></p>
-[June 20, 2019](https://oag.ca.gov/system/files/RCHSD%20-%20Sample%20Consumer%20Notification%20Letter.pdf) | CAUSE
+[June 20, 2019](https://oag.ca.gov/system/files/RCHSD%20-%20Sample%20Consumer%20Notification%20Letter.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15240,7 +15240,7 @@ information may have been involved
 </details>
 ## Raley's/Bel Air Mart/Nob Hill General Store, Inc.
 <p class="hidden"></p>
-[September 24, 2018](https://oag.ca.gov/system/files/HIPAA%20Breach%20Notification%20Letter_0.pdf) | CAUSE
+[September 24, 2018](https://oag.ca.gov/system/files/HIPAA%20Breach%20Notification%20Letter_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15248,7 +15248,7 @@ On September 24, 2018, a pharmacy laptop was stolen, which may have contained el
 </details>
 ## Redwood Eye Center
 <p class="hidden"></p>
-[September 19, 2018](https://oag.ca.gov/system/files/Redwood%20-%20AG%20Notification%20-%20California%2012.6.18_0.pdf) | CAUSE
+[September 19, 2018](https://oag.ca.gov/system/files/Redwood%20-%20AG%20Notification%20-%20California%2012.6.18_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15261,7 +15261,7 @@ locked information. This ransomware attack locked the server that stored some of
 </details>
 ## Rite Aid Corporation
 <p class="hidden"></p>
-[August 30, 2018](https://oag.ca.gov/system/files/Rite%20Aid-Individual%20Notification%2010-18_0.pdf) | CAUSE
+[August 30, 2018](https://oag.ca.gov/system/files/Rite%20Aid-Individual%20Notification%2010-18_0.pdf) | Programming Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15272,7 +15272,7 @@ Walgreens vendor partners including Empower. Due to a programming update made by
 Rite Aid associates were inadvertently included in the standard eligibility file that goes to Empower. 
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Rite%20Aid%20Notification%20Letter_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Rite%20Aid%20Notification%20Letter_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15280,7 +15280,7 @@ We recently learned that PNI Digital Media (“PNI”), the third-party service 
 </details>
 ## RSC Insurance Brokerage, Inc.
 <p class="hidden"></p>
-[August 23, 2018](https://oag.ca.gov/system/files/RSC%20Resolution%20Sample%20CA%20Individual%20Notice_0.pdf) | CAUSE
+[August 23, 2018](https://oag.ca.gov/system/files/RSC%20Resolution%20Sample%20CA%20Individual%20Notice_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15291,7 +15291,7 @@ the employee’s account credentials, and launched an investigation with the ass
 </details>
 ## Reddit, Inc.
 <p class="hidden"></p>
-[June 14, 2018](https://oag.ca.gov/system/files/Reddit%20breach%20notice%20%28email%29_0.pdf) | CAUSE
+[June 14, 2018](https://oag.ca.gov/system/files/Reddit%20breach%20notice%20%28email%29_0.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15299,7 +15299,7 @@ On June 19, Reddit was alerted about a security incident during which an attacke
 </details>
 ## Renaissance Philanthropic Solutions Group (“RenPSG”)
 <p class="hidden"></p>
-[June 05, 2018](https://oag.ca.gov/system/files/RenPSG-%20Notice%20of%20Data%20Event-CA%20Exhibit%201_0.pdf) | CAUSE
+[June 05, 2018](https://oag.ca.gov/system/files/RenPSG-%20Notice%20of%20Data%20Event-CA%20Exhibit%201_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15307,7 +15307,7 @@ On June 13, 2018 RenPSG became aware of suspicious activity relating to certain 
 </details>
 ## Rennline Automotive
 <p class="hidden"></p>
-[May 28, 2018](https://oag.ca.gov/system/files/CA_X108_v02__002__0.pdf) | CAUSE
+[May 28, 2018](https://oag.ca.gov/system/files/CA_X108_v02__002__0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15320,7 +15320,7 @@ January 18, 2019.
 </details>
 ## R.R. Bowker LLC
 <p class="hidden"></p>
-[May 01, 2018](https://oag.ca.gov/system/files/CA%20Notice%20_0.pdf) | CAUSE
+[May 01, 2018](https://oag.ca.gov/system/files/CA%20Notice%20_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15330,7 +15330,7 @@ of copying information entered by customers during the checkout process from May
 </details>
 ## Roadrunner Transportation Systems, Inc.
 <p class="hidden"></p>
-[April 01, 2018](https://oag.ca.gov/system/files/RRTS%20-%20July%202018%20-%20Supplemental%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201_0.pdf) | CAUSE
+[April 01, 2018](https://oag.ca.gov/system/files/RRTS%20-%20July%202018%20-%20Supplemental%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15338,7 +15338,7 @@ On July 2, 2018, RRTS became aware that they were the subject of a phishing camp
 </details>
 ## Rady Children's Hospital-San Diego
 <p class="hidden"></p>
-[March 29, 2018](https://oag.ca.gov/system/files/MINOR%20PATIENT%20LETTER%20-%20ENGLISH_1.pdf) | CAUSE
+[March 29, 2018](https://oag.ca.gov/system/files/MINOR%20PATIENT%20LETTER%20-%20ENGLISH_1.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15351,7 +15351,7 @@ Please rest assured that this entity is bound by the same federal privacy standa
 obligations to protect the confidentiality, privacy and security of patient information. 
 </details>
 <p class="hidden"></p>
-[June 06, 2014](https://oag.ca.gov/system/files/Rady%20Childrens%20Number%20one%206_16_14_1.pdf) | CAUSE
+[June 06, 2014](https://oag.ca.gov/system/files/Rady%20Childrens%20Number%20one%206_16_14_1.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
