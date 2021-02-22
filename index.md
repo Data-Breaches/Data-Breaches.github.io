@@ -15359,7 +15359,7 @@ On June 6, 2014, an employee of Rady Children's Hospital-San Diego inadvertently
 </details>
 ## Rail Europe North America Inc.
 <p class="hidden"></p>
-[November 29, 2017](https://oag.ca.gov/system/files/RENA%20Customer%20Notification_0.pdf) | CAUSE
+[November 29, 2017](https://oag.ca.gov/system/files/RENA%20Customer%20Notification_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15371,7 +15371,7 @@ forensic analysis, system restoration and security hardening
 </details>
 ## Rehabilitation
 <p class="hidden"></p>
-[November 22, 2017](https://oag.ca.gov/system/files/Notification%20Letter%20-%20%20Draft_12-4-17_0.pdf) | CAUSE
+[November 22, 2017](https://oag.ca.gov/system/files/Notification%20Letter%20-%20%20Draft_12-4-17_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15383,7 +15383,7 @@ you of this incident.
 </details>
 ## Ron's Pharmacy Services
 <p class="hidden"></p>
-[October 03, 2017](https://oag.ca.gov/system/files/T927_v01.pdf_Prescription_0.pdf) | CAUSE
+[October 03, 2017](https://oag.ca.gov/system/files/T927_v01.pdf_Prescription_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15391,7 +15391,7 @@ On October 3, 2017, Ron’s Pharmacy identified unusual activity in an employee 
 </details>
 ## Richard Owen Nursery, Inc. d/b/a Dutch Gardens USA
 <p class="hidden"></p>
-[September 29, 2017](https://oag.ca.gov/system/files/Richard%20Owen%20Sample-%20All%20States_0.pdf) | CAUSE
+[September 29, 2017](https://oag.ca.gov/system/files/Richard%20Owen%20Sample-%20All%20States_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15402,7 +15402,7 @@ September 29, 2017 until July 31, 2018.
 </details>
 ## Roberts Hawaii, Inc.
 <p class="hidden"></p>
-[July 30, 2017](https://oag.ca.gov/system/files/NPC_Breach_C5920_CA_Sample_0.pdf) | CAUSE
+[July 30, 2017](https://oag.ca.gov/system/files/NPC_Breach_C5920_CA_Sample_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15413,7 +15413,7 @@ network.
 </details>
 ## RM Acquisition, LLC d/b/a Rand McNally
 <p class="hidden"></p>
-[April 12, 2017](https://oag.ca.gov/system/files/Rand%20CAnotice%20only_0.pdf) | CAUSE
+[April 12, 2017](https://oag.ca.gov/system/files/Rand%20CAnotice%20only_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15426,7 +15426,7 @@ that your information may have been collected as a result of the incident.
 </details>
 ## Real Estate Business Services, Inc.
 <p class="hidden"></p>
-[March 13, 2017](https://oag.ca.gov/system/files/REBS%20Notice%20of%20Breach%207.3.17_0.pdf) | CAUSE
+[March 13, 2017](https://oag.ca.gov/system/files/REBS%20Notice%20of%20Breach%207.3.17_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15439,7 +15439,7 @@ removed from our systems, and we now use an entirely different payment system th
 </details>
 ## Rent the Runway
 <p class="hidden"></p>
-[February 23, 2017](https://oag.ca.gov/system/files/ca_notice_sample_0.pdf) | CAUSE
+[February 23, 2017](https://oag.ca.gov/system/files/ca_notice_sample_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15449,7 +15449,7 @@ between December 25, 2016 and February 23, 2017.
 </details>
 ## Rite Aid Online Store, Inc.
 <p class="hidden"></p>
-[January 30, 2017](https://oag.ca.gov/system/files/Rite%20Aid%20Online%20Store%2C%20Inc.%20Individual%20Notification%20Letter_65144423_1_0.PDF) | CAUSE
+[January 30, 2017](https://oag.ca.gov/system/files/Rite%20Aid%20Online%20Store%2C%20Inc.%20Individual%20Notification%20Letter_65144423_1_0.PDF) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15459,7 +15459,7 @@ store between January 30, 2017 and April 11, 2017.
 </details>
 ## Renovate America, Inc.
 <p class="hidden"></p>
-[January 20, 2017](https://oag.ca.gov/system/files/RenovateAmerica%202_3_17_0.pdf) | CAUSE
+[January 20, 2017](https://oag.ca.gov/system/files/RenovateAmerica%202_3_17_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15474,7 +15474,7 @@ few hours and have been working tirelessly to investigate and to mitigate the im
 </details>
 ## Rod's Western Palace
 <p class="hidden"></p>
-[October 11, 2016](https://oag.ca.gov/system/files/Rod%27s%20Western%20Palace%20-%20CA%20Notification%20%286607474-2x7AB84%29_1.pdf) | CAUSE
+[October 11, 2016](https://oag.ca.gov/system/files/Rod%27s%20Western%20Palace%20-%20CA%20Notification%20%286607474-2x7AB84%29_1.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15482,7 +15482,7 @@ After identifying suspicious activity within our e-commerce site on February 8, 
 </details>
 ## Remington Lodging & Hospitality, LLC and Affiliates
 <p class="hidden"></p>
-[August 10, 2016](https://oag.ca.gov/system/files/Remington%20Notice_0.pdf) | CAUSE
+[August 10, 2016](https://oag.ca.gov/system/files/Remington%20Notice_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15495,7 +15495,7 @@ reservation information, for a subset of hotel reservations processed through Sa
 </details>
 ## Rosewood Hotel Group
 <p class="hidden"></p>
-[May 29, 2016](https://oag.ca.gov/system/files/Rosewood%20-%20California%20Notification%20Materials_0.pdf) | CAUSE
+[May 29, 2016](https://oag.ca.gov/system/files/Rosewood%20-%20California%20Notification%20Materials_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15506,7 +15506,7 @@ was maintained on Sabre’s systems.
 </details>
 ## Ronald L. Ross
 <p class="hidden"></p>
-[January 13, 2016](https://oag.ca.gov/system/files/Website%20Notification_3.pdf) | CAUSE
+[January 13, 2016](https://oag.ca.gov/system/files/Website%20Notification_3.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15520,7 +15520,7 @@ some Wendy’s franchisee systems starting in late fall 2015.
 </details>
 ## RDR Foods, Inc.
 <p class="hidden"></p>
-[January 13, 2016](https://oag.ca.gov/system/files/Website%20Notification_2.pdf) | CAUSE
+[January 13, 2016](https://oag.ca.gov/system/files/Website%20Notification_2.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15534,7 +15534,7 @@ some Wendy’s franchisee systems starting in late fall 2015.
 </details>
 ## RealSelf, Inc.
 <p class="hidden"></p>
-[December 25, 2015](https://oag.ca.gov/system/files/RealSelf%20Notice_0.pdf) | CAUSE
+[December 25, 2015](https://oag.ca.gov/system/files/RealSelf%20Notice_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15542,7 +15542,7 @@ For a brief period over the holiday weekend, an unauthorized party gained access
 </details>
 ## RateMyProfessors.com LLC
 <p class="hidden"></p>
-[November 26, 2015](https://oag.ca.gov/system/files/RateMyProfessors%20User%20Notification%2020160106%20-%20Attach%20to%20California%20AG%20Notice_0.pdf) | CAUSE
+[November 26, 2015](https://oag.ca.gov/system/files/RateMyProfessors%20User%20Notification%2020160106%20-%20Attach%20to%20California%20AG%20Notice_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15551,7 +15551,7 @@ RateMyProfessors.com website ("site"). We regret that your email address and pas
 </details>
 ## ROBERT SOPER, M.D.
 <p class="hidden"></p>
-[June 27, 2015](https://oag.ca.gov/system/files/SOPER%20NOTIFICATION%20LETTER_0.pdf) | CAUSE
+[June 27, 2015](https://oag.ca.gov/system/files/SOPER%20NOTIFICATION%20LETTER_0.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15559,7 +15559,7 @@ During a visit to San Francisco On June 27 my car was broken into and my compute
 </details>
 ## Rea.deeming Beauty Inc. d/b/a beautyblender
 <p class="hidden"></p>
-[April 23, 2015](https://oag.ca.gov/system/files/Rea.deeming%20Beauty%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201_0.pdf) | CAUSE
+[April 23, 2015](https://oag.ca.gov/system/files/Rea.deeming%20Beauty%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15577,7 +15577,7 @@ on our website.
 </details>
 ## Rob Kirby, CPA
 <p class="hidden"></p>
-[December 19, 2014](https://oag.ca.gov/system/files/Security%20Breach%20Notification_1.pdf) | CAUSE
+[December 19, 2014](https://oag.ca.gov/system/files/Security%20Breach%20Notification_1.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15585,7 +15585,7 @@ On Friday December 19, 2014, my vehicle was broken into. My briefcase, laptop (p
 </details>
 ## Riverside County Regional Medical Center (RCRMC)
 <p class="hidden"></p>
-[November 26, 2014](https://oag.ca.gov/system/files/Adult%20SSN%20Sample_0.pdf) | CAUSE
+[November 26, 2014](https://oag.ca.gov/system/files/Adult%20SSN%20Sample_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15593,7 +15593,7 @@ On December 1, 2014, we learned that a password protected laptop used by our Oph
 </details>
 ## Rosen Hotels & Resorts
 <p class="hidden"></p>
-[September 02, 2014](https://oag.ca.gov/system/files/CA%20-%20Rosen%20AG%20Notification_1.pdf) | CAUSE
+[September 02, 2014](https://oag.ca.gov/system/files/CA%20-%20Rosen%20AG%20Notification_1.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15607,7 +15607,7 @@ routed through the affected systems.
 </details>
 ## Recreational Equipment Inc.
 <p class="hidden"></p>
-[July 04, 2014](https://oag.ca.gov/system/files/REI%20Notice_0.pdf) | CAUSE
+[July 04, 2014](https://oag.ca.gov/system/files/REI%20Notice_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15615,7 +15615,7 @@ On July 23, REI discovered that a third-party may have accessed your account wit
 </details>
 ## Riverside County Regional Medical Center
 <p class="hidden"></p>
-[June 17, 2014](https://oag.ca.gov/system/files/Riverside%20County%20Med%20Center%206_24_14_1.pdf) | CAUSE
+[June 17, 2014](https://oag.ca.gov/system/files/Riverside%20County%20Med%20Center%206_24_14_1.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15623,7 +15623,7 @@ The laptop was determined to be missing from a diagnostic services office in the
 </details>
 ## Riverside Community College District
 <p class="hidden"></p>
-[May 30, 2014](https://oag.ca.gov/system/files/Riverside%20Adult%20Notice_0.PDF) | CAUSE
+[May 30, 2014](https://oag.ca.gov/system/files/Riverside%20Adult%20Notice_0.PDF) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15631,7 +15631,7 @@ On Monday, June 2, 2014, RCCD learned that an email containing student records w
 </details>
 ## Record Assist LLC
 <p class="hidden"></p>
-[May 28, 2014](https://oag.ca.gov/system/files/AllOtherStates_0.pdf) | CAUSE
+[May 28, 2014](https://oag.ca.gov/system/files/AllOtherStates_0.pdf) | System Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15639,7 +15639,7 @@ On May 28, 2014, we discovered that, earlier that morning, someone obtained unau
 </details>
 ## Robert Meaglia, DDS
 <p class="hidden"></p>
-[December 16, 2013](https://oag.ca.gov/system/files/scan2_0.pdf) | CAUSE
+[December 16, 2013](https://oag.ca.gov/system/files/scan2_0.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15647,7 +15647,7 @@ On the morning of December 16, 2013 we were shocked to discover our office suite
 </details>
 ## R.T. Jones Capital Management Equities
 <p class="hidden"></p>
-[July 22, 2013](https://oag.ca.gov/system/files/Cal%20ex%20A_0.pdf) | CAUSE
+[July 22, 2013](https://oag.ca.gov/system/files/Cal%20ex%20A_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15655,7 +15655,7 @@ R.T. Jones Capital Equities Management, Inc. ("R.T. Jones") is, or was, the mana
 </details>
 ## Reeves International, Inc.
 <p class="hidden"></p>
-[March 31, 2013](https://oag.ca.gov/system/files/222309%20Reeves%20%28Non-Mass%29_0.pdf) | CAUSE
+[March 31, 2013](https://oag.ca.gov/system/files/222309%20Reeves%20%28Non-Mass%29_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15663,7 +15663,7 @@ On September 9, 2014, we learned that unauthorized individuals installed malicio
 </details>
 ## Rollins, Inc.
 <p class="hidden"></p>
-[March 04, 2013](https://oag.ca.gov/system/files/Rollins%20Ad_1.pdf) | CAUSE
+[March 04, 2013](https://oag.ca.gov/system/files/Rollins%20Ad_1.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15671,15 +15671,15 @@ We are writing to inform you of an incident that came to our attention on March 
 </details>
 ## Roy's Holdings, Inc.
 <p class="hidden"></p>
-[January 28, 2013](https://oag.ca.gov/system/files/nldh-prolaw%20nldh%20com_Exchange_07-05-2013_15-47-37_0.pdf) | CAUSE
+[January 28, 2013](https://oag.ca.gov/system/files/nldh-prolaw%20nldh%20com_Exchange_07-05-2013_15-47-37_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-Roy's Holdings, Inc. ("Roy's"), the holding company which includes six restaurants inHawaii, has confirmed that the desktop computer of a Roy's corporate employee became infected by malware of unknown origin, resulting in a potential compromise of credit card information from individuals who patronized Roy;s restaurants in Ko'Olina, Waikiki, ...
+Roy's Holdings, Inc. ("Roy's"), the holding company which includes six restaurants in Hawaii, has confirmed that the desktop computer of a Roy's corporate employee became infected by malware of unknown origin, resulting in a potential compromise of credit card information from individuals who patronized Roy;s restaurants in Ko'Olina, Waikiki, ...
 </details>
 ## Rosenthal Collins Group, LLC
 <p class="hidden"></p>
-[November 27, 2012](https://oag.ca.gov/system/files/Consumer%20Letter%20%28FINAL%2047-state%20letter%29_0.pdf) | CAUSE
+[November 27, 2012](https://oag.ca.gov/system/files/Consumer%20Letter%20%28FINAL%2047-state%20letter%29_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15691,7 +15691,7 @@ identify the person(s) responsible for the unauthorized access.
 </details>
 ## Reyes Beverage Group
 <p class="hidden"></p>
-[November 09, 2012](https://oag.ca.gov/system/files/RBGDataBreachLetterFINAL_0.pdf) | CAUSE
+[November 09, 2012](https://oag.ca.gov/system/files/RBGDataBreachLetterFINAL_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15699,7 +15699,7 @@ On November 9, 2012, a report containing the names and social security numbers o
 </details>
 ## Rentpath, Inc., formerly knwon as Primedia, Inc.
 <p class="hidden"></p>
-[June 20, 2012](https://oag.ca.gov/system/files/RentPath%20Notice%205.31.13_0.pdf) | CAUSE
+[June 20, 2012](https://oag.ca.gov/system/files/RentPath%20Notice%205.31.13_0.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15707,7 +15707,7 @@ We recently experienced the theft of over fifty pieces of computer hardware from
 </details>
 ## River Arch Dental/Hamner Square Dental
 <p class="hidden"></p>
-[May 18, 2012](https://oag.ca.gov/system/files/River%20Arch%20Notification%20Attorney%20General_2.pdf) | CAUSE
+[May 18, 2012](https://oag.ca.gov/system/files/River%20Arch%20Notification%20Attorney%20General_2.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15715,7 +15715,7 @@ On May 10, 2012, in the course, of upgrading to a new imaging and management sof
 </details>
 ## Rent-A-Center, Inc.
 <p class="hidden"></p>
-[April 01, 2012](https://oag.ca.gov/system/files/RentACenter%20Notification%20Letter.pdf) | CAUSE
+[April 01, 2012](https://oag.ca.gov/system/files/RentACenter%20Notification%20Letter.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15723,7 +15723,7 @@ On April 1, 2012, various electronics were stolen from a Rent-A-Center store inc
 </details>
 ## Rubio's Restaurants, Inc.
 <p class="hidden"></p>
-[February 05, 2012](https://oag.ca.gov/system/files/Blank%20Notification%20Letters.PDF) | CAUSE
+[February 05, 2012](https://oag.ca.gov/system/files/Blank%20Notification%20Letters.PDF) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15739,7 +15739,7 @@ RJL Insurance services, a consultant of [Client], recently became aware of a vul
 </details>
 ## Ronald L Wolfe & Associates Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/RLWA%20Data%20Breach%20Notice.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/RLWA%20Data%20Breach%20Notice.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15752,7 +15752,7 @@ tactics to force breaching of security measures that were in place.
 </details>
 ## Redtail Technology, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/California%20-%20Breach%20Notification%20Letter_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/California%20-%20Breach%20Notification%20Letter_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15763,7 +15763,7 @@ and protect it from future incidents.
 </details>
 ## Regency Theatres
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/RegencyDataBreachAllClear_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/RegencyDataBreachAllClear_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15772,7 +15772,7 @@ website was accessed by an unauthorized third party
 </details>
 ## Rebecca Minkoff
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Pages%20from%20REV3_EXPERIAN_C2679_NOTICE_LETTER_TO_CONSUMERS_%28GENERAL%29%5B3%5D.DOCX_LIVEAUDIT_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Pages%20from%20REV3_EXPERIAN_C2679_NOTICE_LETTER_TO_CONSUMERS_%28GENERAL%29%5B3%5D.DOCX_LIVEAUDIT_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15780,7 +15780,7 @@ On August 10, 2016, Rebecca Minkoff learned that there may have been unauthorize
 </details>
 ## Round Pond Estates
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Round%20Pond%20Breach%20Notification%20Letter_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Round%20Pond%20Breach%20Notification%20Letter_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15788,7 +15788,7 @@ Our consumer direct sales systems provider, Missing Link Networks, Inc., (“Mis
 </details>
 ## Rhys Vineyards
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Rhys%20ecellar%20breach%20notification_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Rhys%20ecellar%20breach%20notification_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15796,7 +15796,7 @@ Our third-party ecommerce provider, Missing Link Networks, Inc., (“Missing Lin
 </details>
 ## Repris Vineyards
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Repris%20Missing%20Link%20Breach%20Notification%20Letter%20Final_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Repris%20Missing%20Link%20Breach%20Notification%20Letter%20Final_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15804,7 +15804,7 @@ Our sales systems provider, Missing Link Networks, Inc., (“Missing Link”) no
 </details>
 ## Rombauer Vineyards, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/eCellars%20Customer%20Letter_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/eCellars%20Customer%20Letter_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15812,7 +15812,7 @@ Our consumer direct sales systems provider, Missing Link Networks, Inc., (“Mis
 </details>
 ## REEVE-WOODS EYE CENTER
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/3041402_1_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/3041402_1_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15820,7 +15820,7 @@ On September 17, 2014, our information technology consultant discovered that unk
 </details>
 ## RR Donnelley
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Notification%20Letter_1.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Notification%20Letter_1.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15828,7 +15828,7 @@ According to RR Donnelley, a print and mailing vendor that UnitedHealthcare uses
 </details>
 ## Regions Financial Corporation
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Sample%20Letter.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Sample%20Letter.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15848,7 +15848,7 @@ s used did not come from Sam's Club. Instead, it is likely that your credentials
 </details>
 ## Southbeachsmoke.com; directvapor.com; vaporfi.com
 <p class="hidden"></p>
-[September 14, 2020](https://oag.ca.gov/system/files/Southbeachsmoke%2Cdirectvapor%2Cvaporfi_1.pdf) | CAUSE
+[September 14, 2020](https://oag.ca.gov/system/files/Southbeachsmoke%2Cdirectvapor%2Cvaporfi_1.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15894,7 +15894,7 @@ On August 7, 2020, Olympia House was alerted to suspicious behavior within its n
 </details>
 ## Salinas Valley Memorial Healthcare System
 <p class="hidden"></p>
-[April 29, 2020](https://oag.ca.gov/system/files/SVMHS%20-%20Form%20of%20Patient%20Notification%20%28L01%29%20%20PDF.pdf) | CAUSE
+[April 29, 2020](https://oag.ca.gov/system/files/SVMHS%20-%20Form%20of%20Patient%20Notification%20%28L01%29%20%20PDF.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15921,7 +15921,7 @@ Steel Partners discovered unauthorized activity in the email account of one of i
 </details>
 ## Steel Partners Holdings L.P.
 <p class="hidden"></p>
-[April 18, 2020](https://oag.ca.gov/system/files/2020-11-18%20FINAL%20Steel%20Partners%20Resident%20Notification%20Letter%20III.pdf) | CAUSE
+[April 18, 2020](https://oag.ca.gov/system/files/2020-11-18%20FINAL%20Steel%20Partners%20Resident%20Notification%20Letter%20III.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15960,7 +15960,7 @@ On Thursday November 12th, Spotify discovered a vulnerability in our system that
 On January 28th, 2020, San Dieguito alerted Aeries that their database may have been potentially subject to unauthorized access. We immediately launched an investigation into the nature and scope of the incident and took measures to secure the database. We also assisted San Dieguito and its forensic experts with their investigation into the incident. On February 25, 2020, the forensic investigations revealed that San Dieguito’s Aeries database was subject to unauthorized access from April 2019 to January 2020. San Dieguito undertook a labor-intensive review of the affected database to determine the scope of personal information contained within. San Dieguito has asked Aeries to notify you out of an abundance of caution because your information was present in the affected database.
 </details>
 <p class="hidden"></p>
-[July 01, 2019](https://oag.ca.gov/system/files/SDUHSD%20-%20Notice%20of%20Data%20Event.pdf) | CAUSE
+[July 01, 2019](https://oag.ca.gov/system/files/SDUHSD%20-%20Notice%20of%20Data%20Event.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15974,7 +15974,7 @@ the affected email accounts, SDUHSD is notifying you in an abundance of caution 
 information was present in the affected email accounts.
 </details>
 <p class="hidden"></p>
-[April 01, 2019](https://oag.ca.gov/system/files/AB279_v01.pdf) | CAUSE
+[April 01, 2019](https://oag.ca.gov/system/files/AB279_v01.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
