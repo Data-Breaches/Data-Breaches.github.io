@@ -15731,7 +15731,7 @@ On February 5, 2012, a CD-ROM containing a list of certain people who owned equi
 </details>
 ## RJL Insurance Services
 <p class="hidden"></p>
-[October 01, 2011](https://oag.ca.gov/system/files/RJL%20NotificationLetter%20Basic%201.pdf) | CAUSE
+[October 01, 2011](https://oag.ca.gov/system/files/RJL%20NotificationLetter%20Basic%201.pdf) | Vulnerability
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -15988,7 +15988,7 @@ to notify you out of an abundance of caution because your information was presen
 </details>
 ## SFO
 <p class="hidden"></p>
-[March 05, 2020](https://oag.ca.gov/system/files/Notice%20to%20CA.pdf) | CAUSE
+[March 05, 2020](https://oag.ca.gov/system/files/Notice%20to%20CA.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16009,7 +16009,7 @@ We determined that a cyber-criminal installed malware in software that we use to
 </details>
 ## San Francisco Employees' Retirement System
 <p class="hidden"></p>
-[February 24, 2020](https://oag.ca.gov/system/files/10up%20Breach%20-%20SFERS%20Notice%20Website%20FINAL.pdf) | CAUSE
+[February 24, 2020](https://oag.ca.gov/system/files/10up%20Breach%20-%20SFERS%20Notice%20Website%20FINAL.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16045,7 +16045,7 @@ On July 16, 2020 Blackbaud notified Stetson University of a ransomware attack on
 </details>
 ## Squar Milner LLP
 <p class="hidden"></p>
-[February 05, 2020](https://oag.ca.gov/system/files/Squar%20Milner%20-%20Master%20%28Adult%20-%20General%29.pdf) | CAUSE
+[February 05, 2020](https://oag.ca.gov/system/files/Squar%20Milner%20-%20Master%20%28Adult%20-%20General%29.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16075,7 +16075,7 @@ Sekure recently concluded an investigation of a data security incident involving
 </details>
 ## Stockdale Radiology
 <p class="hidden"></p>
-[January 17, 2020](https://oag.ca.gov/system/files/Stockdale%20Radiology%20Sample%20Data%20Breach%20Notice.pdf) | CAUSE
+[January 17, 2020](https://oag.ca.gov/system/files/Stockdale%20Radiology%20Sample%20Data%20Breach%20Notice.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16089,7 +16089,7 @@ incident.
 </details>
 ## Sonicbids LLC
 <p class="hidden"></p>
-[December 29, 2019](https://oag.ca.gov/system/files/Sonicbids%20-%20%20CA.pdf) | CAUSE
+[December 29, 2019](https://oag.ca.gov/system/files/Sonicbids%20-%20%20CA.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16106,7 +16106,7 @@ cloud instance occurred on December 29, 2019.
 </details>
 ## Santa Rosa & Rohnert Park Oral Surgery
 <p class="hidden"></p>
-[December 20, 2019](https://oag.ca.gov/system/files/Santa%20Rosa%20-%20Notice%20to%20CA_1.pdf) | CAUSE
+[December 20, 2019](https://oag.ca.gov/system/files/Santa%20Rosa%20-%20Notice%20to%20CA_1.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16127,17 +16127,17 @@ SRG was the subject of an isolated cyber event called a phishing incident in whi
 </details>
 ## Saddleback Valley Unified School District
 <p class="hidden"></p>
-[November 04, 2019](https://oag.ca.gov/system/files/Aeries%20Password%20Reset%20Parent%20Notification%20Letter%20-%20FINAL_1.pdf) | CAUSE
+[November 04, 2019](https://oag.ca.gov/system/files/Aeries%20Password%20Reset%20Parent%20Notification%20Letter%20-%20FINAL_1.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-On April 27, 2020, we were informed there may have been unauthorized access to the Aeries® SIS on November 4th, 2019. The initial report was focused on Aeries Hosted Databases, which we do not use. Our Student Information System is housed onpremise on our own servers.<br><br>
+On April 27, 2020, we were informed there may have been unauthorized access to the Aeries® SIS on November 4th, 2019. The initial report was focused on Aeries Hosted Databases, which we do not use. Our Student Information System is housed on-premise on our own servers.<br><br>
 
-On May 6, 2020, SVUSD learned that the Aeries incident may have also impacted onpremise databases. Following directions provided by Aeries, we immediately contacted Aeries and received confirmation that our data was also accessed.
+On May 6, 2020, SVUSD learned that the Aeries incident may have also impacted on-premise databases. Following directions provided by Aeries, we immediately contacted Aeries and received confirmation that our data was also accessed.
 </details>
 ## San Leandro Unified School District
 <p class="hidden"></p>
-[November 04, 2019](https://oag.ca.gov/system/files/SLUSD%20Aeries%20Breach%20Notification.pdf) | CAUSE
+[November 04, 2019](https://oag.ca.gov/system/files/SLUSD%20Aeries%20Breach%20Notification.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16151,7 +16151,7 @@ District’s Aeries System.
 </details>
 ## San Bernardino City Unified School District
 <p class="hidden"></p>
-[November 04, 2019](https://oag.ca.gov/system/files/2020-05-22%20-%20Aeries%20Breach.pdf) | CAUSE
+[November 04, 2019](https://oag.ca.gov/system/files/2020-05-22%20-%20Aeries%20Breach.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16172,7 +16172,7 @@ We have conducted an investigation, with the assistance of a leading cybersecuri
 </details>
 ## SharesPost, Inc.
 <p class="hidden"></p>
-[September 06, 2019](https://oag.ca.gov/system/files/SharesPost%20Multistate%20Proof.pdf) | CAUSE
+[September 06, 2019](https://oag.ca.gov/system/files/SharesPost%20Multistate%20Proof.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16186,7 +16186,7 @@ possibility that personal information was accessed.
 </details>
 ## States Logistics Services, Inc.
 <p class="hidden"></p>
-[August 30, 2019](https://oag.ca.gov/system/files/States%20Logistic%20Services%20-%20Notice%20of%20Data%20Event%20-%20CA_1.pdf) | CAUSE
+[August 30, 2019](https://oag.ca.gov/system/files/States%20Logistic%20Services%20-%20Notice%20of%20Data%20Event%20-%20CA_1.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16208,7 +16208,7 @@ On September 10, 2019, STG became aware of unusual activity involving certain em
 </details>
 ## State Farm Mutual Insurance Company
 <p class="hidden"></p>
-[July 06, 2019](https://oag.ca.gov/system/files/Customer%20Letter.pdf) | CAUSE
+[July 06, 2019](https://oag.ca.gov/system/files/Customer%20Letter.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16219,7 +16219,7 @@ online account.
 </details>
 ## SaveDay, Inc.
 <p class="hidden"></p>
-[July 05, 2019](https://oag.ca.gov/system/files/SaveDay%20Notification.pdf) | CAUSE
+[July 05, 2019](https://oag.ca.gov/system/files/SaveDay%20Notification.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16232,14 +16232,14 @@ have been accessed without authorization.
 </details>
 ## Sprint
 <p class="hidden"></p>
-[June 08, 2019](https://oag.ca.gov/system/files/Samsung%20Customer%20Letter.pdf) | CAUSE
+[June 08, 2019](https://oag.ca.gov/system/files/Samsung%20Customer%20Letter.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 On June 22, Sprint was informed of unauthorized access to your Sprint account using your account credentials via the Samsung.com “add a line” website. We take this matter, and all matters involving Sprint customer’s privacy, very seriously. 
 </details>
 <p class="hidden"></p>
-[May 07, 2017](https://oag.ca.gov/system/files/Sprint%20Customer%20Notification%20Letter%202017-09-20_0.pdf) | CAUSE
+[May 07, 2017](https://oag.ca.gov/system/files/Sprint%20Customer%20Notification%20Letter%202017-09-20_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
 Sprint determined that a fraudulent device insurance claim was attempted on your account between May 7 and July 22, 2017. Information that may have been compromised as a result of this incident are your Sprint account Personal Identification Number (PIN) and/or security questions/answers.
@@ -16247,7 +16247,7 @@ Sprint determined that a fraudulent device insurance claim was attempted on your
 </details>
 ## StockX LLC
 <p class="hidden"></p>
-[May 14, 2019](https://oag.ca.gov/system/files/StockX%20Customer%20Notification%208-8-19%20FINAL.pdf) | CAUSE
+[May 14, 2019](https://oag.ca.gov/system/files/StockX%20Customer%20Notification%208-8-19%20FINAL.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16260,7 +16260,7 @@ the morning of August 1, 2019 sent customers an email alerting them to the syste
 </details>
 ## SkinSolutions.MD LLC
 <p class="hidden"></p>
-[April 19, 2019](https://oag.ca.gov/system/files/SkinSolutions%20MD%20Ad%20CA.pdf) | CAUSE
+[April 19, 2019](https://oag.ca.gov/system/files/SkinSolutions%20MD%20Ad%20CA.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16272,7 +16272,7 @@ we take it very seriously.
 </details>
 ## San Francisco Unified School District
 <p class="hidden"></p>
-[April 10, 2019](https://oag.ca.gov/system/files/BVHM%20-%20LETTER%20Notice%20of%20Data%20Breach%20%5BEnglish%5D%20-%20Google%20Docs_0.pdf) | CAUSE
+[April 10, 2019](https://oag.ca.gov/system/files/BVHM%20-%20LETTER%20Notice%20of%20Data%20Breach%20%5BEnglish%5D%20-%20Google%20Docs_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16287,7 +16287,7 @@ this information regarding students other than their own for approximately a 2-h
 </details>
 ## Sterling & Sterling, LLC d/b/a SterlingRisk
 <p class="hidden"></p>
-[April 03, 2019](https://oag.ca.gov/system/files/CM%20CA%20Client.pdf) | CAUSE
+[April 03, 2019](https://oag.ca.gov/system/files/CM%20CA%20Client.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16298,7 +16298,7 @@ promptly engaged a leading cyber security firm to assist with an investigation.
 </details>
 ## Solara Medical Supplies, LLC
 <p class="hidden"></p>
-[April 02, 2019](https://oag.ca.gov/system/files/Solara%20CA%20Exhibit%201%20%28notification%29.pdf) | CAUSE
+[April 02, 2019](https://oag.ca.gov/system/files/Solara%20CA%20Exhibit%201%20%28notification%29.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16313,7 +16313,7 @@ some of your personal information was present in an affected account at the time
 </details>
 ## St. Vincent Medical Center
 <p class="hidden"></p>
-[March 15, 2019](https://oag.ca.gov/system/files/AG%20Notice%20Medical%20Information%20no%20SSN_0.pdf) | CAUSE
+[March 15, 2019](https://oag.ca.gov/system/files/AG%20Notice%20Medical%20Information%20no%20SSN_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16322,7 +16322,7 @@ unauthorized access, disabled the eamil account, and disconnected the device fro
 </details>
 ## Sprint Corporation ("Boost Mobile")
 <p class="hidden"></p>
-[March 14, 2019](https://oag.ca.gov/system/files/BoostMobile_Notice_0.pdf) | CAUSE
+[March 14, 2019](https://oag.ca.gov/system/files/BoostMobile_Notice_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16330,7 +16330,7 @@ On March 14, 2019, Boost.com experiences unauthorized online account activity in
 </details>
 ## Sheet Metal Workers’ Local Union No. 104
 <p class="hidden"></p>
-[February 05, 2019](https://oag.ca.gov/system/files/Calif%20Resident%20Letter_0.pdf) | CAUSE
+[February 05, 2019](https://oag.ca.gov/system/files/Calif%20Resident%20Letter_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16341,7 +16341,7 @@ license numbers. As a result, your personal information may have been exposed to
 </details>
 ## San Jose State University
 <p class="hidden"></p>
-[December 10, 2018](https://oag.ca.gov/system/files/181226__CA_AG_Notice_Portal_Appendix_-_SJSU_0.pdf) | CAUSE
+[December 10, 2018](https://oag.ca.gov/system/files/181226__CA_AG_Notice_Portal_Appendix_-_SJSU_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16353,7 +16353,7 @@ information may have been affected.
 </details>
 ## San Francisco Department of Public Health
 <p class="hidden"></p>
-[November 14, 2018](https://oag.ca.gov/system/files/Pt%20Notif%20Ltr_FINAL_filed%20online%20State%20AG.pdf) | CAUSE
+[November 14, 2018](https://oag.ca.gov/system/files/Pt%20Notif%20Ltr_FINAL_filed%20online%20State%20AG.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16365,7 +16365,7 @@ participants when their coverage expired.
 </details>
 ## San Antonio Winery, Inc.
 <p class="hidden"></p>
-[November 13, 2018](https://oag.ca.gov/system/files/CA%20Letter_2.pdf) | CAUSE
+[November 13, 2018](https://oag.ca.gov/system/files/CA%20Letter_2.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16376,7 +16376,7 @@ leading cyber security firm to assist with the investigation.
 </details>
 ## San Bernardino Community College District
 <p class="hidden"></p>
-[October 25, 2018](https://oag.ca.gov/system/files/Sample%20Notice_26.pdf) | CAUSE
+[October 25, 2018](https://oag.ca.gov/system/files/Sample%20Notice_26.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16387,7 +16387,7 @@ that was not intended for broader distribution.
 </details>
 ## Sark Technologies LLC
 <p class="hidden"></p>
-[September 23, 2018](https://oag.ca.gov/system/files/Sark%20Notice%20of%20Data%20Security%20Incident%20%28California%29_1.PDF) | CAUSE
+[September 23, 2018](https://oag.ca.gov/system/files/Sark%20Notice%20of%20Data%20Security%20Incident%20%28California%29_1.PDF) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16399,7 +16399,7 @@ system was dated September 23, 2018.
 </details>
 ## Silicon Valley Community Foundation
 <p class="hidden"></p>
-[August 23, 2018](https://oag.ca.gov/system/files/CA%20Notice_7.pdf) | CAUSE
+[August 23, 2018](https://oag.ca.gov/system/files/CA%20Notice_7.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16412,7 +16412,7 @@ discovered that this shared mailbox may or could have been accessed by an unauth
 </details>
 ## Sunrise Medical Laboratories, Inc.
 <p class="hidden"></p>
-[August 01, 2018](https://oag.ca.gov/system/files/Sunrise%20Letter%20Enclosure%20-%20Sample%20Notification%20Letter.pdf) | CAUSE
+[August 01, 2018](https://oag.ca.gov/system/files/Sunrise%20Letter%20Enclosure%20-%20Sample%20Notification%20Letter.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16427,7 +16427,7 @@ you can take to protect your personal information.
 </details>
 ## Springstone Financial
 <p class="hidden"></p>
-[July 27, 2018](https://oag.ca.gov/system/files/Sample%20Notice_1.PDF) | CAUSE
+[July 27, 2018](https://oag.ca.gov/system/files/Sample%20Notice_1.PDF) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16437,7 +16437,7 @@ we also have no evidence of any misuse of the data potentially affected by this 
 </details>
 ## Shein
 <p class="hidden"></p>
-[June 01, 2018](https://oag.ca.gov/system/files/Shein%20PressReleaseUS92118v1_0.pdf) | CAUSE
+[June 01, 2018](https://oag.ca.gov/system/files/Shein%20PressReleaseUS92118v1_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16445,7 +16445,7 @@ On August 22, 2018, SHEIN became aware that certain personally identifiable info
 </details>
 ## Systeme Software, Inc.
 <p class="hidden"></p>
-[May 07, 2018](https://oag.ca.gov/system/files/LEGAL%2036547669v1%20Systeme%20-%20State%20AG%20Notice%20-%20California_0.PDF) | CAUSE
+[May 07, 2018](https://oag.ca.gov/system/files/LEGAL%2036547669v1%20Systeme%20-%20State%20AG%20Notice%20-%20California_0.PDF) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16455,7 +16455,7 @@ September 2017 through May 7, 2018, Systeme saved some of this information to a 
 </details>
 ## ShopStyle Inc.
 <p class="hidden"></p>
-[April 16, 2018](https://oag.ca.gov/system/files/ShopStyle%20-%20CA%20Exhibits%20Packet%20FINAL_0.pdf) | CAUSE
+[April 16, 2018](https://oag.ca.gov/system/files/ShopStyle%20-%20CA%20Exhibits%20Packet%20FINAL_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16466,7 +16466,7 @@ because your information was present in the system affected by this incident.
 </details>
 ## STL International, Inc. d/b/a Teeter
 <p class="hidden"></p>
-[April 11, 2018](https://oag.ca.gov/system/files/Sample%20Consumer%20Notification%20Letter_1.pdf) | CAUSE
+[April 11, 2018](https://oag.ca.gov/system/files/Sample%20Consumer%20Notification%20Letter_1.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16480,7 +16480,7 @@ steps that you can take to help protect your information.
 </details>
 ## Sonoma County Indian Health Project, Inc.
 <p class="hidden"></p>
-[March 08, 2018](https://oag.ca.gov/system/files/SG031618_HIPAA_Patient%20Notification%20Letter_0.pdf) | CAUSE
+[March 08, 2018](https://oag.ca.gov/system/files/SG031618_HIPAA_Patient%20Notification%20Letter_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16488,7 +16488,7 @@ On March 16, 2018, a potential privacy breach was discovered and reported. An in
 </details>
 ## Stanwich Mortgage Loan Trust A, C, and D
 <p class="hidden"></p>
-[February 01, 2018](https://oag.ca.gov/system/files/CA-%20Notice%20of%20Data%20Event_2.pdf) | CAUSE
+[February 01, 2018](https://oag.ca.gov/system/files/CA-%20Notice%20of%20Data%20Event_2.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16499,7 +16499,7 @@ certain technology.
 </details>
 ## Shutterfly, Inc.
 <p class="hidden"></p>
-[January 11, 2018](https://oag.ca.gov/system/files/ADULT%20Letter_EE_Contractor_Dependent_Beneficiary_vFinal_0.pdf) | CAUSE
+[January 11, 2018](https://oag.ca.gov/system/files/ADULT%20Letter_EE_Contractor_Dependent_Beneficiary_vFinal_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16510,7 +16510,7 @@ before it goes live. As soon as we were made aware, our security team promptly i
 measures. We do not believe that the security of the Workday service was compromised
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Tiny%20Prints%20Breach%20Notice_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Tiny%20Prints%20Breach%20Notice_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16518,7 +16518,7 @@ Recently, we detected a criminal cyber­attack on our Tiny Prints, Treat, and We
 </details>
 ## Steven Yang, D.D.S., INC.
 <p class="hidden"></p>
-[January 06, 2018](https://oag.ca.gov/system/files/T875_v02%20-%20Notice_0.pdf) | CAUSE
+[January 06, 2018](https://oag.ca.gov/system/files/T875_v02%20-%20Notice_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16528,7 +16528,7 @@ to determine what, if any, health information may have been stored on those devi
 </details>
 ## Synchrony Bank
 <p class="hidden"></p>
-[December 28, 2017](https://oag.ca.gov/system/files/Customer%20Notification%20STEIN%20MART%20NOV%202018_0.pdf) | CAUSE
+[December 28, 2017](https://oag.ca.gov/system/files/Customer%20Notification%20STEIN%20MART%20NOV%202018_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16536,7 +16536,7 @@ We recently learned that information associated with your [card name] may have b
 </details>
 ## Stein Mart, Inc.
 <p class="hidden"></p>
-[December 28, 2017](https://oag.ca.gov/system/files/Stein_Mart_Sample_P2_CA_Notice_0.pdf) | CAUSE
+[December 28, 2017](https://oag.ca.gov/system/files/Stein_Mart_Sample_P2_CA_Notice_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16550,7 +16550,7 @@ code from our website and mailed letters to those customers to let them know wha
 </details>
 ## Santa Cruz Biotechnology, Inc.
 <p class="hidden"></p>
-[December 17, 2017](https://oag.ca.gov/system/files/TEMPLATE_Santa_Cruz_Biotechnology_Consumer_Notification__Mar__30__2018__0.pdf) | CAUSE
+[December 17, 2017](https://oag.ca.gov/system/files/TEMPLATE_Santa_Cruz_Biotechnology_Consumer_Notification__Mar__30__2018__0.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
