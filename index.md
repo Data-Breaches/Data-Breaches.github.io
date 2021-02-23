@@ -14625,7 +14625,7 @@ approximately 30 days. The accounts in question are:
 
 </details>
 ## Premier America Credit Union
-<p class="hidden"></p
+<p class="hidden"></p>
 [June 29, 2016](https://oag.ca.gov/system/files/FinalLetterPackage_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
