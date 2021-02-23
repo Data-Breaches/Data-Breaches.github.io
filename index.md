@@ -16566,7 +16566,7 @@ advantage of the identity theft protection services we are offering below.
 </details>
 ## Siskiyou Joint Community College District
 <p class="hidden"></p>
-[December 13, 2017](https://oag.ca.gov/system/files/COSDataBreach12-13-17_0.pdf) | CAUSE
+[December 13, 2017](https://oag.ca.gov/system/files/COSDataBreach12-13-17_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16574,7 +16574,7 @@ On December 13, 2017, Siskiyou Joint Community College District received email n
 </details>
 ## San Francisco Department of Public Health ("SFDPH")
 <p class="hidden"></p>
-[December 09, 2017](https://oag.ca.gov/system/files/Signed%20Adult%20Notification%20Ltr%20May%2011%202018_1.pdf) | CAUSE
+[December 09, 2017](https://oag.ca.gov/system/files/Signed%20Adult%20Notification%20Ltr%20May%2011%202018_1.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16582,11 +16582,11 @@ Nuance is a company which provides services to the San Francisco
 Department of Public Health. Our providers dictate patient information
 and Nuance puts that information in writing (transcriptions) for
 patients' medical records. Those transcriptions were on a computer
-system which an unauthorized individual accessed.TBD
+system which an unauthorized individual accessed.
 </details>
 ## Sheldon M. Golden O.D., Optometric Corporation
 <p class="hidden"></p>
-[November 06, 2017](https://oag.ca.gov/system/files/Golden%20Optometric%20-%20Individual%20Notice%20%28Privileged%20%26%20Confidential%29_1.pdf) | CAUSE
+[November 06, 2017](https://oag.ca.gov/system/files/Golden%20Optometric%20-%20Individual%20Notice%20%28Privileged%20%26%20Confidential%29_1.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16598,7 +16598,7 @@ intrusion was brief and that there was no evidence that any files had been remov
 </details>
 ## Sutter Health
 <p class="hidden"></p>
-[October 11, 2017](https://oag.ca.gov/system/files/Sample%20Notification-PDF_0.pdf) | CAUSE
+[October 11, 2017](https://oag.ca.gov/system/files/Sample%20Notification-PDF_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16606,7 +16606,7 @@ On December 5, 2017 Sutter Health learned that Salem and Green, a vendor providi
 </details>
 ## Southwest Airlines co.
 <p class="hidden"></p>
-[October 01, 2017](https://oag.ca.gov/system/files/Orbitz-%20SW-%20CA%20Letter_1.pdf) | CAUSE
+[October 01, 2017](https://oag.ca.gov/system/files/Orbitz-%20SW-%20CA%20Letter_1.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16623,7 +16623,7 @@ through Southwest.com.
 </details>
 ## Sears Holdings Management Corporation
 <p class="hidden"></p>
-[September 27, 2017](https://oag.ca.gov/system/files/EXPERIAN_D7052_20373915-v3-Sears%20-%20Individual%20-%20CA%20Notification%20Letter%20-..._7.pdf) | CAUSE
+[September 27, 2017](https://oag.ca.gov/system/files/EXPERIAN_D7052_20373915-v3-Sears%20-%20Individual%20-%20CA%20Notification%20Letter%20-..._7.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16632,7 +16632,7 @@ Sears Holdings ("Sears") was recently notified, by a vendor providing online sup
 </details>
 ## SyncHR, Inc.
 <p class="hidden"></p>
-[August 23, 2017](https://oag.ca.gov/system/files/SyncHR%20Breach%20-%20Sample%20Notification%20Ltr%20%28CA%29_0.pdf) | CAUSE
+[August 23, 2017](https://oag.ca.gov/system/files/SyncHR%20Breach%20-%20Sample%20Notification%20Ltr%20%28CA%29_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16641,7 +16641,7 @@ We promptly deactivated the report and determined that two individuals had acces
 </details>
 ## South Coast Winery Resort & Spa and Carter Estate Winery Resort
 <p class="hidden"></p>
-[August 10, 2017](https://oag.ca.gov/system/files/Sabre%20Customer%20Letter%20-%20Revised_0.pdf) | CAUSE
+[August 10, 2017](https://oag.ca.gov/system/files/Sabre%20Customer%20Letter%20-%20Revised_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16653,7 +16653,7 @@ unencrypted payment card information, as well as certain reservation information
 reservations processed through the Sabre’s system. 
 </details>
 <p class="hidden"></p>
-[August 10, 2016](https://oag.ca.gov/system/files/Carter%20Notice_1.pdf) | CAUSE
+[August 10, 2016](https://oag.ca.gov/system/files/Carter%20Notice_1.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16666,11 +16666,11 @@ as certain reservation information, for a subset of hotel reservations processed
 </details>
 ## SAY San Diego
 <p class="hidden"></p>
-[August 01, 2017](https://oag.ca.gov/system/files/SAY%20San%20Diego%20Ad%20r4fin_0.pdf) | CAUSE
+[August 01, 2017](https://oag.ca.gov/system/files/SAY%20San%20Diego%20Ad%20r4fin_0.pdf) | Files Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-? On October 27, 2017, SAY San Diego was notified by the County of San Diego Health & Human
+On October 27, 2017, SAY San Diego was notified by the County of San Diego Health & Human
 Services Agency (“HHSA”) that a citizen had returned some paper files to their office that were found in a filing cabinet
 purchased from a salvage store. The files were reviewed and assessed by our team on October 30, 2017 at which time
 we confirmed the documents in the files related to participants in SAY San Diego’s Dual Diagnosis youth program from
@@ -16681,7 +16681,7 @@ San Diego employee when SAY San Diego moved to a different office building.
 </details>
 ## Signator Investors, Inc.
 <p class="hidden"></p>
-[June 08, 2017](https://oag.ca.gov/system/files/Signator%20-%20Breach%20Notification%20Letter%20Template_0.pdf) | CAUSE
+[June 08, 2017](https://oag.ca.gov/system/files/Signator%20-%20Breach%20Notification%20Letter%20Template_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16692,18 +16692,18 @@ authorization.
 </details>
 ## Servis One, Inc. dba BSI Financial Services
 <p class="hidden"></p>
-[June 01, 2017](https://oag.ca.gov/system/files/BSI_-_Sample_Consumer_Notice_0.PDF) | CAUSE
+[June 01, 2017](https://oag.ca.gov/system/files/BSI_-_Sample_Consumer_Notice_0.PDF) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-An unauthorized third-party illegally gained access to one of our employees e-mail accounts on or about June 1, 2017. This
+An unauthorized third-party illegally gained access to one of our employee's e-mail accounts on or about June 1, 2017. This
 person did not gain access to any other employee e-mail accounts or to our computer network, servers, or other systems.
-This third-party then used this employees credentials to send e-mails to others. We learned of this incident within only a few
-hours after our employees e-mail account was accessed by this third-party.
+This third-party then used this employee's credentials to send e-mails to others. We learned of this incident within only a few
+hours after our employee's e-mail account was accessed by this third-party.
 </details>
 ## SMH Enterprises LLC
 <p class="hidden"></p>
-[May 30, 2017](https://oag.ca.gov/system/files/Copy%20of%20User%20Communication%20-%20Notice%20of%20Data%20Breach%20for%20Tutti%20Music%20Player_0.pdf) | CAUSE
+[May 30, 2017](https://oag.ca.gov/system/files/Copy%20of%20User%20Communication%20-%20Notice%20of%20Data%20Breach%20for%20Tutti%20Music%20Player_0.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16714,7 +16714,7 @@ with the following information and recommended next steps:
 </details>
 ## Sadd Velazquez Higashi Shammaa, LLP
 <p class="hidden"></p>
-[May 01, 2017](https://oag.ca.gov/system/files/SVHS%20Notification%20Letters_0.pdf) | CAUSE
+[May 01, 2017](https://oag.ca.gov/system/files/SVHS%20Notification%20Letters_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16725,7 +16725,7 @@ enforcement, and hired a specialized forensic IT firm for additional investigati
 </details>
 ## Signature Hardware Inc.
 <p class="hidden"></p>
-[April 28, 2017](https://oag.ca.gov/system/files/Consumer%20Notification_0.pdf) | CAUSE
+[April 28, 2017](https://oag.ca.gov/system/files/Consumer%20Notification_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16733,7 +16733,7 @@ On or around April 24, 2017, an unauthorized person gained access to the third-p
 </details>
 ## Spark Pay Online Store
 <p class="hidden"></p>
-[April 10, 2017](https://oag.ca.gov/system/files/SPOS%20-%20Consumer_Letter_0.pdf) | CAUSE
+[April 10, 2017](https://oag.ca.gov/system/files/SPOS%20-%20Consumer_Letter_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16742,7 +16742,7 @@ allow fraudsters to obtain customer payment information. We immediately began in
 analyzed [merchant website], removed the malicious code and performed security testing.
 </details>
 <p class="hidden"></p>
-[March 10, 2017](https://oag.ca.gov/system/files/Spark%20Pay%20Online%20Store_End-Customer%20Notice%20of%20Data%20Breach_10-16-2017%20version_0.pdf) | CAUSE
+[March 10, 2017](https://oag.ca.gov/system/files/Spark%20Pay%20Online%20Store_End-Customer%20Notice%20of%20Data%20Breach_10-16-2017%20version_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16750,7 +16750,7 @@ We discovered malicious code on the server that hosts <P41 -- URL>. The code was
 </details>
 ## Sixty Hotels
 <p class="hidden"></p>
-[March 09, 2017](https://oag.ca.gov/system/files/California%20notice_0.pdf) | CAUSE
+[March 09, 2017](https://oag.ca.gov/system/files/California%20notice_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16762,7 +16762,7 @@ subset of all hotel reservations processed through the CRS.
 </details>
 ## Sunshine Behavioral Health Group, LLC
 <p class="hidden"></p>
-[March 01, 2017](https://oag.ca.gov/system/files/Sample%20Notification%20Letter_4.pdf) | CAUSE
+[March 01, 2017](https://oag.ca.gov/system/files/Sample%20Notification%20Letter_4.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16777,7 +16777,7 @@ patient.
 </details>
 ## Sharp Memorial Hospital
 <p class="hidden"></p>
-[February 06, 2017](https://oag.ca.gov/system/files/OPP%20Redacted%20Letter_0.pdf) | CAUSE
+[February 06, 2017](https://oag.ca.gov/system/files/OPP%20Redacted%20Letter_0.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16785,7 +16785,7 @@ On February 6, 2017, we discovered that a computer and an external memory device
 </details>
 ## Sunrun Inc.
 <p class="hidden"></p>
-[January 20, 2017](https://oag.ca.gov/system/files/Q739_v01_Sunrun_CA_Notice_0.pdf) | CAUSE
+[January 20, 2017](https://oag.ca.gov/system/files/Q739_v01_Sunrun_CA_Notice_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16795,7 +16795,7 @@ employee W-2s for 2016 were disclosed externally.
 </details>
 ## Schurman Fine Papers dba Schurman Retail Group
 <p class="hidden"></p>
-[January 18, 2017](https://oag.ca.gov/system/files/SRG%20--%20Notice%20only%20-%20Regulator%20Notice%20CA%20%28002%29_0.pdf) | CAUSE
+[January 18, 2017](https://oag.ca.gov/system/files/SRG%20--%20Notice%20only%20-%20Regulator%20Notice%20CA%20%28002%29_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16804,7 +16804,7 @@ all 2016 SRG employee Form W-2 information. Unfortunately, copies of all 2016 em
 </details>
 ## Stallcup & Associates CPAs
 <p class="hidden"></p>
-[January 10, 2017](https://oag.ca.gov/system/files/Stallcup%20Notification%20Letter_0.pdf) | CAUSE
+[January 10, 2017](https://oag.ca.gov/system/files/Stallcup%20Notification%20Letter_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16817,7 +16817,7 @@ to the one email account.
 </details>
 ## Spiral Toys
 <p class="hidden"></p>
-[January 07, 2017](https://oag.ca.gov/system/files/Cloud%20Pets%20email%20to%20affected_3_6_17_0.pdf) | CAUSE
+[January 07, 2017](https://oag.ca.gov/system/files/Cloud%20Pets%20email%20to%20affected_3_6_17_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16825,7 +16825,7 @@ We recently discovered that unauthorized third parties illegally gained access t
 </details>
 ## State Farm Mutual Automobile Insurance Company, it affiliates and subsidiaries
 <p class="hidden"></p>
-[December 30, 2016](https://oag.ca.gov/system/files/ISRR%2001061375-2017%20Breach%20Notification%20-%20Adult%20Agent_0.pdf) | CAUSE
+[December 30, 2016](https://oag.ca.gov/system/files/ISRR%2001061375-2017%20Breach%20Notification%20-%20Adult%20Agent_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16841,7 +16841,7 @@ abundance of caution.
 </details>
 ## ShowTix4U
 <p class="hidden"></p>
-[December 11, 2016](https://oag.ca.gov/system/files/Sample%20Notice_5.pdf) | CAUSE
+[December 11, 2016](https://oag.ca.gov/system/files/Sample%20Notice_5.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16852,7 +16852,7 @@ information was inputted.
 </details>
 ## Synergy Specialists Medical Group, Inc.
 <p class="hidden"></p>
-[December 05, 2016](https://oag.ca.gov/system/files/Q702_v01_Standard_Notice%201_0.pdf) | CAUSE
+[December 05, 2016](https://oag.ca.gov/system/files/Q702_v01_Standard_Notice%201_0.pdf) | Phishing 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16863,7 +16863,7 @@ you not to open the email.
 </details>
 ## Select Restaurants, Inc.
 <p class="hidden"></p>
-[October 26, 2016](https://oag.ca.gov/system/files/Select%20-notice%20only_0_1.pdf) | CAUSE
+[October 26, 2016](https://oag.ca.gov/system/files/Select%20-notice%20only_0_1.pdf) | Computer Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16876,7 +16876,7 @@ data for some debit and credit cards used at certain Select Restaurants location
 </details>
 ## SportsMem, Inc.
 <p class="hidden"></p>
-[October 12, 2016](https://oag.ca.gov/system/files/CA%20Sample%20Customer%20Letter_0.PDF) | CAUSE
+[October 12, 2016](https://oag.ca.gov/system/files/CA%20Sample%20Customer%20Letter_0.PDF) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16888,7 +16888,7 @@ during the checkout process from October 12, 2016 to May 31, 2017.
 </details>
 ## Six Continents Hotels, Inc. (d/b/a InterContinental Hotels Group)
 <p class="hidden"></p>
-[September 29, 2016](https://oag.ca.gov/system/files/IHG%20Ad%20Ca%20r2prf_0.pdf) | CAUSE
+[September 29, 2016](https://oag.ca.gov/system/files/IHG%20Ad%20Ca%20r2prf_0.pdf) | System Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16900,7 +16900,7 @@ card processing systems of franchise hotel locations in the Americas region.
 
 </details>
 <p class="hidden"></p>
-[August 01, 2016](https://oag.ca.gov/system/files/IHG.CombinedSubNotices_0.pdf) | CAUSE
+[August 01, 2016](https://oag.ca.gov/system/files/IHG.CombinedSubNotices_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16908,7 +16908,7 @@ Findings show that malware was installed on servers that processed payment cards
 </details>
 ## Shutterstock Music Canada ULC d/b/a PremiumBeat
 <p class="hidden"></p>
-[September 29, 2016](https://oag.ca.gov/system/files/Premiumbeat%20-%20Notification%20Sample%2010-04-2016_1.pdf) | CAUSE
+[September 29, 2016](https://oag.ca.gov/system/files/Premiumbeat%20-%20Notification%20Sample%2010-04-2016_1.pdf) | Vulnerability
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16916,7 +16916,7 @@ Unfortunately, on the afternoon of September 29th, we discovered a security bug 
 </details>
 ## Stanford University
 <p class="hidden"></p>
-[September 01, 2016](https://oag.ca.gov/system/files/Stanford%20Notification%20Letter_FINAL_11292017_0.pdf) | CAUSE
+[September 01, 2016](https://oag.ca.gov/system/files/Stanford%20Notification%20Letter_FINAL_11292017_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16933,7 +16933,7 @@ any unauthorized person. However, out of an abundance of caution, we believe tha
 you so that you can take steps to protect yourself.
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Stanford%20REDACTED%20W-2%20CA%20Notification%20Letter%20FINAL%2020160418_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Stanford%20REDACTED%20W-2%20CA%20Notification%20Letter%20FINAL%2020160418_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16944,7 +16944,7 @@ matter immediately.
 </details>
 ## SBE ENT Holdings, LLC
 <p class="hidden"></p>
-[August 10, 2016](https://oag.ca.gov/system/files/SBE%20Consumer%20Notice_0.pdf) | CAUSE
+[August 10, 2016](https://oag.ca.gov/system/files/SBE%20Consumer%20Notice_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16957,7 +16957,7 @@ properties.
 </details>
 ## Standard International Management LLC
 <p class="hidden"></p>
-[August 10, 2016](https://oag.ca.gov/system/files/Sample%20Notice_16.pdf) | CAUSE
+[August 10, 2016](https://oag.ca.gov/system/files/Sample%20Notice_16.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16971,7 +16971,7 @@ affected in any way by this incident.
 </details>
 ## Sydell Partners
 <p class="hidden"></p>
-[August 10, 2016](https://oag.ca.gov/system/files/Sample%20Notice_15.pdf) | CAUSE
+[August 10, 2016](https://oag.ca.gov/system/files/Sample%20Notice_15.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16985,7 +16985,7 @@ last access to payment card information was on March 9, 2017.
 </details>
 ## Stallcup & Associates, CPAs
 <p class="hidden"></p>
-[July 11, 2016](https://oag.ca.gov/system/files/Stallcup%20Final%20Multi%20Letter%20Sample_0.pdf) | CAUSE
+[July 11, 2016](https://oag.ca.gov/system/files/Stallcup%20Final%20Multi%20Letter%20Sample_0.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -16997,7 +16997,7 @@ the virus.
 </details>
 ## Symphonix Health
 <p class="hidden"></p>
-[May 21, 2016](https://oag.ca.gov/system/files/Newkirk_member%20notification%20template_0.pdf) | CAUSE
+[May 21, 2016](https://oag.ca.gov/system/files/Newkirk_member%20notification%20template_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17013,7 +17013,7 @@ Newkirk has no evidence to date that data has been used inappropriately.
 </details>
 ## Spiraledge, Inc.
 <p class="hidden"></p>
-[May 02, 2016](https://oag.ca.gov/system/files/Spiraledge%20CA%20Form%20Exhibits%20A%20and%20B%20NON-MASS_RI_Sample_0.pdf) | CAUSE
+[May 02, 2016](https://oag.ca.gov/system/files/Spiraledge%20CA%20Form%20Exhibits%20A%20and%20B%20NON-MASS_RI_Sample_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17027,7 +17027,7 @@ address, phone number, email address, card number, expiration date, and CVV.
 </details>
 ## Saint Agnes Medical Center
 <p class="hidden"></p>
-[May 02, 2016](https://oag.ca.gov/system/files/SAMC%20Data%20Breach%20Notification_0.pdf) | CAUSE
+[May 02, 2016](https://oag.ca.gov/system/files/SAMC%20Data%20Breach%20Notification_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17040,7 +17040,7 @@ used to obtain fraudulent returns.
 </details>
 ## Silver Creek Fitness & Physical Therapy, Silver Creek Physical Therapy Gilroy, Silver Creek Physical Therapy Sunnyvale, Silver Creek Physical Therapy Los Gatos
 <p class="hidden"></p>
-[May 01, 2016](https://oag.ca.gov/system/files/Adult%20Notice_1.pdf) | CAUSE
+[May 01, 2016](https://oag.ca.gov/system/files/Adult%20Notice_1.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17056,7 +17056,7 @@ However, we have no indication that any fraud has resulted from this incident.
 </details>
 ## Solano Community College
 <p class="hidden"></p>
-[April 28, 2016](https://oag.ca.gov/system/files/Letter%20Proof%205.12.2016_0.pdf) | CAUSE
+[April 28, 2016](https://oag.ca.gov/system/files/Letter%20Proof%205.12.2016_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17070,7 +17070,7 @@ Force in the investigation of this matter.
 </details>
 ## San Antonio Shoemakers
 <p class="hidden"></p>
-[April 21, 2016](https://oag.ca.gov/system/files/Customer%20Notification_CA_0.pdf) | CAUSE
+[April 21, 2016](https://oag.ca.gov/system/files/Customer%20Notification_CA_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17079,7 +17079,7 @@ malicious software, or “malware,” enabling unauthorized parties to access pa
 </details>
 ## Sprouts Farmers Market
 <p class="hidden"></p>
-[March 14, 2016](https://oag.ca.gov/system/files/Sprouts%20Farmers%20Market%20-%20Notice%20to%20Employees_0.pdf) | CAUSE
+[March 14, 2016](https://oag.ca.gov/system/files/Sprouts%20Farmers%20Market%20-%20Notice%20to%20Employees_0.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17088,7 +17088,7 @@ when fulfilling what was believed to be a legitimate request for information. We
 </details>
 ## Staminus Communications
 <p class="hidden"></p>
-[March 10, 2016](https://oag.ca.gov/system/files/Sample%20Customer%20Notice%20-%20CC%2C%20Username%2C%20and%20Password_0.pdf) | CAUSE
+[March 10, 2016](https://oag.ca.gov/system/files/Sample%20Customer%20Notice%20-%20CC%2C%20Username%2C%20and%20Password_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17101,7 +17101,7 @@ place to help prevent a future incident.
 </details>
 ## SCAN Health Plan
 <p class="hidden"></p>
-[March 04, 2016](https://oag.ca.gov/system/files/SCAN%20Exhibit%20A.CA%20Regulator%20Notice_0.pdf) | CAUSE
+[March 04, 2016](https://oag.ca.gov/system/files/SCAN%20Exhibit%20A.CA%20Regulator%20Notice_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17113,7 +17113,7 @@ has been used fraudulently, we needed to let you know that your information was 
 </details>
 ## Seagate US, LLC
 <p class="hidden"></p>
-[March 01, 2016](https://oag.ca.gov/system/files/Seagate%20CA%20Notice_0.pdf) | CAUSE
+[March 01, 2016](https://oag.ca.gov/system/files/Seagate%20CA%20Notice_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17129,7 +17129,7 @@ a W-2 for the 2015 tax year.
 </details>
 ## Snapchat, Inc.
 <p class="hidden"></p>
-[February 26, 2016](https://oag.ca.gov/system/files/Snapchat%20Inc%20updated%20Sample%20of%20Employee%20Notice%20of%20Data%20Breach_Redacted_0.pdf) | CAUSE
+[February 26, 2016](https://oag.ca.gov/system/files/Snapchat%20Inc%20updated%20Sample%20of%20Employee%20Notice%20of%20Data%20Breach_Redacted_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17141,7 +17141,7 @@ be	sent	via	email.	It	did	not	affect	our	users	or	our	service	whatsoever.
 </details>
 ## Sequoia Union High School District
 <p class="hidden"></p>
-[February 03, 2016](https://oag.ca.gov/system/files/Sequoia%20-%20CA%20Notice%20%286003570x7AB84%29_1.pdf) | CAUSE
+[February 03, 2016](https://oag.ca.gov/system/files/Sequoia%20-%20CA%20Notice%20%286003570x7AB84%29_1.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17151,7 +17151,7 @@ myself.
 </details>
 ## Stonebridge Realty Advisors, Inc.
 <p class="hidden"></p>
-[November 08, 2015](https://oag.ca.gov/system/files/49932072_6_1.pdf) | CAUSE
+[November 08, 2015](https://oag.ca.gov/system/files/49932072_6_1.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17160,7 +17160,7 @@ payment processing systems that was designed to capture payment card information
 </details>
 ## Superior Labels
 <p class="hidden"></p>
-[November 03, 2015](https://oag.ca.gov/system/files/NAS_Superior_Label_US_letter_to_residents_1.PDF) | CAUSE
+[November 03, 2015](https://oag.ca.gov/system/files/NAS_Superior_Label_US_letter_to_residents_1.PDF) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17174,7 +17174,7 @@ system.
 </details>
 ## Schwan's Home Service, Inc.
 <p class="hidden"></p>
-[October 09, 2015](https://oag.ca.gov/system/files/Customer%20Letter%20DB%20Templ%20Fin_0.pdf) | CAUSE
+[October 09, 2015](https://oag.ca.gov/system/files/Customer%20Letter%20DB%20Templ%20Fin_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17182,7 +17182,7 @@ As a precaution, we want to make you aware that CARDSource, the third-party comp
 </details>
 ## Springfield Armory
 <p class="hidden"></p>
-[October 03, 2015](https://oag.ca.gov/system/files/Springfield%20Armory%20Ad%20CA%20r1prf_0.pdf) | CAUSE
+[October 03, 2015](https://oag.ca.gov/system/files/Springfield%20Armory%20Ad%20CA%20r1prf_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17195,7 +17195,7 @@ web server and installed code that was designed to copy information entered duri
 </details>
 ## STILETTO Solutions
 <p class="hidden"></p>
-[September 16, 2015](https://oag.ca.gov/system/files/STILETTO%20-%20Notice%20Letter_Final%20%285772563x7AB84%29_0.pdf) | CAUSE
+[September 16, 2015](https://oag.ca.gov/system/files/STILETTO%20-%20Notice%20Letter_Final%20%285772563x7AB84%29_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17203,7 +17203,7 @@ After identifying suspicious activity within our e-Commerce server, our incident
 </details>
 ## Schwab Retirement Plan Services, Inc.
 <p class="hidden"></p>
-[August 25, 2015](https://oag.ca.gov/system/files/Participant%20Incident%20Notification%20Template%2010_1_15_0.pdf) | CAUSE
+[August 25, 2015](https://oag.ca.gov/system/files/Participant%20Incident%20Notification%20Template%2010_1_15_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17211,7 +17211,7 @@ On August 25th, a spreadsheet containing your Social Security number, name, addr
 </details>
 ## Scripps Networks, LLC
 <p class="hidden"></p>
-[August 08, 2015](https://oag.ca.gov/system/files/Consumer%20Notice_2.pdf) | CAUSE
+[August 08, 2015](https://oag.ca.gov/system/files/Consumer%20Notice_2.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17219,7 +17219,7 @@ We recently learned of a potential unauthorized intrusion into the Food.com syst
 </details>
 ## Samela, Inc. d/b/a NorthShore Care Supply
 <p class="hidden"></p>
-[June 07, 2015](https://oag.ca.gov/system/files/Samela%20dba%20NorthShore%20Supply%20notice%20only_0.pdf) | CAUSE
+[June 07, 2015](https://oag.ca.gov/system/files/Samela%20dba%20NorthShore%20Supply%20notice%20only_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17227,7 +17227,7 @@ On August 24, 2015, NorthShore Care Supply learned of a possible security incide
 </details>
 ## San Luis Obispo County Community College District
 <p class="hidden"></p>
-[May 31, 2015](https://oag.ca.gov/system/files/Letter%20for%20Mailing%20on%20LH_0.pdf) | CAUSE
+[May 31, 2015](https://oag.ca.gov/system/files/Letter%20for%20Mailing%20on%20LH_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
