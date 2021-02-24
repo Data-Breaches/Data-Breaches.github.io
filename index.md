@@ -17247,7 +17247,7 @@ of birth may have been stored on the laptop at the time of the theft.
 </details>
 ## Stanislaus Surgical Hospital
 <p class="hidden"></p>
-[April 05, 2015](https://oag.ca.gov/system/files/Stanilslaus%20Surgical%20Hospital_041415_0.pdf) | CAUSE
+[April 05, 2015](https://oag.ca.gov/system/files/Stanilslaus%20Surgical%20Hospital_041415_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17255,7 +17255,7 @@ We are contacting you regarding a data security incident that occurred on April 
 </details>
 ## Service Systems Associates, Inc.
 <p class="hidden"></p>
-[March 24, 2015](https://oag.ca.gov/system/files/Exhibit%20A_1.pdf) | CAUSE
+[March 24, 2015](https://oag.ca.gov/system/files/Exhibit%20A_1.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17263,7 +17263,7 @@ Service Systems Associates, Inc. (SSA) was the victim of a payment security brea
 </details>
 ## Slack Technologies, Inc.
 <p class="hidden"></p>
-[March 20, 2015](https://oag.ca.gov/system/files/Slack%20User%20Notices.pdf) | CAUSE
+[March 20, 2015](https://oag.ca.gov/system/files/Slack%20User%20Notices.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17271,7 +17271,7 @@ We were recently notified that your sign-in credentials (email address and passw
 </details>
 ## Sharon J. Jones, M.D.
 <p class="hidden"></p>
-[March 20, 2015](https://oag.ca.gov/system/files/CA%20AG%20release%20Jones%202_0.pdf) | CAUSE
+[March 20, 2015](https://oag.ca.gov/system/files/CA%20AG%20release%20Jones%202_0.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17279,7 +17279,7 @@ On the evening of March 20, 2015, our office was broken into and approximately 1
 </details>
 ## Sally Beauty Holdings, Inc.
 <p class="hidden"></p>
-[March 06, 2015](https://oag.ca.gov/system/files/SBH%20Website%20Posting_0.pdf) | CAUSE
+[March 06, 2015](https://oag.ca.gov/system/files/SBH%20Website%20Posting_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17287,7 +17287,7 @@ We have confirmed that criminals used malware believed to have been effectively 
 </details>
 ## Stater Bros. Markets
 <p class="hidden"></p>
-[March 05, 2015](https://oag.ca.gov/system/files/Staters%20Bros%20-%20Pin%20Pad%20Incident%20Website%20Notice%20v2_0.pdf) | CAUSE
+[March 05, 2015](https://oag.ca.gov/system/files/Staters%20Bros%20-%20Pin%20Pad%20Incident%20Website%20Notice%20v2_0.pdf) | Skimming
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17295,7 +17295,7 @@ On April 8, 2015. we discovered that three suspects connected a small data captu
 </details>
 ## SVC-West, LLC
 <p class="hidden"></p>
-[January 06, 2015](https://oag.ca.gov/system/files/SVC_West_NON-MA%20US%20CONSUMER%20LTR_SAMPLE_031715_0.pdf) | CAUSE
+[January 06, 2015](https://oag.ca.gov/system/files/SVC_West_NON-MA%20US%20CONSUMER%20LTR_SAMPLE_031715_0.pdf) | Files Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17303,7 +17303,7 @@ In January 2015, an unknown individual(s) forcibly and illegally entered an offi
 </details>
 ## Summit Financial Group
 <p class="hidden"></p>
-[January 01, 2015](https://oag.ca.gov/system/files/Sample%20Notice%201_0.pdf) | CAUSE
+[January 01, 2015](https://oag.ca.gov/system/files/Sample%20Notice%201_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17315,7 +17315,7 @@ All of the CDs have either been destroued by our clients or personally collected
 </details>
 ## SRI, INC.
 <p class="hidden"></p>
-[December 01, 2014](https://oag.ca.gov/system/files/CA%20Template_0.pdf) | CAUSE
+[December 01, 2014](https://oag.ca.gov/system/files/CA%20Template_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17323,7 +17323,7 @@ On March 13, 2015, SRI, Inc. learned of unauthorized access of our website softw
 </details>
 ## Sony Pictures Entertainment Inc. ("SPE)
 <p class="hidden"></p>
-[November 24, 2014](https://oag.ca.gov/system/files/12%2008%2014%20letter_0.pdf) | CAUSE
+[November 24, 2014](https://oag.ca.gov/system/files/12%2008%2014%20letter_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17331,7 +17331,7 @@ SPE learned on December 1, 2014, that the security of personally identifiable in
 </details>
 ## Sterling M Enterprises (dba Lee's Deli)
 <p class="hidden"></p>
-[November 03, 2014](https://oag.ca.gov/system/files/48478108_3_0.pdf) | CAUSE
+[November 03, 2014](https://oag.ca.gov/system/files/48478108_3_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17339,7 +17339,7 @@ We recently learned that unauthorized individuals installed malicious software o
 </details>
 ## SAUSALITO YACHT CLUB
 <p class="hidden"></p>
-[September 30, 2014](https://oag.ca.gov/system/files/SYC%20Private%20Member%20Information_0.pdf) | CAUSE
+[September 30, 2014](https://oag.ca.gov/system/files/SYC%20Private%20Member%20Information_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17347,7 +17347,7 @@ We are writing to you because of an incident at the Sausalito Yacht Club on or a
 </details>
 ## Staples, Inc.
 <p class="hidden"></p>
-[August 10, 2014](https://oag.ca.gov/system/files/Staples.CA_.Consumer.Letter_1.pdf) | CAUSE
+[August 10, 2014](https://oag.ca.gov/system/files/Staples.CA_.Consumer.Letter_1.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17355,7 +17355,7 @@ Staples’ data security experts detected that criminals deployed malicious soft
 </details>
 ## State Farm Mutual Automobile Insurance Companies, its affilitates and subsidiaries
 <p class="hidden"></p>
-[August 07, 2014](https://oag.ca.gov/system/files/Breach%20Notification%20ISRR%2005116037-2016%20%20Letter%201A_0.pdf) | CAUSE
+[August 07, 2014](https://oag.ca.gov/system/files/Breach%20Notification%20ISRR%2005116037-2016%20%20Letter%201A_0.pdf) | Service Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17366,7 +17366,7 @@ diverted or not correctly applied to customers’ accounts.
 </details>
 ## Santa Rosa Memorial Hospital
 <p class="hidden"></p>
-[June 02, 2014](https://oag.ca.gov/system/files/St.%20Joseph%2017%20Ad%20r3_0.pdf) | CAUSE
+[June 02, 2014](https://oag.ca.gov/system/files/St.%20Joseph%2017%20Ad%20r3_0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17382,7 +17382,7 @@ Hospital’s system.
 </details>
 ## Sterne, Agee & Leach, Inc.
 <p class="hidden"></p>
-[May 29, 2014](https://oag.ca.gov/system/files/SALI%20Breach%20-%20draft%20State%20Notice%20-%20not%20MA%20-%286.27.2014%29_0.pdf) | CAUSE
+[May 29, 2014](https://oag.ca.gov/system/files/SALI%20Breach%20-%20draft%20State%20Notice%20-%20not%20MA%20-%286.27.2014%29_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17390,7 +17390,7 @@ An employee of Sterne, Agee & Leach (“Firm”) was unable to locate their firm
 </details>
 ## Stanford Federal Credit Union
 <p class="hidden"></p>
-[April 30, 2014](https://oag.ca.gov/system/files/Stanford%20FCU%20Email%20Notification%20letter%2006.2014_0.pdf) | CAUSE
+[April 30, 2014](https://oag.ca.gov/system/files/Stanford%20FCU%20Email%20Notification%20letter%2006.2014_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17398,7 +17398,7 @@ We want you to be aware of a situation in which a staff member mistakenly sent s
 </details>
 ## Sourcebooks, Inc.
 <p class="hidden"></p>
-[April 16, 2014](https://oag.ca.gov/system/files/Sample%20Letter_3.pdf) | CAUSE
+[April 16, 2014](https://oag.ca.gov/system/files/Sample%20Letter_3.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17406,7 +17406,7 @@ Sourcebooks recently learned that there was a breach of the shopping cart softwa
 </details>
 ## SHARPER FUTURE
 <p class="hidden"></p>
-[March 29, 2014](https://oag.ca.gov/system/files/Letter%20to%20Clients%20about%20breach%205-21-14_0.PDF) | CAUSE
+[March 29, 2014](https://oag.ca.gov/system/files/Letter%20to%20Clients%20about%20breach%205-21-14_0.PDF) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17414,15 +17414,15 @@ On or about March 29tn, 2014, our office at 5860 Avalon Boulevard Los Angeles wa
 </details>
 ## Sorenson Communications
 <p class="hidden"></p>
-[February 20, 2014](https://oag.ca.gov/system/files/US%20Letter_0.PDF) | CAUSE
+[February 20, 2014](https://oag.ca.gov/system/files/US%20Letter_0.PDF) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-On March7,2OL4, we determined that between February 20 and March 3,2OL4, Sorenson's account with the vendor that handles payroll for Sorenson Communications and CaptionCall@ employees was subject to several malicious attacks. Those attacks successfully accessed personal information that employees provided as part of their HR data. 
+On March7,2O14, we determined that between February 20 and March 3,2O14, Sorenson's account with the vendor that handles payroll for Sorenson Communications and CaptionCall@ employees was subject to several malicious attacks. Those attacks successfully accessed personal information that employees provided as part of their HR data. 
 </details>
 ## Silversage Advisors
 <p class="hidden"></p>
-[February 20, 2014](https://oag.ca.gov/system/files/Client%20Security%20Breach%20Letter%20Sample_0.pdf) | CAUSE
+[February 20, 2014](https://oag.ca.gov/system/files/Client%20Security%20Breach%20Letter%20Sample_0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17430,7 +17430,7 @@ On February 20, 2014, back-up computer drives were stolen from a secure offsite 
 </details>
 ## St. Joseph Health
 <p class="hidden"></p>
-[February 18, 2014](https://oag.ca.gov/system/files/Main%20Patient%20Letter%20%20Cain%20Brothers%20%20Home%20Care%20Network%20r2prf_0.pdf) | CAUSE
+[February 18, 2014](https://oag.ca.gov/system/files/Main%20Patient%20Letter%20%20Cain%20Brothers%20%20Home%20Care%20Network%20r2prf_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17438,7 +17438,7 @@ St. Joseph Health provides central support services to its members including St.
 </details>
 ## Sutherland Healthcare Solutions
 <p class="hidden"></p>
-[February 05, 2014](https://oag.ca.gov/system/files/Sutherland%20Phase%202%20Notice%20Pages%201-8%20Final_0.pdf) | CAUSE
+[February 05, 2014](https://oag.ca.gov/system/files/Sutherland%20Phase%202%20Notice%20Pages%201-8%20Final_0.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17446,7 +17446,7 @@ On February 5, 2014, SHS’ Southern California office was broken into and eight
 </details>
 ## Schwaab. Inc.
 <p class="hidden"></p>
-[January 22, 2014](https://oag.ca.gov/system/files/Schwaab%20REVISED%20Customer%20Reporting%20Letter_1_0.pdf) | CAUSE
+[January 22, 2014](https://oag.ca.gov/system/files/Schwaab%20REVISED%20Customer%20Reporting%20Letter_1_0.pdf) | System Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17455,15 +17455,15 @@ time period of January 22, 2014 and February 8, 2016
 </details>
 ## Snelling Staffing, LLC
 <p class="hidden"></p>
-[January 20, 2014](https://oag.ca.gov/system/files/Snelling%20-%20Sample%20Individual%20Notification_0.pdf) | CAUSE
+[January 20, 2014](https://oag.ca.gov/system/files/Snelling%20-%20Sample%20Individual%20Notification_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-We discovered on January 24, 2014 that on o about January 20 or January 21, 2014, the personal information of some employees and former employees of Snelling was inadvertently made available on the Internet due the errors made during the installation of a cloud-based server at the home of a former Snelling employee.
+We discovered on January 24, 2014 that on about January 20 or January 21, 2014, the personal information of some employees and former employees of Snelling was inadvertently made available on the Internet due the errors made during the installation of a cloud-based server at the home of a former Snelling employee.
 </details>
 ## StakerLaw Tax and Estate Planning Law Corporation
 <p class="hidden"></p>
-[December 20, 2013](https://oag.ca.gov/system/files/StakerLaw%20Notice%2012-26-2013_0.pdf) | CAUSE
+[December 20, 2013](https://oag.ca.gov/system/files/StakerLaw%20Notice%2012-26-2013_0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17471,7 +17471,7 @@ On Friday, December 20, 2013, we were victims of a burglary at my home, that inc
 </details>
 ## St. Joseph Health System
 <p class="hidden"></p>
-[December 16, 2013](https://oag.ca.gov/system/files/StJo501_AdultrPat_PrintersProof2_0.pdf) | CAUSE
+[December 16, 2013](https://oag.ca.gov/system/files/StJo501_AdultrPat_PrintersProof2_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17479,7 +17479,7 @@ Between Monday, December 16 and Wednesday, December 18, 2013, SJHS experienced a
 </details>
 ## Straight Dope LLC
 <p class="hidden"></p>
-[December 15, 2013](https://oag.ca.gov/system/files/Straight_Dope_E-mail_Notice_to_Affected_Users_0.pdf) | CAUSE
+[December 15, 2013](https://oag.ca.gov/system/files/Straight_Dope_E-mail_Notice_to_Affected_Users_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17487,7 +17487,7 @@ Our security team recently discovered that the Straight Dope message board forum
 </details>
 ## San Mateo Medical Center
 <p class="hidden"></p>
-[December 05, 2013](https://oag.ca.gov/system/files/Sample%20Data%20Breach%20Notice%20Letter%201_0.pdf) | CAUSE
+[December 05, 2013](https://oag.ca.gov/system/files/Sample%20Data%20Breach%20Notice%20Letter%201_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17495,7 +17495,7 @@ An employee recently hired by SMMC's Payroll Unit failed to disclose a prior con
 </details>
 ## Sebastopol Sea Serpents
 <p class="hidden"></p>
-[October 13, 2013](https://oag.ca.gov/system/files/FRN%20Breach%20Notice%20Letter%20%28CA%29%20%28SSN%29_0_1.pdf) | CAUSE
+[October 13, 2013](https://oag.ca.gov/system/files/FRN%20Breach%20Notice%20Letter%20%28CA%29%20%28SSN%29_0_1.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17503,7 +17503,7 @@ On Saturday, June 15 th, one of our employees informed us that she had been the 
 </details>
 ## SafetyFirst
 <p class="hidden"></p>
-[September 27, 2013](https://oag.ca.gov/system/files/SafetyFirst%20-%20Client%20Notice%20Template_0.pdf) | CAUSE
+[September 27, 2013](https://oag.ca.gov/system/files/SafetyFirst%20-%20Client%20Notice%20Template_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17511,7 +17511,7 @@ On April 2, 2014, SafetyFirst became aware that an FTP server used to back up yo
 </details>
 ## Stephen T. Imrie, M.D.
 <p class="hidden"></p>
-[September 23, 2013](https://oag.ca.gov/system/files/FINAL%20Imrie%20notification%20letter_0.pdf) | CAUSE
+[September 23, 2013](https://oag.ca.gov/system/files/FINAL%20Imrie%20notification%20letter_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17519,7 +17519,7 @@ My residence was broken into on September 23, 2013 and various items were stolen
 </details>
 ## Santa Clara Valley Medical Center
 <p class="hidden"></p>
-[September 14, 2013](https://oag.ca.gov/system/files/541-116-13%20Letter%20to%20Patient_0.pdf) | CAUSE
+[September 14, 2013](https://oag.ca.gov/system/files/541-116-13%20Letter%20to%20Patient_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17527,7 +17527,7 @@ On September 16, 2013, staff discovered that a laptop had been stolen from the A
 </details>
 ## Silverberg Surgical and Medical Group
 <p class="hidden"></p>
-[September 10, 2013](https://oag.ca.gov/system/files/Notfication%20Letter%20Template%20-%20Silverberg%20Medical%20Adult%20r1prf_0.pdf) | CAUSE
+[September 10, 2013](https://oag.ca.gov/system/files/Notfication%20Letter%20Template%20-%20Silverberg%20Medical%20Adult%20r1prf_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17541,15 +17541,15 @@ credit/debit card numbers were made accessible in connection with this incident.
 </details>
 ## South Central Los Angeles Regional Center
 <p class="hidden"></p>
-[July 06, 2013](https://oag.ca.gov/system/files/7--6-13%20Breach%20Notification_0.pdf) | CAUSE
+[July 06, 2013](https://oag.ca.gov/system/files/7--6-13%20Breach%20Notification_0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-On July 6, 2013, a SCLARC staff's vehicle was stolen and among the items in the vehicle was a SCLARC I pad. The I pad is password protected and should the thieves be able to break through the password protection, they may be able to retrieve your name and UCI#
+On July 6, 2013, a SCLARC staff's vehicle was stolen and among the items in the vehicle was a SCLARC Ipad. The Ipad is password protected and should the thieves be able to break through the password protection, they may be able to retrieve your name and UCI#
 </details>
 ## Shore Mortgage (a division of United Shore Financial Services, LLC)
 <p class="hidden"></p>
-[June 02, 2013](https://oag.ca.gov/system/files/Consumer%20Notice%2082113_0.pdf) | CAUSE
+[June 02, 2013](https://oag.ca.gov/system/files/Consumer%20Notice%2082113_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17557,7 +17557,7 @@ I am writing to make you aware that Shore Mortgage recently discovered that serv
 </details>
 ## Shumsky Promotional Agency
 <p class="hidden"></p>
-[May 14, 2013](https://oag.ca.gov/system/files/CardHolder_Notice_PRINT_0.pdf) | CAUSE
+[May 14, 2013](https://oag.ca.gov/system/files/CardHolder_Notice_PRINT_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17565,7 +17565,7 @@ On May 16, 2013, Shumsky was notified by its e-commerce platform provider that o
 </details>
 ## Sutter Medical Foundation
 <p class="hidden"></p>
-[April 26, 2013](https://oag.ca.gov/system/files/B3245_V3_PMID_SMF_0.PDF) | CAUSE
+[April 26, 2013](https://oag.ca.gov/system/files/B3245_V3_PMID_SMF_0.PDF) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17573,7 +17573,7 @@ On August 27, 2015, we determined that the former employee emailed certain elect
 </details>
 ## SynerMed Inc
 <p class="hidden"></p>
-[April 15, 2013](https://oag.ca.gov/system/files/Sample%20Member%20Notice_0.pdf) | CAUSE
+[April 15, 2013](https://oag.ca.gov/system/files/Sample%20Member%20Notice_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17581,7 +17581,7 @@ The security incident occurred on the night of April 14 or early morning on Apri
 </details>
 ## San Francisco State University
 <p class="hidden"></p>
-[March 25, 2013](https://oag.ca.gov/system/files/Breach%20Notification_1.pdf) | CAUSE
+[March 25, 2013](https://oag.ca.gov/system/files/Breach%20Notification_1.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17589,7 +17589,7 @@ On Monday, June 11, 2013 we were notified by federal law enforcement of a compro
 </details>
 ## Sonoma Valley Hospital
 <p class="hidden"></p>
-[February 14, 2013](https://oag.ca.gov/system/files/FinalHIPAADraft04262013_0.pdf) | CAUSE
+[February 14, 2013](https://oag.ca.gov/system/files/FinalHIPAADraft04262013_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17597,7 +17597,7 @@ On April 17, 2013, Sonoma Valley Hospital became aware of health information dis
 </details>
 ## Stanley Black & Decker, Inc.
 <p class="hidden"></p>
-[January 28, 2013](https://oag.ca.gov/system/files/Sample%20notice_0.pdf) | CAUSE
+[January 28, 2013](https://oag.ca.gov/system/files/Sample%20notice_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17605,7 +17605,7 @@ On January 28, 2013, the company-issued laptop of an employee in the Finance dep
 </details>
 ## Schneider-Electric
 <p class="hidden"></p>
-[January 17, 2013](https://oag.ca.gov/system/files/Employee%20Letter%20Signed_0.pdf) | CAUSE
+[January 17, 2013](https://oag.ca.gov/system/files/Employee%20Letter%20Signed_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17613,7 +17613,7 @@ On or about January 16, 2013, one of the bulk mail vendors that performs mailing
 </details>
 ## Stanford School of Medicine & Lucile Packard Children's Hospital
 <p class="hidden"></p>
-[January 09, 2013](https://oag.ca.gov/system/files/ALLCLEAR_CHILD_0.pdf) | CAUSE
+[January 09, 2013](https://oag.ca.gov/system/files/ALLCLEAR_CHILD_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17621,7 +17621,7 @@ On behalf of the Stanford School of Medicine and Lucile Packard Children’s Hos
 </details>
 ## Sunview Vineyards of California, Inc.
 <p class="hidden"></p>
-[December 15, 2012](https://oag.ca.gov/system/files/SampleLetterforSecurityBreachNotification%2801126564%29%20%283%29_0.pdf) | CAUSE
+[December 15, 2012](https://oag.ca.gov/system/files/SampleLetterforSecurityBreachNotification%2801126564%29%20%283%29_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17629,7 +17629,7 @@ On or about the 15th of December 2012, we believe that a company laptop computer
 </details>
 ## Stethoscope.com LLC
 <p class="hidden"></p>
-[December 03, 2012](https://oag.ca.gov/system/files/Template%20Breach%20Notice%20Letter_0.pdf) | CAUSE
+[December 03, 2012](https://oag.ca.gov/system/files/Template%20Breach%20Notice%20Letter_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17637,7 +17637,7 @@ On or about December 3, 2012, a hacker gained unauthorized access to the webserv
 </details>
 ## South Carolina Department of Revenue, c/o Jon Neiditz, Nelson Mullins Riley & Scarborough
 <p class="hidden"></p>
-[September 01, 2012](https://oag.ca.gov/system/files/SC%20DoR%20CA%20Resident%20Notice%20December%204%202012_proof_v3_0.pdf) | CAUSE
+[September 01, 2012](https://oag.ca.gov/system/files/SC%20DoR%20CA%20Resident%20Notice%20December%204%202012_proof_v3_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17645,14 +17645,14 @@ Tax returns and other data at the South Carolina Department of Revenue were expo
 </details>
 ## State Farm Insurance Companies
 <p class="hidden"></p>
-[July 28, 2012](https://oag.ca.gov/system/files/Agent%20Jain%20Williams-Victim%20Letter%20%283%29_0.pdf) | CAUSE
+[July 28, 2012](https://oag.ca.gov/system/files/Agent%20Jain%20Williams-Victim%20Letter%20%283%29_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 The incident involved an employee who formerly worked in my office. While employed, and contrary to the business practices of my office, the employee used customer information inappropriately. This information would have included names, addresses, birthdates, credit card numbers and social security numbers. It has further been alleged that this employee specifically used your credit card to purchase items online.
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/ISRR%2010051307%20-%20U%20S%20LETTER%20-%20BOOK.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/ISRR%2010051307%20-%20U%20S%20LETTER%20-%20BOOK.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17660,14 +17660,14 @@ This incident involved an employee who formerly worked in my office. While emplo
 </details>
 ## St. Therese Medical Group
 <p class="hidden"></p>
-[July 22, 2012](https://oag.ca.gov/system/files/Sample%20Patient%20Notification_1.pdf) | CAUSE
+[July 22, 2012](https://oag.ca.gov/system/files/Sample%20Patient%20Notification_1.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 </details>
 ## Stanford Hospital & Clinics and School of Medicine
 <p class="hidden"></p>
-[July 15, 2012](https://oag.ca.gov/system/files/sample%20patient%20notification%20letter_0.pdf) | CAUSE
+[July 15, 2012](https://oag.ca.gov/system/files/sample%20patient%20notification%20letter_0.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17675,7 +17675,7 @@ We regret to inform you of a suspected theft of a computer from a locked faculty
 </details>
 ## St Mary Medical Center
 <p class="hidden"></p>
-[May 07, 2012](https://oag.ca.gov/system/files/3427_DH_St_Mary_LB_Notice_v2_1.pdf) | CAUSE
+[May 07, 2012](https://oag.ca.gov/system/files/3427_DH_St_Mary_LB_Notice_v2_1.pdf) | Device Lost 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17683,7 +17683,7 @@ On May 8, 2012, we discovered that an unencrypted thumb drive with patient names
 </details>
 ## State of California, Department of Child Support Services
 <p class="hidden"></p>
-[March 12, 2012](https://oag.ca.gov/system/files/DCSSsecuritycustyltr_OAG.pdf) | CAUSE
+[March 12, 2012](https://oag.ca.gov/system/files/DCSSsecuritycustyltr_OAG.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17691,7 +17691,7 @@ We are contacting you because on March 12, 2012, the California Department of Ch
 </details>
 ## St. Joseph's Medical Center
 <p class="hidden"></p>
-[February 02, 2012](https://oag.ca.gov/system/files/Patient%20Privacy%20Breach%20notice%20032112.pdf) | CAUSE
+[February 02, 2012](https://oag.ca.gov/system/files/Patient%20Privacy%20Breach%20notice%20032112.pdf) | Files Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17699,7 +17699,7 @@ On February 2, 2012, we discovered that a storeroom window had been broken at th
 </details>
 ## San Jose Medical Supply Company
 <p class="hidden"></p>
-[August 01, 2011](https://oag.ca.gov/system/files/HIPAA%20Breach%20Letter%20-%20San%20Jose%20Medical%20Supply_0.pdf) | CAUSE
+[August 01, 2011](https://oag.ca.gov/system/files/HIPAA%20Breach%20Letter%20-%20San%20Jose%20Medical%20Supply_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17707,7 +17707,7 @@ In August 2011, the former owner of San Jose Medical passed away and thereafter 
 </details>
 ## San Francisco Head Start, San Francisco State University
 <p class="hidden"></p>
-[August 01, 2011](https://oag.ca.gov/system/files/Final%20SFSU%20HeadStart%20Breach%20Notification%20Letter%2003-15-12.pdf) | CAUSE
+[August 01, 2011](https://oag.ca.gov/system/files/Final%20SFSU%20HeadStart%20Breach%20Notification%20Letter%2003-15-12.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17715,7 +17715,7 @@ Between August and November 2011, there was a compromise of security in the San 
 </details>
 ## Santa Barbara Unified School District
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Notice%20of%20Aeries%20Data%20Breach%2020200520.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Notice%20of%20Aeries%20Data%20Breach%2020200520.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17728,7 +17728,7 @@ potential vulnerabilities.
 </details>
 ## ShareThis, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/ShareThis%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/ShareThis%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17739,7 +17739,7 @@ unfortunately, only came to light when The Register reported that the hacker pos
 </details>
 ## Sierra View Medical Center
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach_2.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach_2.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17747,7 +17747,7 @@ In mid-November 2018, a Hospital employee obtained an electronic copy of persona
 </details>
 ## Surgerical Specialties of Arroyo Grande, LLC, dba Oak Park Surgery Center
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach%20-%20Oak%20Park%20Surgery%20Center_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach%20-%20Oak%20Park%20Surgery%20Center_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17756,7 +17756,7 @@ transcription service. The reports were from surgical operations taking place at
 </details>
 ## SOS TAX
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/SOS001%20Letter%20of%20Security%20Data%20Breach_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/SOS001%20Letter%20of%20Security%20Data%20Breach_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17764,7 +17764,7 @@ We are writing to let you know about a security data breach incident that may in
 </details>
 ## Solera Holdings, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Solera%20Holdings_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Solera%20Holdings_0.pdf) | Breach 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17772,7 +17772,7 @@ TBDB
 </details>
 ## STANFORD UNIVERSITY
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/GSB%20PIF%20Notification%20Letter_20%20December%202017%20-%20jl%20signature_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/GSB%20PIF%20Notification%20Letter_20%20December%202017%20-%20jl%20signature_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17793,7 +17793,7 @@ that it is important that we notify you so that you can take steps to protect yo
 </details>
 ## SONIC Corp.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Sub%20Notice%2010-4%20FINAL_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Sub%20Notice%2010-4%20FINAL_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17805,7 +17805,7 @@ customers:
 </details>
 ## SRI International
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/SRI%20International%20-%20General%20Notice_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/SRI%20International%20-%20General%20Notice_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17817,7 +17817,7 @@ Access Management (IAM) Systems.
 </details>
 ## Steel Technology LLC dba Hydro Flask
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/HydroFlask%20-%20Sample%20Customer%20Notice_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/HydroFlask%20-%20Sample%20Customer%20Notice_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17826,7 +17826,7 @@ during your visit to our e-commerce website (http://www.hydroflask.com/) may hav
 </details>
 ## San Jose Evergreen Community College District
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/San%20Jose%20Evergreen%20Community%20College%20District%20Security%20Incident%20Notification%20Letter_0.PDF) | CAUSE
+[](https://oag.ca.gov/system/files/San%20Jose%20Evergreen%20Community%20College%20District%20Security%20Incident%20Notification%20Letter_0.PDF) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17838,7 +17838,7 @@ malicious attack.
 </details>
 ## San Mateo Foster City School District
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/San%20Mateo-%20%20Redacted%20Notice%20Letter%20%286114042x7AB84%29_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/San%20Mateo-%20%20Redacted%20Notice%20Letter%20%286114042x7AB84%29_0.pdf) | Device Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17846,7 +17846,7 @@ On April 6, 2016, we were informed that a thumb drive, containing certain inform
 </details>
 ## Sorrento Pacific Financial, LLC
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Sorrento%20Pacific%20Financial%20LLC%20Notice%20Letter%20Templates_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Sorrento%20Pacific%20Financial%20LLC%20Notice%20Letter%20Templates_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17861,7 +17861,7 @@ have been stolen by this individual.
 </details>
 ## Starwood Hotels & Resorts Worldwide, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/starwood-notice-materials_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/starwood-notice-materials_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17869,7 +17869,7 @@ Based on the investigation, we discovered that the point of sale systems at cert
 </details>
 ## Scottrade
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Scottrade%20California%20notice%20only%20_0_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Scottrade%20California%20notice%20only%20_0_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17879,7 +17879,7 @@ immediately initiated a comprehensive response.
 </details>
 ## Summers Estate Wines
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Summers%20Breach%20Notify%20Ltr20150611_14590190%20pdf_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Summers%20Breach%20Notify%20Ltr20150611_14590190%20pdf_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17887,7 +17887,7 @@ Our consumer direct sales systems provider, Missing Link Networks, Inc., (“Mis
 </details>
 ## Spring Mountain Vineyard
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Spring%20Mountain%20Customer%20Breach%20Notification_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Spring%20Mountain%20Customer%20Breach%20Notification_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17895,7 +17895,7 @@ Our consumer direct sales system provider, Missing Link Networks Inc.  (Missing 
 </details>
 ## Silverado Vineyards
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Silverado%20Breach%20Notification%20Letter_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Silverado%20Breach%20Notification%20Letter_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17903,7 +17903,7 @@ Our third-party ecommerce provider, Missing Link Networks, Inc.  (MLN), was the 
 </details>
 ## Signorello Estate
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Signorello_Security%20Notice_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Signorello_Security%20Notice_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17911,7 +17911,7 @@ Our consumer direct sales systems provider, Missing Link Networks, Inc., (“Mis
 </details>
 ## State Compensation Insurance Fund
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/11242014%20Notification%20Letter_AFFECTED_PROOF_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/11242014%20Notification%20Letter_AFFECTED_PROOF_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17919,7 +17919,7 @@ On October 24, 2014, we received a report from a provider State Fund uses for in
 </details>
 ## San Diego State University
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/2014-05-007%20Notice%20SDSU%20Final_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/2014-05-007%20Notice%20SDSU%20Final_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17927,7 +17927,7 @@ San Diego State University recently discovered a database containing your person
 </details>
 ## StumbleUpon, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/StumbleUpon%20Password%20Reset%20Apr%202014_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/StumbleUpon%20Password%20Reset%20Apr%202014_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17935,7 +17935,7 @@ Recently, we detected suspicious activity on your StumbleUpon account. To keep y
 </details>
 ## Standard Insurance Company
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Sample.Breach%20Notification%20letter.11.1.13_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Sample.Breach%20Notification%20letter.11.1.13_0.pdf) | User ErrorUser Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17943,7 +17943,7 @@ On October 18th, 2013, we learned that a file containing names, address, date of
 </details>
 ## Smartphone Experts
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/602490607_1_%28BHDOCS%29_0.PDF) | CAUSE
+[](https://oag.ca.gov/system/files/602490607_1_%28BHDOCS%29_0.PDF) | System Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17951,7 +17951,7 @@ On July 12, 2013, we learned that a hacker gained access into the computer syste
 </details>
 ## Sutter Health East Bay Region (Alta Bates Summit Medical Center; Sutter Delta Medical Center; Eden Medical Center)
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Patient%20Notification%20Letter_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Patient%20Notification%20Letter_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17959,7 +17959,7 @@ On May 23, 2013, the Alameda County Sheriff's office notified us that personal i
 </details>
 ## Sprechman & Associates, P.A.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/MIAMI-%23682648-v1-Sprechman-CA_AG_Sample_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/MIAMI-%23682648-v1-Sprechman-CA_AG_Sample_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17967,7 +17967,7 @@ One of our employees may have performed unauthorized searches on you. This infor
 </details>
 ## Scripps College
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Scripps_Notification_Letter_1.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Scripps_Notification_Letter_1.pdf) | Insider Threat 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17975,7 +17975,7 @@ During a review of certain processes in the Scripps College Financial Aid Office
 </details>
 ## Sacramento Area Fire Fighters, Local 522
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/120328%20Notice%20of%20Disclosure%20-%20Redacted%20Sample.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/120328%20Notice%20of%20Disclosure%20-%20Redacted%20Sample.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17984,7 +17984,7 @@ Between March 5-6, 2012, a spreadsheet containing names and contact information 
 # T
 ## Tree Top, Inc. and Northwest Naturals LLC
 <p class="hidden"></p>
-[November 10, 2020](https://oag.ca.gov/system/files/TT%20Breach%20Notice%20Template_1.pdf) | CAUSE
+[November 10, 2020](https://oag.ca.gov/system/files/TT%20Breach%20Notice%20Template_1.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -17998,7 +17998,7 @@ the Tree Top network or systems from this incident.
 </details>
 ## Total Quality Logistics, LLC
 <p class="hidden"></p>
-[October 01, 2020](https://oag.ca.gov/system/files/Data_Breach_Notification__1_Year__1.pdf) | CAUSE
+[October 01, 2020](https://oag.ca.gov/system/files/Data_Breach_Notification__1_Year__1.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18018,7 +18018,7 @@ Our review of compromised emails revealed that one email included a file which c
 </details>
 ## The Long & Foster Companies, Inc.
 <p class="hidden"></p>
-[August 22, 2020](https://oag.ca.gov/system/files/Long%20%26%20Foster%20Supplemental%20Notice%20Proof.pdf) | CAUSE
+[August 22, 2020](https://oag.ca.gov/system/files/Long%20%26%20Foster%20Supplemental%20Notice%20Proof.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18046,7 +18046,7 @@ On July 16, 2020, Blackbaud notified Trinity Health and other customers of a cyb
 Blackbaud works with many large and small nonprofits, including the Jane Goodall Institute, to support fundraising and engagement efforts. Last week, Blackbaud notified us that it was the target of a ransomware attack that involved the information of a number of its clients. As a result, the hackers obtained some personally identifying information about Blackbaud's nonprofit clients' donors and prospective donors, including those of the Jane Goodall Institute.
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/JGI%20Donor%20Notice.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/JGI%20Donor%20Notice.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18069,7 +18069,7 @@ On August 19, 2020 GEO discovered it was targeted by a ransomware attack in whic
 On June 19, 2020, The Chronicle completed our investigation of reports we received that some of our data may have become accessible online. Through the investigation, we confirmed that unauthorized parties made data for some online accounts to chronicle.com, philanthropy.com, and chroniclevitae.com accessible online. Upon learning of this, The Chronicle launched an investigation with the assistance of a leading cybersecurity firm, and law enforcement was notified. Through the investigation, The Chronicle determined that unauthorized parties had exploited a vulnerability in one of The Chronicle’s servers, through which they were able to obtain limited account information.
 </details>
 <p class="hidden"></p>
-[February 17, 2020](https://oag.ca.gov/system/files/The%20Chronicle%20CA%20Individual%20Notice.pdf) | CAUSE
+[February 17, 2020](https://oag.ca.gov/system/files/The%20Chronicle%20CA%20Individual%20Notice.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18091,7 +18091,7 @@ accounts to chronicle.com, philanthropy.com, and chroniclevitae.com.
 On July 28, 2020, TrueFire discovered certain information in its network may have been subject to unauthorized access. We immediately began an investigation, with the assistance of third-party forensic specialists, to assess the nature and scope of the incident. Our investigation determined that an unauthorized actor accessed our network and further accessed certain information stored on the network on or about February 21, 2020. We conducted a comprehensive review of information potentially impacted by this incident to determine the type of information at issue and to whom the information related. Although we are unaware of any actual or attempted misuse of information as a result of this incident, we are notifying you because your information was potentially impacted.
 </details>
 <p class="hidden"></p>
-[August 03, 2019](https://oag.ca.gov/system/files/TrueFire%20-%20Notice%20of%20Data%20Event%20-%20CA.pdf) | CAUSE
+[August 03, 2019](https://oag.ca.gov/system/files/TrueFire%20-%20Notice%20of%20Data%20Event%20-%20CA.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18117,7 +18117,7 @@ Although the investigation was unable to determine whether personal information 
 </details>
 ## Tandem Diabetes Care, Inc.
 <p class="hidden"></p>
-[January 17, 2020](https://oag.ca.gov/system/files/California%20Notice_3.pdf) | CAUSE
+[January 17, 2020](https://oag.ca.gov/system/files/California%20Notice_3.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
