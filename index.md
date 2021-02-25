@@ -17235,7 +17235,7 @@ On May 31, 2015 a District employee gained unauthorized access to the District�
 </details>
 ## SterlingBackcheck
 <p class="hidden"></p>
-[May 29, 2015](https://oag.ca.gov/system/files/Exhibit%20A_0.pdf) | CAUSE
+[May 29, 2015](https://oag.ca.gov/system/files/Exhibit%20A_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18129,7 +18129,7 @@ January 17, 2020 and January 20, 2020.
 </details>
 ## The Master's Touch, LLC
 <p class="hidden"></p>
-[October 23, 2019](https://oag.ca.gov/system/files/%23601426225v1_USA_%20-%20Notification%20Letter%20CA%20-%20TMT.pdf) | CAUSE
+[October 23, 2019](https://oag.ca.gov/system/files/%23601426225v1_USA_%20-%20Notification%20Letter%20CA%20-%20TMT.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18143,7 +18143,7 @@ been viewed. Out of an abundance of caution, we are notifying you of this incide
 </details>
 ## The UPS Store, Inc.
 <p class="hidden"></p>
-[October 11, 2019](https://oag.ca.gov/system/files/California_6%20%28notification%29.pdf) | CAUSE
+[October 11, 2019](https://oag.ca.gov/system/files/California_6%20%28notification%29.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18159,7 +18159,7 @@ information to the local store for this service. We are unaware of any misuse of
 this incident at this time.
 </details>
 <p class="hidden"></p>
-[September 29, 2019](https://oag.ca.gov/system/files/Ex_A-notice-general.pdf) | CAUSE
+[September 29, 2019](https://oag.ca.gov/system/files/Ex_A-notice-general.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18184,7 +18184,7 @@ We recently concluded our investigation into an email phishing incident that tar
 </details>
 ## The City of Los Banos, California
 <p class="hidden"></p>
-[September 23, 2019](https://oag.ca.gov/system/files/City%20of%20Los%20Banos%20-%20California%20Template%20Notification%20Letter.pdf) | CAUSE
+[September 23, 2019](https://oag.ca.gov/system/files/City%20of%20Los%20Banos%20-%20California%20Template%20Notification%20Letter.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18200,7 +18200,7 @@ is unlikely, but wanted to notify you of the incident nonetheless.
 </details>
 ## The Rodgers & Hammerstein Organization
 <p class="hidden"></p>
-[September 09, 2019](https://oag.ca.gov/system/files/R%26H%20-%20Data%20Breach%20Notification%20-%202019-10-15.PDF) | CAUSE
+[September 09, 2019](https://oag.ca.gov/system/files/R%26H%20-%20Data%20Breach%20Notification%20-%202019-10-15.PDF) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18214,7 +18214,7 @@ you this notification.
 </details>
 ## Telecare Corporation
 <p class="hidden"></p>
-[July 25, 2019](https://oag.ca.gov/system/files/Breach%20Notification%20Letter%2010_3_2019.pdf) | CAUSE
+[July 25, 2019](https://oag.ca.gov/system/files/Breach%20Notification%20Letter%2010_3_2019.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18227,7 +18227,7 @@ amount of Personal Information referenced in Telecare invoices.
 </details>
 ## Torrance Memorial Medical Center
 <p class="hidden"></p>
-[June 20, 2019](https://oag.ca.gov/system/files/Patient%20Notice%20for%20AG.pdf) | CAUSE
+[June 20, 2019](https://oag.ca.gov/system/files/Patient%20Notice%20for%20AG.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18237,7 +18237,7 @@ unauthorized people. Upon receiving this notice, Torrance Memorial took immediat
 and address the issue. 
 </details>
 <p class="hidden"></p>
-[April 18, 2017](https://oag.ca.gov/system/files/Torrance%20-%20notice%20only_0.pdf) | CAUSE
+[April 18, 2017](https://oag.ca.gov/system/files/Torrance%20-%20notice%20only_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18246,7 +18246,7 @@ which included working with third-party forensic investigators, to determine the
 </details>
 ## Title Boxing, LLC
 <p class="hidden"></p>
-[May 16, 2019](https://oag.ca.gov/system/files/8439950.PDF) | CAUSE
+[May 16, 2019](https://oag.ca.gov/system/files/8439950.PDF) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18259,15 +18259,15 @@ during the transaction. Purchases through our call center and store locations we
 </details>
 ## Treloar & Heisel, Inc.
 <p class="hidden"></p>
-[May 13, 2019](https://oag.ca.gov/system/files/Treloar%20-%20Notice%20of%20Data%20Event%20-%20CA.pdf) | CAUSE
+[May 13, 2019](https://oag.ca.gov/system/files/Treloar%20-%20Notice%20of%20Data%20Event%20-%20CA.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBDB
+In May, 2019, a Treloar employee’s laptop was stolen from their car. Treloar immediately began an investigation to confirm the security of the laptop and to determine the nature and scope of the event.  Further, Treloar immediately took steps to secure the information accessible on the laptop, including changing the employee’s password to email and other cloud-based storage systems.
 </details>
 ## The Crucible
 <p class="hidden"></p>
-[April 28, 2019](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach%20%281%29.pdf) | CAUSE
+[April 28, 2019](https://oag.ca.gov/system/files/Notice%20of%20Data%20Breach%20%281%29.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18279,7 +18279,7 @@ California Department of Justice.
 </details>
 ## The Union Labor Life Insurance Company
 <p class="hidden"></p>
-[April 04, 2019](https://oag.ca.gov/system/files/Sample%20Notification%20letter%20to%20individuals.pdf) | CAUSE
+[April 04, 2019](https://oag.ca.gov/system/files/Sample%20Notification%20letter%20to%20individuals.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18289,7 +18289,7 @@ from a trusted, external business partner that included a login to what appeared
 sharing site. The link was in fact fraudulent and allowed access to the employee’s email account. 
 </details>
 <p class="hidden"></p>
-[June 22, 2017](https://oag.ca.gov/system/files/SoCal%20Soft%20Drinks%20Notification%20Letter_0.pdf) | CAUSE
+[June 22, 2017](https://oag.ca.gov/system/files/SoCal%20Soft%20Drinks%20Notification%20Letter_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18300,7 +18300,7 @@ contacts via email which appeared to be a legitimate email from the employee. Th
 either a Dropbox or two PDF documents that have links to malicious websites.
 </details>
 <p class="hidden"></p>
-[February 17, 2014](https://oag.ca.gov/system/files/CA%20Ind%20Notification%20PII%20PHI_1.pdf) | CAUSE
+[February 17, 2014](https://oag.ca.gov/system/files/CA%20Ind%20Notification%20PII%20PHI_1.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18308,7 +18308,7 @@ The incident arose from what may be the theft of a laptop from Union Labor Life'
 </details>
 ## Trusted Tours & Attractions, LLC
 <p class="hidden"></p>
-[March 24, 2019](https://oag.ca.gov/system/files/TTA_CA_Source.pdf) | CAUSE
+[March 24, 2019](https://oag.ca.gov/system/files/TTA_CA_Source.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18320,7 +18320,7 @@ present and active on the site between March 24, 2019 and June 27, 2019.
 </details>
 ## The Guidance Center
 <p class="hidden"></p>
-[March 15, 2019](https://oag.ca.gov/system/files/The%20Guidance%20Center%20-%20Sample%20Notification%20Letter%20%28CA%29.pdf) | CAUSE
+[March 15, 2019](https://oag.ca.gov/system/files/The%20Guidance%20Center%20-%20Sample%20Notification%20Letter%20%28CA%29.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18334,7 +18334,7 @@ belonging to some current and former clients was contained within the impacted a
 </details>
 ## The Hartford Life and Accident Insurance Company
 <p class="hidden"></p>
-[February 07, 2019](https://oag.ca.gov/system/files/Cal%20AG%20Notification%20Ltr%204.12.2019_0.pdf) | CAUSE
+[February 07, 2019](https://oag.ca.gov/system/files/Cal%20AG%20Notification%20Ltr%204.12.2019_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18342,7 +18342,7 @@ Hartford Life and Accident Insurance Company (The Hartford)[provides the group l
 </details>
 ## The Georgia Institute of Technology
 <p class="hidden"></p>
-[December 14, 2018](https://oag.ca.gov/system/files/GT_Notification%20Letter_CA_0.pdf) | CAUSE
+[December 14, 2018](https://oag.ca.gov/system/files/GT_Notification%20Letter_CA_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18355,7 +18355,7 @@ its preliminary findings.
 </details>
 ## The Topps Conpany, Inc.
 <p class="hidden"></p>
-[November 19, 2018](https://oag.ca.gov/system/files/CustomerNotice%28US%29%282.2019%29_0.pdf) | CAUSE
+[November 19, 2018](https://oag.ca.gov/system/files/CustomerNotice%28US%29%282.2019%29_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18370,7 +18370,7 @@ the relevant time period.
 </details>
 ## Tribune Publishing Company
 <p class="hidden"></p>
-[November 01, 2018](https://oag.ca.gov/system/files/Tribune%202%20-%20Regulator%20Notice%20-%20CA.pdf) | CAUSE
+[November 01, 2018](https://oag.ca.gov/system/files/Tribune%202%20-%20Regulator%20Notice%20-%20CA.pdf) | Unknown
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18378,7 +18378,7 @@ TBDB
 </details>
 ## Tyler Technologies, Inc.
 <p class="hidden"></p>
-[October 08, 2018](https://oag.ca.gov/system/files/Sample%20Breach%20Notification_2.pdf) | CAUSE
+[October 08, 2018](https://oag.ca.gov/system/files/Sample%20Breach%20Notification_2.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18386,11 +18386,11 @@ We recently learned that a file containing a very limited set of usernames and p
 </details>
 ## Transamerica, including Transamerica Life Insurance Company and Transamerica Retirement Solutions, LLC
 <p class="hidden"></p>
-[August 22, 2018](https://oag.ca.gov/system/files/Individual%20Notice%20Letter_3.pdf) | CAUSE
+[August 22, 2018](https://oag.ca.gov/system/files/Individual%20Notice%20Letter_3.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-On August 22, 2018, one of our employees inadvertently sent an email with an attachment containing your some of
+On August 22, 2018, one of our employees inadvertently sent an email with an attachment containing some of
 your personal information to Transamerica clients not associated with your retirement plan. We have received written
 confirmation from all recipients that the information was deleted, and we have no evidence or other reason to believe
 that the information was misused in any way. The affected information included your name, Social Security number,
@@ -18398,7 +18398,7 @@ retirement plan name and plan number referenced above, hire date, and contributi
 
 </details>
 <p class="hidden"></p>
-[March 01, 2017](https://oag.ca.gov/system/files/Individual%20Notice%20Letter_2.pdf) | CAUSE
+[March 01, 2017](https://oag.ca.gov/system/files/Individual%20Notice%20Letter_2.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18409,7 +18409,7 @@ We found no evidence of a compromise of Transamerica’s network and systems, bu
 compromised third-party user credentials to log into Transamerica systems and access your account information. 
 </details>
 <p class="hidden"></p>
-[January 03, 2017](https://oag.ca.gov/system/files/Individual%20Notice%20Letter_0.pdf) | CAUSE
+[January 03, 2017](https://oag.ca.gov/system/files/Individual%20Notice%20Letter_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18421,7 +18421,7 @@ credentials to log into Transamerica systems and access your account information
 </details>
 ## The Crack Shack Enterprises, LLC
 <p class="hidden"></p>
-[August 19, 2018](https://oag.ca.gov/system/files/TCS%20-%20CA%20AG%20Exhibit%201-Cover%20letter%20deleted.pdf) | CAUSE
+[August 19, 2018](https://oag.ca.gov/system/files/TCS%20-%20CA%20AG%20Exhibit%201-Cover%20letter%20deleted.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18433,7 +18433,7 @@ been accessed as a result of the installation of malware on a server used to pro
 the Encinitas location. </details>
 ## Timepieces International Inc.
 <p class="hidden"></p>
-[August 15, 2018](https://oag.ca.gov/system/files/DBI%20Consumer%20Info%20Letter%20%233%20California_0.pdf) | CAUSE
+[August 15, 2018](https://oag.ca.gov/system/files/DBI%20Consumer%20Info%20Letter%20%233%20California_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18445,7 +18445,7 @@ reported the situation to authorities. The information which may have been expos
 </details>
 ## TravisMathew, LLC
 <p class="hidden"></p>
-[August 13, 2018](https://oag.ca.gov/system/files/Travis%20Mathew.CreditCard.Notification.Letter.CA__0.pdf) | CAUSE
+[August 13, 2018](https://oag.ca.gov/system/files/Travis%20Mathew.CreditCard.Notification.Letter.CA__0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18456,7 +18456,7 @@ website’s checkout page to collect certain customer information without author
 </details>
 ## Travis Credit Union
 <p class="hidden"></p>
-[July 16, 2018](https://oag.ca.gov/system/files/Notice%20of%20breach%20-%20CA%20AG_0.pdf) | CAUSE
+[July 16, 2018](https://oag.ca.gov/system/files/Notice%20of%20breach%20-%20CA%20AG_0.pdf) | Skimming
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18467,7 +18467,7 @@ protect yourself, should you feel it is appropriate to do so.
 </details>
 ## T3 Micro Inc.
 <p class="hidden"></p>
-[July 13, 2018](https://oag.ca.gov/system/files/CA%20-%20Notice%20of%20Data%20Event_0%20%28notification%29_0.pdf) | CAUSE
+[July 13, 2018](https://oag.ca.gov/system/files/CA%20-%20Notice%20of%20Data%20Event_0%20%28notification%29_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18479,7 +18479,7 @@ security of customer debit and credit cards. You can safely and securely use you
 </details>
 ## TaskRabbit, Inc.
 <p class="hidden"></p>
-[April 11, 2018](https://oag.ca.gov/system/files/Sample%20Notice_23.pdf) | CAUSE
+[April 11, 2018](https://oag.ca.gov/system/files/Sample%20Notice_23.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18488,7 +18488,7 @@ learned that some of your information may have been compromised as a result of t
 </details>
 ## The Information and Referral Federation of Los Angeles County, Inc., d/b/a 211 LA County
 <p class="hidden"></p>
-[March 14, 2018](https://oag.ca.gov/system/files/CA%20Notice_SSN%20DL_0.PDF) | CAUSE
+[March 14, 2018](https://oag.ca.gov/system/files/CA%20Notice_SSN%20DL_0.PDF) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18499,7 +18499,7 @@ the extent of the incident.
 </details>
 ## The Tax Specialists, Inc.
 <p class="hidden"></p>
-[March 01, 2018](undefined) | CAUSE
+[March 01, 2018](undefined) | Unknown
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18507,7 +18507,7 @@ TBDB
 </details>
 ## TravCorp USA, Inc. d/b/a The Travel Corporation
 <p class="hidden"></p>
-[February 26, 2018](undefined) | CAUSE
+[February 26, 2018](undefined) | Unknown
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18515,7 +18515,7 @@ TBDB
 </details>
 ## The International Mission Board
 <p class="hidden"></p>
-[February 14, 2018](https://oag.ca.gov/system/files/CA%20Letter_1.pdf) | CAUSE
+[February 14, 2018](https://oag.ca.gov/system/files/CA%20Letter_1.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18528,7 +18528,7 @@ criminal actor.
 </details>
 ## Title Nine Sports, Inc.
 <p class="hidden"></p>
-[December 28, 2017](https://oag.ca.gov/system/files/Title_Nine_Sample_CA_Individual_Notice_Letter_0.pdf) | CAUSE
+[December 28, 2017](https://oag.ca.gov/system/files/Title_Nine_Sample_CA_Individual_Notice_Letter_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18542,7 +18542,7 @@ know what occurred.
 </details>
 ## Thesy, LLC
 <p class="hidden"></p>
-[December 06, 2017](https://oag.ca.gov/system/files/THESY%20LLC%20CA%20SAMPLE%20NOTICE%20OF%20DATA%20BREACH_0.pdf) | CAUSE
+[December 06, 2017](https://oag.ca.gov/system/files/THESY%20LLC%20CA%20SAMPLE%20NOTICE%20OF%20DATA%20BREACH_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18554,7 +18554,7 @@ removed from our e-commerce platform and vulnerabilities were mitigated.
 </details>
 ## Titan Manufacturing and Distributing Inc.
 <p class="hidden"></p>
-[November 23, 2017](https://oag.ca.gov/system/files/CA%20Final%20Letter_2.pdf) | CAUSE
+[November 23, 2017](https://oag.ca.gov/system/files/CA%20Final%20Letter_2.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18563,7 +18563,7 @@ malware that could have been present from approximately November 23, 2017 until 
 </details>
 ## The Affiliated Group
 <p class="hidden"></p>
-[November 20, 2017](https://oag.ca.gov/system/files/TAG%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA_0.pdf) | CAUSE
+[November 20, 2017](https://oag.ca.gov/system/files/TAG%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18580,7 +18580,7 @@ a programmatic and manual review of the contents of the account.
 </details>
 ## Tommie Copper Inc
 <p class="hidden"></p>
-[November 10, 2017](https://oag.ca.gov/system/files/TC-%20Notice%20of%20Data%20Event-%20CA_0.pdf) | CAUSE
+[November 10, 2017](https://oag.ca.gov/system/files/TC-%20Notice%20of%20Data%20Event-%20CA_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18593,7 +18593,7 @@ website that collected certain payment information used at checkout.
 </details>
 ## The Prudential Insurance Company of America
 <p class="hidden"></p>
-[November 09, 2017](https://oag.ca.gov/system/files/Prudential%20template%20%28CA-63518%29_0.pdf) | CAUSE
+[November 09, 2017](https://oag.ca.gov/system/files/Prudential%20template%20%28CA-63518%29_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18605,7 +18605,7 @@ personal information. The client who received your information immediately repor
 the file containing your information was not viewed and was deleted without additional distribution. 
 </details>
 <p class="hidden"></p>
-[December 13, 2012](https://oag.ca.gov/system/files/03.04.2013%20Individual%20Notice%20Letter_0.PDF) | CAUSE
+[December 13, 2012](https://oag.ca.gov/system/files/03.04.2013%20Individual%20Notice%20Letter_0.PDF) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18613,7 +18613,7 @@ A Prudential associate made a clerical error and inadvertently emailed a documen
 </details>
 ## talentReef, Inc.
 <p class="hidden"></p>
-[October 16, 2017](https://oag.ca.gov/system/files/TTF%20Adult%20SSN%20and%20or%20DL%20Notice%20Template_0.pdf) | CAUSE
+[October 16, 2017](https://oag.ca.gov/system/files/TTF%20Adult%20SSN%20and%20or%20DL%20Notice%20Template_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18625,7 +18625,7 @@ determine the scope of the incident.
 </details>
 ## TradeMotion
 <p class="hidden"></p>
-[October 13, 2017](https://oag.ca.gov/system/files/TradeMotion%20Notice%20of%20Breach_0.pdf) | CAUSE
+[October 13, 2017](https://oag.ca.gov/system/files/TradeMotion%20Notice%20of%20Breach_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18639,7 +18639,7 @@ occasions between October 2017 and May 2018.
 </details>
 ## Tuskegee University
 <p class="hidden"></p>
-[September 24, 2017](https://oag.ca.gov/system/files/CA-%20Notice%20of%20Data%20Event%20Packet_0.pdf) | CAUSE
+[September 24, 2017](https://oag.ca.gov/system/files/CA-%20Notice%20of%20Data%20Event%20Packet_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18654,7 +18654,7 @@ present in the impacted email accounts.
 </details>
 ## Temp-Tations Home LLC d/b/a “Tara at Home”
 <p class="hidden"></p>
-[August 01, 2017](https://oag.ca.gov/system/files/Temp-tations%20CA%20Notification%20letter_0.pdf) | CAUSE
+[August 01, 2017](https://oag.ca.gov/system/files/Temp-tations%20CA%20Notification%20letter_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18665,7 +18665,7 @@ immediately began an investigation and took prompt action to address and stop th
 </details>
 ## TRUEbenefits LLC
 <p class="hidden"></p>
-[May 18, 2017](https://oag.ca.gov/system/files/Adult%20CA_0.pdf) | CAUSE
+[May 18, 2017](https://oag.ca.gov/system/files/Adult%20CA_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18677,7 +18677,7 @@ that an unauthorized person had access to the employee’s email account.
 </details>
 ## Taylor-Dunn Manufacturing
 <p class="hidden"></p>
-[April 26, 2017](https://oag.ca.gov/system/files/Taylor-Dunn_CA_Notice_Sample_0.pdf) | CAUSE
+[April 26, 2017](https://oag.ca.gov/system/files/Taylor-Dunn_CA_Notice_Sample_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18689,7 +18689,7 @@ customer care or dealer center may have been accessed.
 </details>
 ## Tommie Copper Inc.
 <p class="hidden"></p>
-[April 25, 2017](https://oag.ca.gov/system/files/Tommie%20Copper%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201_0.pdf) | CAUSE
+[April 25, 2017](https://oag.ca.gov/system/files/Tommie%20Copper%20-%20Notice%20of%20Data%20Event%20-%20CA%20-%20Exhibit%201_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18702,7 +18702,7 @@ this malware from our checkout site.
 </details>
 ## The International Council of Shopping Centers
 <p class="hidden"></p>
-[March 24, 2017](https://oag.ca.gov/system/files/International%20Council%20of%20Shopping%20Centers%20Ad%20CA_0.pdf) | CAUSE
+[March 24, 2017](https://oag.ca.gov/system/files/International%20Council%20of%20Shopping%20Centers%20Ad%20CA_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18715,7 +18715,7 @@ the checkout process from March 24, 2017 to August 18, 2017.
 </details>
 ## TCM Bank, N.A. (“TCM Bank”)
 <p class="hidden"></p>
-[March 15, 2017](https://oag.ca.gov/system/files/TCM-%20CA%20Letter%20Template_0.pdf) | CAUSE
+[March 15, 2017](https://oag.ca.gov/system/files/TCM-%20CA%20Letter%20Template_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18730,7 +18730,7 @@ do to protect yourself.
 </details>
 ## Tech Rabbit LLC
 <p class="hidden"></p>
-[February 22, 2017](https://oag.ca.gov/system/files/Tech%20Rabbit%20LLC%20Sample%20Notice%20of%20Security%20Incident_1.pdf) | CAUSE
+[February 22, 2017](https://oag.ca.gov/system/files/Tech%20Rabbit%20LLC%20Sample%20Notice%20of%20Security%20Incident_1.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18743,7 +18743,7 @@ the use of malicious software in a variety of attacks that took place between Fe
 </details>
 ## The University of New Mexico Foundation
 <p class="hidden"></p>
-[February 16, 2017](https://oag.ca.gov/system/files/UNMF%20Incident%20Notices_0.pdf) | CAUSE
+[February 16, 2017](https://oag.ca.gov/system/files/UNMF%20Incident%20Notices_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18754,7 +18754,7 @@ of caution to alert you to the incident because information about you was availa
 </details>
 ## Toys "R" Us-Delaware, Inc.
 <p class="hidden"></p>
-[January 17, 2017](https://oag.ca.gov/system/files/Notice%20of%20Unauthorized%20RewardsRUs%20Access%20%28Final%20Versions%29_0.pdf) | CAUSE
+[January 17, 2017](https://oag.ca.gov/system/files/Notice%20of%20Unauthorized%20RewardsRUs%20Access%20%28Final%20Versions%29_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18766,15 +18766,31 @@ stole login names and passwords. This may be because the thieves know that users
 the same password across multiple accounts.
 </details>
 <p class="hidden"></p>
-[January 28, 2015](https://oag.ca.gov/system/files/Notifications_2.pdf) | CAUSE
+[January 28, 2015](https://oag.ca.gov/system/files/Notifications_2.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-TBDB
+Toys"R"Us has many layers of account security in place to keep
+your Rewards"R'Us account balance and other profile
+information safe. Recently, because of mechanisms in place to
+alert us to potential efforts to overcome that security, we
+identified an attempt to gain unauthorized access to a small
+percentage of Rewards"R"Us accounts from 1/28/15-1/30/15.
+We suspect this activity was due to large breaches at other
+companies (not Toys"R"Us), where user login names and
+passwords were stolen and then used for unauthorized access to
+other accounts, such as Rewards"R"Us accounts where a user
+may use the same login name and/or password. It appears that
+your Rewards"R"Us account may have been accessed during
+this time frame by individuals who may have obtained your
+account password from another source or successfully guessed
+it. Out of an abundance of caution, we are therefore treating your
+account password as compromised and taking appropriate steps
+to address that situation. 
 </details>
 ## Tatcha, LLC
 <p class="hidden"></p>
-[January 08, 2017](https://oag.ca.gov/system/files/ACID_PRINTERPROOFS_20170502_tatcha501_1_0.pdf) | CAUSE
+[January 08, 2017](https://oag.ca.gov/system/files/ACID_PRINTERPROOFS_20170502_tatcha501_1_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18786,7 +18802,7 @@ was potentially able to capture information as it was entered. Tatcha learned of
 </details>
 ## The Honest Kitchen, Inc.
 <p class="hidden"></p>
-[November 30, 2016](https://oag.ca.gov/system/files/The%20Honest%20Kitchen%20Ad%20r3prf_0.pdf) | CAUSE
+[November 30, 2016](https://oag.ca.gov/system/files/The%20Honest%20Kitchen%20Ad%20r3prf_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18798,7 +18814,7 @@ incredibly important to us. Upon discovering this attack, we took immediate acti
 </details>
 ## The Boeing Company
 <p class="hidden"></p>
-[November 21, 2016](https://oag.ca.gov/system/files/Example%20Letter_0.pdf) | CAUSE
+[November 21, 2016](https://oag.ca.gov/system/files/Example%20Letter_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18806,7 +18822,7 @@ Boeing recently discovered that a company employee sent an email containig perso
 </details>
 ## TSYS Merchant Solutions
 <p class="hidden"></p>
-[November 14, 2016](https://oag.ca.gov/system/files/TSYS%20Merchant%20Data%20Breach%20Notification_1.pdf) | CAUSE
+[November 14, 2016](https://oag.ca.gov/system/files/TSYS%20Merchant%20Data%20Breach%20Notification_1.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18816,7 +18832,7 @@ that your merchant information was accessible to this bank representative.
 </details>
 ## The California Department of Corrections and Rehabilitation
 <p class="hidden"></p>
-[October 28, 2016](https://oag.ca.gov/system/files/BREACH%20OF%20CONFIDENTIAL%20INFORMATION_1.pdf) | CAUSE
+[October 28, 2016](https://oag.ca.gov/system/files/BREACH%20OF%20CONFIDENTIAL%20INFORMATION_1.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18824,7 +18840,7 @@ On Friday, October 28, 2016, at approximately 11:00 a.m., the Confidential Alpha
 </details>
 ## The LANG Companies, Inc.
 <p class="hidden"></p>
-[September 01, 2016](https://oag.ca.gov/system/files/CA%20Notice_0.pdf) | CAUSE
+[September 01, 2016](https://oag.ca.gov/system/files/CA%20Notice_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18835,7 +18851,7 @@ with the order transmitted outside of our system.
 </details>
 ## The Roosevelt Hotel New York
 <p class="hidden"></p>
-[August 10, 2016](https://oag.ca.gov/system/files/IHR%20SABRE%20GENERAL%20NOTIFICATION%20ROOSEVELT%20PDF%20%28J2261079x7AD79%29_0.pdf) | CAUSE
+[August 10, 2016](https://oag.ca.gov/system/files/IHR%20SABRE%20GENERAL%20NOTIFICATION%20ROOSEVELT%20PDF%20%28J2261079x7AD79%29_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18849,7 +18865,7 @@ including yours, processed through Sabre’s system. We first learned of the inc
 </details>
 ## The Bicycle Casino Hotel
 <p class="hidden"></p>
-[August 10, 2016](https://oag.ca.gov/system/files/IHR%20SABRE%20GENERAL%20NOTIFICATION%20BICYCLE%20PDF%20%28J2261063x7AD79%29_0.pdf) | CAUSE
+[August 10, 2016](https://oag.ca.gov/system/files/IHR%20SABRE%20GENERAL%20NOTIFICATION%20BICYCLE%20PDF%20%28J2261063x7AD79%29_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18863,7 +18879,7 @@ including yours, processed through Sabre’s system. We first learned of the inc
 </details>
 ## The Domain Hotel
 <p class="hidden"></p>
-[August 10, 2016](https://oag.ca.gov/system/files/IHR%20SABRE%20GENERAL%20NOTIFICATION%20DOMAIN%20PDF%20%28J2261060x7AD79%29_0.pdf) | CAUSE
+[August 10, 2016](https://oag.ca.gov/system/files/IHR%20SABRE%20GENERAL%20NOTIFICATION%20DOMAIN%20PDF%20%28J2261060x7AD79%29_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18877,7 +18893,7 @@ including yours, processed through Sabre’s system. We first learned of the inc
 </details>
 ## The Sandman Santa Rosa
 <p class="hidden"></p>
-[August 10, 2016](https://oag.ca.gov/system/files/Sandman%20Notice_0.pdf) | CAUSE
+[August 10, 2016](https://oag.ca.gov/system/files/Sandman%20Notice_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18891,7 +18907,7 @@ by this incident.
 </details>
 ## Two Roads Hospitality, LLC
 <p class="hidden"></p>
-[August 10, 2016](https://oag.ca.gov/system/files/Sample%20Notice_13.pdf) | CAUSE
+[August 10, 2016](https://oag.ca.gov/system/files/Sample%20Notice_13.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18905,7 +18921,7 @@ hotel properties’ computer or network systems were affected by this incident.
 </details>
 ## Trump Hotels
 <p class="hidden"></p>
-[August 10, 2016](https://oag.ca.gov/system/files/Trump%20Hotels%20-%20Notification%20Materials_0.pdf) | CAUSE
+[August 10, 2016](https://oag.ca.gov/system/files/Trump%20Hotels%20-%20Notification%20Materials_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18917,7 +18933,7 @@ data and certain reservation information for some of our hotel reservations proc
 </details>
 ## The Topps Company, Inc.
 <p class="hidden"></p>
-[July 30, 2016](https://oag.ca.gov/system/files/Breach%28CAFormNotice%29_0.pdf) | CAUSE
+[July 30, 2016](https://oag.ca.gov/system/files/Breach%28CAFormNotice%29_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18933,7 +18949,7 @@ We use an online storage service for documents we receive from our clients. We r
 </details>
 ## Toyota Motor Credit Corporation
 <p class="hidden"></p>
-[June 28, 2016](https://oag.ca.gov/system/files/2008%20--%20CUSTOMER%20Letter%20for%20AG_0.pdf) | CAUSE
+[June 28, 2016](https://oag.ca.gov/system/files/2008%20--%20CUSTOMER%20Letter%20for%20AG_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18943,7 +18959,7 @@ discovered on June 28, 2016.
 
 </details>
 <p class="hidden"></p>
-[August 05, 2015](https://oag.ca.gov/system/files/Vendor%20Partner%20Email%20Incident%20-%20Toyota%20States%20AG_0.pdf) | CAUSE
+[August 05, 2015](https://oag.ca.gov/system/files/Vendor%20Partner%20Email%20Incident%20-%20Toyota%20States%20AG_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18952,7 +18968,7 @@ discovered on June 28, 2016.
 </details>
 ## Tribune Media
 <p class="hidden"></p>
-[April 04, 2016](https://oag.ca.gov/system/files/Pro%20Sports%20Daily%20Security%20Breach%20Response%20Letter-Final_1.pdf) | CAUSE
+[April 04, 2016](https://oag.ca.gov/system/files/Pro%20Sports%20Daily%20Security%20Breach%20Response%20Letter-Final_1.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18963,7 +18979,7 @@ may have been compromised.
 </details>
 ## The Paper Works
 <p class="hidden"></p>
-[March 30, 2016](https://oag.ca.gov/system/files/Paper%20Tree%20resubmit-%20adults%20only_0_0.pdf) | CAUSE
+[March 30, 2016](https://oag.ca.gov/system/files/Paper%20Tree%20resubmit-%20adults%20only_0_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18971,7 +18987,7 @@ We were the victim of an office break in on March 30, 2016. Among the items stol
 </details>
 ## The Whiting-Turner Contracting Company ("Whiting-Turner")
 <p class="hidden"></p>
-[March 08, 2016](https://oag.ca.gov/system/files/Whiting%20Turner%20Contracting%20NOTICE%20only%20CA%20Regulator%20Notice%20Exhibits_0_1.pdf) | CAUSE
+[March 08, 2016](https://oag.ca.gov/system/files/Whiting%20Turner%20Contracting%20NOTICE%20only%20CA%20Regulator%20Notice%20Exhibits_0_1.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18985,7 +19001,7 @@ confirmed whether any Whiting-Turner information was subject to unauthorized acc
 </details>
 ## Turner Construction Company
 <p class="hidden"></p>
-[March 02, 2016](https://oag.ca.gov/system/files/Turner%20Construction%20Ad%20r4prf_1.pdf) | CAUSE
+[March 02, 2016](https://oag.ca.gov/system/files/Turner%20Construction%20Ad%20r4prf_1.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -18995,7 +19011,7 @@ your personally identifiable information was disclosed in this email to an unaut
 </details>
 ## The Brickman Group, Ltd. LLC
 <p class="hidden"></p>
-[February 03, 2016](https://oag.ca.gov/system/files/Security%20Incident%20Notice_0.pdf) | CAUSE
+[February 03, 2016](https://oag.ca.gov/system/files/Security%20Incident%20Notice_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19008,7 +19024,7 @@ BrightView continues to actively investigate the matter.
 </details>
 ## TALX Corporation, a wholly owned subsidiary of Equifax, Inc.
 <p class="hidden"></p>
-[January 04, 2016](https://oag.ca.gov/system/files/Allegis%20-%20CA%20Templates_0.pdf) | CAUSE
+[January 04, 2016](https://oag.ca.gov/system/files/Allegis%20-%20CA%20Templates_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19022,7 +19038,7 @@ in order to reset the employees’ PINs (i.e., the password to access the online
 </details>
 ## The Neiman Marcus Group
 <p class="hidden"></p>
-[January 01, 2016](https://oag.ca.gov/system/files/Consumer%20Notification%20Letter%20_7-26-2017_0.pdf) | CAUSE
+[January 01, 2016](https://oag.ca.gov/system/files/Consumer%20Notification%20Letter%20_7-26-2017_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19035,7 +19051,7 @@ expiration date, and gift card information, including account number. They were 
 Unfortunately, your mobile app account was one of the accounts accessed by these unauthorized individuals.
 </details>
 <p class="hidden"></p>
-[December 26, 2015](https://oag.ca.gov/system/files/NMG-CA%20PCI-PII%20Notice_0.pdf) | CAUSE
+[December 26, 2015](https://oag.ca.gov/system/files/NMG-CA%20PCI-PII%20Notice_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19045,7 +19061,7 @@ of customer email addresses and passwords remains safe, and that our cyber defen
 </details>
 ## TN Marketing
 <p class="hidden"></p>
-[November 24, 2015](https://oag.ca.gov/system/files/TN%20Marketing%20Letter_0.pdf) | CAUSE
+[November 24, 2015](https://oag.ca.gov/system/files/TN%20Marketing%20Letter_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19056,7 +19072,7 @@ customers. Third party forensic investigators were retained to assist with the i
 </details>
 ## The Madison Square Garden Company
 <p class="hidden"></p>
-[November 09, 2015](https://oag.ca.gov/system/files/Regulatory%20Packet%20%28CA%29_0.PDF) | CAUSE
+[November 09, 2015](https://oag.ca.gov/system/files/Regulatory%20Packet%20%28CA%29_0.PDF) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19069,7 +19085,7 @@ security measures.
 </details>
 ## TaxSlayer
 <p class="hidden"></p>
-[October 10, 2015](https://oag.ca.gov/system/files/TaxSlayer%20CA_0.pdf) | CAUSE
+[October 10, 2015](https://oag.ca.gov/system/files/TaxSlayer%20CA_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19082,7 +19098,7 @@ TaxSlayer systems has been compromised.
 </details>
 ## T-Mobile USA, Inc.
 <p class="hidden"></p>
-[September 14, 2015](https://oag.ca.gov/system/files/TMobile-Experian%20corrected%20copy%20v_2%202015-10-02%20Multi-state%20notification%20letter%20_0_0.pdf) | CAUSE
+[September 14, 2015](https://oag.ca.gov/system/files/TMobile-Experian%20corrected%20copy%20v_2%202015-10-02%20Multi-state%20notification%20letter%20_0_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19090,7 +19106,7 @@ On September 15, 2015, we discovered that an unauthorized party accessed certain
 </details>
 ## T-Bird Restaurant Group, Inc.
 <p class="hidden"></p>
-[August 06, 2015](https://oag.ca.gov/system/files/Outback%20Notice_final_0.pdf) | CAUSE
+[August 06, 2015](https://oag.ca.gov/system/files/Outback%20Notice_final_0.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19098,7 +19114,7 @@ The incident involved a break-in at the Outback Steakhouse in Northridge, Califo
 </details>
 ## Trustmark Mutual Holding Company
 <p class="hidden"></p>
-[May 13, 2015](https://oag.ca.gov/system/files/Notice%20of%20Event_0.pdf) | CAUSE
+[May 13, 2015](https://oag.ca.gov/system/files/Notice%20of%20Event_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19106,7 +19122,7 @@ On May 13, 2014, our automated billing e-mail system generated and sent encrypte
 </details>
 ## Turley Wine Cellars
 <p class="hidden"></p>
-[April 01, 2015](https://oag.ca.gov/system/files/Turley%20Wine%20Cellars%20AG%20notification_NOTICE%20ONLY_0.pdf) | CAUSE
+[April 01, 2015](https://oag.ca.gov/system/files/Turley%20Wine%20Cellars%20AG%20notification_NOTICE%20ONLY_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19114,7 +19130,7 @@ Missing Link informed us that they experienced a breach by an unknown intruder t
 </details>
 ## Tulare County Health & Human Services Agency
 <p class="hidden"></p>
-[March 19, 2015](https://oag.ca.gov/system/files/Signed%20Notification%20Ltrs_Eng-Sp_4-1-15.pdf%20-%20Adobe%20Acrobat%20Pro_0.pdf) | CAUSE
+[March 19, 2015](https://oag.ca.gov/system/files/Signed%20Notification%20Ltrs_Eng-Sp_4-1-15.pdf%20-%20Adobe%20Acrobat%20Pro_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19122,7 +19138,7 @@ On March 19, 2015, it was discovered that an employee from HHSA emailed approxim
 </details>
 ## The Wonderful Company LLC (formerly Roll Global LLC)
 <p class="hidden"></p>
-[February 27, 2015](https://oag.ca.gov/system/files/4708_HUB%20Data%20Breach_Notice_v2%20%283%29_0.pdf) | CAUSE
+[February 27, 2015](https://oag.ca.gov/system/files/4708_HUB%20Data%20Breach_Notice_v2%20%283%29_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19138,7 +19154,7 @@ in the data associated with your claim information.
 </details>
 ## Tim McCoy & Associates (DBA NEAT Management Group)
 <p class="hidden"></p>
-[August 27, 2014](https://oag.ca.gov/system/files/TMA%20Contact%20Specific%20Sample_0.pdf) | CAUSE
+[August 27, 2014](https://oag.ca.gov/system/files/TMA%20Contact%20Specific%20Sample_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19146,7 +19162,7 @@ We are writing to inform you that a laptop belonging to one of our software prog
 </details>
 ## Trump Hotel Collection
 <p class="hidden"></p>
-[May 19, 2014](https://oag.ca.gov/system/files/Sample%20Notice_1.pdf) | CAUSE
+[May 19, 2014](https://oag.ca.gov/system/files/Sample%20Notice_1.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19154,7 +19170,7 @@ On behalf of our client, The Trump Hotel Collection (”THC”), and as a precau
 </details>
 ## Touchstone Medical Imaging, LLC
 <p class="hidden"></p>
-[May 09, 2014](https://oag.ca.gov/system/files/Touchstone_2.pdf) | CAUSE
+[May 09, 2014](https://oag.ca.gov/system/files/Touchstone_2.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19162,7 +19178,7 @@ On May 9, 2014, we became aware that a seldom-used folder containing patient bil
 </details>
 ## The Metropolitan Companies, Inc.
 <p class="hidden"></p>
-[April 21, 2014](https://oag.ca.gov/system/files/Metropolitan%20companies%20notice%20only6_18_14_1.pdf) | CAUSE
+[April 21, 2014](https://oag.ca.gov/system/files/Metropolitan%20companies%20notice%20only6_18_14_1.pdf) | Computer Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19177,7 +19193,7 @@ steps you can take to protect your information, and resources we are making avai
 </details>
 ## The UPS Store, Inc. on behalf of 51 franchised center locations
 <p class="hidden"></p>
-[January 20, 2014](https://oag.ca.gov/system/files/California%20Distribution_0.pdf) | CAUSE
+[January 20, 2014](https://oag.ca.gov/system/files/California%20Distribution_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19185,7 +19201,7 @@ The UPS Store, Inc. (“The UPS Store”), among many other U.S. retailers, rece
 </details>
 ## The Freeman Company
 <p class="hidden"></p>
-[January 20, 2014](https://oag.ca.gov/system/files/Employee%20Notification_2.4.14_all%20other_final_0.pdf) | CAUSE
+[January 20, 2014](https://oag.ca.gov/system/files/Employee%20Notification_2.4.14_all%20other_final_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19193,7 +19209,7 @@ Unfortunately, due to an unprecedented error that occurred on or around January 
 </details>
 ## Test Effects, LLC
 <p class="hidden"></p>
-[December 24, 2013](https://oag.ca.gov/system/files/Wireless%20Emporium%20Breach%20Notification%20Sample_0.pdf) | CAUSE
+[December 24, 2013](https://oag.ca.gov/system/files/Wireless%20Emporium%20Breach%20Notification%20Sample_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19201,7 +19217,7 @@ On July 1, 2014, we learned that unauthorized individuals or entities installed 
 </details>
 ## The Lifetime Healthcare Companies, including its affiliates Excellus BlueCross BlueShield, Lifetime Health Medical Group, Lifetime Benefit Solutions, Lifetime Care, The MedAmerica Companies, and Univera Healthcare
 <p class="hidden"></p>
-[December 23, 2013](https://oag.ca.gov/system/files/LifeTime%20Healthcare%20sample%20notices%209_9_15_0.pdf) | CAUSE
+[December 23, 2013](https://oag.ca.gov/system/files/LifeTime%20Healthcare%20sample%20notices%209_9_15_0.pdf) | System Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19209,7 +19225,7 @@ On August 5, 2015, we learned that cyber attackers had executed a sophisticated 
 </details>
 ## Target Corporation
 <p class="hidden"></p>
-[November 27, 2013](https://oag.ca.gov/system/files/Target%20Breach%20Notification%2012_19_2013_0.pdf) | CAUSE
+[November 27, 2013](https://oag.ca.gov/system/files/Target%20Breach%20Notification%2012_19_2013_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19217,7 +19233,7 @@ We wanted to make you aware of unauthorized access to Target payment card data. 
 </details>
 ## TechMedia Network
 <p class="hidden"></p>
-[October 04, 2013](https://oag.ca.gov/system/files/Techmedia%20Individual%20Notification_0.pdf) | CAUSE
+[October 04, 2013](https://oag.ca.gov/system/files/Techmedia%20Individual%20Notification_0.pdf) | System Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19226,7 +19242,7 @@ We wanted to make you aware of unauthorized access to Target payment card data. 
 </details>
 ## TJG, Inc. d/b/a Target Marketing
 <p class="hidden"></p>
-[May 14, 2013](https://oag.ca.gov/system/files/Target%20Marketing%20Breach%20Notice%20Letter%20Consumer_0.pdf) | CAUSE
+[May 14, 2013](https://oag.ca.gov/system/files/Target%20Marketing%20Breach%20Notice%20Letter%20Consumer_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
