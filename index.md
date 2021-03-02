@@ -19250,7 +19250,7 @@ On approximately May 14, 2013, an unauthorized third party obtained access to TJ
 </details>
 ## The Fisherman's Restaurant
 <p class="hidden"></p>
-[May 03, 2013](https://oag.ca.gov/system/files/Radiant%20Final_0.pdf) | CAUSE
+[May 03, 2013](https://oag.ca.gov/system/files/Radiant%20Final_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19258,15 +19258,15 @@ On September 23, 2013, Radiant learned that certain personal information concern
 </details>
 ## Tomren Wealth Management
 <p class="hidden"></p>
-[March 06, 2013](https://oag.ca.gov/system/files/State%20Notification%20Packet_0.PDF) | CAUSE
+[March 06, 2013](https://oag.ca.gov/system/files/State%20Notification%20Packet_0.PDF) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-We recently discovered that, between February 21 and Marcl, 6, 2013 , a server containing information about you was accessed by an unauthorized third party. 
+We recently discovered that, between February 21 and March, 6, 2013 , a server containing information about you was accessed by an unauthorized third party. 
 </details>
 ## The Finish Line, Inc.
 <p class="hidden"></p>
-[January 11, 2013](https://oag.ca.gov/system/files/2118287_0.pdf) | CAUSE
+[January 11, 2013](https://oag.ca.gov/system/files/2118287_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19274,7 +19274,7 @@ On January 11, 2013, the laptop of a Finish Line employee was stolen from the em
 </details>
 ## The J.M. Smucker Company
 <p class="hidden"></p>
-[December 23, 2012](https://oag.ca.gov/system/files/SmuckerBreachCALIFORNIA_0.pdf) | CAUSE
+[December 23, 2012](https://oag.ca.gov/system/files/SmuckerBreachCALIFORNIA_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19282,7 +19282,7 @@ We deeply regret that we are contacting you today to inform you of an incident t
 </details>
 ## Thorlo
 <p class="hidden"></p>
-[November 14, 2012](https://oag.ca.gov/system/files/State%20Notification_0.pdf) | CAUSE
+[November 14, 2012](https://oag.ca.gov/system/files/State%20Notification_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19290,7 +19290,7 @@ You may obtain a copy of your credit report or request information on how to pla
 </details>
 ## Talk Fusion
 <p class="hidden"></p>
-[October 18, 2012](https://oag.ca.gov/system/files/Talk%20Fusion%20-%20Form%20of%20consumer%20notification%2021113_0.pdf) | CAUSE
+[October 18, 2012](https://oag.ca.gov/system/files/Talk%20Fusion%20-%20Form%20of%20consumer%20notification%2021113_0.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19298,7 +19298,7 @@ On December 13, 2012, we learned that our customer databases were criminally int
 </details>
 ## The Pennsylvania State University, College of Engineering
 <p class="hidden"></p>
-[September 04, 2012](https://oag.ca.gov/system/files/Penn%20State%20NOTICE%20only%202015.05.18%20_0.pdf) | CAUSE
+[September 04, 2012](https://oag.ca.gov/system/files/Penn%20State%20NOTICE%20only%202015.05.18%20_0.pdf) | System Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19306,7 +19306,7 @@ In late November 2014, the Federal Bureau of Investigation provided a victim not
 </details>
 ## TLO, LLC
 <p class="hidden"></p>
-[August 20, 2012](https://oag.ca.gov/system/files/TLO%20Consumer%20Notice_0.pdf) | CAUSE
+[August 20, 2012](https://oag.ca.gov/system/files/TLO%20Consumer%20Notice_0.pdf) | System Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19326,15 +19326,15 @@ request, which is why we are notifying you at this time.
 </details>
 ## Transcend Capital LLC
 <p class="hidden"></p>
-[August 20, 2012](https://oag.ca.gov/system/files/Security%20Breach%20Notice%20Transcend%20Capital%202012_0.pdf) | CAUSE
+[August 20, 2012](https://oag.ca.gov/system/files/Security%20Breach%20Notice%20Transcend%20Capital%202012_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-I am writing to inform you of a data breach that affected 236 clients in your state that took place the week August 20, 2012. An unknown computer hacker breached a data a data server located in our Austin, Texas branch office. Transcend Capital takes the security of our client data extremely seriously, and as such has taken steps to mitigate any risk to clients concerning this breach of data.
+I am writing to inform you of a data breach that affected 236 clients in your state that took place the week August 20, 2012. An unknown computer hacker breached a data server located in our Austin, Texas branch office. Transcend Capital takes the security of our client data extremely seriously, and as such has taken steps to mitigate any risk to clients concerning this breach of data.
 </details>
 ## The John Stewart Company
 <p class="hidden"></p>
-[August 13, 2012](https://oag.ca.gov/system/files/AG%20Data%20Breach%20Notice%20Letter%2008%2023%2012_0.pdf) | CAUSE
+[August 13, 2012](https://oag.ca.gov/system/files/AG%20Data%20Breach%20Notice%20Letter%2008%2023%2012_0.pdf) | User Error
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19342,14 +19342,14 @@ I am writing to inform you that the John Stewart Company (“JSCo”) recently i
 </details>
 ## TD Bank, N.A.
 <p class="hidden"></p>
-[March 30, 2012](https://oag.ca.gov/system/files/Customer%20Notification_0.pdf) | CAUSE
+[March 30, 2012](https://oag.ca.gov/system/files/Customer%20Notification_0.pdf) | Files Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 Some of your personal information was included on two data backup tapes that we shipped to another one of our locations in late March 2012. The tapes have been missing since then, and we have been unable to locate them despite diligent efforts. This isolated incident has been the subject of an internal investigation by our corporate security and information security teams. We have also notified law enforcement. Your personal information included on the tapes may have included your name or address, Social Security Number, and account, debit or credit card number.
 </details>
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/MT-March%202013_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/MT-March%202013_0.pdf) | Files Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19357,7 +19357,7 @@ We want to inform you that some of your personal information was included on two
 </details>
 ## TM Acquisition LLC (d/b/a Trymedia)
 <p class="hidden"></p>
-[December 08, 2011](https://oag.ca.gov/system/files/Trymedia%20Notification%20Letter%20%28General%20Template%29%201-17-2012_0.pdf) | CAUSE
+[December 08, 2011](https://oag.ca.gov/system/files/Trymedia%20Notification%20Letter%20%28General%20Template%29%201-17-2012_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19370,7 +19370,7 @@ flowing through the ActiveStore application between November 4, 2011, and Decemb
 </details>
 ## Trident University International
 <p class="hidden"></p>
-[November 26, 2011](https://oag.ca.gov/system/files/ISN-AON-Proof21_Redacted.pdf) | CAUSE
+[November 26, 2011](https://oag.ca.gov/system/files/ISN-AON-Proof21_Redacted.pdf) | Attempt
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19378,7 +19378,7 @@ On November 29, 2011, we detected an unsuccessful attempt by an unidentified per
 </details>
 ## ThePartsBin.com (U.S. Auto Parts Network, Inc.)
 <p class="hidden"></p>
-[April 09, 2011](https://oag.ca.gov/system/files/Parts%20Bin%20Notice_0.pdf) | CAUSE
+[April 09, 2011](https://oag.ca.gov/system/files/Parts%20Bin%20Notice_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19386,11 +19386,11 @@ I am writing to let you know of a security incident occurring between April 9, 2
 </details>
 ## The Variable Annuity Life Insurance Company
 <p class="hidden"></p>
-[October 25, 2007](https://oag.ca.gov/system/files/VALIC%20Notice_0.pdf) | CAUSE
+[October 25, 2007](https://oag.ca.gov/system/files/VALIC%20Notice_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
-We wanted to let you know about a situation involving unauthorized access to your personal information. It recently came to our attention that a financial advisor formerly associate with VALIC was in procession of information relating to some of our customers including you.
+We wanted to let you know about a situation involving unauthorized access to your personal information. It recently came to our attention that a financial advisor formerly associate with VALIC was in pocession of information relating to some of our customers including you.
 </details>
 ## TBI Mortgage Company
 <p class="hidden"></p>
@@ -19402,7 +19402,7 @@ In June 2019, we began to receive customer reports relating to identity theft. A
 </details>
 ## TengoInternet, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/CA-%20Notice%20of%20Data%20Event_1.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/CA-%20Notice%20of%20Data%20Event_1.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19415,7 +19415,7 @@ attempted fraudulent misuse of consumer information resulting from this incident
 </details>
 ## Thermo Fisher Scientific Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Sample%20Letters%20to%20California%20Residents_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Sample%20Letters%20to%20California%20Residents_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19425,7 +19425,7 @@ that this group has targeted and that federal law enforcement authorities were a
 </details>
 ## TIO Networks USA, Inc. and its affiliates on behalf of billers in the attached schedules
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/TIO%20notice_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/TIO%20notice_0.pdf) | Vulnerability
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19438,7 +19438,7 @@ any way and PayPal’s customers’ data remains secure.
 </details>
 ## Tween Brands, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Tween%20Brands%20Notification%20CA1%20and%20CA2_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Tween%20Brands%20Notification%20CA1%20and%20CA2_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19449,7 +19449,7 @@ access to the server and may have used that access to connect to a database serv
 </details>
 ## The Online Traffic School
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Combined%20CA_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Combined%20CA_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19461,7 +19461,7 @@ the payment card networks.
 </details>
 ## TripAdvisor LLC
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/TA-Sample1_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/TA-Sample1_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19469,7 +19469,7 @@ We recently detected a suspicious login to your TripAdvisor account that leads u
 </details>
 ## Tarleton Medical
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Tarleton%20-%20Employee%20Notification%20Letter_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Tarleton%20-%20Employee%20Notification%20Letter_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19483,7 +19483,7 @@ personal information
 </details>
 ## Turner Broadcasting System, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Blearcher%20Report%20Consumer%20Notice%20Redacted_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Blearcher%20Report%20Consumer%20Notice%20Redacted_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
