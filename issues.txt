@@ -9,6 +9,7 @@ Database Compromise
 Device Lost
 Email Compromise
 Files Lost
+Identity Theft
 Insider Threat
 Laptop Stolen
 Malware

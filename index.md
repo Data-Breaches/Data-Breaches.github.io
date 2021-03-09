@@ -19394,7 +19394,7 @@ We wanted to let you know about a situation involving unauthorized access to you
 </details>
 ## TBI Mortgage Company
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/TBIM%20-%20CALIFORNIA%20Consumer%20Notificatoin%20Letter.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/TBIM%20-%20CALIFORNIA%20Consumer%20Notificatoin%20Letter.pdf) | Identity Theft
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19491,7 +19491,7 @@ On November 12, 2016, we became aware that an unauthorized party gained access t
 </details>
 ## TuneCore
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/TuneCore_Customer_Letter_Template_SSN_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/TuneCore_Customer_Letter_Template_SSN_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19499,7 +19499,7 @@ TuneCore recently discovered suspicious activity on its servers, including the i
 </details>
 ## The Painted Turtle
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Painted%20Turtle_Campers%20Notification%20Letter_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Painted%20Turtle_Campers%20Notification%20Letter_0.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19507,7 +19507,7 @@ The incident involved an error in the database supporting The Painted Turtle’s
 </details>
 ## The Home Depot, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Home%20Depot%20Data%20Breach%20NOTICE.%20pdf_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Home%20Depot%20Data%20Breach%20NOTICE.%20pdf_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19515,7 +19515,7 @@ We have been informed that three HR associates have been arrested on allegations
 </details>
 ## The Coca-Cola Company
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Coca%20Cola%20Ad%20non%20MA%20r1prf-1%20copy_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Coca%20Cola%20Ad%20non%20MA%20r1prf-1%20copy_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19523,7 +19523,7 @@ On behalf of The Coca-Cola Company, I am writing to inform you about a recent in
 </details>
 ## T-Mobile US
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Customer%20Notice_Final_Generic%20version_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Customer%20Notice_Final_Generic%20version_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19540,7 +19540,7 @@ This cyber-attack involved the unauthorized access of an email account of an ind
 </details>
 ## Ultra Clean Holdings, Inc.
 <p class="hidden"></p>
-[August 03, 2020](https://oag.ca.gov/system/files/Sample%20Notice_34.pdf) | CAUSE
+[August 03, 2020](https://oag.ca.gov/system/files/Sample%20Notice_34.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19558,7 +19558,7 @@ On July 30, 2020, a computer server containing your information was physically s
 </details>
 ## U.S. Bank, N.A.
 <p class="hidden"></p>
-[July 30, 2020](https://oag.ca.gov/system/files/Customer%20Notification%20Letter%20-%20Credit%20Monitoring%20-%20Batch%2013.pdf) | CAUSE
+[July 30, 2020](https://oag.ca.gov/system/files/Customer%20Notification%20Letter%20-%20Credit%20Monitoring%20-%20Batch%2013.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19583,7 +19583,7 @@ On July 1st 2020, it was discovered that a former employee sent a secured file t
 On June 1, 2020, the University of California San Francisco (“UCSF”) detected a cybersecurity attack that occurred in a limited part of the UCSF School of Medicine’s IT environment. Upon detection of the intrusion, we immediately isolated the impacted environment and successfully contained the incident from the core UCSF network. While we stopped the attack as it was occurring, the attacker obtained certain files and encrypted others with ransomware. UCSF made the difficult decision to pay the attacker, and received the information we needed to decrypt the affected servers and data the attackers stole. Although we have no evidence that the personal information taken has been misused, we are notifying you because we determined that some of your personal information was impacted.
 </details>
 <p class="hidden"></p>
-[September 25, 2013](https://oag.ca.gov/system/files/Notification%20letter%20No%20SSN%20112113_0.pdf) | CAUSE
+[September 25, 2013](https://oag.ca.gov/system/files/Notification%20letter%20No%20SSN%20112113_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19617,7 +19617,7 @@ Blackbaud reported to us that they identified an attempted ransomware attack in 
 UMPhysicians identified that cyber attackers used phishing emails to fraudulently access two employee email accounts. The two phishing email attacks were identified on January 31, 2020 and February 4, 2020, shortly after they occurred. UMPhysicians took immediate steps to secure the email accounts and began working with third-party computer forensic investigators to determine the nature and scope of the incidents. The investigation indicated that an unknown actor had access to one employee email account on January 30 and January 31, 2020, and another employee email account on February 4, 2020, for a brief period of time
 </details>
 <p class="hidden"></p>
-[January 30, 2020](https://oag.ca.gov/system/files/UMPhysicians.pdf) | CAUSE
+[January 30, 2020](https://oag.ca.gov/system/files/UMPhysicians.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19639,7 +19639,7 @@ We learned that certain of our agents’ Gmail accounts were subject to unauthor
 </details>
 ## Urban One, Inc.
 <p class="hidden"></p>
-[February 28, 2019](https://oag.ca.gov/system/files/USA01-%2312602455-v1-AG_CA_Notice_-_Urban_One_0.pdf) | CAUSE
+[February 28, 2019](https://oag.ca.gov/system/files/USA01-%2312602455-v1-AG_CA_Notice_-_Urban_One_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19652,7 +19652,7 @@ have entered into a company computer. We immediately contacted law enforcement.
 </details>
 ## University of Washington Medical Center (“UWM”)
 <p class="hidden"></p>
-[December 04, 2018](https://oag.ca.gov/system/files/UWM%20CA%20notification%20letter%201_0.pdf) | CAUSE
+[December 04, 2018](https://oag.ca.gov/system/files/UWM%20CA%20notification%20letter%201_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19662,7 +19662,7 @@ that you know of this incident. We apologize for any distress this may cause you
 </details>
 ## UConn Health
 <p class="hidden"></p>
-[August 20, 2018](https://oag.ca.gov/system/files/Adult%20SSN%20X059_v04-c_0.pdf) | CAUSE
+[August 20, 2018](https://oag.ca.gov/system/files/Adult%20SSN%20X059_v04-c_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19670,7 +19670,7 @@ On December 24, 2018, our investigation determined that the email accounts conta
 </details>
 ## UnityPoint Health
 <p class="hidden"></p>
-[March 14, 2018](https://oag.ca.gov/system/files/UnityPoint%20-%20Notice%20Letter%20Sample%20%287552880x7AB84%29_0.pdf) | CAUSE
+[March 14, 2018](https://oag.ca.gov/system/files/UnityPoint%20-%20Notice%20Letter%20Sample%20%287552880x7AB84%29_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19683,7 +19683,7 @@ access to patient information may have occurred, no known or attempted misuse of
 </details>
 ## USACS Management Group, Ltd.
 <p class="hidden"></p>
-[March 09, 2018](https://oag.ca.gov/system/files/letter_USACS_May%208%202018_0.pdf) | CAUSE
+[March 09, 2018](https://oag.ca.gov/system/files/letter_USACS_May%208%202018_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19691,7 +19691,7 @@ On March 9, 2018, we learned that an unauthorized third party may have accessed 
 </details>
 ## UC San Diego Health
 <p class="hidden"></p>
-[December 08, 2017](https://oag.ca.gov/system/files/ACID_PRINTERPROOFS_ACID_20180627_UCSD501_R1_1.pdf) | CAUSE
+[December 08, 2017](https://oag.ca.gov/system/files/ACID_PRINTERPROOFS_ACID_20180627_UCSD501_R1_1.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19701,7 +19701,7 @@ information. The data breach occurred between November 20, 2017 and December 9, 
 </details>
 ## Unified Trust Company, N.A.
 <p class="hidden"></p>
-[December 06, 2017](https://oag.ca.gov/system/files/UTC%20--%20Supplemental%20Notice%20Letter%20-%20CA%20-%20Sample_0.PDF) | CAUSE
+[December 06, 2017](https://oag.ca.gov/system/files/UTC%20--%20Supplemental%20Notice%20Letter%20-%20CA%20-%20Sample_0.PDF) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19714,7 +19714,7 @@ was unauthorized access to two Unified Trust email accounts between February 12,
 </details>
 ## USA Hoist Company, Inc., Mid-American Elevator Company, Inc., and Mid-American Elevator Equipment Company, Inc.
 <p class="hidden"></p>
-[October 17, 2017](https://oag.ca.gov/system/files/USA%20Hoist%20-%20Data%20Security%20Breach%20Notification%20Form_0.pdf) | CAUSE
+[October 17, 2017](https://oag.ca.gov/system/files/USA%20Hoist%20-%20Data%20Security%20Breach%20Notification%20Form_0.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19728,7 +19728,7 @@ attack, but by that time the attack had already occurred.
 </details>
 ## University of California Davis Health
 <p class="hidden"></p>
-[May 17, 2017](https://oag.ca.gov/system/files/BREACH_NOTIFICATION_SAMPLE_LETTER_AG_0.pdf) | CAUSE
+[May 17, 2017](https://oag.ca.gov/system/files/BREACH_NOTIFICATION_SAMPLE_LETTER_AG_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19736,7 +19736,7 @@ It was determined that a "phishing event" caused the compromise of this employee
 </details>
 ## Urology Austin
 <p class="hidden"></p>
-[January 22, 2017](https://oag.ca.gov/system/files/Urology%20Austin%20-notice%20only_0.pdf) | CAUSE
+[January 22, 2017](https://oag.ca.gov/system/files/Urology%20Austin%20-notice%20only_0.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19746,7 +19746,7 @@ investigation. We also began to take steps to restore the impacted data and our 
 </details>
 ## University of California Santa Cruz
 <p class="hidden"></p>
-[January 13, 2017](https://oag.ca.gov/system/files/UCSC_Notification_Letter_2017-01_0.pdf) | CAUSE
+[January 13, 2017](https://oag.ca.gov/system/files/UCSC_Notification_Letter_2017-01_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19757,7 +19757,7 @@ narrative evaluations. There is no indication that the student information was t
 </details>
 ## U-Haul Co. of California
 <p class="hidden"></p>
-[January 10, 2017](https://oag.ca.gov/system/files/CA.UHaulNotification-withcard.12.11.2017_0.pdf) | CAUSE
+[January 10, 2017](https://oag.ca.gov/system/files/CA.UHaulNotification-withcard.12.11.2017_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19771,7 +19771,7 @@ accessed other rental information.
 </details>
 ## Universal Care DBA Brand New Day
 <p class="hidden"></p>
-[December 22, 2016](https://oag.ca.gov/system/files/Notice%20to%20Members_BND_0.pdf) | CAUSE
+[December 22, 2016](https://oag.ca.gov/system/files/Notice%20to%20Members_BND_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19782,14 +19782,14 @@ event on December 28, 2016 that occurred on December 22, 2016.
 </details>
 ## Uber Technologies, Inc.
 <p class="hidden"></p>
-[October 13, 2016](https://oag.ca.gov/system/files/Sample%20Notice_0.PDF) | CAUSE
+[October 13, 2016](https://oag.ca.gov/system/files/Sample%20Notice_0.PDF) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 In November 2016, Uber learned that unauthorized actors obtained access to a private cloud storage environment used by Uber. They accessed stored copies of Uber databases and files. To the best of our knowledge, the unauthorized access began on October 13, 2016 and ended no later than November 15, 2016.
 </details>
 <p class="hidden"></p>
-[May 13, 2014](https://oag.ca.gov/system/files/Uber%206_16%20updated%20%20DL%20Only%20%281%29_0.pdf) | CAUSE
+[May 13, 2014](https://oag.ca.gov/system/files/Uber%206_16%20updated%20%20DL%20Only%20%281%29_0.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19800,7 +19800,7 @@ by a third party, on May 13, 2014.
 </details>
 ## University of Connecticut
 <p class="hidden"></p>
-[September 24, 2016](https://oag.ca.gov/system/files/Sample%20Notif%20Ltr%201_0.pdf) | CAUSE
+[September 24, 2016](https://oag.ca.gov/system/files/Sample%20Notif%20Ltr%201_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19808,7 +19808,7 @@ We are writing to inform you of a data security-related incident that may have i
 </details>
 ## UC San Diego School of Medicine
 <p class="hidden"></p>
-[August 03, 2016](https://oag.ca.gov/system/files/Final%20GME%20Notice%20Letter_0.pdf) | CAUSE
+[August 03, 2016](https://oag.ca.gov/system/files/Final%20GME%20Notice%20Letter_0.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19817,7 +19817,7 @@ aware of an electronic file that was accessible on the internet containing the p
 </details>
 ## USC Keck and Norris Hospitals
 <p class="hidden"></p>
-[August 01, 2016](https://oag.ca.gov/system/files/NOTICE%20%5BFINAL%5D_0.pdf) | CAUSE
+[August 01, 2016](https://oag.ca.gov/system/files/NOTICE%20%5BFINAL%5D_0.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19826,7 +19826,7 @@ This type of malware attack encrypted files on both servers, which made the file
 </details>
 ## UFCW Local 655 Food Employers Joint Pension
 <p class="hidden"></p>
-[July 14, 2016](https://oag.ca.gov/system/files/UFCW%20Local%20655%20Food%20Employers%20notice%20only%20pdf_0.pdf) | CAUSE
+[July 14, 2016](https://oag.ca.gov/system/files/UFCW%20Local%20655%20Food%20Employers%20notice%20only%20pdf_0.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19834,7 +19834,7 @@ On or around July 21, 2016, UFCW Local 655 Food Employers Joint Pension Plan was
 </details>
 ## U Gym, LLC
 <p class="hidden"></p>
-[April 04, 2016](https://oag.ca.gov/system/files/Data%20Breach%20Notice%20California%20Form_0.pdf) | CAUSE
+[April 04, 2016](https://oag.ca.gov/system/files/Data%20Breach%20Notice%20California%20Form_0.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19845,7 +19845,7 @@ corporate office in Santa Ana, California.
 </details>
 ## Ursus Holdings, LLC
 <p class="hidden"></p>
-[March 21, 2016](https://oag.ca.gov/system/files/California%20Notification%20Proof_1.pdf) | CAUSE
+[March 21, 2016](https://oag.ca.gov/system/files/California%20Notification%20Proof_1.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19858,7 +19858,7 @@ Three other employees are believed to have received the same email attachment an
 </details>
 ## University of Central Florida
 <p class="hidden"></p>
-[December 30, 2015](https://oag.ca.gov/system/files/Student%20Adult%20CA%20Notice_0.pdf) | CAUSE
+[December 30, 2015](https://oag.ca.gov/system/files/Student%20Adult%20CA%20Notice_0.pdf) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19869,7 +19869,7 @@ to provide you with guidance on how you can protect yourself.
 </details>
 ## University of California, Berkeley (The Regents of the University of California)
 <p class="hidden"></p>
-[December 28, 2015](https://oag.ca.gov/system/files/UCB-2016-02-26-CA-SampleNotice-SSN-Bank-AG_0.pdf) | CAUSE
+[December 28, 2015](https://oag.ca.gov/system/files/UCB-2016-02-26-CA-SampleNotice-SSN-Bank-AG_0.pdf) | Vulnerability
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19879,7 +19879,7 @@ process of patching. Law enforcement, including the FBI, has been notified.
 </details>
 ## University of California at Los Angeles
 <p class="hidden"></p>
-[July 03, 2015](https://oag.ca.gov/system/files/Final%20IDExperts%20letter_0.pdf) | CAUSE
+[July 03, 2015](https://oag.ca.gov/system/files/Final%20IDExperts%20letter_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19887,7 +19887,7 @@ On July 3, 2015, a laptop computer belonging to a UCLA Health faculty member was
 </details>
 ## U.S. HealthWorks
 <p class="hidden"></p>
-[April 22, 2015](https://oag.ca.gov/system/files/USHW%20Letter_0.PDF) | CAUSE
+[April 22, 2015](https://oag.ca.gov/system/files/USHW%20Letter_0.PDF) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19895,7 +19895,7 @@ On April 22. 2015, we learned that a laptop issued to one of our employees had b
 </details>
 ## University of California, Riverside
 <p class="hidden"></p>
-[March 13, 2015](https://oag.ca.gov/system/files/UCR%20Graduate%20Division%20Computer%20Theft%20Notification%20Draft%20Memo%20March%202015%20FINAL_0.pdf) | CAUSE
+[March 13, 2015](https://oag.ca.gov/system/files/UCR%20Graduate%20Division%20Computer%20Theft%20Notification%20Draft%20Memo%20March%202015%20FINAL_0.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19903,14 +19903,14 @@ On Friday, March 13, 2015 University of California, Riverside (UCR) officials we
 </details>
 ## University of California, Berkeley
 <p class="hidden"></p>
-[December 21, 2014](https://oag.ca.gov/system/files/UCB%2004-30-15%20Breach%20Notice%20Sample_0.pdf) | CAUSE
+[December 21, 2014](https://oag.ca.gov/system/files/UCB%2004-30-15%20Breach%20Notice%20Sample_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 The data breach involved unauthorized access to a University web server maintained by a unit within the UC Berkeley Division of Equity & Inclusion. The server was used to store information, including family financial information, submitted by students.
 </details>
 <p class="hidden"></p>
-[September 16, 2014](https://oag.ca.gov/system/files/UCB%2012-12-14%20Breach%20Notice_0.pdf) | CAUSE
+[September 16, 2014](https://oag.ca.gov/system/files/UCB%2012-12-14%20Breach%20Notice_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19918,14 +19918,14 @@ The data breach involved unauthorized access to servers used to support a number
 </details>
 ## University of California Davis Medical Center
 <p class="hidden"></p>
-[September 25, 2014](https://oag.ca.gov/system/files/Patient%20Template%2014-503c_0.pdf) | CAUSE
+[September 25, 2014](https://oag.ca.gov/system/files/Patient%20Template%2014-503c_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
 On September 26, 2014, a member of our Information Technology (IT) team detected abnormal activity in the email account of one of our providers. Upon further investigation, it was determined that the provider’s email was compromised by an unknown source. This resulted in the unauthorized use and potential impermissible access of the email account. 
 </details>
 <p class="hidden"></p>
-[December 13, 2013](https://oag.ca.gov/system/files/Patient%20Notification%20Letter%2014-008e_0.pdf) | CAUSE
+[December 13, 2013](https://oag.ca.gov/system/files/Patient%20Notification%20Letter%2014-008e_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19933,7 +19933,7 @@ We recently learned that one of our medical provider’s email accounts was impa
 </details>
 ## UCLA Health
 <p class="hidden"></p>
-[September 21, 2014](https://oag.ca.gov/system/files/UCLA%20Health%20Individual%20Notice%20Letter_0.PDF) | CAUSE
+[September 21, 2014](https://oag.ca.gov/system/files/UCLA%20Health%20Individual%20Notice%20Letter_0.PDF) | Network Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19941,7 +19941,7 @@ On May 5, 2015, we determined that the attacker had accessed parts of the UCLA H
 </details>
 ## University of California, Washington Center (UCDC)
 <p class="hidden"></p>
-[June 07, 2014](https://oag.ca.gov/system/files/UC%20Washington%20DC%206_20_14%20_1.pdf) | CAUSE
+[June 07, 2014](https://oag.ca.gov/system/files/UC%20Washington%20DC%206_20_14%20_1.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19949,7 +19949,7 @@ On June 8th, 2014, UCDC received notification of unsolicited emails being sent t
 </details>
 ## University of California Irvine
 <p class="hidden"></p>
-[February 14, 2014](https://oag.ca.gov/system/files/UCIrvine%20Notice%20Letter%20Sample_0.pdf) | CAUSE
+[February 14, 2014](https://oag.ca.gov/system/files/UCIrvine%20Notice%20Letter%20Sample_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19957,7 +19957,7 @@ On March 26, 2014, the California Information Security Office (http://www.cio.ca
 </details>
 ## UCSF Family Medicine Center at Lakeshore
 <p class="hidden"></p>
-[January 11, 2014](https://oag.ca.gov/system/files/Sample%20Notification%20Letter%20no%20SSN_0.pdf) | CAUSE
+[January 11, 2014](https://oag.ca.gov/system/files/Sample%20Notification%20Letter%20no%20SSN_0.pdf) | Computer Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19965,7 +19965,7 @@ We are writing to inform you of an incident involving some of your health inform
 </details>
 ## University of California Santa Barbara
 <p class="hidden"></p>
-[November 01, 2013](https://oag.ca.gov/system/files/UCSB%20Notice_0.pdf) | CAUSE
+[November 01, 2013](https://oag.ca.gov/system/files/UCSB%20Notice_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19973,7 +19973,7 @@ Our investigation recently identified unauthorized access to some archival payro
 </details>
 ## USI Insurance Services LLC
 <p class="hidden"></p>
-[October 02, 2013](https://oag.ca.gov/system/files/Sample%201_0.pdf) | CAUSE
+[October 02, 2013](https://oag.ca.gov/system/files/Sample%201_0.pdf) | Malware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19981,7 +19981,7 @@ I am writing to you on behalf of Company about a potential security incident. We
 </details>
 ## Unique Vintage
 <p class="hidden"></p>
-[September 18, 2013](https://oag.ca.gov/system/files/Customer%20Notification%20Letter%20%2892312rv%292_0.pdf) | CAUSE
+[September 18, 2013](https://oag.ca.gov/system/files/Customer%20Notification%20Letter%20%2892312rv%292_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19989,7 +19989,7 @@ We are writing to you because of an incident at Unique Vintage. On September 14,
 </details>
 ## UCSF Medical Center
 <p class="hidden"></p>
-[September 09, 2013](https://oag.ca.gov/system/files/Patient%20Notification%20Letter%20Sample_0.pdf) | CAUSE
+[September 09, 2013](https://oag.ca.gov/system/files/Patient%20Notification%20Letter%20Sample_0.pdf) | Laptop Stolen
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -19997,7 +19997,7 @@ I am writing to inform you of an incident involving some of your health informat
 </details>
 ## United Shore Financial Services, LLC
 <p class="hidden"></p>
-[December 02, 2012](https://oag.ca.gov/system/files/United%20Shore%20Financial%20Services%20LLC%20Gen%20Consumer%20Notification_0.pdf) | CAUSE
+[December 02, 2012](https://oag.ca.gov/system/files/United%20Shore%20Financial%20Services%20LLC%20Gen%20Consumer%20Notification_0.pdf) | Computer Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20005,7 +20005,7 @@ I am writing to make you aware that United shore Financial Services, LLC("USFS")
 </details>
 ## Upper Skagit Indian Tribe
 <p class="hidden"></p>
-[October 26, 2012](https://oag.ca.gov/system/files/Multi-State_Skagit_1Leaf_Proofs%20%282%29.pdf%20-%20Adobe%20Acrobat%20Pro_0.pdf) | CAUSE
+[October 26, 2012](https://oag.ca.gov/system/files/Multi-State_Skagit_1Leaf_Proofs%20%282%29.pdf%20-%20Adobe%20Acrobat%20Pro_0.pdf) | Third Party
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20013,7 +20013,7 @@ I am writing to  inform you that on November 29, 2012, the Skagit Valley Casino 
 </details>
 ## Union Bank N.A.
 <p class="hidden"></p>
-[January 31, 2012](https://oag.ca.gov/system/files/UBC2905_Letter_1_Fb.pdf) | CAUSE
+[January 31, 2012](https://oag.ca.gov/system/files/UBC2905_Letter_1_Fb.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20021,7 +20021,7 @@ On February 15, 2012, Union Bank® discovered that a former contractor kept prop
 </details>
 ## UnitedHealth Group health plan single affiliated covered entity
 <p class="hidden"></p>
-[June 28, 2011](https://oag.ca.gov/system/files/Template%20Member%20Letter.pdf) | CAUSE
+[June 28, 2011](https://oag.ca.gov/system/files/Template%20Member%20Letter.pdf) | Database Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20029,7 +20029,7 @@ I am writing to let you know about a privacy issue involving some of your person
 </details>
 ## University of California Irvine Medical Center
 <p class="hidden"></p>
-[June 22, 2011](https://oag.ca.gov/system/files/Sample%20Notification%20Letter%20CA%20Notice%2006172015_0.pdf) | CAUSE
+[June 22, 2011](https://oag.ca.gov/system/files/Sample%20Notification%20Letter%20CA%20Notice%2006172015_0.pdf) | Insider Threat
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20037,7 +20037,7 @@ We are writing this letter to you because you have been a patient of UC Irvine H
 </details>
 ## Under Armour, Inc.
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/MyFitnessPal%20Notice%20and%20Website%20FAQs_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/MyFitnessPal%20Notice%20and%20Website%20FAQs_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20047,7 +20047,7 @@ accounts.
 </details>
 ## UCLA Summer Sessions & International Education Office
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/UCLA-SS%26IEO-notification-letter_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/UCLA-SS%26IEO-notification-letter_0.pdf) | Server Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20055,7 +20055,7 @@ At UCLA Summer Sessions & International Education, the confidentiality and secur
 </details>
 ## Unixiz Inc
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Notice%20of%20i-dressup_data_breach_C_1.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Notice%20of%20i-dressup_data_breach_C_1.pdf) | Computer Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20071,7 +20071,7 @@ propose further steps you should take to guard yourself against identity theft o
 </details>
 ## University of Southern California, on behalf of KUSC
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/notification%20letter%20%5BFINAL%5D_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/notification%20letter%20%5BFINAL%5D_0.pdf) | Ransomware
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20079,7 +20079,7 @@ KUSC recently learned that one of its contractors, Comnet Marketing Group ("Comn
 </details>
 ## Ullrich Delevati CPAs
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Ullrich%20Delevati%20notification%20letter_0.PDF) | CAUSE
+[](https://oag.ca.gov/system/files/Ullrich%20Delevati%20notification%20letter_0.PDF) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20092,7 +20092,7 @@ file may have been one of the files accessed.
 </details>
 ## United Airlines
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/CA%20Notification1_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/CA%20Notification1_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20100,7 +20100,7 @@ Since approximately December 9, 2014, the unauthorized party attempted to access
 </details>
 ## US Investigations Services, LLC
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Sample%20Notice_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Sample%20Notice_0.pdf) | Computer Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20108,7 +20108,7 @@ We are writing to let you know that portions of your personal information may ha
 </details>
 ## Update Legal
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/CA%20Exhibit%20A_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/CA%20Exhibit%20A_0.pdf) | Files Lost
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20116,7 +20116,7 @@ On or about September 9, 2013, Update Legal was informed by the San Francisco Po
 </details>
 ## US Airways
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/Customer%20Notification_FINAL_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/Customer%20Notification_FINAL_0.pdf) | Account Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20124,7 +20124,7 @@ We recently discovered that a small number of Dividend Miles accounts were acces
 </details>
 ## University of Southern California
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/USC%20NOTICE%20FINAL%2006.28.12_2.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/USC%20NOTICE%20FINAL%2006.28.12_2.pdf) | Breach
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20132,7 +20132,7 @@ The university recently identified a security breach affecting credit card purch
 </details>
 ## University of North Carolina at Charlotte
 <p class="hidden"></p>
-[](https://oag.ca.gov/system/files/UNCC__Consumer_Notice_0.pdf) | CAUSE
+[](https://oag.ca.gov/system/files/UNCC__Consumer_Notice_0.pdf) | Misconfiguration
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20153,7 +20153,7 @@ We do not believe that the attacker obtained information from us that would requ
 </details>
 ## VF Outdoor, LLC doing business as The North Face®
 <p class="hidden"></p>
-[October 08, 2020](https://oag.ca.gov/system/files/VF%20Outdoor%20-%20Sample%20Notice%20%28CA%29.pdf) | CAUSE
+[October 08, 2020](https://oag.ca.gov/system/files/VF%20Outdoor%20-%20Sample%20Notice%20%28CA%29.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20196,7 +20196,7 @@ On January 3, 2020, Verigent learned of a suspicious email sent from a Verigent 
 </details>
 ## Volusion LLC
 <p class="hidden"></p>
-[September 07, 2019](https://oag.ca.gov/system/files/US%20Notice%20Proof.pdf) | CAUSE
+[September 07, 2019](https://oag.ca.gov/system/files/US%20Notice%20Proof.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20204,7 +20204,7 @@ Volusion is an e-commerce platform that hosts websites for may online merchants.
 </details>
 ## VibrantCare Rehabilitation, Inc.
 <p class="hidden"></p>
-[August 20, 2019](https://oag.ca.gov/system/files/Vibrant%20Healthcare%20-%20Notice%20of%20Data%20Event.pdf) | CAUSE
+[August 20, 2019](https://oag.ca.gov/system/files/Vibrant%20Healthcare%20-%20Notice%20of%20Data%20Event.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20217,7 +20217,7 @@ the email account to determine whether sensitive information was present in the 
 </details>
 ## Verity Medical Foundation
 <p class="hidden"></p>
-[January 16, 2019](https://oag.ca.gov/system/files/VMF%20Notice%20A_0.pdf) | CAUSE
+[January 16, 2019](https://oag.ca.gov/system/files/VMF%20Notice%20A_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20229,7 +20229,7 @@ from the recipients of these emails. We have confirmed that the third party did 
 email accounts of any other VMF employee or to the VMF servers or network more generally. 
 </details>
 <p class="hidden"></p>
-[November 28, 2018](https://oag.ca.gov/system/files/VMF%20Notice%20-%20A_0.pdf) | CAUSE
+[November 28, 2018](https://oag.ca.gov/system/files/VMF%20Notice%20-%20A_0.pdf) | Email Compromise 
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20242,7 +20242,7 @@ access to the email accounts of any other VMF employee or to the VMF servers or 
 generally.
 </details>
 <p class="hidden"></p>
-[January 06, 2017](https://oag.ca.gov/system/files/Deceased%20Notice_0.pdf) | CAUSE
+[January 06, 2017](https://oag.ca.gov/system/files/Deceased%20Notice_0.pdf) | Unauthorized Access
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20250,7 +20250,7 @@ On January 6, 2017, Verity Health System learned that some of his/her personal i
 </details>
 ## Verity Health System
 <p class="hidden"></p>
-[November 27, 2018](https://oag.ca.gov/system/files/VHS%20Notice%20-%201_0.pdf) | CAUSE
+[November 27, 2018](https://oag.ca.gov/system/files/VHS%20Notice%20-%201_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20263,7 +20263,7 @@ access to the email accounts of any other Verity employee or to the VHS servers 
 generally.
 </details>
 <p class="hidden"></p>
-[April 27, 2016](https://oag.ca.gov/system/files/Verity%20Health%20System%20-%20Sample%20Notice_0.pdf) | CAUSE
+[April 27, 2016](https://oag.ca.gov/system/files/Verity%20Health%20System%20-%20Sample%20Notice_0.pdf) | Phishing
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20276,7 +20276,7 @@ have received a W-2 for 2015 was disclosed.
 </details>
 ## Volt Information Sciences, Inc.
 <p class="hidden"></p>
-[August 06, 2018](https://oag.ca.gov/system/files/Volt%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA_0.pdf) | CAUSE
+[August 06, 2018](https://oag.ca.gov/system/files/Volt%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20290,7 +20290,7 @@ affected. The investigation determined that the accounts at issue experienced un
 </details>
 ## Vitalize, LLC
 <p class="hidden"></p>
-[July 05, 2018](https://oag.ca.gov/system/files/Customer%20Notice_0.pdf) | CAUSE
+[July 05, 2018](https://oag.ca.gov/system/files/Customer%20Notice_0.pdf) | Website Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20304,7 +20304,7 @@ accessed
 </details>
 ## Veyna & Forschino
 <p class="hidden"></p>
-[November 06, 2017](https://oag.ca.gov/system/files/V%26F%20notice%20letters_0.pdf) | CAUSE
+[November 06, 2017](https://oag.ca.gov/system/files/V%26F%20notice%20letters_0.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
@@ -20313,7 +20313,7 @@ Further, we hired a specialized forensic IT firm to assist in the investigation.
 </details>
 ## Ventiv Technology, Inc.
 <p class="hidden"></p>
-[October 14, 2017](https://oag.ca.gov/system/files/Ventiv-Notice-Keenan.Provider.CA_.02.14.2018_SAS_PROOF_1.pdf) | CAUSE
+[October 14, 2017](https://oag.ca.gov/system/files/Ventiv-Notice-Keenan.Provider.CA_.02.14.2018_SAS_PROOF_1.pdf) | Email Compromise
 {: .fs-4 .fw-700 .lh-0  }
 <details>
   <summary>Abstract</summary>
